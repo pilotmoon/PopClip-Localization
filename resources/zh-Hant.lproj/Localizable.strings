@@ -148,7 +148,7 @@
 /* No comment provided by engineer. */
 "Checking…" = "正在檢查…";
 
-/* No comment provided by engineer. */
+/* icon picker option: shape is a circle */
 "Circle" = "圓形";
 
 /* No comment provided by engineer. */
@@ -331,6 +331,12 @@
 /* URL rule description */
 "Host" = "主機";
 
+/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud is not available";
+
+/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud is restricted";
+
 /* No comment provided by engineer. */
 "iCloud Sync" = "iCloud 同步";
 
@@ -495,6 +501,9 @@
 
 /* No comment provided by engineer. */
 "No extensions installed" = "尚未安裝擴充功能";
+
+/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "No iCloud account";
 
 /* No comment provided by engineer. */
 "No icons found." = "找不到圖示。";
@@ -706,7 +715,7 @@
 /* name of spelling checker feature */
 "Spelling" = "拼字檢查";
 
-/* No comment provided by engineer. */
+/* icon picker option: shape is a square */
 "Square" = "方形";
 
 /* No comment provided by engineer. */
