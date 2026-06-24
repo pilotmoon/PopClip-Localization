@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>%lu Uses Left</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@uses@</string>
+      <key>uses</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>one</key>
+        <string>zostáva %lu použitie</string>
+        <key>few</key>
+        <string>zostávajú %lu použitia</string>
+        <key>many</key>
+        <string>zostáva %lu použití</string>
+        <key>other</key>
+        <string>zostáva %lu použitia</string>
+      </dict>
+    </dict>
+    <key>%lu extensions updated</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@count@</string>
+      <key>count</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>one</key>
+        <string>%lu rozšírenie aktualizované</string>
+        <key>few</key>
+        <string>%lu rozšírenia aktualizované</string>
+        <key>many</key>
+        <string>%lu rozšírení aktualizovaných</string>
+        <key>other</key>
+        <string>%lu rozšírenia aktualizované</string>
+      </dict>
+    </dict>
+    <key>%lu updates available</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@count@</string>
+      <key>count</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>one</key>
+        <string>%lu aktualizácia k dispozícii</string>
+        <key>few</key>
+        <string>%lu aktualizácie k dispozícii</string>
+        <key>many</key>
+        <string>%lu aktualizácií k dispozícii</string>
+        <key>other</key>
+        <string>%lu aktualizácie k dispozícii</string>
+      </dict>
+    </dict>
+  </dict>
+</plist>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>%lu Uses Left</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@uses@</string>
+      <key>uses</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>one</key>
+        <string>Pozostałe użycie: %lu</string>
+        <key>few</key>
+        <string>Pozostałe użycia: %lu</string>
+        <key>many</key>
+        <string>Pozostałe użycia: %lu</string>
+        <key>other</key>
+        <string>Pozostałe użycia: %lu</string>
+      </dict>
+    </dict>
+    <key>%lu extensions updated</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@count@</string>
+      <key>count</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>one</key>
+        <string>Zaktualizowano %lu rozszerzenie</string>
+        <key>few</key>
+        <string>Zaktualizowano %lu rozszerzenia</string>
+        <key>many</key>
+        <string>Zaktualizowano %lu rozszerzeń</string>
+        <key>other</key>
+        <string>Zaktualizowano %lu rozszerzenia</string>
+      </dict>
+    </dict>
+    <key>%lu updates available</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@count@</string>
+      <key>count</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>one</key>
+        <string>%lu dostępna aktualizacja</string>
+        <key>few</key>
+        <string>%lu dostępne aktualizacje</string>
+        <key>many</key>
+        <string>%lu dostępnych aktualizacji</string>
+        <key>other</key>
+        <string>%lu dostępne aktualizacje</string>
+      </dict>
+    </dict>
+  </dict>
+</plist>

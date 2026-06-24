@@ -1,0 +1,881 @@
+/* Popup tooltip. %1$@ layout name, %2$@ action title. */
+"%1$@: %2$@" = "%1$@: %2$@";
+
+/* message shown when PopClip cannot appear automatically because it is blocked by the user's settings */
+"%@ is excluded" = "%@ er udelukket";
+
+/* message shown when PopClip cannot appear automatically in the given app due to compatibility problem. Example `Pixelmator Pro is not compatible` */
+"%@ is not compatible" = "%@ er ikke kompatibel";
+
+/* Example: 1.6 is now available (you have 1.5.2) */
+"%@ is now available (you have %@)." = "%1$@ er nu tilgængelig (du har %2$@).";
+
+/* Example: 1.6 is now available */
+"%@ is now available." = "%@ er nu tilgængelig.";
+
+/* Placeholder is app name. Example: `PopClip Update Available` */
+"%@ Update Available" = "%@ opdatering tilgængelig";
+
+/* Placeholder is app name. Example: `PopClip Update Ready` */
+"%@ Update Ready" = "%@ opdatering Klar";
+
+/* number of extensions updated; plural forms in Localizable.stringsdict */
+"%lu extensions updated" = "%lu udvidelser opdateret";
+
+/* number of updates available; plural forms in Localizable.stringsdict */
+"%lu updates available" = "%lu opdateringer tilgængelige";
+
+/* number of uses remaining in the free trial; plural forms in Localizable.stringsdict */
+"%lu Uses Left" = "%lu brug tilbage";
+
+/* click this button to get 10 more uses in the free trial */
+"+10 Uses" = "+10 brug";
+
+/* entry in selection list to indicate no selection */
+"- None -" = "- Ingen -";
+
+/* icon picker: hint that the typed text may be 1 to 3 characters */
+"1–3 characters" = "1–3 tegn";
+
+/* No comment provided by engineer. */
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "\"%@\" er ikke signeret af Pilotmoon Software. Installer kun denne udvidelse hvis du har fået den fra en kilde du stoler på.";
+
+/* No comment provided by engineer. */
+"\"%@\" Settings" = "\"%@\" indstillinger";
+
+/* No comment provided by engineer. */
+"Above Text" = "Over tekst";
+
+/* No comment provided by engineer. */
+"Accessibility access is required" = "Adgang til tilgængelighed kræves";
+
+/* No comment provided by engineer. */
+"Action" = "Handling";
+
+/* No comment provided by engineer. */
+"Action Settings" = "Handlingsindstillinger";
+
+/* Title of prefs pane for configuring actions. Translator: Please use the shortest possible term here */
+"Actions" = "Handlinger";
+
+/* No comment provided by engineer. */
+"Activation" = "Aktivering";
+
+/* Button title. Add new item to list. Actual button is '+' icon, text is for screen reader only. */
+"Add" = "Tilføj";
+
+/* icon picker: button revealing the icon adjustment controls */
+"Adjust" = "Juster";
+
+/* No comment provided by engineer. */
+"Alternate Search URL" = "Alternativ URL til søgning";
+
+/* URL rule description */
+"and subdomains" = "og underdomæner";
+
+/* Title of prefs pane for 'App' settings (about, version, license). Translator: Please use the shortest possible term here */
+"App" = "App";
+
+/* No comment provided by engineer. */
+"App Settings" = "App-indstillinger";
+
+/* No comment provided by engineer. */
+"Appear automatically" = "Vis automatisk";
+
+/* No comment provided by engineer. */
+"Appearance" = "Udseende";
+
+/* No comment provided by engineer. */
+"Apply" = "Anvend";
+
+/* No comment provided by engineer. */
+"Apps…" = "Apps…";
+
+/* No comment provided by engineer. */
+"Authorized" = "Autoriseret";
+
+/* Dark/light mode will be the same as the operating system setting */
+"Auto" = "Auto";
+
+/* Dark/light mode will be opposite to the operating system setting */
+"Auto (Inverse)" = "Auto (omvendt)";
+
+/* No comment provided by engineer. */
+"Automatic update" = "Automatisk opdatering";
+
+/* No comment provided by engineer. */
+"Automatic updates" = "Automatiske opdateringer";
+
+/* Action settings subtitle. %1$@ is the source extension name. */
+"Based on %1$@" = "Baseret på %1$@";
+
+/* No comment provided by engineer. */
+"Below Text" = "Under tekst";
+
+/* Apple system color name; use Apple's official localized name */
+"Blue" = "Blå";
+
+/* Apple system color name; use Apple's official localized name */
+"Brown" = "Brun";
+
+/* Extensions list subtitle for a built-in action */
+"Built-in" = "Indbygget";
+
+/* click button to buy the app */
+"Buy" = "Køb";
+
+/* No comment provided by engineer. */
+"Buy license key" = "Køb licensnøgle";
+
+/* as in 'by Nick Moore' */
+"by" = "af";
+
+/* icon attribution author line */
+"by %@" = "af %@";
+
+/* No comment provided by engineer. */
+"Cancel" = "Afbryd";
+
+/* 1=name of app */
+"Cannot start %1$@" = "Kan ikke starte %1$@";
+
+/* No comment provided by engineer. */
+"Capabilities" = "Funktioner";
+
+/* No comment provided by engineer. */
+"Change Icon…" = "Skift ikon…";
+
+/* No comment provided by engineer. */
+"Check for extension updates" = "Søg efter udvidelsesopdateringer";
+
+/* No comment provided by engineer. */
+"Check for updates" = "Kontroller for opdateringer";
+
+/* No comment provided by engineer. */
+"Checking for updates…" = "Søger efter opdateringer…";
+
+/* No comment provided by engineer. */
+"Checking…" = "Søger…";
+
+/* No comment provided by engineer. */
+"Circle" = "Cirkel";
+
+/* No comment provided by engineer. */
+"Clear" = "Ryd";
+
+/* No comment provided by engineer. */
+"Close" = "Luk";
+
+/* No comment provided by engineer. */
+"Color" = "Farve";
+
+/* example: Connecting to updateserver.example.com… */
+"Connecting to %@…" = "Opretter forbindelse til %@…";
+
+/* Displayed when something has been copied to the clipboard */
+"Copied" = "Kopieret";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopier";
+
+/* No comment provided by engineer. */
+"Copy PNG Image" = "Kopier PNG-billede";
+
+/* No comment provided by engineer. */
+"Copy Specifier" = "Kopier specifikator";
+
+/* No comment provided by engineer. */
+"Couldn't reach the update server (status %lu)." = "Kunne ikke nå opdateringsserveren (status %lu).";
+
+/* No comment provided by engineer. */
+"Custom" = "Brugerdefineret";
+
+/* No comment provided by engineer. */
+"Custom…" = "Brugerdefineret…";
+
+/* Apple system color name; use Apple's official localized name */
+"Cyan" = "cyanblå";
+
+/* Indicates Dark color appearance */
+"Dark" = "Mørk";
+
+/* No comment provided by engineer. */
+"Date" = "Dato";
+
+/* No comment provided by engineer. */
+"Debug Console" = "Fejlfindingskonsol";
+
+/* No comment provided by engineer. */
+"Delete" = "Slet";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "Slet mappe";
+
+/* No comment provided by engineer. */
+"Delete Separator" = "Slet separator";
+
+/* No comment provided by engineer. */
+"Developer-signed" = "Signeret af udvikler";
+
+/* name of dictionary look-up feature */
+"Dictionary" = "Ordbog";
+
+/* URL rule description */
+"Domain" = "Domæne";
+
+/* button title */
+"Don't Install" = "Installer ikke";
+
+/* No comment provided by engineer. */
+"Done" = "Udfør";
+
+/* No comment provided by engineer. */
+"Downloaded %@ of %@…" = "Downloadet %1$@ af %2$@…";
+
+/* No comment provided by engineer. */
+"Downloading update…" = "Downloader opdatering…";
+
+/* No comment provided by engineer. */
+"Duplicate" = "Dupliker";
+
+/* extension entitlement: the extension generates its actions dynamically */
+"Dynamic" = "Dynamisk";
+
+/* No comment provided by engineer. */
+"Email" = "E-mail";
+
+/* No comment provided by engineer. */
+"Enabled" = "Aktiveret";
+
+/* extension info: special permissions the extension has */
+"Entitlements" = "Rettigheder";
+
+/* No comment provided by engineer. */
+"Error decoding icon" = "Fejl ved afkodning af ikon";
+
+/* No comment provided by engineer. */
+"Error downloading icon" = "Fejl ved download af ikon";
+
+/* No comment provided by engineer. */
+"Error rendering icon" = "Fejl ved gengivelse af ikon";
+
+/* sample text */
+"Example" = "Eksempel";
+
+/* No comment provided by engineer. */
+"Exclude these apps" = "Udeluk disse apps";
+
+/* No comment provided by engineer. */
+"Exclude these websites:" = "Udeluk disse websites:";
+
+/* No comment provided by engineer. */
+"Expires: %@" = "Udløber: %@";
+
+/* No comment provided by engineer. */
+"Extension Commands" = "Udvidelseskommandoer";
+
+/* No comment provided by engineer. */
+"Extension Info" = "Udvidelsesinfo";
+
+/* No comment provided by engineer. */
+"Extension Install Error" = "Fejl ved installation af udvidelse";
+
+/* No comment provided by engineer. */
+"Extension Load Error" = "Fejl ved indlæsning af udvidelse";
+
+/* No comment provided by engineer. */
+"Extensions" = "Udvidelser";
+
+/* Extracted percentage */
+"Extracted %d%%…" = "Udpakket %d%%…";
+
+/* No comment provided by engineer. */
+"Extracting update…" = "Udpakker opdatering…";
+
+/* No comment provided by engineer. */
+"File" = "Fil";
+
+/* icon picker option: shape is filled, not outline */
+"Fill" = "Udfyld";
+
+/* No comment provided by engineer. */
+"Filter Actions" = "Filtrer handlinger";
+
+/* icon picker: flip (mirror) control */
+"Flip" = "Spejlvend";
+
+/* No comment provided by engineer. */
+"Flip Horizontal" = "Spejlvend vandret";
+
+/* No comment provided by engineer. */
+"Flip Vertical" = "Spejlvend lodret";
+
+/* No comment provided by engineer. */
+"Folder" = "Mappe";
+
+/* No comment provided by engineer. */
+"Font" = "Skrift";
+
+/* No comment provided by engineer. */
+"Forum" = "Forum";
+
+/* No comment provided by engineer. */
+"Free Trial" = "Gratis prøveperiode";
+
+/* No comment provided by engineer. */
+"Free uses left: %lu" = "Gratis anvendelser tilbage: %lu";
+
+/* Title of general settings pane. Translator: Please use the shortest possible term here */
+"General" = "Generelt";
+
+/* No comment provided by engineer. */
+"Get Extensions" = "Hent udvidelser";
+
+/* Apple system color name; use Apple's official localized name */
+"Green" = "Grøn";
+
+/* No comment provided by engineer. */
+"Guide" = "Guide";
+
+/* No comment provided by engineer. */
+"Hide Secret" = "Skjul hemmelighed";
+
+/* No comment provided by engineer. */
+"Hold Option (⌥) for alternate search." = "Hold Option (⌥) for alternativ søgning.";
+
+/* URL rule description */
+"Host" = "Vært";
+
+/* No comment provided by engineer. */
+"iCloud Sync" = "iCloud-synkronisering";
+
+/* No comment provided by engineer. */
+"Icon" = "Ikon";
+
+/* No comment provided by engineer. */
+"Icon and Text" = "Ikon og tekst";
+
+/* No comment provided by engineer. */
+"Icon error" = "Ikonfejl";
+
+/* No comment provided by engineer. */
+"Icon not found" = "Ikon ikke fundet";
+
+/* No comment provided by engineer. */
+"Icon Only" = "Kun ikon";
+
+/* No comment provided by engineer. */
+"Icon Picker" = "Ikonvælger";
+
+/* No comment provided by engineer. */
+"Icon preview" = "Forhåndsvisning af ikon";
+
+/* No comment provided by engineer. */
+"Icon search failed. Check internet connection." = "Ikonsøgning mislykkedes. Kontrollér internetforbindelsen.";
+
+/* No comment provided by engineer. */
+"Icon Specifier" = "Ikonspecifikator";
+
+/* No comment provided by engineer. */
+"Icon Specifier Help" = "Hjælp til ikonspecifikator";
+
+/* No comment provided by engineer. */
+"Icon specifier is too long." = "Ikonspecifikatoren er for lang.";
+
+/* No comment provided by engineer. */
+"Icon timed out" = "Timeout for ikon";
+
+/* extension info: the extension's bundle identifier */
+"Identifier" = "Identifikator";
+
+/* No comment provided by engineer. */
+"Include beta versions" = "Inkluder beta-versioner";
+
+/* No comment provided by engineer. */
+"Include colored icons" = "Medtag farvede ikoner";
+
+/* No comment provided by engineer. */
+"Include only these apps" = "Medtag kun disse apps";
+
+/* No comment provided by engineer. */
+"Including colored icons" = "Medtager farvede ikoner";
+
+/* Apple system color name; use Apple's official localized name */
+"Indigo" = "indigoblå";
+
+/* button title: install the named externsion */
+"Install \"%@\"" = "Installer \"%@\"";
+
+/* No comment provided by engineer. */
+"Install automatically" = "Installer automatisk";
+
+/* No comment provided by engineer. */
+"Install Update" = "Installer opdatering";
+
+/* No comment provided by engineer. */
+"Installation" = "Installation";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Installed %@" = "Installeret %@";
+
+/* No comment provided by engineer. */
+"Installing update…" = "Installerer opdatering…";
+
+/* No comment provided by engineer. */
+"Installing…" = "Installerer…";
+
+/* No comment provided by engineer. */
+"Instances" = "Forekomster";
+
+/* No comment provided by engineer. */
+"Invalid icon specifier" = "Ugyldig ikonspecifikator";
+
+/* Example: `Last checked: Just now`. Indicates a time within the last minute */
+"Just now" = "Lige nu";
+
+/* No comment provided by engineer. */
+"Keyboard shortcut" = "Tastaturgenvej";
+
+/* No comment provided by engineer. */
+"Language" = "Sprog";
+
+/* No comment provided by engineer. */
+"Languages" = "Sprog";
+
+/* No comment provided by engineer. */
+"Last checked: %@" = "Sidst tjekket: %@";
+
+/* No comment provided by engineer. */
+"Learn More…" = "Læs mere…";
+
+/* No comment provided by engineer. */
+"License Details" = "Licens detaljer";
+
+/* No comment provided by engineer. */
+"License Details…" = "Licensoplysninger…";
+
+/* No comment provided by engineer. */
+"License key not valid" = "Licensnøgle ikke gyldig";
+
+/* Indicates Light color appearance */
+"Light" = "Lys";
+
+/* No comment provided by engineer. */
+"Loading icon…" = "Indlæser ikon…";
+
+/* No comment provided by engineer. */
+"Main Menu" = "Hovedmenu";
+
+/* No comment provided by engineer. */
+"Manage Extensions…" = "Administrer udvidelser…";
+
+/* extension info: how the extension was installed (snippet, file, URL scheme, etc.) */
+"Method" = "Metode";
+
+/* No comment provided by engineer. */
+"Migrated from previous PopClip version" = "Overført fra tidligere PopClip-version";
+
+/* Apple system color name; use Apple's official localized name */
+"Mint" = "mintgrøn";
+
+/* name of missing third party app */
+"Missing App: %@" = "Manglende app: %@";
+
+/* icon picker font option */
+"Monospaced" = "Monospatieret";
+
+/* No comment provided by engineer. */
+"More (Page %lu of %lu)" = "Mere (side %1$lu af %2$lu)";
+
+/* icon picker: position offset control */
+"Move" = "Flyt";
+
+/* icon picker: horizontal position offset */
+"Move X" = "Flyt X";
+
+/* icon picker: vertical position offset */
+"Move Y" = "Flyt Y";
+
+/* No comment provided by engineer. */
+"Name" = "Navn";
+
+/* extension entitlement: the extension can access the network */
+"Network" = "Netværk";
+
+/* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
+"Never" = "Aldrig";
+
+/* No comment provided by engineer. */
+"New Folder" = "Ny mappe";
+
+/* No comment provided by engineer. */
+"New Instance" = "Ny forekomst";
+
+/* No comment provided by engineer. */
+"New Separator" = "Ny separator";
+
+/* No comment provided by engineer. */
+"No extensions installed" = "Ingen udvidelser installeret";
+
+/* No comment provided by engineer. */
+"No icons found." = "Ingen ikoner fundet.";
+
+/* No comment provided by engineer. */
+"None" = "Ingen";
+
+/* No comment provided by engineer. */
+"Not Authorized" = "Ikke autoriseret";
+
+/* No comment provided by engineer. */
+"Not Now" = "Ikke nu";
+
+/* No comment provided by engineer. */
+"Notify only" = "Underret kun";
+
+/* No comment provided by engineer. */
+"Off" = "Fra";
+
+/* No comment provided by engineer. */
+"One or more extensions could not be updated." = "En eller flere udvidelser kunne ikke opdateres.";
+
+/* name of link opening feature */
+"Open Link" = "Åben link";
+
+/* No comment provided by engineer. */
+"Open Links" = "Åben links";
+
+/* Accessibility help for a popup button that opens a submenu. */
+"Opens submenu" = "Åbner undermenu";
+
+/* Apple system color name; use Apple's official localized name */
+"Orange" = "orange";
+
+/* extension info: where the extension came from (built-in, extensions directory, etc.) */
+"Origin" = "Oprindelse";
+
+/* No comment provided by engineer. */
+"Other…" = "Andet…";
+
+/* No comment provided by engineer. */
+"Package folder" = "Pakkemappe";
+
+/* No comment provided by engineer. */
+"Permissions" = "Tilladelser";
+
+/* Apple system color name; use Apple's official localized name */
+"Pink" = "lyserød";
+
+/* No comment provided by engineer. */
+"Please close this browser tab and return to PopClip." = "Luk denne browserfane og vend tilbage til PopClip.";
+
+/* No comment provided by engineer. */
+"PopClip  Icon Picker" = "PopClip  Ikonvælger";
+
+/* No comment provided by engineer. */
+"PopClip appears automatically when you select text with the pointer or when you click and hold." = "PopClip vises automatisk, når du markerer tekst med markøren eller når du klikker og holder nede.";
+
+/* No comment provided by engineer. */
+"PopClip can't find %@ on this computer. You probably need to install it." = "PopClip kan ikke finde %@ på denne computer. Du skal installere det først.";
+
+/* No comment provided by engineer. */
+"PopClip could not load the following extensions:\n\n%@" = "PopClip kunne ikke indlæse følgende udvidelser:\n\n%@";
+
+/* No comment provided by engineer. */
+"PopClip Extensions Directory" = "PopClip-udvidelsesmappe";
+
+/* No comment provided by engineer. */
+"PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip kræver adgang til tilgængelighed for at læse teksten du markerer i andre apps og for at udføre handlinger for dig.";
+
+/* No comment provided by engineer. */
+"PopClip will check spelling in each selected language." = "PopClip kontrollerer stavemåde i hvert sprog.";
+
+/* No comment provided by engineer. */
+"Popup Item" = "Popup-element";
+
+/* No comment provided by engineer. */
+"Position" = "Placering";
+
+/* Apple system color name; use Apple's official localized name */
+"Purple" = "Lilla";
+
+/* No comment provided by engineer. */
+"Quit PopClip" = "Afslut PopClip";
+
+/* No comment provided by engineer. */
+"Recently used apps" = "Senest anvendte apps";
+
+/* Apple system color name; use Apple's official localized name */
+"Red" = "Rød";
+
+/* icon picker font option */
+"Regular" = "Almindelig";
+
+/* No comment provided by engineer. */
+"Relaunch" = "Genstart";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@ (you have %@)." = "Genstart for at bruge %1$@ (du har %2$@).";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@." = "Genstart for at bruge %@.";
+
+/* text shown above release notes */
+"Release notes:" = "Udgivelsesnoter:";
+
+/* Button title. Remove selected item from list. Actual button is '-' icon, text is for screen reader only. */
+"Remove" = "Fjern";
+
+/* No comment provided by engineer. */
+"Rename…" = "Omdøb…";
+
+/* No comment provided by engineer. */
+"Replace your search term with ***\nFor example: https://example.com/?q=***" = "Erstat dit søgeord med ***\nFor eksempel: https://example.com/?q=***";
+
+/* No comment provided by engineer. */
+"Request Accessibility Access" = "Anmod om tilgængelighedsadgang";
+
+/* No comment provided by engineer. */
+"Reset to Default Icon" = "Nulstil til standardikon";
+
+/* No comment provided by engineer. */
+"Restrict where PopClip can appear automatically." = "Begræns hvor PopClip kan vises automatisk.";
+
+/* name of 'reveal in finder' feature */
+"Reveal in Finder" = "Vis i Finder";
+
+/* icon picker: rotation control */
+"Rotate" = "Roter";
+
+/* No comment provided by engineer. */
+"Rule:" = "Regel:";
+
+/* No comment provided by engineer. */
+"Rules" = "Regler";
+
+/* icon picker: scale (size) control */
+"Scale" = "Skalér";
+
+/* name of web search feature */
+"Search" = "Søg";
+
+/* Search for icons from the 'Iconify' icon library */
+"Search Iconify" = "Søg i Iconify";
+
+/* No comment provided by engineer. */
+"Search URL" = "URL til søgning";
+
+/* No comment provided by engineer. */
+"Searching %@ open source icons." = "Søger blandt %@ open source-ikoner.";
+
+/* No comment provided by engineer. */
+"Select" = "Vælg";
+
+/* No comment provided by engineer. */
+"Separator" = "Skilletegn";
+
+/* No comment provided by engineer. */
+"Settings for \"%@\"" = "Indstillinger for \"%@\"";
+
+/* No comment provided by engineer. */
+"Settings…" = "Indstillinger…";
+
+/* icon picker: outer shape (none, square, circle) */
+"Shape" = "Form";
+
+/* No comment provided by engineer. */
+"Show \"%@\" in the actions list" = "Vis \"%@\" på handlingslisten";
+
+/* No comment provided by engineer. */
+"Show As" = "Vis som";
+
+/* No comment provided by engineer. */
+"Show in menu bar" = "Vis i menubar";
+
+/* No comment provided by engineer. */
+"Show Secret" = "Vis hemmelighed";
+
+/* No comment provided by engineer. */
+"Show Specifier" = "Vis specifikator";
+
+/* No comment provided by engineer. */
+"Sign In" = "Log ind";
+
+/* No comment provided by engineer. */
+"Sign in failed." = "Login mislykkedes.";
+
+/* No comment provided by engineer. */
+"Sign in to your %@ account." = "Log ind på din %@ konto.";
+
+/* No comment provided by engineer. */
+"Sign Out" = "Log ud";
+
+/* extension info: code-signing status */
+"Signature" = "Signatur";
+
+/* No comment provided by engineer. */
+"Signed in: %@" = "Logget ind: %@";
+
+/* No comment provided by engineer. */
+"Size" = "Størrelse";
+
+/* No comment provided by engineer. */
+"Snippet" = "Uddrag";
+
+/* No comment provided by engineer. */
+"Snippet is too long (%@ chars; max %@)" = "Snippetet er for langt (%1$@ tegn; maks. %2$@)";
+
+/* No comment provided by engineer. */
+"Software Update" = "Softwareopdatering";
+
+/* No comment provided by engineer. */
+"Sort" = "Sortér";
+
+/* No comment provided by engineer. */
+"Sort by Date" = "Sortér efter dato";
+
+/* No comment provided by engineer. */
+"Sort by Name" = "Sortér efter navn";
+
+/* name of spelling checker feature */
+"Spelling" = "Ordbog";
+
+/* No comment provided by engineer. */
+"Square" = "Firkant";
+
+/* No comment provided by engineer. */
+"Start at login" = "Start ved login";
+
+/* URL rule description */
+"Starts with" = "Starter med";
+
+/* icon picker option: diagonal 'strike' or 'slash' line drawn over icon */
+"Strike" = "Streg";
+
+/* No comment provided by engineer. */
+"Style" = "Stil";
+
+/* Apple system color name; use Apple's official localized name */
+"Teal" = "Blågrøn";
+
+/* No comment provided by engineer. */
+"Technical information:" = "Teknisk information:";
+
+/* icon picker: use typed text as the icon */
+"Text" = "Tekst";
+
+/* No comment provided by engineer. */
+"Text file" = "Tekstfil";
+
+/* No comment provided by engineer. */
+"Text Only" = "Kun tekst";
+
+/* No comment provided by engineer. */
+"The application appears to be corrupted. Please install a fresh copy." = "Programmet virker til at være korrupt. Installer venligst en frisk kopi.";
+
+/* No comment provided by engineer. */
+"This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Denne udvidelse er ikke kompatibel med denne version af PopClip. Opdater venligst til den nyeste version af PopClip.";
+
+/* No comment provided by engineer. */
+"This extension requires macOS version %@ or above." = "Denne udvidelse kræver macOS version %@ eller nyere.";
+
+/* the free trial has expired */
+"Trial Expired" = "Prøveperiode udløbet";
+
+/* No comment provided by engineer. */
+"Unavailable Action" = "Utilgængelig handling";
+
+/* No comment provided by engineer. */
+"Unknown" = "Ukendt";
+
+/* No comment provided by engineer. */
+"Unsigned" = "Usigneret";
+
+/* No comment provided by engineer. */
+"Unsigned Extension" = "Usigneret udvidelse";
+
+/* No comment provided by engineer. */
+"Up to date" = "Opdateret";
+
+/* No comment provided by engineer. */
+"Update automatically" = "Opdater automatisk";
+
+/* Extensions list subtitle when an update is available */
+"Update available" = "Opdatering tilgængelig";
+
+/* No comment provided by engineer. */
+"Update error" = "Opdateringsfejl";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Updated %@" = "Opdateret %@";
+
+/* No comment provided by engineer. */
+"Updater error" = "Opdateringsfejl";
+
+/* No comment provided by engineer. */
+"Updates" = "Opdateringer";
+
+/* No comment provided by engineer. */
+"URL scheme" = "URL-skema";
+
+/* No comment provided by engineer. */
+"Use the keyboard shortcut to trigger PopClip manually." = "Brug tastaturgenvej for at åbne PopClip manuelt.";
+
+/* No comment provided by engineer. */
+"User-generated" = "Brugergenereret";
+
+/* No comment provided by engineer. */
+"Verified" = "Verificeret";
+
+/* No comment provided by engineer. */
+"Version" = "Version";
+
+/* button to show release notes */
+"View Details…" = "Vis detaljer…";
+
+/* No comment provided by engineer. */
+"View Source" = "Vis kilde";
+
+/* No comment provided by engineer. */
+"View Web Page" = "Vis webside";
+
+/* Visit the website for the name app e.g. Visit Evernote Website */
+"Visit %@ Website" = "Besøg hjemmesiden til %@";
+
+/* No comment provided by engineer. */
+"Waiting to check for updates" = "Venter på at tjekke for opdateringer";
+
+/* No comment provided by engineer. */
+"Waiting…" = "Venter…";
+
+/* No comment provided by engineer. */
+"Web Page" = "Webside";
+
+/* No comment provided by engineer. */
+"Website Address" = "Webadresse";
+
+/* No comment provided by engineer. */
+"Websites…" = "Websteder…";
+
+/* Apple system color name; use Apple's official localized name */
+"Yellow" = "Gul";
+
+/* No comment provided by engineer. */
+"You are signed in to %@." = "Du er logget ind på %@.";
+
+/* No comment provided by engineer. */
+"You're all set! No settings to configure." = "Du er klar! Ingen indstillinger at konfigurere.";
+
+/* No comment provided by engineer. */
+"Your License" = "Din licens";
+
+/* No comment provided by engineer. */
+"Zip file" = "Zip-fil";
+
+/* No comment provided by engineer. */
+"⚠️ Authorization failed." = "⚠️ Godkendelse mislykkedes.";
+
+/* URL rule description */
+"⚠️ Invalid" = "⚠️ Ugyldig";
+
+/* No comment provided by engineer. */
+"✅ PopClip Extension \"%@\" authorized." = "✅ PopClip udvidelse \"%@\" er autoriseret.";

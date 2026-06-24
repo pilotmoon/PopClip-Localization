@@ -1,0 +1,881 @@
+/* Popup tooltip. %1$@ layout name, %2$@ action title. */
+"%1$@: %2$@" = "%1$@ — %2$@";
+
+/* message shown when PopClip cannot appear automatically because it is blocked by the user's settings */
+"%@ is excluded" = "%@ виключено";
+
+/* message shown when PopClip cannot appear automatically in the given app due to compatibility problem. Example `Pixelmator Pro is not compatible` */
+"%@ is not compatible" = "%@ несумісний";
+
+/* Example: 1.6 is now available (you have 1.5.2) */
+"%@ is now available (you have %@)." = "Доступна нова версія %1$@ (у вас %2$@).";
+
+/* Example: 1.6 is now available */
+"%@ is now available." = "Доступна нова версія %@.";
+
+/* Placeholder is app name. Example: `PopClip Update Available` */
+"%@ Update Available" = "Доступне оновлення %@";
+
+/* Placeholder is app name. Example: `PopClip Update Ready` */
+"%@ Update Ready" = "Оновлення %@ готове";
+
+/* number of extensions updated; plural forms in Localizable.stringsdict */
+"%lu extensions updated" = "Оновлено розширень: %lu";
+
+/* number of updates available; plural forms in Localizable.stringsdict */
+"%lu updates available" = "Доступно оновлень: %lu";
+
+/* number of uses remaining in the free trial; plural forms in Localizable.stringsdict */
+"%lu Uses Left" = "Лишилося використань: %lu";
+
+/* click this button to get 10 more uses in the free trial */
+"+10 Uses" = "+10 використань";
+
+/* entry in selection list to indicate no selection */
+"- None -" = "- Використань немає -";
+
+/* icon picker: hint that the typed text may be 1 to 3 characters */
+"1–3 characters" = "1–3 символи";
+
+/* No comment provided by engineer. */
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "«%@» не підписано Pilotmoon Software. Установлюйте це розширення лише в тому разі, якщо отримали його з надійного джерела.";
+
+/* No comment provided by engineer. */
+"\"%@\" Settings" = "Налаштування «%@»";
+
+/* No comment provided by engineer. */
+"Above Text" = "Над текстом";
+
+/* No comment provided by engineer. */
+"Accessibility access is required" = "Потрібен доступ до спеціальних можливостей";
+
+/* No comment provided by engineer. */
+"Action" = "Дія";
+
+/* No comment provided by engineer. */
+"Action Settings" = "Налаштування дії";
+
+/* Title of prefs pane for configuring actions. Translator: Please use the shortest possible term here */
+"Actions" = "Дії";
+
+/* No comment provided by engineer. */
+"Activation" = "Активація";
+
+/* Button title. Add new item to list. Actual button is '+' icon, text is for screen reader only. */
+"Add" = "Додати";
+
+/* icon picker: button revealing the icon adjustment controls */
+"Adjust" = "Коригувати";
+
+/* No comment provided by engineer. */
+"Alternate Search URL" = "Альтернативна URL пошуку";
+
+/* URL rule description */
+"and subdomains" = "та піддомени";
+
+/* Title of prefs pane for 'App' settings (about, version, license). Translator: Please use the shortest possible term here */
+"App" = "Додаток";
+
+/* No comment provided by engineer. */
+"App Settings" = "Налаштування застосунку";
+
+/* No comment provided by engineer. */
+"Appear automatically" = "Показувати автоматично";
+
+/* No comment provided by engineer. */
+"Appearance" = "Оформлення";
+
+/* No comment provided by engineer. */
+"Apply" = "Застосувати";
+
+/* No comment provided by engineer. */
+"Apps…" = "Застосунки…";
+
+/* No comment provided by engineer. */
+"Authorized" = "Авторизовано";
+
+/* Dark/light mode will be the same as the operating system setting */
+"Auto" = "Авто";
+
+/* Dark/light mode will be opposite to the operating system setting */
+"Auto (Inverse)" = "Авто (інверсія)";
+
+/* No comment provided by engineer. */
+"Automatic update" = "Автоматичне оновлення";
+
+/* No comment provided by engineer. */
+"Automatic updates" = "Автоматичні оновлення";
+
+/* Action settings subtitle. %1$@ is the source extension name. */
+"Based on %1$@" = "На основі %1$@";
+
+/* No comment provided by engineer. */
+"Below Text" = "Під текстом";
+
+/* Apple system color name; use Apple's official localized name */
+"Blue" = "Синій";
+
+/* Apple system color name; use Apple's official localized name */
+"Brown" = "Коричневий";
+
+/* Extensions list subtitle for a built-in action */
+"Built-in" = "Вбудоване";
+
+/* click button to buy the app */
+"Buy" = "Придбати";
+
+/* No comment provided by engineer. */
+"Buy license key" = "Купити ліцензійний ключ";
+
+/* as in 'by Nick Moore' */
+"by" = "від";
+
+/* icon attribution author line */
+"by %@" = "від %@";
+
+/* No comment provided by engineer. */
+"Cancel" = "Скасувати";
+
+/* 1=name of app */
+"Cannot start %1$@" = "Не вдалося запустити %1$@";
+
+/* No comment provided by engineer. */
+"Capabilities" = "Можливості";
+
+/* No comment provided by engineer. */
+"Change Icon…" = "Змінити іконку…";
+
+/* No comment provided by engineer. */
+"Check for extension updates" = "Перевірити оновлення розширень";
+
+/* No comment provided by engineer. */
+"Check for updates" = "Перевірити оновлення";
+
+/* No comment provided by engineer. */
+"Checking for updates…" = "Перевірка оновлень…";
+
+/* No comment provided by engineer. */
+"Checking…" = "Перевірка…";
+
+/* No comment provided by engineer. */
+"Circle" = "Коло";
+
+/* No comment provided by engineer. */
+"Clear" = "Очистити";
+
+/* No comment provided by engineer. */
+"Close" = "Закрити";
+
+/* No comment provided by engineer. */
+"Color" = "Колір";
+
+/* example: Connecting to updateserver.example.com… */
+"Connecting to %@…" = "З'єднання з %@…";
+
+/* Displayed when something has been copied to the clipboard */
+"Copied" = "Скопійовано";
+
+/* No comment provided by engineer. */
+"Copy" = "Копіювати";
+
+/* No comment provided by engineer. */
+"Copy PNG Image" = "Копіювати зображення PNG";
+
+/* No comment provided by engineer. */
+"Copy Specifier" = "Копіювати специфікатор";
+
+/* No comment provided by engineer. */
+"Couldn't reach the update server (status %lu)." = "Не вдалося зв’язатися із сервером оновлень (статус %lu).";
+
+/* No comment provided by engineer. */
+"Custom" = "Власний";
+
+/* No comment provided by engineer. */
+"Custom…" = "Власний…";
+
+/* Apple system color name; use Apple's official localized name */
+"Cyan" = "Блакитний";
+
+/* Indicates Dark color appearance */
+"Dark" = "Темний";
+
+/* No comment provided by engineer. */
+"Date" = "Дата";
+
+/* No comment provided by engineer. */
+"Debug Console" = "Консоль налагодження";
+
+/* No comment provided by engineer. */
+"Delete" = "Видалити";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "Видалити папку";
+
+/* No comment provided by engineer. */
+"Delete Separator" = "Видалити розділювач";
+
+/* No comment provided by engineer. */
+"Developer-signed" = "Підписано розробником";
+
+/* name of dictionary look-up feature */
+"Dictionary" = "Словник";
+
+/* URL rule description */
+"Domain" = "Домен";
+
+/* button title */
+"Don't Install" = "Не встановлювати";
+
+/* No comment provided by engineer. */
+"Done" = "Готово";
+
+/* No comment provided by engineer. */
+"Downloaded %@ of %@…" = "Завантажено %1$@ з %2$@…";
+
+/* No comment provided by engineer. */
+"Downloading update…" = "Завантаження оновлення…";
+
+/* No comment provided by engineer. */
+"Duplicate" = "Дублювати";
+
+/* extension entitlement: the extension generates its actions dynamically */
+"Dynamic" = "Динамічне";
+
+/* No comment provided by engineer. */
+"Email" = "Ел. пошта";
+
+/* No comment provided by engineer. */
+"Enabled" = "Увімкнено";
+
+/* extension info: special permissions the extension has */
+"Entitlements" = "Права доступу";
+
+/* No comment provided by engineer. */
+"Error decoding icon" = "Помилка декодування іконки";
+
+/* No comment provided by engineer. */
+"Error downloading icon" = "Помилка завантаження іконки";
+
+/* No comment provided by engineer. */
+"Error rendering icon" = "Помилка рендерингу іконки";
+
+/* sample text */
+"Example" = "Приклад";
+
+/* No comment provided by engineer. */
+"Exclude these apps" = "виключити ці застосунки";
+
+/* No comment provided by engineer. */
+"Exclude these websites:" = "Виключити ці вебсайти:";
+
+/* No comment provided by engineer. */
+"Expires: %@" = "Термін дії: %@";
+
+/* No comment provided by engineer. */
+"Extension Commands" = "Команди розширення";
+
+/* No comment provided by engineer. */
+"Extension Info" = "Інформація про розширення";
+
+/* No comment provided by engineer. */
+"Extension Install Error" = "Помилка встановлення розширення";
+
+/* No comment provided by engineer. */
+"Extension Load Error" = "Помилка завантаження розширення";
+
+/* No comment provided by engineer. */
+"Extensions" = "Розширення";
+
+/* Extracted percentage */
+"Extracted %d%%…" = "Розпаковано %d%…";
+
+/* No comment provided by engineer. */
+"Extracting update…" = "Розпакування оновлення…";
+
+/* No comment provided by engineer. */
+"File" = "Файл";
+
+/* icon picker option: shape is filled, not outline */
+"Fill" = "Заливка";
+
+/* No comment provided by engineer. */
+"Filter Actions" = "Фільтрувати дії";
+
+/* icon picker: flip (mirror) control */
+"Flip" = "Віддзеркалити";
+
+/* No comment provided by engineer. */
+"Flip Horizontal" = "Віддзеркалити горизонтально";
+
+/* No comment provided by engineer. */
+"Flip Vertical" = "Віддзеркалити вертикально";
+
+/* No comment provided by engineer. */
+"Folder" = "Папка";
+
+/* No comment provided by engineer. */
+"Font" = "Шрифт";
+
+/* No comment provided by engineer. */
+"Forum" = "Форум";
+
+/* No comment provided by engineer. */
+"Free Trial" = "Пробна версія";
+
+/* No comment provided by engineer. */
+"Free uses left: %lu" = "Залишилося безплатних використань: %lu";
+
+/* Title of general settings pane. Translator: Please use the shortest possible term here */
+"General" = "Загальні";
+
+/* No comment provided by engineer. */
+"Get Extensions" = "Отримати розширення";
+
+/* Apple system color name; use Apple's official localized name */
+"Green" = "Зелений";
+
+/* No comment provided by engineer. */
+"Guide" = "Довідка";
+
+/* No comment provided by engineer. */
+"Hide Secret" = "Приховати секрет";
+
+/* No comment provided by engineer. */
+"Hold Option (⌥) for alternate search." = "Утримуйте Option (⌥) для альтернативного пошуку.";
+
+/* URL rule description */
+"Host" = "Хост";
+
+/* No comment provided by engineer. */
+"iCloud Sync" = "Синхронізація iCloud";
+
+/* No comment provided by engineer. */
+"Icon" = "Іконка";
+
+/* No comment provided by engineer. */
+"Icon and Text" = "Іконка й текст";
+
+/* No comment provided by engineer. */
+"Icon error" = "Помилка іконки";
+
+/* No comment provided by engineer. */
+"Icon not found" = "Іконку не знайдено";
+
+/* No comment provided by engineer. */
+"Icon Only" = "Лише іконка";
+
+/* No comment provided by engineer. */
+"Icon Picker" = "Вибір іконок";
+
+/* No comment provided by engineer. */
+"Icon preview" = "Попередній перегляд іконки";
+
+/* No comment provided by engineer. */
+"Icon search failed. Check internet connection." = "Не вдалося знайти іконки. Перевірте підключення до інтернету.";
+
+/* No comment provided by engineer. */
+"Icon Specifier" = "Специфікатор іконки";
+
+/* No comment provided by engineer. */
+"Icon Specifier Help" = "Довідка зі специфікатора іконки";
+
+/* No comment provided by engineer. */
+"Icon specifier is too long." = "Специфікатор іконки задовгий.";
+
+/* No comment provided by engineer. */
+"Icon timed out" = "Час очікування іконки минув";
+
+/* extension info: the extension's bundle identifier */
+"Identifier" = "Ідентифікатор";
+
+/* No comment provided by engineer. */
+"Include beta versions" = "Включити бета-версії";
+
+/* No comment provided by engineer. */
+"Include colored icons" = "Додати кольорові іконки";
+
+/* No comment provided by engineer. */
+"Include only these apps" = "Включити лише ці застосунки";
+
+/* No comment provided by engineer. */
+"Including colored icons" = "Додаються кольорові іконки";
+
+/* Apple system color name; use Apple's official localized name */
+"Indigo" = "Індиго";
+
+/* button title: install the named externsion */
+"Install \"%@\"" = "Установити «%@»";
+
+/* No comment provided by engineer. */
+"Install automatically" = "Установлювати автоматично";
+
+/* No comment provided by engineer. */
+"Install Update" = "Установити оновлення";
+
+/* No comment provided by engineer. */
+"Installation" = "Установлення";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Installed %@" = "Установлено %@";
+
+/* No comment provided by engineer. */
+"Installing update…" = "Установлення оновлення…";
+
+/* No comment provided by engineer. */
+"Installing…" = "Установлення…";
+
+/* No comment provided by engineer. */
+"Instances" = "Екземпляри";
+
+/* No comment provided by engineer. */
+"Invalid icon specifier" = "Недійсний специфікатор іконки";
+
+/* Example: `Last checked: Just now`. Indicates a time within the last minute */
+"Just now" = "Щойно";
+
+/* No comment provided by engineer. */
+"Keyboard shortcut" = "Гарячі клавіші";
+
+/* No comment provided by engineer. */
+"Language" = "Мова";
+
+/* No comment provided by engineer. */
+"Languages" = "Мови";
+
+/* No comment provided by engineer. */
+"Last checked: %@" = "Остання перевірка: %@";
+
+/* No comment provided by engineer. */
+"Learn More…" = "Докладніше…";
+
+/* No comment provided by engineer. */
+"License Details" = "Деталі ліцензії";
+
+/* No comment provided by engineer. */
+"License Details…" = "Деталі ліцензії…";
+
+/* No comment provided by engineer. */
+"License key not valid" = "Ліцензійний ключ недійсний";
+
+/* Indicates Light color appearance */
+"Light" = "Світлий";
+
+/* No comment provided by engineer. */
+"Loading icon…" = "Завантаження іконки…";
+
+/* No comment provided by engineer. */
+"Main Menu" = "Головне меню";
+
+/* No comment provided by engineer. */
+"Manage Extensions…" = "Керувати розширеннями…";
+
+/* extension info: how the extension was installed (snippet, file, URL scheme, etc.) */
+"Method" = "Спосіб";
+
+/* No comment provided by engineer. */
+"Migrated from previous PopClip version" = "Перенесено з попередньої версії PopClip";
+
+/* Apple system color name; use Apple's official localized name */
+"Mint" = "М’ятний";
+
+/* name of missing third party app */
+"Missing App: %@" = "Відсутній застосунок: %@";
+
+/* icon picker font option */
+"Monospaced" = "Моноширинний";
+
+/* No comment provided by engineer. */
+"More (Page %lu of %lu)" = "Ще (сторінка %1$lu з %2$lu)";
+
+/* icon picker: position offset control */
+"Move" = "Перемістити";
+
+/* icon picker: horizontal position offset */
+"Move X" = "Зсув X";
+
+/* icon picker: vertical position offset */
+"Move Y" = "Зсув Y";
+
+/* No comment provided by engineer. */
+"Name" = "Назва";
+
+/* extension entitlement: the extension can access the network */
+"Network" = "Мережа";
+
+/* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
+"Never" = "Ніколи";
+
+/* No comment provided by engineer. */
+"New Folder" = "Нова папка";
+
+/* No comment provided by engineer. */
+"New Instance" = "Новий екземпляр";
+
+/* No comment provided by engineer. */
+"New Separator" = "Новий розділювач";
+
+/* No comment provided by engineer. */
+"No extensions installed" = "Розширення не встановлено";
+
+/* No comment provided by engineer. */
+"No icons found." = "Іконок не знайдено.";
+
+/* No comment provided by engineer. */
+"None" = "Немає";
+
+/* No comment provided by engineer. */
+"Not Authorized" = "Не авторизовано";
+
+/* No comment provided by engineer. */
+"Not Now" = "Не зараз";
+
+/* No comment provided by engineer. */
+"Notify only" = "Лише сповіщення";
+
+/* No comment provided by engineer. */
+"Off" = "Вимкнено";
+
+/* No comment provided by engineer. */
+"One or more extensions could not be updated." = "Не вдалося оновити одне або кілька розширень.";
+
+/* name of link opening feature */
+"Open Link" = "Відкрити посилання";
+
+/* No comment provided by engineer. */
+"Open Links" = "Відкрити посилання";
+
+/* Accessibility help for a popup button that opens a submenu. */
+"Opens submenu" = "Відкриває підменю";
+
+/* Apple system color name; use Apple's official localized name */
+"Orange" = "Помаранчевий";
+
+/* extension info: where the extension came from (built-in, extensions directory, etc.) */
+"Origin" = "Джерело";
+
+/* No comment provided by engineer. */
+"Other…" = "Інше…";
+
+/* No comment provided by engineer. */
+"Package folder" = "Папка пакета";
+
+/* No comment provided by engineer. */
+"Permissions" = "Дозволи";
+
+/* Apple system color name; use Apple's official localized name */
+"Pink" = "Рожевий";
+
+/* No comment provided by engineer. */
+"Please close this browser tab and return to PopClip." = "Будь ласка, закрийте цю вкладку браузера й поверніться до PopClip.";
+
+/* No comment provided by engineer. */
+"PopClip  Icon Picker" = "PopClip  Вибір іконок";
+
+/* No comment provided by engineer. */
+"PopClip appears automatically when you select text with the pointer or when you click and hold." = "PopClip з'являється автоматично, коли ви виділяєте текст указівником або коли натискаєте й утримуєте.";
+
+/* No comment provided by engineer. */
+"PopClip can't find %@ on this computer. You probably need to install it." = "PopClip не може знайти %@ на цьому комп'ютері. Імовірно, вам потрібно його встановити.";
+
+/* No comment provided by engineer. */
+"PopClip could not load the following extensions:\n\n%@" = "PopClip не вдалося завантажити такі розширення:\n\n%@";
+
+/* No comment provided by engineer. */
+"PopClip Extensions Directory" = "Каталог розширень PopClip";
+
+/* No comment provided by engineer. */
+"PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip потребує доступу до спеціальних можливостей, щоб зчитувати виділений текст в інших застосунках та виконувати дії для вас.";
+
+/* No comment provided by engineer. */
+"PopClip will check spelling in each selected language." = "PopClip перевірятиме правопис для кожної вибраної мови.";
+
+/* No comment provided by engineer. */
+"Popup Item" = "Елемент спливного меню";
+
+/* No comment provided by engineer. */
+"Position" = "Позиція";
+
+/* Apple system color name; use Apple's official localized name */
+"Purple" = "Фіолетовий";
+
+/* No comment provided by engineer. */
+"Quit PopClip" = "Вийти з PopClip";
+
+/* No comment provided by engineer. */
+"Recently used apps" = "Нещодавно використані застосунки";
+
+/* Apple system color name; use Apple's official localized name */
+"Red" = "Червоний";
+
+/* icon picker font option */
+"Regular" = "Звичайний";
+
+/* No comment provided by engineer. */
+"Relaunch" = "Перезапустити";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@ (you have %@)." = "Перезапустіть, щоб використовувати %1$@ (зараз у вас %2$@).";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@." = "Перезапустіть, щоб використовувати %@.";
+
+/* text shown above release notes */
+"Release notes:" = "Примітки до випуску:";
+
+/* Button title. Remove selected item from list. Actual button is '-' icon, text is for screen reader only. */
+"Remove" = "Видалити";
+
+/* No comment provided by engineer. */
+"Rename…" = "Перейменувати…";
+
+/* No comment provided by engineer. */
+"Replace your search term with ***\nFor example: https://example.com/?q=***" = "Замініть пошуковий термін на ***\nНаприклад: https://example.com/?q=***";
+
+/* No comment provided by engineer. */
+"Request Accessibility Access" = "Запитати доступ до спеціальних можливостей";
+
+/* No comment provided by engineer. */
+"Reset to Default Icon" = "Скинути до типової іконки";
+
+/* No comment provided by engineer. */
+"Restrict where PopClip can appear automatically." = "Обмежте, де PopClip може з'являтися автоматично.";
+
+/* name of 'reveal in finder' feature */
+"Reveal in Finder" = "Показати у Finder";
+
+/* icon picker: rotation control */
+"Rotate" = "Повернути";
+
+/* No comment provided by engineer. */
+"Rule:" = "Правило:";
+
+/* No comment provided by engineer. */
+"Rules" = "Правила";
+
+/* icon picker: scale (size) control */
+"Scale" = "Масштаб";
+
+/* name of web search feature */
+"Search" = "Пошук";
+
+/* Search for icons from the 'Iconify' icon library */
+"Search Iconify" = "Пошук в Iconify";
+
+/* No comment provided by engineer. */
+"Search URL" = "URL пошуку";
+
+/* No comment provided by engineer. */
+"Searching %@ open source icons." = "Пошук серед %@ іконок із відкритим кодом.";
+
+/* No comment provided by engineer. */
+"Select" = "Вибрати";
+
+/* No comment provided by engineer. */
+"Separator" = "Розділювач";
+
+/* No comment provided by engineer. */
+"Settings for \"%@\"" = "Налаштування для \"%@\"";
+
+/* No comment provided by engineer. */
+"Settings…" = "Налаштування…";
+
+/* icon picker: outer shape (none, square, circle) */
+"Shape" = "Форма";
+
+/* No comment provided by engineer. */
+"Show \"%@\" in the actions list" = "Показувати \"%@\" у списку дій";
+
+/* No comment provided by engineer. */
+"Show As" = "Показувати як";
+
+/* No comment provided by engineer. */
+"Show in menu bar" = "Показати у смузі меню";
+
+/* No comment provided by engineer. */
+"Show Secret" = "Показати секрет";
+
+/* No comment provided by engineer. */
+"Show Specifier" = "Показати специфікатор";
+
+/* No comment provided by engineer. */
+"Sign In" = "Увійти";
+
+/* No comment provided by engineer. */
+"Sign in failed." = "Помилка входу.";
+
+/* No comment provided by engineer. */
+"Sign in to your %@ account." = "Увійдіть у свій акаунт %@.";
+
+/* No comment provided by engineer. */
+"Sign Out" = "Вийти";
+
+/* extension info: code-signing status */
+"Signature" = "Підпис";
+
+/* No comment provided by engineer. */
+"Signed in: %@" = "Вхід виконано: %@";
+
+/* No comment provided by engineer. */
+"Size" = "Розмір";
+
+/* No comment provided by engineer. */
+"Snippet" = "Фрагмент";
+
+/* No comment provided by engineer. */
+"Snippet is too long (%@ chars; max %@)" = "Фрагмент задовгий (%1$@ симв.; макс. %2$@)";
+
+/* No comment provided by engineer. */
+"Software Update" = "Оновлення ПЗ";
+
+/* No comment provided by engineer. */
+"Sort" = "Сортувати";
+
+/* No comment provided by engineer. */
+"Sort by Date" = "Сортувати за датою";
+
+/* No comment provided by engineer. */
+"Sort by Name" = "Сортувати за назвою";
+
+/* name of spelling checker feature */
+"Spelling" = "Правопис";
+
+/* No comment provided by engineer. */
+"Square" = "Квадрат";
+
+/* No comment provided by engineer. */
+"Start at login" = "Автозапуск";
+
+/* URL rule description */
+"Starts with" = "Починається з";
+
+/* icon picker option: diagonal 'strike' or 'slash' line drawn over icon */
+"Strike" = "Перекреслення";
+
+/* No comment provided by engineer. */
+"Style" = "Стиль";
+
+/* Apple system color name; use Apple's official localized name */
+"Teal" = "Бірюзовий";
+
+/* No comment provided by engineer. */
+"Technical information:" = "Технічна інформація:";
+
+/* icon picker: use typed text as the icon */
+"Text" = "Текст";
+
+/* No comment provided by engineer. */
+"Text file" = "Текстовий файл";
+
+/* No comment provided by engineer. */
+"Text Only" = "Лише текст";
+
+/* No comment provided by engineer. */
+"The application appears to be corrupted. Please install a fresh copy." = "Здається, застосунок пошкоджено. Радимо перевстановити його.";
+
+/* No comment provided by engineer. */
+"This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Розширення несумісне із цією версією PopClip. Оновіть PopClip до останньої версії.";
+
+/* No comment provided by engineer. */
+"This extension requires macOS version %@ or above." = "Це розширення потребує macOS версії %@ або новішої.";
+
+/* the free trial has expired */
+"Trial Expired" = "Пробний період закінчився";
+
+/* No comment provided by engineer. */
+"Unavailable Action" = "Недоступна дія";
+
+/* No comment provided by engineer. */
+"Unknown" = "Невідомо";
+
+/* No comment provided by engineer. */
+"Unsigned" = "Непідписано";
+
+/* No comment provided by engineer. */
+"Unsigned Extension" = "Непідписане розширення";
+
+/* No comment provided by engineer. */
+"Up to date" = "Актуально";
+
+/* No comment provided by engineer. */
+"Update automatically" = "Оновлювати автоматично";
+
+/* Extensions list subtitle when an update is available */
+"Update available" = "Доступне оновлення";
+
+/* No comment provided by engineer. */
+"Update error" = "Помилка оновлення";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Updated %@" = "Оновлено %@";
+
+/* No comment provided by engineer. */
+"Updater error" = "Помилка оновлення";
+
+/* No comment provided by engineer. */
+"Updates" = "Оновлення";
+
+/* No comment provided by engineer. */
+"URL scheme" = "Схема URL";
+
+/* No comment provided by engineer. */
+"Use the keyboard shortcut to trigger PopClip manually." = "Використовуйте гарячі клавіші для виклику PopClip вручну.";
+
+/* No comment provided by engineer. */
+"User-generated" = "Створено користувачем";
+
+/* No comment provided by engineer. */
+"Verified" = "Перевірено";
+
+/* No comment provided by engineer. */
+"Version" = "Версія";
+
+/* button to show release notes */
+"View Details…" = "Переглянути подробиці…";
+
+/* No comment provided by engineer. */
+"View Source" = "Переглянути джерело";
+
+/* No comment provided by engineer. */
+"View Web Page" = "Переглянути вебсторінку";
+
+/* Visit the website for the name app e.g. Visit Evernote Website */
+"Visit %@ Website" = "Відвідати вебсайт %@";
+
+/* No comment provided by engineer. */
+"Waiting to check for updates" = "Очікування перевірки оновлень";
+
+/* No comment provided by engineer. */
+"Waiting…" = "Зачекайте…";
+
+/* No comment provided by engineer. */
+"Web Page" = "Вебсторінка";
+
+/* No comment provided by engineer. */
+"Website Address" = "Адреса вебсайту";
+
+/* No comment provided by engineer. */
+"Websites…" = "Вебсайти…";
+
+/* Apple system color name; use Apple's official localized name */
+"Yellow" = "Жовтий";
+
+/* No comment provided by engineer. */
+"You are signed in to %@." = "Ви ввійшли до %@.";
+
+/* No comment provided by engineer. */
+"You're all set! No settings to configure." = "Усе готово! Налаштовувати нічого.";
+
+/* No comment provided by engineer. */
+"Your License" = "Ваша ліцензія";
+
+/* No comment provided by engineer. */
+"Zip file" = "Zip-файл";
+
+/* No comment provided by engineer. */
+"⚠️ Authorization failed." = "⚠️ Помилка авторизації.";
+
+/* URL rule description */
+"⚠️ Invalid" = "⚠️ Недійсне";
+
+/* No comment provided by engineer. */
+"✅ PopClip Extension \"%@\" authorized." = "✅ Розширення PopClip «%@» авторизовано.";

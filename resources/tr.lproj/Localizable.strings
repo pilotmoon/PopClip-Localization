@@ -1,0 +1,881 @@
+/* Popup tooltip. %1$@ layout name, %2$@ action title. */
+"%1$@: %2$@" = "%1$@: %2$@";
+
+/* message shown when PopClip cannot appear automatically because it is blocked by the user's settings */
+"%@ is excluded" = "%@ hariç tutuldu";
+
+/* message shown when PopClip cannot appear automatically in the given app due to compatibility problem. Example `Pixelmator Pro is not compatible` */
+"%@ is not compatible" = "%@ uyumlu değil";
+
+/* Example: 1.6 is now available (you have 1.5.2) */
+"%@ is now available (you have %@)." = "%1$@ artık mevcut (sizdeki sürüm: %2$@).";
+
+/* Example: 1.6 is now available */
+"%@ is now available." = "%@ artık mevcut.";
+
+/* Placeholder is app name. Example: `PopClip Update Available` */
+"%@ Update Available" = "%@ Güncellemesi Mevcut";
+
+/* Placeholder is app name. Example: `PopClip Update Ready` */
+"%@ Update Ready" = "%@ Güncellemesi Hazır";
+
+/* number of extensions updated; plural forms in Localizable.stringsdict */
+"%lu extensions updated" = "%lu uzantı güncellendi";
+
+/* number of updates available; plural forms in Localizable.stringsdict */
+"%lu updates available" = "%lu güncelleme mevcut";
+
+/* number of uses remaining in the free trial; plural forms in Localizable.stringsdict */
+"%lu Uses Left" = "%lu Kullanım kaldı";
+
+/* click this button to get 10 more uses in the free trial */
+"+10 Uses" = "+10 Kullanım kaldı";
+
+/* entry in selection list to indicate no selection */
+"- None -" = "- Seçilemiyor -";
+
+/* icon picker: hint that the typed text may be 1 to 3 characters */
+"1–3 characters" = "1–3 karakter";
+
+/* No comment provided by engineer. */
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "\"%@\" Pilotmoon Software tarafından imzalanmamıştır. Bu uzantıyı yalnızca güvendiğiniz bir kaynaktan aldıysanız yükleyin.";
+
+/* No comment provided by engineer. */
+"\"%@\" Settings" = "\"%@\" Ayarları";
+
+/* No comment provided by engineer. */
+"Above Text" = "Metnin yukarısında";
+
+/* No comment provided by engineer. */
+"Accessibility access is required" = "Erişilebilirlik erişimi gereklidir";
+
+/* No comment provided by engineer. */
+"Action" = "Eylem";
+
+/* No comment provided by engineer. */
+"Action Settings" = "Eylem Ayarları";
+
+/* Title of prefs pane for configuring actions. Translator: Please use the shortest possible term here */
+"Actions" = "Eylemler";
+
+/* No comment provided by engineer. */
+"Activation" = "Etkinleştirme";
+
+/* Button title. Add new item to list. Actual button is '+' icon, text is for screen reader only. */
+"Add" = "Ekle";
+
+/* icon picker: button revealing the icon adjustment controls */
+"Adjust" = "Ayarla";
+
+/* No comment provided by engineer. */
+"Alternate Search URL" = "Alternatif Arama URL'si";
+
+/* URL rule description */
+"and subdomains" = "ve alt alan adları";
+
+/* Title of prefs pane for 'App' settings (about, version, license). Translator: Please use the shortest possible term here */
+"App" = "Uygulama";
+
+/* No comment provided by engineer. */
+"App Settings" = "Uygulama Ayarları";
+
+/* No comment provided by engineer. */
+"Appear automatically" = "Otomatik olarak göster";
+
+/* No comment provided by engineer. */
+"Appearance" = "Görünüm";
+
+/* No comment provided by engineer. */
+"Apply" = "Uygula";
+
+/* No comment provided by engineer. */
+"Apps…" = "Uygulamalar…";
+
+/* No comment provided by engineer. */
+"Authorized" = "Yetkilendirilmiş";
+
+/* Dark/light mode will be the same as the operating system setting */
+"Auto" = "Otomatik";
+
+/* Dark/light mode will be opposite to the operating system setting */
+"Auto (Inverse)" = "Otomatik (Tersine)";
+
+/* No comment provided by engineer. */
+"Automatic update" = "Otomatik güncelleme";
+
+/* No comment provided by engineer. */
+"Automatic updates" = "Otomatik güncellemeler";
+
+/* Action settings subtitle. %1$@ is the source extension name. */
+"Based on %1$@" = "Temel: %1$@";
+
+/* No comment provided by engineer. */
+"Below Text" = "Metin aşağısında";
+
+/* Apple system color name; use Apple's official localized name */
+"Blue" = "Mavi";
+
+/* Apple system color name; use Apple's official localized name */
+"Brown" = "Kahverengi";
+
+/* Extensions list subtitle for a built-in action */
+"Built-in" = "Yerleşik";
+
+/* click button to buy the app */
+"Buy" = "Satın al";
+
+/* No comment provided by engineer. */
+"Buy license key" = "Lisans anahtarı satın al";
+
+/* as in 'by Nick Moore' */
+"by" = "tarafından";
+
+/* icon attribution author line */
+"by %@" = "%@ tarafından";
+
+/* No comment provided by engineer. */
+"Cancel" = "Vazgeç";
+
+/* 1=name of app */
+"Cannot start %1$@" = "%1$@ başlatılamıyor";
+
+/* No comment provided by engineer. */
+"Capabilities" = "Yetenekler";
+
+/* No comment provided by engineer. */
+"Change Icon…" = "Simgeyi Değiştir…";
+
+/* No comment provided by engineer. */
+"Check for extension updates" = "Uzantı güncellemelerini denetle";
+
+/* No comment provided by engineer. */
+"Check for updates" = "Güncellemeleri denetle";
+
+/* No comment provided by engineer. */
+"Checking for updates…" = "Güncellemeler denetleniyor…";
+
+/* No comment provided by engineer. */
+"Checking…" = "Denetleniyor…";
+
+/* No comment provided by engineer. */
+"Circle" = "Daire";
+
+/* No comment provided by engineer. */
+"Clear" = "Temizle";
+
+/* No comment provided by engineer. */
+"Close" = "Kapat";
+
+/* No comment provided by engineer. */
+"Color" = "Renk";
+
+/* example: Connecting to updateserver.example.com… */
+"Connecting to %@…" = "%@ adresine bağlanılıyor…";
+
+/* Displayed when something has been copied to the clipboard */
+"Copied" = "Kopyalandı";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopyala";
+
+/* No comment provided by engineer. */
+"Copy PNG Image" = "PNG Görselini Kopyala";
+
+/* No comment provided by engineer. */
+"Copy Specifier" = "Belirteci Kopyala";
+
+/* No comment provided by engineer. */
+"Couldn't reach the update server (status %lu)." = "Güncelleme sunucusuna ulaşılamadı (durum %lu).";
+
+/* No comment provided by engineer. */
+"Custom" = "Özel";
+
+/* No comment provided by engineer. */
+"Custom…" = "Özel…";
+
+/* Apple system color name; use Apple's official localized name */
+"Cyan" = "Camgöbeği";
+
+/* Indicates Dark color appearance */
+"Dark" = "Karanlık Tema";
+
+/* No comment provided by engineer. */
+"Date" = "Tarih";
+
+/* No comment provided by engineer. */
+"Debug Console" = "Hata Ayıklama Konsolu";
+
+/* No comment provided by engineer. */
+"Delete" = "Sil";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "Klasörü Sil";
+
+/* No comment provided by engineer. */
+"Delete Separator" = "Ayırıcıyı Sil";
+
+/* No comment provided by engineer. */
+"Developer-signed" = "Geliştirici imzalı";
+
+/* name of dictionary look-up feature */
+"Dictionary" = "Sözlük";
+
+/* URL rule description */
+"Domain" = "Alan adı";
+
+/* button title */
+"Don't Install" = "Yükleme";
+
+/* No comment provided by engineer. */
+"Done" = "Tamamlandı";
+
+/* No comment provided by engineer. */
+"Downloaded %@ of %@…" = "%1$@ / %2$@ indirildi…";
+
+/* No comment provided by engineer. */
+"Downloading update…" = "Güncelleme indiriliyor…";
+
+/* No comment provided by engineer. */
+"Duplicate" = "Çoğalt";
+
+/* extension entitlement: the extension generates its actions dynamically */
+"Dynamic" = "Dinamik";
+
+/* No comment provided by engineer. */
+"Email" = "E-posta";
+
+/* No comment provided by engineer. */
+"Enabled" = "Etkin";
+
+/* extension info: special permissions the extension has */
+"Entitlements" = "Yetkiler";
+
+/* No comment provided by engineer. */
+"Error decoding icon" = "Simge kodu çözülürken hata oluştu";
+
+/* No comment provided by engineer. */
+"Error downloading icon" = "Simge indirilirken hata oluştu";
+
+/* No comment provided by engineer. */
+"Error rendering icon" = "Simge işlenirken hata oluştu";
+
+/* sample text */
+"Example" = "Örnek";
+
+/* No comment provided by engineer. */
+"Exclude these apps" = "Bu uygulamaları hariç tut";
+
+/* No comment provided by engineer. */
+"Exclude these websites:" = "Bu web sitelerini hariç tut:";
+
+/* No comment provided by engineer. */
+"Expires: %@" = "Sona erer: %@";
+
+/* No comment provided by engineer. */
+"Extension Commands" = "Uzantı Komutları";
+
+/* No comment provided by engineer. */
+"Extension Info" = "Uzantı Bilgileri";
+
+/* No comment provided by engineer. */
+"Extension Install Error" = "Uzantı Yükleme Hatası";
+
+/* No comment provided by engineer. */
+"Extension Load Error" = "Uzantı Yüklenme Hatası";
+
+/* No comment provided by engineer. */
+"Extensions" = "Uzantılar";
+
+/* Extracted percentage */
+"Extracted %d%%…" = "Çıkarılan: %d%%…";
+
+/* No comment provided by engineer. */
+"Extracting update…" = "Güncelleme çıkartılıyor…";
+
+/* No comment provided by engineer. */
+"File" = "Dosya";
+
+/* icon picker option: shape is filled, not outline */
+"Fill" = "Doldur";
+
+/* No comment provided by engineer. */
+"Filter Actions" = "Eylemleri Filtrele";
+
+/* icon picker: flip (mirror) control */
+"Flip" = "Çevir";
+
+/* No comment provided by engineer. */
+"Flip Horizontal" = "Yatay Çevir";
+
+/* No comment provided by engineer. */
+"Flip Vertical" = "Dikey Çevir";
+
+/* No comment provided by engineer. */
+"Folder" = "Klasör";
+
+/* No comment provided by engineer. */
+"Font" = "Yazı Tipi";
+
+/* No comment provided by engineer. */
+"Forum" = "Forum";
+
+/* No comment provided by engineer. */
+"Free Trial" = "Ücretsiz Deneme";
+
+/* No comment provided by engineer. */
+"Free uses left: %lu" = "Kalan ücretsiz hak: %lu";
+
+/* Title of general settings pane. Translator: Please use the shortest possible term here */
+"General" = "Genel";
+
+/* No comment provided by engineer. */
+"Get Extensions" = "Uzantıları Al";
+
+/* Apple system color name; use Apple's official localized name */
+"Green" = "Yeşil";
+
+/* No comment provided by engineer. */
+"Guide" = "Kılavuz";
+
+/* No comment provided by engineer. */
+"Hide Secret" = "Gizli Bilgiyi Gizle";
+
+/* No comment provided by engineer. */
+"Hold Option (⌥) for alternate search." = "Alternat arama için Seçenek (⌥) tuşunu basılı tutun.";
+
+/* URL rule description */
+"Host" = "Sunucu";
+
+/* No comment provided by engineer. */
+"iCloud Sync" = "iCloud Eşzamanlaması";
+
+/* No comment provided by engineer. */
+"Icon" = "Simge";
+
+/* No comment provided by engineer. */
+"Icon and Text" = "Simge ve Metin";
+
+/* No comment provided by engineer. */
+"Icon error" = "Simge hatası";
+
+/* No comment provided by engineer. */
+"Icon not found" = "Simge bulunamadı";
+
+/* No comment provided by engineer. */
+"Icon Only" = "Yalnızca Simge";
+
+/* No comment provided by engineer. */
+"Icon Picker" = "Simge Seçici";
+
+/* No comment provided by engineer. */
+"Icon preview" = "Simge önizlemesi";
+
+/* No comment provided by engineer. */
+"Icon search failed. Check internet connection." = "Simge araması başarısız. İnternet bağlantısını denetleyin.";
+
+/* No comment provided by engineer. */
+"Icon Specifier" = "Simge Belirteci";
+
+/* No comment provided by engineer. */
+"Icon Specifier Help" = "Simge Belirteci Yardımı";
+
+/* No comment provided by engineer. */
+"Icon specifier is too long." = "Simge belirteci çok uzun.";
+
+/* No comment provided by engineer. */
+"Icon timed out" = "Simge zaman aşımına uğradı";
+
+/* extension info: the extension's bundle identifier */
+"Identifier" = "Tanıtıcı";
+
+/* No comment provided by engineer. */
+"Include beta versions" = "Beta versiyonları dahil et";
+
+/* No comment provided by engineer. */
+"Include colored icons" = "Renkli simgeleri dahil et";
+
+/* No comment provided by engineer. */
+"Include only these apps" = "Sadece bu uygulamaları dâhil et";
+
+/* No comment provided by engineer. */
+"Including colored icons" = "Renkli simgeler dahil ediliyor";
+
+/* Apple system color name; use Apple's official localized name */
+"Indigo" = "Çivit";
+
+/* button title: install the named externsion */
+"Install \"%@\"" = "\"%@\" yükle";
+
+/* No comment provided by engineer. */
+"Install automatically" = "Otomatik yükle";
+
+/* No comment provided by engineer. */
+"Install Update" = "Güncellemeyi Yükle";
+
+/* No comment provided by engineer. */
+"Installation" = "Yükleme";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Installed %@" = "%@ yüklendi";
+
+/* No comment provided by engineer. */
+"Installing update…" = "Güncelleme yükleniyor…";
+
+/* No comment provided by engineer. */
+"Installing…" = "Yükleniyor…";
+
+/* No comment provided by engineer. */
+"Instances" = "Örnekler";
+
+/* No comment provided by engineer. */
+"Invalid icon specifier" = "Geçersiz simge belirteci";
+
+/* Example: `Last checked: Just now`. Indicates a time within the last minute */
+"Just now" = "Az önce";
+
+/* No comment provided by engineer. */
+"Keyboard shortcut" = "Klavye kısayolu";
+
+/* No comment provided by engineer. */
+"Language" = "Lisan";
+
+/* No comment provided by engineer. */
+"Languages" = "Lisanlar";
+
+/* No comment provided by engineer. */
+"Last checked: %@" = "Son kontrol: %@";
+
+/* No comment provided by engineer. */
+"Learn More…" = "Daha Fazla Bilgi…";
+
+/* No comment provided by engineer. */
+"License Details" = "Lisans Detayları";
+
+/* No comment provided by engineer. */
+"License Details…" = "Lisans Detayları…";
+
+/* No comment provided by engineer. */
+"License key not valid" = "Lisanss anahtarı geçersiz";
+
+/* Indicates Light color appearance */
+"Light" = "Aydınlık";
+
+/* No comment provided by engineer. */
+"Loading icon…" = "Simge yükleniyor…";
+
+/* No comment provided by engineer. */
+"Main Menu" = "Ana Menü";
+
+/* No comment provided by engineer. */
+"Manage Extensions…" = "Uzantıları Yönet…";
+
+/* extension info: how the extension was installed (snippet, file, URL scheme, etc.) */
+"Method" = "Yöntem";
+
+/* No comment provided by engineer. */
+"Migrated from previous PopClip version" = "Önceki PopClip sürümünden taşındı";
+
+/* Apple system color name; use Apple's official localized name */
+"Mint" = "Nane";
+
+/* name of missing third party app */
+"Missing App: %@" = "Eksik Uygulama: %@";
+
+/* icon picker font option */
+"Monospaced" = "Eş aralıklı";
+
+/* No comment provided by engineer. */
+"More (Page %lu of %lu)" = "Daha Fazla (Sayfa %1$lu/%2$lu)";
+
+/* icon picker: position offset control */
+"Move" = "Taşı";
+
+/* icon picker: horizontal position offset */
+"Move X" = "X'i Taşı";
+
+/* icon picker: vertical position offset */
+"Move Y" = "Y'yi Taşı";
+
+/* No comment provided by engineer. */
+"Name" = "Ad";
+
+/* extension entitlement: the extension can access the network */
+"Network" = "Ağ";
+
+/* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
+"Never" = "Hiçbir zaman";
+
+/* No comment provided by engineer. */
+"New Folder" = "Yeni Klasör";
+
+/* No comment provided by engineer. */
+"New Instance" = "Yeni Örnek";
+
+/* No comment provided by engineer. */
+"New Separator" = "Yeni Ayırıcı";
+
+/* No comment provided by engineer. */
+"No extensions installed" = "Yüklü uzantı yok";
+
+/* No comment provided by engineer. */
+"No icons found." = "Simge bulunamadı.";
+
+/* No comment provided by engineer. */
+"None" = "Yok";
+
+/* No comment provided by engineer. */
+"Not Authorized" = "Yetkilendirilmemiş";
+
+/* No comment provided by engineer. */
+"Not Now" = "Şimdi değil";
+
+/* No comment provided by engineer. */
+"Notify only" = "Sadece bildir";
+
+/* No comment provided by engineer. */
+"Off" = "Kapalı";
+
+/* No comment provided by engineer. */
+"One or more extensions could not be updated." = "Bir veya daha fazla uzantı güncellenemedi.";
+
+/* name of link opening feature */
+"Open Link" = "Bağlantıyı aç";
+
+/* No comment provided by engineer. */
+"Open Links" = "Bağlantıları aç";
+
+/* Accessibility help for a popup button that opens a submenu. */
+"Opens submenu" = "Alt menüyü açar";
+
+/* Apple system color name; use Apple's official localized name */
+"Orange" = "Turuncu";
+
+/* extension info: where the extension came from (built-in, extensions directory, etc.) */
+"Origin" = "Köken";
+
+/* No comment provided by engineer. */
+"Other…" = "Diğer…";
+
+/* No comment provided by engineer. */
+"Package folder" = "Paket klasörü";
+
+/* No comment provided by engineer. */
+"Permissions" = "İzinler";
+
+/* Apple system color name; use Apple's official localized name */
+"Pink" = "Pembe";
+
+/* No comment provided by engineer. */
+"Please close this browser tab and return to PopClip." = "Lütfen bu tarayıcı sekmesini kapatıp PopClip'e geri dönün.";
+
+/* No comment provided by engineer. */
+"PopClip  Icon Picker" = "PopClip Simge Seçici";
+
+/* No comment provided by engineer. */
+"PopClip appears automatically when you select text with the pointer or when you click and hold." = "PopClip, imleçle metin seçtiğinizde veya tıklayıp basılı tuttuğunuzda otomatik olarak görünür.";
+
+/* No comment provided by engineer. */
+"PopClip can't find %@ on this computer. You probably need to install it." = "PopClip bu bilgisayarda %@ bulamıyor. Muhtemelen yüklemeniz gerekiyor.";
+
+/* No comment provided by engineer. */
+"PopClip could not load the following extensions:\n\n%@" = "PopClip şu uzantıları yükleyemedi:\n\n%@";
+
+/* No comment provided by engineer. */
+"PopClip Extensions Directory" = "PopClip Uzantılar Dizini";
+
+/* No comment provided by engineer. */
+"PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip'in, diğer uygulamalarda seçtiğiniz metni okuyabilmesi ve sizin için eylemler gerçekleştirebilmesi için Erişilebilirlik erişimi gereklidir.";
+
+/* No comment provided by engineer. */
+"PopClip will check spelling in each selected language." = "PopClip seçilen her dilde yazım denetimi yapacaktır.";
+
+/* No comment provided by engineer. */
+"Popup Item" = "Açılır Öğe";
+
+/* No comment provided by engineer. */
+"Position" = "Konum";
+
+/* Apple system color name; use Apple's official localized name */
+"Purple" = "Mor";
+
+/* No comment provided by engineer. */
+"Quit PopClip" = "PopClip'ten Çık";
+
+/* No comment provided by engineer. */
+"Recently used apps" = "Son kullanılan uygulamalar";
+
+/* Apple system color name; use Apple's official localized name */
+"Red" = "Kırmızı";
+
+/* icon picker font option */
+"Regular" = "Normal";
+
+/* No comment provided by engineer. */
+"Relaunch" = "Yeniden başlat";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@ (you have %@)." = "%1$@ sürümünü kullanmak için yeniden başlatın (sizdeki sürüm: %2$@).";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@." = "%@ sürümünü kullanmak için yeniden başlatın.";
+
+/* text shown above release notes */
+"Release notes:" = "Sürüm notları:";
+
+/* Button title. Remove selected item from list. Actual button is '-' icon, text is for screen reader only. */
+"Remove" = "Kaldır";
+
+/* No comment provided by engineer. */
+"Rename…" = "Yeniden Adlandır…";
+
+/* No comment provided by engineer. */
+"Replace your search term with ***\nFor example: https://example.com/?q=***" = "Arama teriminizi *** ile değiştirin\nÖrneğin: https://example.com/?q=***";
+
+/* No comment provided by engineer. */
+"Request Accessibility Access" = "Erişilebilirlik Erişimi Talep Et";
+
+/* No comment provided by engineer. */
+"Reset to Default Icon" = "Varsayılan Simgeye Sıfırla";
+
+/* No comment provided by engineer. */
+"Restrict where PopClip can appear automatically." = "PopClip'in otomatik olarak nerelerde görüneceğini kısıtlayın.";
+
+/* name of 'reveal in finder' feature */
+"Reveal in Finder" = "Finder'da göster";
+
+/* icon picker: rotation control */
+"Rotate" = "Döndür";
+
+/* No comment provided by engineer. */
+"Rule:" = "Kural:";
+
+/* No comment provided by engineer. */
+"Rules" = "Kurallar";
+
+/* icon picker: scale (size) control */
+"Scale" = "Ölçekle";
+
+/* name of web search feature */
+"Search" = "Ara";
+
+/* Search for icons from the 'Iconify' icon library */
+"Search Iconify" = "Iconify'da Ara";
+
+/* No comment provided by engineer. */
+"Search URL" = "Şu URL'de ara";
+
+/* No comment provided by engineer. */
+"Searching %@ open source icons." = "%@ açık kaynak simgesi aranıyor.";
+
+/* No comment provided by engineer. */
+"Select" = "Seç";
+
+/* No comment provided by engineer. */
+"Separator" = "Ayırıcı";
+
+/* No comment provided by engineer. */
+"Settings for \"%@\"" = "\"%@\" ayarları";
+
+/* No comment provided by engineer. */
+"Settings…" = "Ayarlar…";
+
+/* icon picker: outer shape (none, square, circle) */
+"Shape" = "Şekil";
+
+/* No comment provided by engineer. */
+"Show \"%@\" in the actions list" = "\"%@\" eylemler listesinde göster";
+
+/* No comment provided by engineer. */
+"Show As" = "Şöyle Göster";
+
+/* No comment provided by engineer. */
+"Show in menu bar" = "Menü çubuğunda göster";
+
+/* No comment provided by engineer. */
+"Show Secret" = "Gizli Bilgiyi Göster";
+
+/* No comment provided by engineer. */
+"Show Specifier" = "Belirteci Göster";
+
+/* No comment provided by engineer. */
+"Sign In" = "Oturum Aç";
+
+/* No comment provided by engineer. */
+"Sign in failed." = "Oturum açma başarısız oldu.";
+
+/* No comment provided by engineer. */
+"Sign in to your %@ account." = "%@ hesabınızda oturum açın.";
+
+/* No comment provided by engineer. */
+"Sign Out" = "Oturumu Kapat";
+
+/* extension info: code-signing status */
+"Signature" = "İmza";
+
+/* No comment provided by engineer. */
+"Signed in: %@" = "Oturum açıldı: %@";
+
+/* No comment provided by engineer. */
+"Size" = "Boyut";
+
+/* No comment provided by engineer. */
+"Snippet" = "Parçacık";
+
+/* No comment provided by engineer. */
+"Snippet is too long (%@ chars; max %@)" = "Parçacık çok uzun (%1$@ karakter; en fazla %2$@)";
+
+/* No comment provided by engineer. */
+"Software Update" = "Yazılım Güncellemesi";
+
+/* No comment provided by engineer. */
+"Sort" = "Sırala";
+
+/* No comment provided by engineer. */
+"Sort by Date" = "Tarihe Göre Sırala";
+
+/* No comment provided by engineer. */
+"Sort by Name" = "Ada Göre Sırala";
+
+/* name of spelling checker feature */
+"Spelling" = "Yazım Denetimi";
+
+/* No comment provided by engineer. */
+"Square" = "Kare";
+
+/* No comment provided by engineer. */
+"Start at login" = "Giriş yapıldığında başlat";
+
+/* URL rule description */
+"Starts with" = "Şununla başlar";
+
+/* icon picker option: diagonal 'strike' or 'slash' line drawn over icon */
+"Strike" = "Çizgi";
+
+/* No comment provided by engineer. */
+"Style" = "Stil";
+
+/* Apple system color name; use Apple's official localized name */
+"Teal" = "Deniz Mavisi";
+
+/* No comment provided by engineer. */
+"Technical information:" = "Teknik bilgi:";
+
+/* icon picker: use typed text as the icon */
+"Text" = "Metin";
+
+/* No comment provided by engineer. */
+"Text file" = "Metin dosyası";
+
+/* No comment provided by engineer. */
+"Text Only" = "Yalnızca Metin";
+
+/* No comment provided by engineer. */
+"The application appears to be corrupted. Please install a fresh copy." = "Uygulama bozulmuş gibi görünüyor. Lütfen yeni bir kopyasını yükleyin.";
+
+/* No comment provided by engineer. */
+"This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Bu uzantı PopClip'in mevcut sürümü ile uyumlu değildir. Lütfen PopClip'i en son sürümüne güncelleyin.";
+
+/* No comment provided by engineer. */
+"This extension requires macOS version %@ or above." = "Bu uzantı macOS sürüm %@ veya üstünü kullanmayı gerektirir.";
+
+/* the free trial has expired */
+"Trial Expired" = "Deneme Süresi sona erdi";
+
+/* No comment provided by engineer. */
+"Unavailable Action" = "Kullanılamayan Eylem";
+
+/* No comment provided by engineer. */
+"Unknown" = "Bilinmiyor";
+
+/* No comment provided by engineer. */
+"Unsigned" = "İmzasız";
+
+/* No comment provided by engineer. */
+"Unsigned Extension" = "İmzalanmamış Uzantı";
+
+/* No comment provided by engineer. */
+"Up to date" = "Güncel";
+
+/* No comment provided by engineer. */
+"Update automatically" = "Otomatik güncelle";
+
+/* Extensions list subtitle when an update is available */
+"Update available" = "Güncelleme mevcut";
+
+/* No comment provided by engineer. */
+"Update error" = "Güncelleme hatası";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Updated %@" = "%@ güncellendi";
+
+/* No comment provided by engineer. */
+"Updater error" = "Güncelleyici hatası";
+
+/* No comment provided by engineer. */
+"Updates" = "Güncellemeler";
+
+/* No comment provided by engineer. */
+"URL scheme" = "URL şeması";
+
+/* No comment provided by engineer. */
+"Use the keyboard shortcut to trigger PopClip manually." = "PopClip'i manuel olarak tetiklemek için klavye kısayolunu kullanın.";
+
+/* No comment provided by engineer. */
+"User-generated" = "Kullanıcı tarafından oluşturulmuş";
+
+/* No comment provided by engineer. */
+"Verified" = "Doğrulanmış";
+
+/* No comment provided by engineer. */
+"Version" = "Sürüm";
+
+/* button to show release notes */
+"View Details…" = "Detayları Gör…";
+
+/* No comment provided by engineer. */
+"View Source" = "Kaynağı Görüntüle";
+
+/* No comment provided by engineer. */
+"View Web Page" = "Web Sayfasını Görüntüle";
+
+/* Visit the website for the name app e.g. Visit Evernote Website */
+"Visit %@ Website" = "%@ Web Sitesini Ziyaret Edin";
+
+/* No comment provided by engineer. */
+"Waiting to check for updates" = "Güncellemelerin denetlenmesi bekleniyor";
+
+/* No comment provided by engineer. */
+"Waiting…" = "Bekleniyor…";
+
+/* No comment provided by engineer. */
+"Web Page" = "Web Sayfası";
+
+/* No comment provided by engineer. */
+"Website Address" = "Web sitesi adresi";
+
+/* No comment provided by engineer. */
+"Websites…" = "Web siteleri…";
+
+/* Apple system color name; use Apple's official localized name */
+"Yellow" = "Sarı";
+
+/* No comment provided by engineer. */
+"You are signed in to %@." = "%@ üzerinde oturum açtınız.";
+
+/* No comment provided by engineer. */
+"You're all set! No settings to configure." = "Her şey hazır! Yapılandırılacak ayar yok.";
+
+/* No comment provided by engineer. */
+"Your License" = "Lisansınız";
+
+/* No comment provided by engineer. */
+"Zip file" = "Zip dosyası";
+
+/* No comment provided by engineer. */
+"⚠️ Authorization failed." = "⚠️ Yetkilendirme başarısız.";
+
+/* URL rule description */
+"⚠️ Invalid" = "⚠️ Geçersiz";
+
+/* No comment provided by engineer. */
+"✅ PopClip Extension \"%@\" authorized." = "✅ \"%@\" PopClip Uzantısı yetkilendirildi.";

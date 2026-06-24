@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>%lu Uses Left</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@uses@</string>
+      <key>uses</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>one</key>
+        <string>%lu utilisation restante</string>
+        <key>other</key>
+        <string>%lu utilisations restantes</string>
+      </dict>
+    </dict>
+    <key>%lu extensions updated</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@count@</string>
+      <key>count</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>one</key>
+        <string>%lu extension mise à jour</string>
+        <key>other</key>
+        <string>%lu extensions mises à jour</string>
+      </dict>
+    </dict>
+    <key>%lu updates available</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@count@</string>
+      <key>count</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>one</key>
+        <string>%lu mise à jour disponible</string>
+        <key>other</key>
+        <string>%lu mises à jour disponibles</string>
+      </dict>
+    </dict>
+  </dict>
+</plist>

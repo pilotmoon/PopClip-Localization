@@ -1,0 +1,883 @@
+/* Popup tooltip. %1$@ layout name, %2$@ action title. */
+"%1$@: %2$@" = "%1$@: %2$@";
+
+/* message shown when PopClip cannot appear automatically because it is blocked by the user's settings */
+"%@ is excluded" = "%@は除外されます";
+
+/* message shown when PopClip cannot appear automatically in the given app due to compatibility problem. Example `Pixelmator Pro is not compatible` */
+"%@ is not compatible" = "%@は互換性がありません";
+
+/* Example: 1.6 is now available (you have 1.5.2) */
+"%@ is now available (you have %@)." = "%1$@が利用可能になりました（現在お持ちのバージョン: %2$@）。";
+
+/* Example: 1.6 is now available */
+"%@ is now available." = "%@が利用可能になりました。";
+
+/* Placeholder is app name. Example: `PopClip Update Available` */
+"%@ Update Available" = "%@の更新があります";
+
+/* Placeholder is app name. Example: `PopClip Update Ready` */
+"%@ Update Ready" = "%@の更新が完了しました";
+
+/* number of extensions updated; plural forms in Localizable.stringsdict */
+"%lu extensions updated" = "%lu個の拡張機能を更新しました";
+
+/* number of updates available; plural forms in Localizable.stringsdict */
+"%lu updates available" = "%lu件の更新があります";
+
+/* number of uses remaining in the free trial; plural forms in Localizable.stringsdict */
+"%lu Uses Left" = "残り%lu回分";
+
+/* click this button to get 10 more uses in the free trial */
+"+10 Uses" = "+10 回分";
+
+/* entry in selection list to indicate no selection */
+"- None -" = "- なし -";
+
+/* icon picker: hint that the typed text may be 1 to 3 characters */
+"1–3 characters" = "1〜3文字";
+
+/* No comment provided by engineer. */
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "「%@」はPilotmoon Softwareによって署名されていません。信頼できるソースから入手した場合のみ、この拡張機能をインストールしてください。";
+
+/* No comment provided by engineer. */
+"\"%@\" Settings" = "「%@」設定";
+
+/* No comment provided by engineer. */
+"Above Text" = "テキストの上";
+
+/* No comment provided by engineer. */
+"Accessibility access is required" = "アクセシビリティアクセスが必要です";
+
+/* No comment provided by engineer. */
+"Action" = "アクション";
+
+/* No comment provided by engineer. */
+"Action Settings" = "アクション設定";
+
+/* Title of prefs pane for configuring actions. Translator: Please use the shortest possible term here */
+"Actions" = "アクション";
+
+/* No comment provided by engineer. */
+"Activation" = "アクティベーション";
+
+/* Button title. Add new item to list. Actual button is '+' icon, text is for screen reader only. */
+"Add" = "追加";
+
+/* icon picker: button revealing the icon adjustment controls */
+"Adjust" = "調整";
+
+/* No comment provided by engineer. */
+"Alternate Search URL" = "別の検索URL";
+
+/* URL rule description */
+"and subdomains" = "およびサブドメイン";
+
+/* Title of prefs pane for 'App' settings (about, version, license). Translator: Please use the shortest possible term here */
+"App" = "アプリ";
+
+/* No comment provided by engineer. */
+"App Settings" = "アプリ設定";
+
+/* No comment provided by engineer. */
+"Appear automatically" = "自動的に表示";
+
+/* No comment provided by engineer. */
+"Appearance" = "外観";
+
+/* No comment provided by engineer. */
+"Apply" = "適用";
+
+/* No comment provided by engineer. */
+"Apps…" = "アプリ…";
+
+/* No comment provided by engineer. */
+"Authorized" = "承認済み";
+
+/* Dark/light mode will be the same as the operating system setting */
+"Auto" = "オート";
+
+/* Dark/light mode will be opposite to the operating system setting */
+"Auto (Inverse)" = "オート（反転）";
+
+/* No comment provided by engineer. */
+"Automatic update" = "自動更新";
+
+/* No comment provided by engineer. */
+"Automatic updates" = "自動更新";
+
+/* Action settings subtitle. %1$@ is the source extension name. */
+"Based on %1$@" = "%1$@に基づく";
+
+/* No comment provided by engineer. */
+"Below Text" = "テキストの下";
+
+/* Apple system color name; use Apple's official localized name */
+"Blue" = "ブルー";
+
+/* Apple system color name; use Apple's official localized name */
+"Brown" = "ブラウン";
+
+/* Extensions list subtitle for a built-in action */
+"Built-in" = "内蔵";
+
+/* click button to buy the app */
+"Buy" = "購入";
+
+/* No comment provided by engineer. */
+"Buy license key" = "ライセンスキーを購入";
+
+/* as in 'by Nick Moore' */
+"by" = "作者:";
+
+/* icon attribution author line */
+"by %@" = "作者: %@";
+
+/* No comment provided by engineer. */
+"Cancel" = "キャンセル";
+
+/* 1=name of app */
+"Cannot start %1$@" = "%1$@ を開始できません";
+
+/* No comment provided by engineer. */
+"Capabilities" = "機能";
+
+/* No comment provided by engineer. */
+"Change Icon…" = "アイコンを変更…";
+
+/* No comment provided by engineer. */
+"Check for extension updates" = "拡張機能の更新を確認";
+
+/* No comment provided by engineer. */
+"Check for updates" = "更新を確認";
+
+/* No comment provided by engineer. */
+"Checking for updates…" = "更新を確認中…";
+
+/* No comment provided by engineer. */
+"Checking…" = "確認中…";
+
+/* No comment provided by engineer. */
+"Circle" = "円";
+
+/* No comment provided by engineer. */
+"Clear" = "クリア";
+
+/* No comment provided by engineer. */
+"Close" = "閉じる";
+
+/* No comment provided by engineer. */
+"Color" = "色";
+
+/* example: Connecting to updateserver.example.com… */
+"Connecting to %@…" = "%@に接続中…";
+
+/* Displayed when something has been copied to the clipboard */
+"Copied" = "コピーされました";
+
+/* No comment provided by engineer. */
+"Copy" = "コピー";
+
+/* No comment provided by engineer. */
+"Copy PNG Image" = "PNG画像をコピー";
+
+/* No comment provided by engineer. */
+"Copy Specifier" = "指定子をコピー";
+
+/* No comment provided by engineer. */
+"Couldn't reach the update server (status %lu)." = "更新サーバーに接続できませんでした（ステータス %lu）。";
+
+/* No comment provided by engineer. */
+"Custom" = "カスタム";
+
+/* No comment provided by engineer. */
+"Custom…" = "カスタム…";
+
+/* Apple system color name; use Apple's official localized name */
+"Cyan" = "シアン";
+
+/* Indicates Dark color appearance */
+"Dark" = "ダーク";
+
+/* No comment provided by engineer. */
+"Date" = "日付";
+
+/* No comment provided by engineer. */
+"Debug Console" = "デバッグコンソール";
+
+/* No comment provided by engineer. */
+"Delete" = "削除";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "フォルダを削除";
+
+/* No comment provided by engineer. */
+"Delete Separator" = "区切り線を削除";
+
+/* No comment provided by engineer. */
+"Developer-signed" = "開発元署名済み";
+
+/* name of dictionary look-up feature */
+"Dictionary" = "辞書";
+
+/* URL rule description */
+"Domain" = "ドメイン";
+
+/* button title */
+"Don't Install" = "インストールしない";
+
+/* No comment provided by engineer. */
+"Done" = "完了";
+
+/* No comment provided by engineer. */
+"Downloaded %@ of %@…" = "%1$@/%2$@をダウンロード中…";
+
+/* No comment provided by engineer. */
+"Downloading update…" = "更新をダウンロード中…";
+
+/* No comment provided by engineer. */
+"Duplicate" = "複製";
+
+/* extension entitlement: the extension generates its actions dynamically */
+"Dynamic" = "動的";
+
+/* No comment provided by engineer. */
+"Email" = "メール";
+
+/* No comment provided by engineer. */
+"Enabled" = "有効";
+
+/* extension info: special permissions the extension has */
+"Entitlements" = "エンタイトルメント";
+
+/* No comment provided by engineer. */
+"Error decoding icon" = "アイコンのデコードエラー";
+
+/* No comment provided by engineer. */
+"Error downloading icon" = "アイコンのダウンロードエラー";
+
+/* No comment provided by engineer. */
+"Error rendering icon" = "アイコンの描画エラー";
+
+/* sample text */
+"Example" = "例";
+
+/* No comment provided by engineer. */
+"Exclude these apps" = "これらのアプリを除外";
+
+/* No comment provided by engineer. */
+"Exclude these websites:" = "これらのウェブサイトを除外:";
+
+/* No comment provided by engineer. */
+"Expires: %@" = "有効期限: %@";
+
+/* No comment provided by engineer. */
+"Extension Commands" = "拡張機能コマンド";
+
+/* No comment provided by engineer. */
+"Extension Info" = "拡張機能情報";
+
+/* No comment provided by engineer. */
+"Extension Install Error" = "拡張機能のインストールエラー";
+
+/* No comment provided by engineer. */
+"Extension Load Error" = "拡張機能の読み込みエラー";
+
+/* No comment provided by engineer. */
+"Extensions" = "拡張機能";
+
+/* Extracted percentage */
+"Extracted %d%%…" = "%d%%を展開済み…";
+
+/* No comment provided by engineer. */
+"Extracting update…" = "更新を展開中…";
+
+/* No comment provided by engineer. */
+"File" = "ファイル";
+
+/* icon picker option: shape is filled, not outline */
+"Fill" = "塗りつぶし";
+
+/* No comment provided by engineer. */
+"Filter Actions" = "アクションを絞り込み";
+
+/* icon picker: flip (mirror) control */
+"Flip" = "反転";
+
+/* No comment provided by engineer. */
+"Flip Horizontal" = "左右反転";
+
+/* No comment provided by engineer. */
+"Flip Vertical" = "上下反転";
+
+/* No comment provided by engineer. */
+"Folder" = "フォルダ";
+
+/* No comment provided by engineer. */
+"Font" = "フォント";
+
+/* No comment provided by engineer. */
+"Forum" = "フォーラム";
+
+/* No comment provided by engineer. */
+"Free Trial" = "無料トライアル";
+
+/* No comment provided by engineer. */
+"Free uses left: %lu" = "残り無料回数: %lu";
+
+/* Title of general settings pane. Translator: Please use the shortest possible term here */
+"General" = "一般";
+
+/* No comment provided by engineer. */
+"Get Extensions" = "拡張機能を入手";
+
+/* Apple system color name; use Apple's official localized name */
+"Green" = "グリーン";
+
+/* No comment provided by engineer. */
+"Guide" = "ガイド";
+
+/* No comment provided by engineer. */
+"Hide Secret" = "シークレットを隠す";
+
+/* No comment provided by engineer. */
+"Hold Option (⌥) for alternate search." = "Option（⌥）を長押しして、別の検索を実行します。";
+
+/* URL rule description */
+"Host" = "ホスト";
+
+/* No comment provided by engineer. */
+"iCloud Sync" = "iCloud同期";
+
+/* No comment provided by engineer. */
+"Icon" = "アイコン";
+
+/* No comment provided by engineer. */
+"Icon and Text" = "アイコンとテキスト";
+
+/* No comment provided by engineer. */
+"Icon error" = "アイコンエラー";
+
+/* No comment provided by engineer. */
+"Icon not found" = "アイコンが見つかりません";
+
+/* No comment provided by engineer. */
+"Icon Only" = "アイコンのみ";
+
+/* No comment provided by engineer. */
+"Icon Picker" = "アイコンピッカー";
+
+/* No comment provided by engineer. */
+"Icon preview" = "アイコンプレビュー";
+
+/* No comment provided by engineer. */
+"Icon search failed. Check internet connection." = "アイコン検索に失敗しました。インターネット接続を確認してください。";
+
+/* No comment provided by engineer. */
+"Icon Specifier" = "アイコン指定子";
+
+/* No comment provided by engineer. */
+"Icon Specifier Help" = "アイコン指定子ヘルプ";
+
+/* No comment provided by engineer. */
+"Icon specifier is too long." = "アイコン指定子が長すぎます。";
+
+/* No comment provided by engineer. */
+"Icon timed out" = "アイコンがタイムアウトしました";
+
+/* extension info: the extension's bundle identifier */
+"Identifier" = "識別子";
+
+/* No comment provided by engineer. */
+"Include beta versions" = "ベータ版を含む";
+
+/* No comment provided by engineer. */
+"Include colored icons" = "カラーアイコンを含める";
+
+/* No comment provided by engineer. */
+"Include only these apps" = "これらのアプリのみ含める";
+
+/* No comment provided by engineer. */
+"Including colored icons" = "カラーアイコンを含めています";
+
+/* Apple system color name; use Apple's official localized name */
+"Indigo" = "インディゴ";
+
+/* button title: install the named externsion */
+"Install \"%@\"" = "「%@」をインストール";
+
+/* No comment provided by engineer. */
+"Install automatically" = "自動インストール";
+
+/* No comment provided by engineer. */
+"Install Update" = "更新をインストール";
+
+/* No comment provided by engineer. */
+"Installation" = "インストール";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Installed %@" = "%@にインストール";
+
+/* No comment provided by engineer. */
+"Installing update…" = "更新をインストール中…";
+
+/* No comment provided by engineer. */
+"Installing…" = "インストール中…";
+
+/* No comment provided by engineer. */
+"Instances" = "インスタンス";
+
+/* No comment provided by engineer. */
+"Invalid icon specifier" = "無効なアイコン指定子";
+
+/* Example: `Last checked: Just now`. Indicates a time within the last minute */
+"Just now" = "たった今";
+
+/* No comment provided by engineer. */
+"Keyboard shortcut" = "キーボードショートカット";
+
+/* No comment provided by engineer. */
+"Language" = "言語";
+
+/* No comment provided by engineer. */
+"Languages" = "言語";
+
+/* No comment provided by engineer. */
+"Last checked: %@" = "最終チェック: %@";
+
+/* No comment provided by engineer. */
+"Learn More…" = "詳細はこちら…";
+
+/* No comment provided by engineer. */
+"License Details" = "ライセンス詳細";
+
+/* No comment provided by engineer. */
+"License Details…" = "ライセンス詳細…";
+
+/* No comment provided by engineer. */
+"License key not valid" = "ライセンスキーが無効です";
+
+/* Indicates Light color appearance */
+"Light" = "ライト";
+
+/* No comment provided by engineer. */
+"Loading icon…" = "アイコンを読み込み中…";
+
+/* No comment provided by engineer. */
+"Main Menu" = "メインメニュー";
+
+/* No comment provided by engineer. */
+"Manage Extensions…" = "拡張機能を管理…";
+
+/* extension info: how the extension was installed (snippet, file, URL scheme, etc.) */
+"Method" = "方法";
+
+/* No comment provided by engineer. */
+"Migrated from previous PopClip version" = "以前のPopClipバージョンから移行済み";
+
+/* Apple system color name; use Apple's official localized name */
+"Mint" = "ミント";
+
+/* name of missing third party app */
+"Missing App: %@" = "アプリ: %@が欠けています";
+
+/* icon picker font option */
+"Monospaced" = "等幅";
+
+/* No comment provided by engineer. */
+"More (Page %lu of %lu)" = "その他（%1$lu/%2$luページ）";
+
+/* icon picker: position offset control */
+"Move" = "移動";
+
+/* icon picker: horizontal position offset */
+"Move X" = "X方向に移動";
+
+/* icon picker: vertical position offset */
+"Move Y" = "Y方向に移動";
+
+/* No comment provided by engineer. */
+"Name" = "名前";
+
+/* extension entitlement: the extension can access the network */
+"Network" = "ネットワーク";
+
+/* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
+"Never" = "未確認";
+
+/* No comment provided by engineer. */
+"New Folder" = "新規フォルダ";
+
+/* No comment provided by engineer. */
+"New Instance" = "新規インスタンス";
+
+/* No comment provided by engineer. */
+"New Separator" = "新規区切り線";
+
+/* No comment provided by engineer. */
+"No extensions installed" = "拡張機能がインストールされていません";
+
+/* No comment provided by engineer. */
+"No icons found." = "アイコンが見つかりません。";
+
+/* No comment provided by engineer. */
+"None" = "なし";
+
+/* No comment provided by engineer. */
+"Not Authorized" = "承認されていません";
+
+/* No comment provided by engineer. */
+"Not Now" = "後で行う";
+
+/* No comment provided by engineer. */
+"Notify only" = "通知のみ";
+
+/* No comment provided by engineer. */
+"Off" = "オフ";
+
+/* No comment provided by engineer. */
+"One or more extensions could not be updated." = "いくつかの拡張機能を更新できませんでした。";
+
+/* name of link opening feature */
+"Open Link" = "リンクを開く";
+
+/* No comment provided by engineer. */
+"Open Links" = "リンクを開く";
+
+/* Accessibility help for a popup button that opens a submenu. */
+"Opens submenu" = "サブメニューを開きます";
+
+/* Apple system color name; use Apple's official localized name */
+"Orange" = "オレンジ";
+
+/* extension info: where the extension came from (built-in, extensions directory, etc.) */
+"Origin" = "出所";
+
+/* No comment provided by engineer. */
+"Other…" = "その他…";
+
+/* No comment provided by engineer. */
+"Package folder" = "パッケージフォルダ";
+
+/* No comment provided by engineer. */
+"Permissions" = "権限";
+
+/* Apple system color name; use Apple's official localized name */
+"Pink" = "ピンク";
+
+/* No comment provided by engineer. */
+"Please close this browser tab and return to PopClip." = "このブラウザのタブを閉じてPopClipに戻ってください。";
+
+/* No comment provided by engineer. */
+"PopClip  Icon Picker" = "PopClip アイコンピッカー";
+
+/* No comment provided by engineer. */
+"PopClip appears automatically when you select text with the pointer or when you click and hold." = "ポインターでテキストを選択するか、クリックして押し続けるとPopClipが自動的に表示されます。";
+
+/* No comment provided by engineer. */
+"PopClip can't find %@ on this computer. You probably need to install it." = "PopClipはこのコンピューターに%@ を見つけることが出来ません。インストールしてください。";
+
+/* No comment provided by engineer. */
+"PopClip could not load the following extensions:\n\n%@" = "PopClipは次の拡張機能を読み込めませんでした：
+
+%@";
+
+/* No comment provided by engineer. */
+"PopClip Extensions Directory" = "PopClip拡張機能ディレクトリ";
+
+/* No comment provided by engineer. */
+"PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClipは、他のアプリで選択したテキストを読んだり、あなたのためにアクションを実行するために、アクセシビリティアクセスを必要とします。";
+
+/* No comment provided by engineer. */
+"PopClip will check spelling in each selected language." = "PopClipは選択した言語でスペルチェックを実行します。";
+
+/* No comment provided by engineer. */
+"Popup Item" = "ポップアップ項目";
+
+/* No comment provided by engineer. */
+"Position" = "位置";
+
+/* Apple system color name; use Apple's official localized name */
+"Purple" = "パープル";
+
+/* No comment provided by engineer. */
+"Quit PopClip" = "PopClipを終了";
+
+/* No comment provided by engineer. */
+"Recently used apps" = "最近使用したアプリ";
+
+/* Apple system color name; use Apple's official localized name */
+"Red" = "レッド";
+
+/* icon picker font option */
+"Regular" = "標準";
+
+/* No comment provided by engineer. */
+"Relaunch" = "再起動";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@ (you have %@)." = "%1$@を使用するには再起動が必要です（現在のバージョン: %2$@）。";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@." = "%@を使用するには再起動してください。";
+
+/* text shown above release notes */
+"Release notes:" = "リリースノート:";
+
+/* Button title. Remove selected item from list. Actual button is '-' icon, text is for screen reader only. */
+"Remove" = "削除";
+
+/* No comment provided by engineer. */
+"Rename…" = "名前を変更…";
+
+/* No comment provided by engineer. */
+"Replace your search term with ***\nFor example: https://example.com/?q=***" = "検索語を***に置き換えてください\n例: https://example.com/?q=***";
+
+/* No comment provided by engineer. */
+"Request Accessibility Access" = "アクセシビリティアクセスをリクエストする";
+
+/* No comment provided by engineer. */
+"Reset to Default Icon" = "デフォルトアイコンに戻す";
+
+/* No comment provided by engineer. */
+"Restrict where PopClip can appear automatically." = "PopClipが自動で表示される範囲を制限します。";
+
+/* name of 'reveal in finder' feature */
+"Reveal in Finder" = "Finder に表示";
+
+/* icon picker: rotation control */
+"Rotate" = "回転";
+
+/* No comment provided by engineer. */
+"Rule:" = "ルール:";
+
+/* No comment provided by engineer. */
+"Rules" = "ルール";
+
+/* icon picker: scale (size) control */
+"Scale" = "拡大縮小";
+
+/* name of web search feature */
+"Search" = "検索";
+
+/* Search for icons from the 'Iconify' icon library */
+"Search Iconify" = "Iconifyを検索";
+
+/* No comment provided by engineer. */
+"Search URL" = "検索 URL";
+
+/* No comment provided by engineer. */
+"Searching %@ open source icons." = "%@個のオープンソースアイコンを検索中。";
+
+/* No comment provided by engineer. */
+"Select" = "選択";
+
+/* No comment provided by engineer. */
+"Separator" = "区切り線";
+
+/* No comment provided by engineer. */
+"Settings for \"%@\"" = "「%@」の設定";
+
+/* No comment provided by engineer. */
+"Settings…" = "設定…";
+
+/* icon picker: outer shape (none, square, circle) */
+"Shape" = "形状";
+
+/* No comment provided by engineer. */
+"Show \"%@\" in the actions list" = "アクションリストに「%@」を表示";
+
+/* No comment provided by engineer. */
+"Show As" = "表示形式";
+
+/* No comment provided by engineer. */
+"Show in menu bar" = "メニューバーに表示";
+
+/* No comment provided by engineer. */
+"Show Secret" = "シークレットを表示";
+
+/* No comment provided by engineer. */
+"Show Specifier" = "指定子を表示";
+
+/* No comment provided by engineer. */
+"Sign In" = "サインイン";
+
+/* No comment provided by engineer. */
+"Sign in failed." = "サインインに失敗しました。";
+
+/* No comment provided by engineer. */
+"Sign in to your %@ account." = "%@アカウントにサインインする";
+
+/* No comment provided by engineer. */
+"Sign Out" = "サインアウト";
+
+/* extension info: code-signing status */
+"Signature" = "署名";
+
+/* No comment provided by engineer. */
+"Signed in: %@" = "サインイン中: %@";
+
+/* No comment provided by engineer. */
+"Size" = "サイズ";
+
+/* No comment provided by engineer. */
+"Snippet" = "スニペット";
+
+/* No comment provided by engineer. */
+"Snippet is too long (%@ chars; max %@)" = "スニペットが長すぎます（%1$@文字、最大%2$@文字）";
+
+/* No comment provided by engineer. */
+"Software Update" = "ソフトウェアの更新";
+
+/* No comment provided by engineer. */
+"Sort" = "並べ替え";
+
+/* No comment provided by engineer. */
+"Sort by Date" = "日付順に並べ替え";
+
+/* No comment provided by engineer. */
+"Sort by Name" = "名前順に並べ替え";
+
+/* name of spelling checker feature */
+"Spelling" = "スペル";
+
+/* No comment provided by engineer. */
+"Square" = "四角形";
+
+/* No comment provided by engineer. */
+"Start at login" = "ログイン時に開始";
+
+/* URL rule description */
+"Starts with" = "次で始まる";
+
+/* icon picker option: diagonal 'strike' or 'slash' line drawn over icon */
+"Strike" = "斜線";
+
+/* No comment provided by engineer. */
+"Style" = "スタイル";
+
+/* Apple system color name; use Apple's official localized name */
+"Teal" = "ティール";
+
+/* No comment provided by engineer. */
+"Technical information:" = "技術情報:";
+
+/* icon picker: use typed text as the icon */
+"Text" = "テキスト";
+
+/* No comment provided by engineer. */
+"Text file" = "テキストファイル";
+
+/* No comment provided by engineer. */
+"Text Only" = "テキストのみ";
+
+/* No comment provided by engineer. */
+"The application appears to be corrupted. Please install a fresh copy." = "アプリケーションが破損しているようです。インストールし直してください。";
+
+/* No comment provided by engineer. */
+"This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "この拡張機能はこのバージョンのPopClipと互換性がありません。PopClipを最新バージョンに更新してください。";
+
+/* No comment provided by engineer. */
+"This extension requires macOS version %@ or above." = "この拡張機能には macOS バージョン %@ 以上が必要です。";
+
+/* the free trial has expired */
+"Trial Expired" = "トライアルの有効期限が切れました";
+
+/* No comment provided by engineer. */
+"Unavailable Action" = "利用できないアクション";
+
+/* No comment provided by engineer. */
+"Unknown" = "不明";
+
+/* No comment provided by engineer. */
+"Unsigned" = "未署名";
+
+/* No comment provided by engineer. */
+"Unsigned Extension" = "未署名の拡張機能";
+
+/* No comment provided by engineer. */
+"Up to date" = "最新です";
+
+/* No comment provided by engineer. */
+"Update automatically" = "自動的に更新";
+
+/* Extensions list subtitle when an update is available */
+"Update available" = "更新があります";
+
+/* No comment provided by engineer. */
+"Update error" = "更新エラー";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Updated %@" = "%@に更新";
+
+/* No comment provided by engineer. */
+"Updater error" = "更新プログラムのエラー";
+
+/* No comment provided by engineer. */
+"Updates" = "更新";
+
+/* No comment provided by engineer. */
+"URL scheme" = "URLスキーム";
+
+/* No comment provided by engineer. */
+"Use the keyboard shortcut to trigger PopClip manually." = "キーボードショートカットを使ってPopClipを手動で呼び出します。";
+
+/* No comment provided by engineer. */
+"User-generated" = "ユーザー生成";
+
+/* No comment provided by engineer. */
+"Verified" = "検証済み";
+
+/* No comment provided by engineer. */
+"Version" = "バージョン";
+
+/* button to show release notes */
+"View Details…" = "詳細を表示…";
+
+/* No comment provided by engineer. */
+"View Source" = "ソースを表示";
+
+/* No comment provided by engineer. */
+"View Web Page" = "Webページを表示";
+
+/* Visit the website for the name app e.g. Visit Evernote Website */
+"Visit %@ Website" = "%@ウェブサイトにアクセス";
+
+/* No comment provided by engineer. */
+"Waiting to check for updates" = "更新の確認を待機中";
+
+/* No comment provided by engineer. */
+"Waiting…" = "待機中…";
+
+/* No comment provided by engineer. */
+"Web Page" = "Webページ";
+
+/* No comment provided by engineer. */
+"Website Address" = "ウェブサイトアドレス";
+
+/* No comment provided by engineer. */
+"Websites…" = "ウェブサイト…";
+
+/* Apple system color name; use Apple's official localized name */
+"Yellow" = "イエロー";
+
+/* No comment provided by engineer. */
+"You are signed in to %@." = "%@にサインインしています。";
+
+/* No comment provided by engineer. */
+"You're all set! No settings to configure." = "準備完了です。設定項目はありません。";
+
+/* No comment provided by engineer. */
+"Your License" = "ライセンス";
+
+/* No comment provided by engineer. */
+"Zip file" = "Zipファイル";
+
+/* No comment provided by engineer. */
+"⚠️ Authorization failed." = "⚠️ 承認に失敗しました。";
+
+/* URL rule description */
+"⚠️ Invalid" = "⚠️ 無効";
+
+/* No comment provided by engineer. */
+"✅ PopClip Extension \"%@\" authorized." = "✅ PopClipの拡張機能「%@」が承認されました。";

@@ -1,0 +1,881 @@
+/* Popup tooltip. %1$@ layout name, %2$@ action title. */
+"%1$@: %2$@" = "%1$@: %2$@";
+
+/* message shown when PopClip cannot appear automatically because it is blocked by the user's settings */
+"%@ is excluded" = "%@ je vylúčený";
+
+/* message shown when PopClip cannot appear automatically in the given app due to compatibility problem. Example `Pixelmator Pro is not compatible` */
+"%@ is not compatible" = "%@ nie je kompatibilný";
+
+/* Example: 1.6 is now available (you have 1.5.2) */
+"%@ is now available (you have %@)." = "%1$@ je teraz k dispozícii (máte %2$@).";
+
+/* Example: 1.6 is now available */
+"%@ is now available." = "%@ je teraz k dispozícii.";
+
+/* Placeholder is app name. Example: `PopClip Update Available` */
+"%@ Update Available" = "%@ – k dispozícii je aktualizácia";
+
+/* Placeholder is app name. Example: `PopClip Update Ready` */
+"%@ Update Ready" = "%@ – aktualizácia je pripravená";
+
+/* number of extensions updated; plural forms in Localizable.stringsdict */
+"%lu extensions updated" = "Aktualizovaných %lu rozšírení";
+
+/* number of updates available; plural forms in Localizable.stringsdict */
+"%lu updates available" = "K dispozícii je %lu aktualizácií";
+
+/* number of uses remaining in the free trial; plural forms in Localizable.stringsdict */
+"%lu Uses Left" = "zostáva %lu použití";
+
+/* click this button to get 10 more uses in the free trial */
+"+10 Uses" = "+10 použití";
+
+/* entry in selection list to indicate no selection */
+"- None -" = "- Žiadny -";
+
+/* icon picker: hint that the typed text may be 1 to 3 characters */
+"1–3 characters" = "1–3 znaky";
+
+/* No comment provided by engineer. */
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "\"%@\" nie je podpísané spoločnosťou Pilotmoon Software. Toto rozšírenie nainštalujte iba vtedy, ak ste ho získali zo zdroja, ktorému dôverujete.";
+
+/* No comment provided by engineer. */
+"\"%@\" Settings" = "Nastavenia „%@“";
+
+/* No comment provided by engineer. */
+"Above Text" = "Nad textom";
+
+/* No comment provided by engineer. */
+"Accessibility access is required" = "Vyžaduje sa prístup";
+
+/* No comment provided by engineer. */
+"Action" = "Akcia";
+
+/* No comment provided by engineer. */
+"Action Settings" = "Nastavenia akcie";
+
+/* Title of prefs pane for configuring actions. Translator: Please use the shortest possible term here */
+"Actions" = "Akcie";
+
+/* No comment provided by engineer. */
+"Activation" = "Aktivácia";
+
+/* Button title. Add new item to list. Actual button is '+' icon, text is for screen reader only. */
+"Add" = "Pridať";
+
+/* icon picker: button revealing the icon adjustment controls */
+"Adjust" = "Upraviť";
+
+/* No comment provided by engineer. */
+"Alternate Search URL" = "URL alternatívneho vyhľadávania";
+
+/* URL rule description */
+"and subdomains" = "a subdomény";
+
+/* Title of prefs pane for 'App' settings (about, version, license). Translator: Please use the shortest possible term here */
+"App" = "Aplikácia";
+
+/* No comment provided by engineer. */
+"App Settings" = "Nastavenia aplikácie";
+
+/* No comment provided by engineer. */
+"Appear automatically" = "Zobrazovať automaticky";
+
+/* No comment provided by engineer. */
+"Appearance" = "Vzhľad";
+
+/* No comment provided by engineer. */
+"Apply" = "Použiť";
+
+/* No comment provided by engineer. */
+"Apps…" = "Aplikácie…";
+
+/* No comment provided by engineer. */
+"Authorized" = "Autorizované";
+
+/* Dark/light mode will be the same as the operating system setting */
+"Auto" = "Automatická";
+
+/* Dark/light mode will be opposite to the operating system setting */
+"Auto (Inverse)" = "Autom. (inverzná)";
+
+/* No comment provided by engineer. */
+"Automatic update" = "Automatická aktualizácia";
+
+/* No comment provided by engineer. */
+"Automatic updates" = "Automatické aktualizácie";
+
+/* Action settings subtitle. %1$@ is the source extension name. */
+"Based on %1$@" = "Na základe %1$@";
+
+/* No comment provided by engineer. */
+"Below Text" = "Pod textom";
+
+/* Apple system color name; use Apple's official localized name */
+"Blue" = "Modrá";
+
+/* Apple system color name; use Apple's official localized name */
+"Brown" = "Hnedá";
+
+/* Extensions list subtitle for a built-in action */
+"Built-in" = "Vstavané";
+
+/* click button to buy the app */
+"Buy" = "Kúpiť";
+
+/* No comment provided by engineer. */
+"Buy license key" = "Kúpiť licenčný kľúč";
+
+/* as in 'by Nick Moore' */
+"by" = "Autor";
+
+/* icon attribution author line */
+"by %@" = "od %@";
+
+/* No comment provided by engineer. */
+"Cancel" = "Zrušiť";
+
+/* 1=name of app */
+"Cannot start %1$@" = "%1$@ sa nedá spustiť";
+
+/* No comment provided by engineer. */
+"Capabilities" = "Možnosti";
+
+/* No comment provided by engineer. */
+"Change Icon…" = "Zmeniť ikonu…";
+
+/* No comment provided by engineer. */
+"Check for extension updates" = "Skontrolovať aktualizácie rozšírení";
+
+/* No comment provided by engineer. */
+"Check for updates" = "Skontrolovať aktualizácie";
+
+/* No comment provided by engineer. */
+"Checking for updates…" = "Kontrolujú sa aktualizácie…";
+
+/* No comment provided by engineer. */
+"Checking…" = "Kontroluje sa…";
+
+/* No comment provided by engineer. */
+"Circle" = "Kruh";
+
+/* No comment provided by engineer. */
+"Clear" = "Vymazať";
+
+/* No comment provided by engineer. */
+"Close" = "Zatvoriť";
+
+/* No comment provided by engineer. */
+"Color" = "Farba";
+
+/* example: Connecting to updateserver.example.com… */
+"Connecting to %@…" = "Pripája sa k %@…";
+
+/* Displayed when something has been copied to the clipboard */
+"Copied" = "Skopírované";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopírovať";
+
+/* No comment provided by engineer. */
+"Copy PNG Image" = "Kopírovať obrázok PNG";
+
+/* No comment provided by engineer. */
+"Copy Specifier" = "Kopírovať špecifikátor";
+
+/* No comment provided by engineer. */
+"Couldn't reach the update server (status %lu)." = "Nepodarilo sa pripojiť k serveru aktualizácií (stav %lu).";
+
+/* No comment provided by engineer. */
+"Custom" = "Vlastné";
+
+/* No comment provided by engineer. */
+"Custom…" = "Vlastné…";
+
+/* Apple system color name; use Apple's official localized name */
+"Cyan" = "Azúrová";
+
+/* Indicates Dark color appearance */
+"Dark" = "Tmavá";
+
+/* No comment provided by engineer. */
+"Date" = "Dátum";
+
+/* No comment provided by engineer. */
+"Debug Console" = "Ladiaca konzola";
+
+/* No comment provided by engineer. */
+"Delete" = "Odstrániť";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "Odstrániť priečinok";
+
+/* No comment provided by engineer. */
+"Delete Separator" = "Odstrániť oddeľovač";
+
+/* No comment provided by engineer. */
+"Developer-signed" = "Podpísané vývojárom";
+
+/* name of dictionary look-up feature */
+"Dictionary" = "Slovník";
+
+/* URL rule description */
+"Domain" = "Doména";
+
+/* button title */
+"Don't Install" = "Neinštalovať";
+
+/* No comment provided by engineer. */
+"Done" = "Hotovo";
+
+/* No comment provided by engineer. */
+"Downloaded %@ of %@…" = "Stiahnuté %1$@ z %2$@…";
+
+/* No comment provided by engineer. */
+"Downloading update…" = "Sťahuje sa aktualizácia…";
+
+/* No comment provided by engineer. */
+"Duplicate" = "Duplikovať";
+
+/* extension entitlement: the extension generates its actions dynamically */
+"Dynamic" = "Dynamické";
+
+/* No comment provided by engineer. */
+"Email" = "E-mail";
+
+/* No comment provided by engineer. */
+"Enabled" = "Aktivované";
+
+/* extension info: special permissions the extension has */
+"Entitlements" = "Oprávnenia";
+
+/* No comment provided by engineer. */
+"Error decoding icon" = "Chyba pri dekódovaní ikony";
+
+/* No comment provided by engineer. */
+"Error downloading icon" = "Chyba pri sťahovaní ikony";
+
+/* No comment provided by engineer. */
+"Error rendering icon" = "Chyba pri vykresľovaní ikony";
+
+/* sample text */
+"Example" = "Príklad";
+
+/* No comment provided by engineer. */
+"Exclude these apps" = "Vylúčiť tieto aplikácie";
+
+/* No comment provided by engineer. */
+"Exclude these websites:" = "Vylúčiť tieto webové stránky:";
+
+/* No comment provided by engineer. */
+"Expires: %@" = "Platnosť končí: %@";
+
+/* No comment provided by engineer. */
+"Extension Commands" = "Príkazy rozšírenia";
+
+/* No comment provided by engineer. */
+"Extension Info" = "Informácie o rozšírení";
+
+/* No comment provided by engineer. */
+"Extension Install Error" = "Chyba inštalácie rozšírenia";
+
+/* No comment provided by engineer. */
+"Extension Load Error" = "Chyba načítania rozšírenia";
+
+/* No comment provided by engineer. */
+"Extensions" = "Rozšírenia";
+
+/* Extracted percentage */
+"Extracted %d%%…" = "Extrahované %d%%…";
+
+/* No comment provided by engineer. */
+"Extracting update…" = "Prebieha extrakcia aktualizácie…";
+
+/* No comment provided by engineer. */
+"File" = "Súbor";
+
+/* icon picker option: shape is filled, not outline */
+"Fill" = "Výplň";
+
+/* No comment provided by engineer. */
+"Filter Actions" = "Filtrovať akcie";
+
+/* icon picker: flip (mirror) control */
+"Flip" = "Prevrátiť";
+
+/* No comment provided by engineer. */
+"Flip Horizontal" = "Prevrátiť vodorovne";
+
+/* No comment provided by engineer. */
+"Flip Vertical" = "Prevrátiť zvislo";
+
+/* No comment provided by engineer. */
+"Folder" = "Priečinok";
+
+/* No comment provided by engineer. */
+"Font" = "Písmo";
+
+/* No comment provided by engineer. */
+"Forum" = "Diskusia";
+
+/* No comment provided by engineer. */
+"Free Trial" = "Bezplatná skúšobná verzia";
+
+/* No comment provided by engineer. */
+"Free uses left: %lu" = "Zostávajúce voľné použitia: %lu";
+
+/* Title of general settings pane. Translator: Please use the shortest possible term here */
+"General" = "Všeobecné";
+
+/* No comment provided by engineer. */
+"Get Extensions" = "Získať rozšírenia";
+
+/* Apple system color name; use Apple's official localized name */
+"Green" = "Zelená";
+
+/* No comment provided by engineer. */
+"Guide" = "Príručka";
+
+/* No comment provided by engineer. */
+"Hide Secret" = "Skryť tajný údaj";
+
+/* No comment provided by engineer. */
+"Hold Option (⌥) for alternate search." = "Podržte Option (⌥) pre alternatívne vyhľadávanie.";
+
+/* URL rule description */
+"Host" = "Hostiteľ";
+
+/* No comment provided by engineer. */
+"iCloud Sync" = "iCloud synchronizácia";
+
+/* No comment provided by engineer. */
+"Icon" = "Ikona";
+
+/* No comment provided by engineer. */
+"Icon and Text" = "Ikona a text";
+
+/* No comment provided by engineer. */
+"Icon error" = "Chyba ikony";
+
+/* No comment provided by engineer. */
+"Icon not found" = "Ikona sa nenašla";
+
+/* No comment provided by engineer. */
+"Icon Only" = "Len ikona";
+
+/* No comment provided by engineer. */
+"Icon Picker" = "Výber ikony";
+
+/* No comment provided by engineer. */
+"Icon preview" = "Náhľad ikony";
+
+/* No comment provided by engineer. */
+"Icon search failed. Check internet connection." = "Vyhľadávanie ikon zlyhalo. Skontrolujte internetové pripojenie.";
+
+/* No comment provided by engineer. */
+"Icon Specifier" = "Špecifikátor ikony";
+
+/* No comment provided by engineer. */
+"Icon Specifier Help" = "Pomocník špecifikátora ikony";
+
+/* No comment provided by engineer. */
+"Icon specifier is too long." = "Špecifikátor ikony je príliš dlhý.";
+
+/* No comment provided by engineer. */
+"Icon timed out" = "Načítanie ikony prekročilo časový limit";
+
+/* extension info: the extension's bundle identifier */
+"Identifier" = "Identifikátor";
+
+/* No comment provided by engineer. */
+"Include beta versions" = "Vrátane beta verzií";
+
+/* No comment provided by engineer. */
+"Include colored icons" = "Zahrnúť farebné ikony";
+
+/* No comment provided by engineer. */
+"Include only these apps" = "Zahrnúť iba tieto aplikácie";
+
+/* No comment provided by engineer. */
+"Including colored icons" = "Vrátane farebných ikon";
+
+/* Apple system color name; use Apple's official localized name */
+"Indigo" = "Indigová";
+
+/* button title: install the named externsion */
+"Install \"%@\"" = "Inštalovať \"%@\"";
+
+/* No comment provided by engineer. */
+"Install automatically" = "Inštalovať automaticky";
+
+/* No comment provided by engineer. */
+"Install Update" = "Inštalovať aktualizáciu";
+
+/* No comment provided by engineer. */
+"Installation" = "Inštalácia";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Installed %@" = "Nainštalované %@";
+
+/* No comment provided by engineer. */
+"Installing update…" = "Inštalácia aktualizácie…";
+
+/* No comment provided by engineer. */
+"Installing…" = "Inštaluje sa…";
+
+/* No comment provided by engineer. */
+"Instances" = "Inštancie";
+
+/* No comment provided by engineer. */
+"Invalid icon specifier" = "Neplatný špecifikátor ikony";
+
+/* Example: `Last checked: Just now`. Indicates a time within the last minute */
+"Just now" = "Práve teraz";
+
+/* No comment provided by engineer. */
+"Keyboard shortcut" = "Klávesová skratka";
+
+/* No comment provided by engineer. */
+"Language" = "Jazyk";
+
+/* No comment provided by engineer. */
+"Languages" = "Jazyky";
+
+/* No comment provided by engineer. */
+"Last checked: %@" = "Posledná kontrola: %@";
+
+/* No comment provided by engineer. */
+"Learn More…" = "Viac informácií…";
+
+/* No comment provided by engineer. */
+"License Details" = "Podrobnosti o licencii";
+
+/* No comment provided by engineer. */
+"License Details…" = "Podrobnosti o licencii…";
+
+/* No comment provided by engineer. */
+"License key not valid" = "Licenčný kľúč nie je platný";
+
+/* Indicates Light color appearance */
+"Light" = "Svetlá";
+
+/* No comment provided by engineer. */
+"Loading icon…" = "Načítava sa ikona…";
+
+/* No comment provided by engineer. */
+"Main Menu" = "Hlavné menu";
+
+/* No comment provided by engineer. */
+"Manage Extensions…" = "Spravovať rozšírenia…";
+
+/* extension info: how the extension was installed (snippet, file, URL scheme, etc.) */
+"Method" = "Spôsob";
+
+/* No comment provided by engineer. */
+"Migrated from previous PopClip version" = "Prenesené z predchádzajúcej verzie PopClip";
+
+/* Apple system color name; use Apple's official localized name */
+"Mint" = "Mätová";
+
+/* name of missing third party app */
+"Missing App: %@" = "Chýbajúca aplikácia: %@";
+
+/* icon picker font option */
+"Monospaced" = "Neproporcionálne";
+
+/* No comment provided by engineer. */
+"More (Page %lu of %lu)" = "Viac (strana %1$lu z %2$lu)";
+
+/* icon picker: position offset control */
+"Move" = "Posun";
+
+/* icon picker: horizontal position offset */
+"Move X" = "Posun X";
+
+/* icon picker: vertical position offset */
+"Move Y" = "Posun Y";
+
+/* No comment provided by engineer. */
+"Name" = "Názov";
+
+/* extension entitlement: the extension can access the network */
+"Network" = "Sieť";
+
+/* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
+"Never" = "Nikdy";
+
+/* No comment provided by engineer. */
+"New Folder" = "Nový priečinok";
+
+/* No comment provided by engineer. */
+"New Instance" = "Nová inštancia";
+
+/* No comment provided by engineer. */
+"New Separator" = "Nový oddeľovač";
+
+/* No comment provided by engineer. */
+"No extensions installed" = "Nie sú nainštalované žiadne rozšírenia";
+
+/* No comment provided by engineer. */
+"No icons found." = "Nenašli sa žiadne ikony.";
+
+/* No comment provided by engineer. */
+"None" = "Žiadne";
+
+/* No comment provided by engineer. */
+"Not Authorized" = "Neautorizované";
+
+/* No comment provided by engineer. */
+"Not Now" = "Teraz nie";
+
+/* No comment provided by engineer. */
+"Notify only" = "Iba upozorniť";
+
+/* No comment provided by engineer. */
+"Off" = "Vypnuté";
+
+/* No comment provided by engineer. */
+"One or more extensions could not be updated." = "Jedno alebo viac rozšírení sa nepodarilo aktualizovať.";
+
+/* name of link opening feature */
+"Open Link" = "Otvoriť odkaz";
+
+/* No comment provided by engineer. */
+"Open Links" = "Otvoriť odkazy";
+
+/* Accessibility help for a popup button that opens a submenu. */
+"Opens submenu" = "Otvorí podmenu";
+
+/* Apple system color name; use Apple's official localized name */
+"Orange" = "Oranžová";
+
+/* extension info: where the extension came from (built-in, extensions directory, etc.) */
+"Origin" = "Pôvod";
+
+/* No comment provided by engineer. */
+"Other…" = "Iné…";
+
+/* No comment provided by engineer. */
+"Package folder" = "Priečinok balíka";
+
+/* No comment provided by engineer. */
+"Permissions" = "Povolenia";
+
+/* Apple system color name; use Apple's official localized name */
+"Pink" = "Ružová";
+
+/* No comment provided by engineer. */
+"Please close this browser tab and return to PopClip." = "Zatvorte túto kartu prehliadača a vráťte sa do PopClip.";
+
+/* No comment provided by engineer. */
+"PopClip  Icon Picker" = "PopClip  Výber ikony";
+
+/* No comment provided by engineer. */
+"PopClip appears automatically when you select text with the pointer or when you click and hold." = "PopClip sa automaticky zobrazí, keď vyberiete text ukazovateľom alebo keď kliknete a podržíte.";
+
+/* No comment provided by engineer. */
+"PopClip can't find %@ on this computer. You probably need to install it." = "PopClip nemôže nájsť %@ na tomto počítači. Pravdepodobne ho budete musieť nainštalovať.";
+
+/* No comment provided by engineer. */
+"PopClip could not load the following extensions:\n\n%@" = "PopClip nemohol načítať nasledujúce rozšírenia:\n\n%@";
+
+/* No comment provided by engineer. */
+"PopClip Extensions Directory" = "Adresár rozšírení PopClip";
+
+/* No comment provided by engineer. */
+"PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip potrebuje prístup k Zjednodušenému prístupu, aby mohol čítať text, ktorý vyberiete v iných aplikáciách, a vykonávať akcie za vás.";
+
+/* No comment provided by engineer. */
+"PopClip will check spelling in each selected language." = "PopClip skontroluje pravopis v každom zvolenom jazyku.";
+
+/* No comment provided by engineer. */
+"Popup Item" = "Položka vyskakovacieho okna";
+
+/* No comment provided by engineer. */
+"Position" = "Umiestnenie";
+
+/* Apple system color name; use Apple's official localized name */
+"Purple" = "Fialová";
+
+/* No comment provided by engineer. */
+"Quit PopClip" = "Ukončiť PopClip";
+
+/* No comment provided by engineer. */
+"Recently used apps" = "Nedávno použité aplikácie";
+
+/* Apple system color name; use Apple's official localized name */
+"Red" = "Červená";
+
+/* icon picker font option */
+"Regular" = "Normálne";
+
+/* No comment provided by engineer. */
+"Relaunch" = "Reštartovať";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@ (you have %@)." = "Ak chcete použiť %1$@, reštartujte program (máte %2$@).";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@." = "Reštartujte na použitie %@.";
+
+/* text shown above release notes */
+"Release notes:" = "Poznámky k vydaniu:";
+
+/* Button title. Remove selected item from list. Actual button is '-' icon, text is for screen reader only. */
+"Remove" = "Odstrániť";
+
+/* No comment provided by engineer. */
+"Rename…" = "Premenovať…";
+
+/* No comment provided by engineer. */
+"Replace your search term with ***\nFor example: https://example.com/?q=***" = "Nahraďte hľadaný výraz znakmi ***\nNapríklad: https://example.com/?q=***";
+
+/* No comment provided by engineer. */
+"Request Accessibility Access" = "Vyžiadať prístup";
+
+/* No comment provided by engineer. */
+"Reset to Default Icon" = "Obnoviť predvolenú ikonu";
+
+/* No comment provided by engineer. */
+"Restrict where PopClip can appear automatically." = "Obmedziť miesta, kde sa môže PopClip automaticky zobrazovať.";
+
+/* name of 'reveal in finder' feature */
+"Reveal in Finder" = "Zobraziť vo Finderi";
+
+/* icon picker: rotation control */
+"Rotate" = "Otočiť";
+
+/* No comment provided by engineer. */
+"Rule:" = "Pravidlo:";
+
+/* No comment provided by engineer. */
+"Rules" = "Pravidlá";
+
+/* icon picker: scale (size) control */
+"Scale" = "Mierka";
+
+/* name of web search feature */
+"Search" = "Vyhľadať";
+
+/* Search for icons from the 'Iconify' icon library */
+"Search Iconify" = "Hľadať v Iconify";
+
+/* No comment provided by engineer. */
+"Search URL" = "URL vyhľadávania";
+
+/* No comment provided by engineer. */
+"Searching %@ open source icons." = "Prehľadáva sa %@ ikon s otvoreným zdrojovým kódom.";
+
+/* No comment provided by engineer. */
+"Select" = "Vybrať";
+
+/* No comment provided by engineer. */
+"Separator" = "Oddeľovač";
+
+/* No comment provided by engineer. */
+"Settings for \"%@\"" = "Nastavenia pre „%@“";
+
+/* No comment provided by engineer. */
+"Settings…" = "Nastavenia…";
+
+/* icon picker: outer shape (none, square, circle) */
+"Shape" = "Tvar";
+
+/* No comment provided by engineer. */
+"Show \"%@\" in the actions list" = "Zobraziť „%@“ v zozname akcií";
+
+/* No comment provided by engineer. */
+"Show As" = "Zobraziť ako";
+
+/* No comment provided by engineer. */
+"Show in menu bar" = "Zobraziť v lište";
+
+/* No comment provided by engineer. */
+"Show Secret" = "Zobraziť tajný údaj";
+
+/* No comment provided by engineer. */
+"Show Specifier" = "Zobraziť špecifikátor";
+
+/* No comment provided by engineer. */
+"Sign In" = "Prihlásiť sa";
+
+/* No comment provided by engineer. */
+"Sign in failed." = "Prihlásenie sa nepodarilo.";
+
+/* No comment provided by engineer. */
+"Sign in to your %@ account." = "Prihláste sa do svojho %@ účtu.";
+
+/* No comment provided by engineer. */
+"Sign Out" = "Odhlásiť sa";
+
+/* extension info: code-signing status */
+"Signature" = "Podpis";
+
+/* No comment provided by engineer. */
+"Signed in: %@" = "Prihlásené: %@";
+
+/* No comment provided by engineer. */
+"Size" = "Veľkosť";
+
+/* No comment provided by engineer. */
+"Snippet" = "Úryvok";
+
+/* No comment provided by engineer. */
+"Snippet is too long (%@ chars; max %@)" = "Úryvok je príliš dlhý (%1$@ znakov; max. %2$@)";
+
+/* No comment provided by engineer. */
+"Software Update" = "Aktualizácia softvéru";
+
+/* No comment provided by engineer. */
+"Sort" = "Zoradiť";
+
+/* No comment provided by engineer. */
+"Sort by Date" = "Zoradiť podľa dátumu";
+
+/* No comment provided by engineer. */
+"Sort by Name" = "Zoradiť podľa názvu";
+
+/* name of spelling checker feature */
+"Spelling" = "Pravopis";
+
+/* No comment provided by engineer. */
+"Square" = "Štvorec";
+
+/* No comment provided by engineer. */
+"Start at login" = "Spustiť pri prihlásení";
+
+/* URL rule description */
+"Starts with" = "Začína na";
+
+/* icon picker option: diagonal 'strike' or 'slash' line drawn over icon */
+"Strike" = "Preškrtnutie";
+
+/* No comment provided by engineer. */
+"Style" = "Štýl";
+
+/* Apple system color name; use Apple's official localized name */
+"Teal" = "Tyrkysová";
+
+/* No comment provided by engineer. */
+"Technical information:" = "Technické informácie:";
+
+/* icon picker: use typed text as the icon */
+"Text" = "Nápis";
+
+/* No comment provided by engineer. */
+"Text file" = "Textový súbor";
+
+/* No comment provided by engineer. */
+"Text Only" = "Len text";
+
+/* No comment provided by engineer. */
+"The application appears to be corrupted. Please install a fresh copy." = "Zdá sa, že aplikácia je poškodená. Nainštalujte ju nanovo.";
+
+/* No comment provided by engineer. */
+"This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Toto rozšírenie nie je kompatibilné s touto verziou PopClip. Aktualizujte na najnovšiu verziu PopClip.";
+
+/* No comment provided by engineer. */
+"This extension requires macOS version %@ or above." = "Toto rozšírenie vyžaduje macOS verziu %@ alebo vyššiu.";
+
+/* the free trial has expired */
+"Trial Expired" = "Skúšobná verzia vypršala";
+
+/* No comment provided by engineer. */
+"Unavailable Action" = "Nedostupná akcia";
+
+/* No comment provided by engineer. */
+"Unknown" = "Neznáme";
+
+/* No comment provided by engineer. */
+"Unsigned" = "Nepodpísané";
+
+/* No comment provided by engineer. */
+"Unsigned Extension" = "Nepodpísané rozšírenie";
+
+/* No comment provided by engineer. */
+"Up to date" = "Aktuálne";
+
+/* No comment provided by engineer. */
+"Update automatically" = "Aktualizovať automaticky";
+
+/* Extensions list subtitle when an update is available */
+"Update available" = "K dispozícii je aktualizácia";
+
+/* No comment provided by engineer. */
+"Update error" = "Chyba aktualizácie";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Updated %@" = "Aktualizované %@";
+
+/* No comment provided by engineer. */
+"Updater error" = "Chyba aktualizátora";
+
+/* No comment provided by engineer. */
+"Updates" = "Aktualizácie";
+
+/* No comment provided by engineer. */
+"URL scheme" = "Schéma URL";
+
+/* No comment provided by engineer. */
+"Use the keyboard shortcut to trigger PopClip manually." = "Na manuálne spustenie programu PopClip použite klávesovú skratku.";
+
+/* No comment provided by engineer. */
+"User-generated" = "Vytvorené používateľom";
+
+/* No comment provided by engineer. */
+"Verified" = "Overené";
+
+/* No comment provided by engineer. */
+"Version" = "Verzia";
+
+/* button to show release notes */
+"View Details…" = "Zobraziť podrobnosti…";
+
+/* No comment provided by engineer. */
+"View Source" = "Zobraziť zdroj";
+
+/* No comment provided by engineer. */
+"View Web Page" = "Zobraziť webovú stránku";
+
+/* Visit the website for the name app e.g. Visit Evernote Website */
+"Visit %@ Website" = "Navštíviť webovú stránku %@";
+
+/* No comment provided by engineer. */
+"Waiting to check for updates" = "Čaká sa na kontrolu aktualizácií";
+
+/* No comment provided by engineer. */
+"Waiting…" = "Čaká sa…";
+
+/* No comment provided by engineer. */
+"Web Page" = "Webová stránka";
+
+/* No comment provided by engineer. */
+"Website Address" = "Webová adresa";
+
+/* No comment provided by engineer. */
+"Websites…" = "Webové stránky…";
+
+/* Apple system color name; use Apple's official localized name */
+"Yellow" = "Žltá";
+
+/* No comment provided by engineer. */
+"You are signed in to %@." = "Ste prihlásený do %@.";
+
+/* No comment provided by engineer. */
+"You're all set! No settings to configure." = "Všetko je pripravené! Nie je potrebné nič nastavovať.";
+
+/* No comment provided by engineer. */
+"Your License" = "Vaša licencia";
+
+/* No comment provided by engineer. */
+"Zip file" = "Zip súbor";
+
+/* No comment provided by engineer. */
+"⚠️ Authorization failed." = "⚠️ Autorizácia zlyhala.";
+
+/* URL rule description */
+"⚠️ Invalid" = "⚠️ Neplatné";
+
+/* No comment provided by engineer. */
+"✅ PopClip Extension \"%@\" authorized." = "✅ PopClip rozšírenie \"%@\" autorizované.";

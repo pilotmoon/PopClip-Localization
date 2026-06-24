@@ -1,0 +1,881 @@
+/* Popup tooltip. %1$@ layout name, %2$@ action title. */
+"%1$@: %2$@" = "%1$@：%2$@";
+
+/* message shown when PopClip cannot appear automatically because it is blocked by the user's settings */
+"%@ is excluded" = "%@ 已排除";
+
+/* message shown when PopClip cannot appear automatically in the given app due to compatibility problem. Example `Pixelmator Pro is not compatible` */
+"%@ is not compatible" = "%@ 不相容";
+
+/* Example: 1.6 is now available (you have 1.5.2) */
+"%@ is now available (you have %@)." = "%1$@ 現已可用（您目前擁有 %2$@）。";
+
+/* Example: 1.6 is now available */
+"%@ is now available." = "%@ 現已可用。";
+
+/* Placeholder is app name. Example: `PopClip Update Available` */
+"%@ Update Available" = "%@ 有新版本可用";
+
+/* Placeholder is app name. Example: `PopClip Update Ready` */
+"%@ Update Ready" = "%@ 更新已就緒";
+
+/* number of extensions updated; plural forms in Localizable.stringsdict */
+"%lu extensions updated" = "已更新 %lu 個擴充功能";
+
+/* number of updates available; plural forms in Localizable.stringsdict */
+"%lu updates available" = "有 %lu 項更新可用";
+
+/* number of uses remaining in the free trial; plural forms in Localizable.stringsdict */
+"%lu Uses Left" = "剩下 %lu 次使用次數";
+
+/* click this button to get 10 more uses in the free trial */
+"+10 Uses" = "+10 次使用次數";
+
+/* entry in selection list to indicate no selection */
+"- None -" = "- 無 -";
+
+/* icon picker: hint that the typed text may be 1 to 3 characters */
+"1–3 characters" = "1–3 個字元";
+
+/* No comment provided by engineer. */
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "「%@」未經 Pilotmoon 軟體簽章。若要安裝此擴充功能，請確認是從您信任的來源下載而來。";
+
+/* No comment provided by engineer. */
+"\"%@\" Settings" = "「%@」設定";
+
+/* No comment provided by engineer. */
+"Above Text" = "文字之上";
+
+/* No comment provided by engineer. */
+"Accessibility access is required" = "需要輔助使用存取權";
+
+/* No comment provided by engineer. */
+"Action" = "動作";
+
+/* No comment provided by engineer. */
+"Action Settings" = "動作設定";
+
+/* Title of prefs pane for configuring actions. Translator: Please use the shortest possible term here */
+"Actions" = "動作";
+
+/* No comment provided by engineer. */
+"Activation" = "啟用";
+
+/* Button title. Add new item to list. Actual button is '+' icon, text is for screen reader only. */
+"Add" = "新增";
+
+/* icon picker: button revealing the icon adjustment controls */
+"Adjust" = "調整";
+
+/* No comment provided by engineer. */
+"Alternate Search URL" = "備用搜尋 URL";
+
+/* URL rule description */
+"and subdomains" = "與子網域";
+
+/* Title of prefs pane for 'App' settings (about, version, license). Translator: Please use the shortest possible term here */
+"App" = "程式";
+
+/* No comment provided by engineer. */
+"App Settings" = "App 設定";
+
+/* No comment provided by engineer. */
+"Appear automatically" = "自動顯示";
+
+/* No comment provided by engineer. */
+"Appearance" = "外觀";
+
+/* No comment provided by engineer. */
+"Apply" = "套用";
+
+/* No comment provided by engineer. */
+"Apps…" = "App…";
+
+/* No comment provided by engineer. */
+"Authorized" = "已授權";
+
+/* Dark/light mode will be the same as the operating system setting */
+"Auto" = "自動";
+
+/* Dark/light mode will be opposite to the operating system setting */
+"Auto (Inverse)" = "自動 (反轉)";
+
+/* No comment provided by engineer. */
+"Automatic update" = "自動更新";
+
+/* No comment provided by engineer. */
+"Automatic updates" = "自動更新";
+
+/* Action settings subtitle. %1$@ is the source extension name. */
+"Based on %1$@" = "以 %1$@ 為基礎";
+
+/* No comment provided by engineer. */
+"Below Text" = "文字之下";
+
+/* Apple system color name; use Apple's official localized name */
+"Blue" = "藍色";
+
+/* Apple system color name; use Apple's official localized name */
+"Brown" = "棕色";
+
+/* Extensions list subtitle for a built-in action */
+"Built-in" = "內建";
+
+/* click button to buy the app */
+"Buy" = "購買";
+
+/* No comment provided by engineer. */
+"Buy license key" = "購買授權金鑰";
+
+/* as in 'by Nick Moore' */
+"by" = "開發者：";
+
+/* icon attribution author line */
+"by %@" = "作者：%@";
+
+/* No comment provided by engineer. */
+"Cancel" = "取消";
+
+/* 1=name of app */
+"Cannot start %1$@" = "無法開啟 %1$@";
+
+/* No comment provided by engineer. */
+"Capabilities" = "功能";
+
+/* No comment provided by engineer. */
+"Change Icon…" = "更改圖示…";
+
+/* No comment provided by engineer. */
+"Check for extension updates" = "檢查擴充功能更新";
+
+/* No comment provided by engineer. */
+"Check for updates" = "檢查更新";
+
+/* No comment provided by engineer. */
+"Checking for updates…" = "正在檢查更新…";
+
+/* No comment provided by engineer. */
+"Checking…" = "正在檢查…";
+
+/* No comment provided by engineer. */
+"Circle" = "圓形";
+
+/* No comment provided by engineer. */
+"Clear" = "清除";
+
+/* No comment provided by engineer. */
+"Close" = "關閉";
+
+/* No comment provided by engineer. */
+"Color" = "顏色";
+
+/* example: Connecting to updateserver.example.com… */
+"Connecting to %@…" = "正在連接到 %@…";
+
+/* Displayed when something has been copied to the clipboard */
+"Copied" = "已複製";
+
+/* No comment provided by engineer. */
+"Copy" = "複製";
+
+/* No comment provided by engineer. */
+"Copy PNG Image" = "複製 PNG 影像";
+
+/* No comment provided by engineer. */
+"Copy Specifier" = "複製指定碼";
+
+/* No comment provided by engineer. */
+"Couldn't reach the update server (status %lu)." = "無法連線至更新伺服器（狀態 %lu）。";
+
+/* No comment provided by engineer. */
+"Custom" = "自訂";
+
+/* No comment provided by engineer. */
+"Custom…" = "自訂…";
+
+/* Apple system color name; use Apple's official localized name */
+"Cyan" = "青色";
+
+/* Indicates Dark color appearance */
+"Dark" = "深色";
+
+/* No comment provided by engineer. */
+"Date" = "日期";
+
+/* No comment provided by engineer. */
+"Debug Console" = "偵錯主控台";
+
+/* No comment provided by engineer. */
+"Delete" = "刪除";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "刪除檔案夾";
+
+/* No comment provided by engineer. */
+"Delete Separator" = "刪除分隔線";
+
+/* No comment provided by engineer. */
+"Developer-signed" = "開發者簽署";
+
+/* name of dictionary look-up feature */
+"Dictionary" = "字典";
+
+/* URL rule description */
+"Domain" = "網域";
+
+/* button title */
+"Don't Install" = "不要安裝";
+
+/* No comment provided by engineer. */
+"Done" = "已完成";
+
+/* No comment provided by engineer. */
+"Downloaded %@ of %@…" = "已下載 %1$@ / %2$@…";
+
+/* No comment provided by engineer. */
+"Downloading update…" = "正在下載更新…";
+
+/* No comment provided by engineer. */
+"Duplicate" = "複製一份";
+
+/* extension entitlement: the extension generates its actions dynamically */
+"Dynamic" = "動態";
+
+/* No comment provided by engineer. */
+"Email" = "電子郵件";
+
+/* No comment provided by engineer. */
+"Enabled" = "已啟用";
+
+/* extension info: special permissions the extension has */
+"Entitlements" = "權限";
+
+/* No comment provided by engineer. */
+"Error decoding icon" = "解碼圖示時發生錯誤";
+
+/* No comment provided by engineer. */
+"Error downloading icon" = "下載圖示時發生錯誤";
+
+/* No comment provided by engineer. */
+"Error rendering icon" = "算繪圖示時發生錯誤";
+
+/* sample text */
+"Example" = "範例";
+
+/* No comment provided by engineer. */
+"Exclude these apps" = "排除這些 App";
+
+/* No comment provided by engineer. */
+"Exclude these websites:" = "排除這些網站：";
+
+/* No comment provided by engineer. */
+"Expires: %@" = "到期：%@";
+
+/* No comment provided by engineer. */
+"Extension Commands" = "擴充功能指令";
+
+/* No comment provided by engineer. */
+"Extension Info" = "擴充功能資訊";
+
+/* No comment provided by engineer. */
+"Extension Install Error" = "擴充功能安裝錯誤";
+
+/* No comment provided by engineer. */
+"Extension Load Error" = "擴充功能載入錯誤";
+
+/* No comment provided by engineer. */
+"Extensions" = "擴充功能";
+
+/* Extracted percentage */
+"Extracted %d%%…" = "已擷取 %d%%…";
+
+/* No comment provided by engineer. */
+"Extracting update…" = "正在解壓縮更新…";
+
+/* No comment provided by engineer. */
+"File" = "檔案";
+
+/* icon picker option: shape is filled, not outline */
+"Fill" = "填滿";
+
+/* No comment provided by engineer. */
+"Filter Actions" = "篩選動作";
+
+/* icon picker: flip (mirror) control */
+"Flip" = "翻轉";
+
+/* No comment provided by engineer. */
+"Flip Horizontal" = "水平翻轉";
+
+/* No comment provided by engineer. */
+"Flip Vertical" = "垂直翻轉";
+
+/* No comment provided by engineer. */
+"Folder" = "檔案夾";
+
+/* No comment provided by engineer. */
+"Font" = "字體";
+
+/* No comment provided by engineer. */
+"Forum" = "論壇";
+
+/* No comment provided by engineer. */
+"Free Trial" = "免費試用";
+
+/* No comment provided by engineer. */
+"Free uses left: %lu" = "剩餘免費次數：%lu";
+
+/* Title of general settings pane. Translator: Please use the shortest possible term here */
+"General" = "一般";
+
+/* No comment provided by engineer. */
+"Get Extensions" = "取得擴充功能";
+
+/* Apple system color name; use Apple's official localized name */
+"Green" = "綠色";
+
+/* No comment provided by engineer. */
+"Guide" = "指南";
+
+/* No comment provided by engineer. */
+"Hide Secret" = "隱藏密鑰";
+
+/* No comment provided by engineer. */
+"Hold Option (⌥) for alternate search." = "按住 Option (⌥) 進行備用搜尋。";
+
+/* URL rule description */
+"Host" = "主機";
+
+/* No comment provided by engineer. */
+"iCloud Sync" = "iCloud 同步";
+
+/* No comment provided by engineer. */
+"Icon" = "圖示";
+
+/* No comment provided by engineer. */
+"Icon and Text" = "圖示與文字";
+
+/* No comment provided by engineer. */
+"Icon error" = "圖示錯誤";
+
+/* No comment provided by engineer. */
+"Icon not found" = "找不到圖示";
+
+/* No comment provided by engineer. */
+"Icon Only" = "僅圖示";
+
+/* No comment provided by engineer. */
+"Icon Picker" = "圖示挑選器";
+
+/* No comment provided by engineer. */
+"Icon preview" = "圖示預覽";
+
+/* No comment provided by engineer. */
+"Icon search failed. Check internet connection." = "圖示搜尋失敗。請檢查網際網路連線。";
+
+/* No comment provided by engineer. */
+"Icon Specifier" = "圖示指定碼";
+
+/* No comment provided by engineer. */
+"Icon Specifier Help" = "圖示指定碼說明";
+
+/* No comment provided by engineer. */
+"Icon specifier is too long." = "圖示指定碼太長。";
+
+/* No comment provided by engineer. */
+"Icon timed out" = "圖示逾時";
+
+/* extension info: the extension's bundle identifier */
+"Identifier" = "識別碼";
+
+/* No comment provided by engineer. */
+"Include beta versions" = "包含beta版本";
+
+/* No comment provided by engineer. */
+"Include colored icons" = "包含彩色圖示";
+
+/* No comment provided by engineer. */
+"Include only these apps" = "僅納入這些 App";
+
+/* No comment provided by engineer. */
+"Including colored icons" = "包含彩色圖示";
+
+/* Apple system color name; use Apple's official localized name */
+"Indigo" = "靛藍色";
+
+/* button title: install the named externsion */
+"Install \"%@\"" = "安裝「%@」";
+
+/* No comment provided by engineer. */
+"Install automatically" = "自動安裝";
+
+/* No comment provided by engineer. */
+"Install Update" = "安裝更新";
+
+/* No comment provided by engineer. */
+"Installation" = "安裝";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Installed %@" = "於 %@ 安裝";
+
+/* No comment provided by engineer. */
+"Installing update…" = "正在安裝更新…";
+
+/* No comment provided by engineer. */
+"Installing…" = "正在安裝…";
+
+/* No comment provided by engineer. */
+"Instances" = "實例";
+
+/* No comment provided by engineer. */
+"Invalid icon specifier" = "無效的圖示指定碼";
+
+/* Example: `Last checked: Just now`. Indicates a time within the last minute */
+"Just now" = "剛剛";
+
+/* No comment provided by engineer. */
+"Keyboard shortcut" = "鍵盤快速鍵";
+
+/* No comment provided by engineer. */
+"Language" = "語言";
+
+/* No comment provided by engineer. */
+"Languages" = "語言";
+
+/* No comment provided by engineer. */
+"Last checked: %@" = "上次檢查時間：%@";
+
+/* No comment provided by engineer. */
+"Learn More…" = "了解更多…";
+
+/* No comment provided by engineer. */
+"License Details" = "授權詳細資料";
+
+/* No comment provided by engineer. */
+"License Details…" = "授權詳細資料…";
+
+/* No comment provided by engineer. */
+"License key not valid" = "授權金鑰無效";
+
+/* Indicates Light color appearance */
+"Light" = "亮色";
+
+/* No comment provided by engineer. */
+"Loading icon…" = "正在載入圖示…";
+
+/* No comment provided by engineer. */
+"Main Menu" = "主選單";
+
+/* No comment provided by engineer. */
+"Manage Extensions…" = "管理擴充功能…";
+
+/* extension info: how the extension was installed (snippet, file, URL scheme, etc.) */
+"Method" = "方法";
+
+/* No comment provided by engineer. */
+"Migrated from previous PopClip version" = "已從先前 PopClip 版本移轉";
+
+/* Apple system color name; use Apple's official localized name */
+"Mint" = "薄荷色";
+
+/* name of missing third party app */
+"Missing App: %@" = "缺少的應用程式：%@";
+
+/* icon picker font option */
+"Monospaced" = "等寬";
+
+/* No comment provided by engineer. */
+"More (Page %lu of %lu)" = "更多（第 %1$lu 頁，共 %2$lu 頁）";
+
+/* icon picker: position offset control */
+"Move" = "移動";
+
+/* icon picker: horizontal position offset */
+"Move X" = "X 位移";
+
+/* icon picker: vertical position offset */
+"Move Y" = "Y 位移";
+
+/* No comment provided by engineer. */
+"Name" = "名稱";
+
+/* extension entitlement: the extension can access the network */
+"Network" = "網路";
+
+/* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
+"Never" = "永不";
+
+/* No comment provided by engineer. */
+"New Folder" = "新增檔案夾";
+
+/* No comment provided by engineer. */
+"New Instance" = "新增實例";
+
+/* No comment provided by engineer. */
+"New Separator" = "新增分隔線";
+
+/* No comment provided by engineer. */
+"No extensions installed" = "尚未安裝擴充功能";
+
+/* No comment provided by engineer. */
+"No icons found." = "找不到圖示。";
+
+/* No comment provided by engineer. */
+"None" = "無";
+
+/* No comment provided by engineer. */
+"Not Authorized" = "未授權";
+
+/* No comment provided by engineer. */
+"Not Now" = "之後再說";
+
+/* No comment provided by engineer. */
+"Notify only" = "僅通知";
+
+/* No comment provided by engineer. */
+"Off" = "關閉";
+
+/* No comment provided by engineer. */
+"One or more extensions could not be updated." = "無法更新一或多個擴充功能。";
+
+/* name of link opening feature */
+"Open Link" = "開啟連結";
+
+/* No comment provided by engineer. */
+"Open Links" = "開啟連結";
+
+/* Accessibility help for a popup button that opens a submenu. */
+"Opens submenu" = "開啟子選單";
+
+/* Apple system color name; use Apple's official localized name */
+"Orange" = "橙色";
+
+/* extension info: where the extension came from (built-in, extensions directory, etc.) */
+"Origin" = "來源";
+
+/* No comment provided by engineer. */
+"Other…" = "其他…";
+
+/* No comment provided by engineer. */
+"Package folder" = "套件檔案夾";
+
+/* No comment provided by engineer. */
+"Permissions" = "取用授權";
+
+/* Apple system color name; use Apple's official localized name */
+"Pink" = "粉紅色";
+
+/* No comment provided by engineer. */
+"Please close this browser tab and return to PopClip." = "請關閉此瀏覽器頁籤並返回 PopClip。";
+
+/* No comment provided by engineer. */
+"PopClip  Icon Picker" = "PopClip  圖示挑選器";
+
+/* No comment provided by engineer. */
+"PopClip appears automatically when you select text with the pointer or when you click and hold." = "當您用滑鼠指標選取文字或點擊並按住時，PopClip 會自動顯示。";
+
+/* No comment provided by engineer. */
+"PopClip can't find %@ on this computer. You probably need to install it." = "PopClip 在這台電腦上找不到 %@，建議安裝。";
+
+/* No comment provided by engineer. */
+"PopClip could not load the following extensions:\n\n%@" = "PopClip 無法載入下列擴充功能：\n\n%@";
+
+/* No comment provided by engineer. */
+"PopClip Extensions Directory" = "PopClip 擴充功能目錄";
+
+/* No comment provided by engineer. */
+"PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip 需要輔助使用權限，以便讀取您在其他 App 中選取的文字並為您執行動作。";
+
+/* No comment provided by engineer. */
+"PopClip will check spelling in each selected language." = "PopClip 會在每個選取的語言中進行拼字檢查。";
+
+/* No comment provided by engineer. */
+"Popup Item" = "彈出項目";
+
+/* No comment provided by engineer. */
+"Position" = "位置";
+
+/* Apple system color name; use Apple's official localized name */
+"Purple" = "紫色";
+
+/* No comment provided by engineer. */
+"Quit PopClip" = "結束 PopClip";
+
+/* No comment provided by engineer. */
+"Recently used apps" = "最近使用的 App";
+
+/* Apple system color name; use Apple's official localized name */
+"Red" = "紅色";
+
+/* icon picker font option */
+"Regular" = "一般";
+
+/* No comment provided by engineer. */
+"Relaunch" = "重新啟動";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@ (you have %@)." = "重新啟動以使用 %1$@（您目前擁有 %2$@）。";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@." = "重新啟動以使用 %@。";
+
+/* text shown above release notes */
+"Release notes:" = "版本資訊：";
+
+/* Button title. Remove selected item from list. Actual button is '-' icon, text is for screen reader only. */
+"Remove" = "移除";
+
+/* No comment provided by engineer. */
+"Rename…" = "重新命名…";
+
+/* No comment provided by engineer. */
+"Replace your search term with ***\nFor example: https://example.com/?q=***" = "使用 *** 取代您的搜尋詞彙\n例如：https://example.com/?q=***";
+
+/* No comment provided by engineer. */
+"Request Accessibility Access" = "要求輔助使用存取權";
+
+/* No comment provided by engineer. */
+"Reset to Default Icon" = "重設為預設圖示";
+
+/* No comment provided by engineer. */
+"Restrict where PopClip can appear automatically." = "限制 PopClip 可自動顯示的位置。";
+
+/* name of 'reveal in finder' feature */
+"Reveal in Finder" = "在 Finder 中顯示";
+
+/* icon picker: rotation control */
+"Rotate" = "旋轉";
+
+/* No comment provided by engineer. */
+"Rule:" = "規則：";
+
+/* No comment provided by engineer. */
+"Rules" = "規則";
+
+/* icon picker: scale (size) control */
+"Scale" = "縮放";
+
+/* name of web search feature */
+"Search" = "搜尋";
+
+/* Search for icons from the 'Iconify' icon library */
+"Search Iconify" = "搜尋 Iconify";
+
+/* No comment provided by engineer. */
+"Search URL" = "搜尋 URL";
+
+/* No comment provided by engineer. */
+"Searching %@ open source icons." = "正在搜尋 %@ 個開放原始碼圖示。";
+
+/* No comment provided by engineer. */
+"Select" = "選取";
+
+/* No comment provided by engineer. */
+"Separator" = "分隔線";
+
+/* No comment provided by engineer. */
+"Settings for \"%@\"" = "「%@」的設定";
+
+/* No comment provided by engineer. */
+"Settings…" = "設定…";
+
+/* icon picker: outer shape (none, square, circle) */
+"Shape" = "形狀";
+
+/* No comment provided by engineer. */
+"Show \"%@\" in the actions list" = "在動作列表中顯示「%@」";
+
+/* No comment provided by engineer. */
+"Show As" = "顯示為";
+
+/* No comment provided by engineer. */
+"Show in menu bar" = "於選單列顯示圖示";
+
+/* No comment provided by engineer. */
+"Show Secret" = "顯示密鑰";
+
+/* No comment provided by engineer. */
+"Show Specifier" = "顯示指定碼";
+
+/* No comment provided by engineer. */
+"Sign In" = "登入";
+
+/* No comment provided by engineer. */
+"Sign in failed." = "登入失敗。";
+
+/* No comment provided by engineer. */
+"Sign in to your %@ account." = "登入您的 %@ 帳號。";
+
+/* No comment provided by engineer. */
+"Sign Out" = "登出";
+
+/* extension info: code-signing status */
+"Signature" = "簽章";
+
+/* No comment provided by engineer. */
+"Signed in: %@" = "已登入：%@";
+
+/* No comment provided by engineer. */
+"Size" = "大小";
+
+/* No comment provided by engineer. */
+"Snippet" = "片段";
+
+/* No comment provided by engineer. */
+"Snippet is too long (%@ chars; max %@)" = "片段太長（%1$@ 個字元；最多 %2$@ 個）";
+
+/* No comment provided by engineer. */
+"Software Update" = "軟體更新";
+
+/* No comment provided by engineer. */
+"Sort" = "排序";
+
+/* No comment provided by engineer. */
+"Sort by Date" = "依日期排序";
+
+/* No comment provided by engineer. */
+"Sort by Name" = "依名稱排序";
+
+/* name of spelling checker feature */
+"Spelling" = "拼字檢查";
+
+/* No comment provided by engineer. */
+"Square" = "方形";
+
+/* No comment provided by engineer. */
+"Start at login" = "登入時啟動";
+
+/* URL rule description */
+"Starts with" = "開頭為";
+
+/* icon picker option: diagonal 'strike' or 'slash' line drawn over icon */
+"Strike" = "斜線";
+
+/* No comment provided by engineer. */
+"Style" = "樣式";
+
+/* Apple system color name; use Apple's official localized name */
+"Teal" = "青綠色";
+
+/* No comment provided by engineer. */
+"Technical information:" = "技術資訊：";
+
+/* icon picker: use typed text as the icon */
+"Text" = "文字";
+
+/* No comment provided by engineer. */
+"Text file" = "文字檔";
+
+/* No comment provided by engineer. */
+"Text Only" = "僅文字";
+
+/* No comment provided by engineer. */
+"The application appears to be corrupted. Please install a fresh copy." = "這個應用程式似乎已經損毀。請安裝全新複本。";
+
+/* No comment provided by engineer. */
+"This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "擴充功能與此版本的 PopClip 不相容。請更新至 PopClip 最新版本。";
+
+/* No comment provided by engineer. */
+"This extension requires macOS version %@ or above." = "此擴充功能需要 macOS %@ 版或更新版本。";
+
+/* the free trial has expired */
+"Trial Expired" = "試用已過期";
+
+/* No comment provided by engineer. */
+"Unavailable Action" = "無法使用的動作";
+
+/* No comment provided by engineer. */
+"Unknown" = "未知";
+
+/* No comment provided by engineer. */
+"Unsigned" = "未簽署";
+
+/* No comment provided by engineer. */
+"Unsigned Extension" = "未經簽署的擴充功能";
+
+/* No comment provided by engineer. */
+"Up to date" = "已是最新版本";
+
+/* No comment provided by engineer. */
+"Update automatically" = "自動更新";
+
+/* Extensions list subtitle when an update is available */
+"Update available" = "有新版本可用";
+
+/* No comment provided by engineer. */
+"Update error" = "更新錯誤";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Updated %@" = "於 %@ 更新";
+
+/* No comment provided by engineer. */
+"Updater error" = "更新程式錯誤";
+
+/* No comment provided by engineer. */
+"Updates" = "更新";
+
+/* No comment provided by engineer. */
+"URL scheme" = "URL 方案";
+
+/* No comment provided by engineer. */
+"Use the keyboard shortcut to trigger PopClip manually." = "使用鍵盤快速鍵手動呼叫 PopClip。";
+
+/* No comment provided by engineer. */
+"User-generated" = "使用者產生";
+
+/* No comment provided by engineer. */
+"Verified" = "已驗證";
+
+/* No comment provided by engineer. */
+"Version" = "版本";
+
+/* button to show release notes */
+"View Details…" = "檢視詳細資訊…";
+
+/* No comment provided by engineer. */
+"View Source" = "檢視原始碼";
+
+/* No comment provided by engineer. */
+"View Web Page" = "檢視網頁";
+
+/* Visit the website for the name app e.g. Visit Evernote Website */
+"Visit %@ Website" = "造訪 %@ 網站";
+
+/* No comment provided by engineer. */
+"Waiting to check for updates" = "正在等待檢查更新";
+
+/* No comment provided by engineer. */
+"Waiting…" = "正在等待…";
+
+/* No comment provided by engineer. */
+"Web Page" = "網頁";
+
+/* No comment provided by engineer. */
+"Website Address" = "網站位址";
+
+/* No comment provided by engineer. */
+"Websites…" = "網站…";
+
+/* Apple system color name; use Apple's official localized name */
+"Yellow" = "黃色";
+
+/* No comment provided by engineer. */
+"You are signed in to %@." = "您已登入 %@。";
+
+/* No comment provided by engineer. */
+"You're all set! No settings to configure." = "一切就緒！沒有要設定的項目。";
+
+/* No comment provided by engineer. */
+"Your License" = "您的授權";
+
+/* No comment provided by engineer. */
+"Zip file" = "Zip 檔案";
+
+/* No comment provided by engineer. */
+"⚠️ Authorization failed." = "⚠️ 授權失敗。";
+
+/* URL rule description */
+"⚠️ Invalid" = "⚠️ 無效";
+
+/* No comment provided by engineer. */
+"✅ PopClip Extension \"%@\" authorized." = "✅ PopClip 擴充功能「%@」已獲授權。";

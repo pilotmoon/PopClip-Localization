@@ -1,0 +1,881 @@
+/* Popup tooltip. %1$@ layout name, %2$@ action title. */
+"%1$@: %2$@" = "%1$@ : %2$@";
+
+/* message shown when PopClip cannot appear automatically because it is blocked by the user's settings */
+"%@ is excluded" = "%@ est exclu";
+
+/* message shown when PopClip cannot appear automatically in the given app due to compatibility problem. Example `Pixelmator Pro is not compatible` */
+"%@ is not compatible" = "%@ n'est pas compatible";
+
+/* Example: 1.6 is now available (you have 1.5.2) */
+"%@ is now available (you have %@)." = "%1$@ est maintenant disponible (vous utilisez actuellement %2$@).";
+
+/* Example: 1.6 is now available */
+"%@ is now available." = "%@ est maintenant disponible.";
+
+/* Placeholder is app name. Example: `PopClip Update Available` */
+"%@ Update Available" = "Mise à jour %@ disponible";
+
+/* Placeholder is app name. Example: `PopClip Update Ready` */
+"%@ Update Ready" = "Mise à jour %@ prête";
+
+/* number of extensions updated; plural forms in Localizable.stringsdict */
+"%lu extensions updated" = "%lu extensions mises à jour";
+
+/* number of updates available; plural forms in Localizable.stringsdict */
+"%lu updates available" = "%lu mises à jour disponibles";
+
+/* number of uses remaining in the free trial; plural forms in Localizable.stringsdict */
+"%lu Uses Left" = "%lu utilisations restantes";
+
+/* click this button to get 10 more uses in the free trial */
+"+10 Uses" = "+10 utilisations";
+
+/* entry in selection list to indicate no selection */
+"- None -" = "- Aucun -";
+
+/* icon picker: hint that the typed text may be 1 to 3 characters */
+"1–3 characters" = "1 à 3 caractères";
+
+/* No comment provided by engineer. */
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "“%@” n’est pas signé par Pilotmoon Software. N’installez cette extension que si vous l’avez obtenue d’une source en qui vous avez confiance.";
+
+/* No comment provided by engineer. */
+"\"%@\" Settings" = "Paramètres « %@ »";
+
+/* No comment provided by engineer. */
+"Above Text" = "Au-dessus du texte";
+
+/* No comment provided by engineer. */
+"Accessibility access is required" = "L'accès Accessibilité est requis";
+
+/* No comment provided by engineer. */
+"Action" = "Opération";
+
+/* No comment provided by engineer. */
+"Action Settings" = "Paramètres de l’opération";
+
+/* Title of prefs pane for configuring actions. Translator: Please use the shortest possible term here */
+"Actions" = "Opérations";
+
+/* No comment provided by engineer. */
+"Activation" = "Activation";
+
+/* Button title. Add new item to list. Actual button is '+' icon, text is for screen reader only. */
+"Add" = "Ajouter";
+
+/* icon picker: button revealing the icon adjustment controls */
+"Adjust" = "Ajuster";
+
+/* No comment provided by engineer. */
+"Alternate Search URL" = "URL de recherche alternative";
+
+/* URL rule description */
+"and subdomains" = "et sous-domaines";
+
+/* Title of prefs pane for 'App' settings (about, version, license). Translator: Please use the shortest possible term here */
+"App" = "App";
+
+/* No comment provided by engineer. */
+"App Settings" = "Paramètres de l'application";
+
+/* No comment provided by engineer. */
+"Appear automatically" = "Apparaître automatiquement";
+
+/* No comment provided by engineer. */
+"Appearance" = "Apparence";
+
+/* No comment provided by engineer. */
+"Apply" = "Appliquer";
+
+/* No comment provided by engineer. */
+"Apps…" = "Applications…";
+
+/* No comment provided by engineer. */
+"Authorized" = "Autorisé";
+
+/* Dark/light mode will be the same as the operating system setting */
+"Auto" = "Automatique";
+
+/* Dark/light mode will be opposite to the operating system setting */
+"Auto (Inverse)" = "Automatique (inversé)";
+
+/* No comment provided by engineer. */
+"Automatic update" = "Mise à jour automatique";
+
+/* No comment provided by engineer. */
+"Automatic updates" = "Mises à jour automatiques";
+
+/* Action settings subtitle. %1$@ is the source extension name. */
+"Based on %1$@" = "Basée sur %1$@";
+
+/* No comment provided by engineer. */
+"Below Text" = "En dessous du texte";
+
+/* Apple system color name; use Apple's official localized name */
+"Blue" = "Bleu";
+
+/* Apple system color name; use Apple's official localized name */
+"Brown" = "Marron";
+
+/* Extensions list subtitle for a built-in action */
+"Built-in" = "Intégrée";
+
+/* click button to buy the app */
+"Buy" = "Acheter";
+
+/* No comment provided by engineer. */
+"Buy license key" = "Acheter une clé de licence";
+
+/* as in 'by Nick Moore' */
+"by" = "par";
+
+/* icon attribution author line */
+"by %@" = "par %@";
+
+/* No comment provided by engineer. */
+"Cancel" = "Annuler";
+
+/* 1=name of app */
+"Cannot start %1$@" = "Impossible de démarrer %1$@";
+
+/* No comment provided by engineer. */
+"Capabilities" = "Capacités";
+
+/* No comment provided by engineer. */
+"Change Icon…" = "Changer l’icône…";
+
+/* No comment provided by engineer. */
+"Check for extension updates" = "Rechercher les mises à jour d’extensions";
+
+/* No comment provided by engineer. */
+"Check for updates" = "Vérifier les mises à jour";
+
+/* No comment provided by engineer. */
+"Checking for updates…" = "Recherche de mises à jour…";
+
+/* No comment provided by engineer. */
+"Checking…" = "Vérification…";
+
+/* No comment provided by engineer. */
+"Circle" = "Cercle";
+
+/* No comment provided by engineer. */
+"Clear" = "Effacer";
+
+/* No comment provided by engineer. */
+"Close" = "Fermer";
+
+/* No comment provided by engineer. */
+"Color" = "Couleur";
+
+/* example: Connecting to updateserver.example.com… */
+"Connecting to %@…" = "Connexion à %@…";
+
+/* Displayed when something has been copied to the clipboard */
+"Copied" = "Copié";
+
+/* No comment provided by engineer. */
+"Copy" = "Copier";
+
+/* No comment provided by engineer. */
+"Copy PNG Image" = "Copier l’image PNG";
+
+/* No comment provided by engineer. */
+"Copy Specifier" = "Copier le spécificateur";
+
+/* No comment provided by engineer. */
+"Couldn't reach the update server (status %lu)." = "Impossible de joindre le serveur de mise à jour (état %lu).";
+
+/* No comment provided by engineer. */
+"Custom" = "Personnalisée";
+
+/* No comment provided by engineer. */
+"Custom…" = "Personnalisée…";
+
+/* Apple system color name; use Apple's official localized name */
+"Cyan" = "Cyan";
+
+/* Indicates Dark color appearance */
+"Dark" = "Foncé";
+
+/* No comment provided by engineer. */
+"Date" = "Date";
+
+/* No comment provided by engineer. */
+"Debug Console" = "Console de débogage";
+
+/* No comment provided by engineer. */
+"Delete" = "Supprimer";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "Supprimer le dossier";
+
+/* No comment provided by engineer. */
+"Delete Separator" = "Supprimer le séparateur";
+
+/* No comment provided by engineer. */
+"Developer-signed" = "Signée par le développeur";
+
+/* name of dictionary look-up feature */
+"Dictionary" = "Dictionnaire";
+
+/* URL rule description */
+"Domain" = "Domaine";
+
+/* button title */
+"Don't Install" = "Ne pas installer";
+
+/* No comment provided by engineer. */
+"Done" = "OK";
+
+/* No comment provided by engineer. */
+"Downloaded %@ of %@…" = "Téléchargement : %1$@ sur %2$@…";
+
+/* No comment provided by engineer. */
+"Downloading update…" = "Téléchargement de la mise à jour…";
+
+/* No comment provided by engineer. */
+"Duplicate" = "Dupliquer";
+
+/* extension entitlement: the extension generates its actions dynamically */
+"Dynamic" = "Dynamique";
+
+/* No comment provided by engineer. */
+"Email" = "E-mail";
+
+/* No comment provided by engineer. */
+"Enabled" = "Activée";
+
+/* extension info: special permissions the extension has */
+"Entitlements" = "Droits";
+
+/* No comment provided by engineer. */
+"Error decoding icon" = "Erreur de décodage de l’icône";
+
+/* No comment provided by engineer. */
+"Error downloading icon" = "Erreur de téléchargement de l’icône";
+
+/* No comment provided by engineer. */
+"Error rendering icon" = "Erreur de rendu de l’icône";
+
+/* sample text */
+"Example" = "Exemple";
+
+/* No comment provided by engineer. */
+"Exclude these apps" = "Exclure ces applications";
+
+/* No comment provided by engineer. */
+"Exclude these websites:" = "Exclure ces sites web :";
+
+/* No comment provided by engineer. */
+"Expires: %@" = "Expire : %@";
+
+/* No comment provided by engineer. */
+"Extension Commands" = "Commandes d’extension";
+
+/* No comment provided by engineer. */
+"Extension Info" = "Infos de l’extension";
+
+/* No comment provided by engineer. */
+"Extension Install Error" = "Erreur d’installation de l’extension";
+
+/* No comment provided by engineer. */
+"Extension Load Error" = "Erreur de chargement de l’extension";
+
+/* No comment provided by engineer. */
+"Extensions" = "Extensions";
+
+/* Extracted percentage */
+"Extracted %d%%…" = "Extraction : %d %%…";
+
+/* No comment provided by engineer. */
+"Extracting update…" = "Extraction de la mise à jour…";
+
+/* No comment provided by engineer. */
+"File" = "Fichier";
+
+/* icon picker option: shape is filled, not outline */
+"Fill" = "Remplir";
+
+/* No comment provided by engineer. */
+"Filter Actions" = "Filtrer les opérations";
+
+/* icon picker: flip (mirror) control */
+"Flip" = "Retourner";
+
+/* No comment provided by engineer. */
+"Flip Horizontal" = "Retourner horizontalement";
+
+/* No comment provided by engineer. */
+"Flip Vertical" = "Retourner verticalement";
+
+/* No comment provided by engineer. */
+"Folder" = "Dossier";
+
+/* No comment provided by engineer. */
+"Font" = "Police";
+
+/* No comment provided by engineer. */
+"Forum" = "Forum";
+
+/* No comment provided by engineer. */
+"Free Trial" = "Essai gratuit";
+
+/* No comment provided by engineer. */
+"Free uses left: %lu" = "Utilisations gratuites restantes : %lu";
+
+/* Title of general settings pane. Translator: Please use the shortest possible term here */
+"General" = "Général";
+
+/* No comment provided by engineer. */
+"Get Extensions" = "Obtenir les extensions";
+
+/* Apple system color name; use Apple's official localized name */
+"Green" = "Vert";
+
+/* No comment provided by engineer. */
+"Guide" = "Guide";
+
+/* No comment provided by engineer. */
+"Hide Secret" = "Masquer le secret";
+
+/* No comment provided by engineer. */
+"Hold Option (⌥) for alternate search." = "Maintenez l'option (⌥) pour effectuer une recherche alternative.";
+
+/* URL rule description */
+"Host" = "Hôte";
+
+/* No comment provided by engineer. */
+"iCloud Sync" = "Synchronisation iCloud";
+
+/* No comment provided by engineer. */
+"Icon" = "Icône";
+
+/* No comment provided by engineer. */
+"Icon and Text" = "Icône et texte";
+
+/* No comment provided by engineer. */
+"Icon error" = "Erreur d’icône";
+
+/* No comment provided by engineer. */
+"Icon not found" = "Icône introuvable";
+
+/* No comment provided by engineer. */
+"Icon Only" = "Icône seule";
+
+/* No comment provided by engineer. */
+"Icon Picker" = "Sélecteur d’icône";
+
+/* No comment provided by engineer. */
+"Icon preview" = "Aperçu de l’icône";
+
+/* No comment provided by engineer. */
+"Icon search failed. Check internet connection." = "Échec de la recherche d’icônes. Vérifiez la connexion Internet.";
+
+/* No comment provided by engineer. */
+"Icon Specifier" = "Spécificateur d’icône";
+
+/* No comment provided by engineer. */
+"Icon Specifier Help" = "Aide du spécificateur d’icône";
+
+/* No comment provided by engineer. */
+"Icon specifier is too long." = "Le spécificateur d’icône est trop long.";
+
+/* No comment provided by engineer. */
+"Icon timed out" = "Délai d’attente de l’icône dépassé";
+
+/* extension info: the extension's bundle identifier */
+"Identifier" = "Identifiant";
+
+/* No comment provided by engineer. */
+"Include beta versions" = "Inclure les versions beta";
+
+/* No comment provided by engineer. */
+"Include colored icons" = "Inclure les icônes colorées";
+
+/* No comment provided by engineer. */
+"Include only these apps" = "Inclure uniquement ces applications";
+
+/* No comment provided by engineer. */
+"Including colored icons" = "Inclusion des icônes colorées";
+
+/* Apple system color name; use Apple's official localized name */
+"Indigo" = "Indigo";
+
+/* button title: install the named externsion */
+"Install \"%@\"" = "Installer « %@ »";
+
+/* No comment provided by engineer. */
+"Install automatically" = "Installer automatiquement";
+
+/* No comment provided by engineer. */
+"Install Update" = "Installer la mise à jour";
+
+/* No comment provided by engineer. */
+"Installation" = "Installation";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Installed %@" = "Installé %@";
+
+/* No comment provided by engineer. */
+"Installing update…" = "Installation de la mise à jour…";
+
+/* No comment provided by engineer. */
+"Installing…" = "Installation…";
+
+/* No comment provided by engineer. */
+"Instances" = "Instances";
+
+/* No comment provided by engineer. */
+"Invalid icon specifier" = "Spécificateur d’icône non valide";
+
+/* Example: `Last checked: Just now`. Indicates a time within the last minute */
+"Just now" = "A l'instant";
+
+/* No comment provided by engineer. */
+"Keyboard shortcut" = "Raccourci clavier";
+
+/* No comment provided by engineer. */
+"Language" = "Langue";
+
+/* No comment provided by engineer. */
+"Languages" = "Langues";
+
+/* No comment provided by engineer. */
+"Last checked: %@" = "Dernière vérification : %@";
+
+/* No comment provided by engineer. */
+"Learn More…" = "En savoir plus…";
+
+/* No comment provided by engineer. */
+"License Details" = "Détails licence";
+
+/* No comment provided by engineer. */
+"License Details…" = "Détails de la licence…";
+
+/* No comment provided by engineer. */
+"License key not valid" = "Clé de licence non valide";
+
+/* Indicates Light color appearance */
+"Light" = "Clair";
+
+/* No comment provided by engineer. */
+"Loading icon…" = "Chargement de l’icône…";
+
+/* No comment provided by engineer. */
+"Main Menu" = "Menu principal";
+
+/* No comment provided by engineer. */
+"Manage Extensions…" = "Gérer les extensions…";
+
+/* extension info: how the extension was installed (snippet, file, URL scheme, etc.) */
+"Method" = "Méthode";
+
+/* No comment provided by engineer. */
+"Migrated from previous PopClip version" = "Migrée depuis la version précédente de PopClip";
+
+/* Apple system color name; use Apple's official localized name */
+"Mint" = "Menthe";
+
+/* name of missing third party app */
+"Missing App: %@" = "Appli manquante: %@";
+
+/* icon picker font option */
+"Monospaced" = "Chasse fixe";
+
+/* No comment provided by engineer. */
+"More (Page %lu of %lu)" = "Plus (page %1$lu sur %2$lu)";
+
+/* icon picker: position offset control */
+"Move" = "Déplacer";
+
+/* icon picker: horizontal position offset */
+"Move X" = "Déplacer X";
+
+/* icon picker: vertical position offset */
+"Move Y" = "Déplacer Y";
+
+/* No comment provided by engineer. */
+"Name" = "Nom";
+
+/* extension entitlement: the extension can access the network */
+"Network" = "Réseau";
+
+/* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
+"Never" = "Jamais";
+
+/* No comment provided by engineer. */
+"New Folder" = "Nouveau dossier";
+
+/* No comment provided by engineer. */
+"New Instance" = "Nouvelle instance";
+
+/* No comment provided by engineer. */
+"New Separator" = "Nouveau séparateur";
+
+/* No comment provided by engineer. */
+"No extensions installed" = "Aucune extension installée";
+
+/* No comment provided by engineer. */
+"No icons found." = "Aucune icône trouvée.";
+
+/* No comment provided by engineer. */
+"None" = "Aucun";
+
+/* No comment provided by engineer. */
+"Not Authorized" = "Non autorisé";
+
+/* No comment provided by engineer. */
+"Not Now" = "Pas maintenant";
+
+/* No comment provided by engineer. */
+"Notify only" = "Notifier uniquement";
+
+/* No comment provided by engineer. */
+"Off" = "Désactivé";
+
+/* No comment provided by engineer. */
+"One or more extensions could not be updated." = "Une ou plusieurs extensions n’ont pas pu être mises à jour.";
+
+/* name of link opening feature */
+"Open Link" = "Ouvrir le lien";
+
+/* No comment provided by engineer. */
+"Open Links" = "Ouvrir les liens";
+
+/* Accessibility help for a popup button that opens a submenu. */
+"Opens submenu" = "Ouvre un sous-menu";
+
+/* Apple system color name; use Apple's official localized name */
+"Orange" = "Orange";
+
+/* extension info: where the extension came from (built-in, extensions directory, etc.) */
+"Origin" = "Origine";
+
+/* No comment provided by engineer. */
+"Other…" = "Autre…";
+
+/* No comment provided by engineer. */
+"Package folder" = "Dossier du package";
+
+/* No comment provided by engineer. */
+"Permissions" = "Permissions";
+
+/* Apple system color name; use Apple's official localized name */
+"Pink" = "Rose";
+
+/* No comment provided by engineer. */
+"Please close this browser tab and return to PopClip." = "Veuillez fermer cet onglet et revenir à PopClip.";
+
+/* No comment provided by engineer. */
+"PopClip  Icon Picker" = "Sélecteur d’icône PopClip";
+
+/* No comment provided by engineer. */
+"PopClip appears automatically when you select text with the pointer or when you click and hold." = "PopClip apparaît automatiquement lorsque vous sélectionnez du texte avec le pointeur ou lorsque vous cliquez et maintenez.";
+
+/* No comment provided by engineer. */
+"PopClip can't find %@ on this computer. You probably need to install it." = "PopClip ne trouve pas %@ sur cet ordinateur. Vous avez probablement besoin de l’installer.";
+
+/* No comment provided by engineer. */
+"PopClip could not load the following extensions:\n\n%@" = "PopClip n’a pas pu charger les extensions suivantes :\n\n%@";
+
+/* No comment provided by engineer. */
+"PopClip Extensions Directory" = "Répertoire des extensions PopClip";
+
+/* No comment provided by engineer. */
+"PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip a besoin de l'accès Accessibilité pour lire le texte que vous sélectionnez dans d'autres applications et pour effectuer des actions pour vous.";
+
+/* No comment provided by engineer. */
+"PopClip will check spelling in each selected language." = "PopClip vérifiera l'orthographe dans toutes les langues sélectionnées.";
+
+/* No comment provided by engineer. */
+"Popup Item" = "Élément de menu contextuel";
+
+/* No comment provided by engineer. */
+"Position" = "Position";
+
+/* Apple system color name; use Apple's official localized name */
+"Purple" = "Violet";
+
+/* No comment provided by engineer. */
+"Quit PopClip" = "Quitter PopClip";
+
+/* No comment provided by engineer. */
+"Recently used apps" = "Applications récemment utilisées";
+
+/* Apple system color name; use Apple's official localized name */
+"Red" = "Rouge";
+
+/* icon picker font option */
+"Regular" = "Standard";
+
+/* No comment provided by engineer. */
+"Relaunch" = "Relancer";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@ (you have %@)." = "Relancez pour utiliser la version %1$@ (vous utilisez la version %2$@).";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@." = "Relancez pour utiliser la version %@.";
+
+/* text shown above release notes */
+"Release notes:" = "Notes de version :";
+
+/* Button title. Remove selected item from list. Actual button is '-' icon, text is for screen reader only. */
+"Remove" = "Supprimer";
+
+/* No comment provided by engineer. */
+"Rename…" = "Renommer…";
+
+/* No comment provided by engineer. */
+"Replace your search term with ***\nFor example: https://example.com/?q=***" = "Remplacez votre terme de recherche par ***\nPar exemple : https://example.com/?q=***";
+
+/* No comment provided by engineer. */
+"Request Accessibility Access" = "Demander l'accès Accessibilité";
+
+/* No comment provided by engineer. */
+"Reset to Default Icon" = "Rétablir l’icône par défaut";
+
+/* No comment provided by engineer. */
+"Restrict where PopClip can appear automatically." = "Restreindre les endroits où PopClip peut apparaître automatiquement.";
+
+/* name of 'reveal in finder' feature */
+"Reveal in Finder" = "Afficher dans le Finder";
+
+/* icon picker: rotation control */
+"Rotate" = "Rotation";
+
+/* No comment provided by engineer. */
+"Rule:" = "Règle :";
+
+/* No comment provided by engineer. */
+"Rules" = "Règles";
+
+/* icon picker: scale (size) control */
+"Scale" = "Échelle";
+
+/* name of web search feature */
+"Search" = "Rechercher";
+
+/* Search for icons from the 'Iconify' icon library */
+"Search Iconify" = "Rechercher dans Iconify";
+
+/* No comment provided by engineer. */
+"Search URL" = "URL de recherche";
+
+/* No comment provided by engineer. */
+"Searching %@ open source icons." = "Recherche dans %@ icônes open source.";
+
+/* No comment provided by engineer. */
+"Select" = "Sélectionner";
+
+/* No comment provided by engineer. */
+"Separator" = "Séparateur";
+
+/* No comment provided by engineer. */
+"Settings for \"%@\"" = "Paramètres de « %@ »";
+
+/* No comment provided by engineer. */
+"Settings…" = "Paramètres…";
+
+/* icon picker: outer shape (none, square, circle) */
+"Shape" = "Forme";
+
+/* No comment provided by engineer. */
+"Show \"%@\" in the actions list" = "Afficher « %@ » dans la liste des opérations";
+
+/* No comment provided by engineer. */
+"Show As" = "Afficher comme";
+
+/* No comment provided by engineer. */
+"Show in menu bar" = "Afficher dans la barre de menu";
+
+/* No comment provided by engineer. */
+"Show Secret" = "Afficher le secret";
+
+/* No comment provided by engineer. */
+"Show Specifier" = "Afficher le spécificateur";
+
+/* No comment provided by engineer. */
+"Sign In" = "Connexion";
+
+/* No comment provided by engineer. */
+"Sign in failed." = "Échec de la connexion.";
+
+/* No comment provided by engineer. */
+"Sign in to your %@ account." = "Se connecter à votre compte %@.";
+
+/* No comment provided by engineer. */
+"Sign Out" = "Se déconnecter";
+
+/* extension info: code-signing status */
+"Signature" = "Signature";
+
+/* No comment provided by engineer. */
+"Signed in: %@" = "Connecté : %@";
+
+/* No comment provided by engineer. */
+"Size" = "Taille";
+
+/* No comment provided by engineer. */
+"Snippet" = "Extrait";
+
+/* No comment provided by engineer. */
+"Snippet is too long (%@ chars; max %@)" = "L’extrait est trop long (%1$@ caractères ; max %2$@)";
+
+/* No comment provided by engineer. */
+"Software Update" = "Mise à jour du logiciel";
+
+/* No comment provided by engineer. */
+"Sort" = "Trier";
+
+/* No comment provided by engineer. */
+"Sort by Date" = "Trier par date";
+
+/* No comment provided by engineer. */
+"Sort by Name" = "Trier par nom";
+
+/* name of spelling checker feature */
+"Spelling" = "Orthographe";
+
+/* No comment provided by engineer. */
+"Square" = "Carré";
+
+/* No comment provided by engineer. */
+"Start at login" = "Exécuter au démarrage";
+
+/* URL rule description */
+"Starts with" = "Commence par";
+
+/* icon picker option: diagonal 'strike' or 'slash' line drawn over icon */
+"Strike" = "Barré";
+
+/* No comment provided by engineer. */
+"Style" = "Style";
+
+/* Apple system color name; use Apple's official localized name */
+"Teal" = "Sarcelle";
+
+/* No comment provided by engineer. */
+"Technical information:" = "Informations techniques :";
+
+/* icon picker: use typed text as the icon */
+"Text" = "Texte";
+
+/* No comment provided by engineer. */
+"Text file" = "Fichier texte";
+
+/* No comment provided by engineer. */
+"Text Only" = "Texte seul";
+
+/* No comment provided by engineer. */
+"The application appears to be corrupted. Please install a fresh copy." = "L'application semble corrompue. Veuillez installer une nouvelle copie.";
+
+/* No comment provided by engineer. */
+"This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Cette extension n’est pas compatible avec cette version de PopClip. Veuillez mettre à jour vers la dernière version de PopClip.";
+
+/* No comment provided by engineer. */
+"This extension requires macOS version %@ or above." = "Cette extension nécessite la version macOS %@ ou supérieure.";
+
+/* the free trial has expired */
+"Trial Expired" = "Période d’essai expirée";
+
+/* No comment provided by engineer. */
+"Unavailable Action" = "Opération indisponible";
+
+/* No comment provided by engineer. */
+"Unknown" = "Inconnu";
+
+/* No comment provided by engineer. */
+"Unsigned" = "Non signée";
+
+/* No comment provided by engineer. */
+"Unsigned Extension" = "Extension non signée";
+
+/* No comment provided by engineer. */
+"Up to date" = "À jour";
+
+/* No comment provided by engineer. */
+"Update automatically" = "Mettre à jour automatiquement";
+
+/* Extensions list subtitle when an update is available */
+"Update available" = "Mise à jour disponible";
+
+/* No comment provided by engineer. */
+"Update error" = "Erreur de mise à jour";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Updated %@" = "Mis à jour %@";
+
+/* No comment provided by engineer. */
+"Updater error" = "Erreur de mise à jour";
+
+/* No comment provided by engineer. */
+"Updates" = "Mises à jour";
+
+/* No comment provided by engineer. */
+"URL scheme" = "Schéma d’URL";
+
+/* No comment provided by engineer. */
+"Use the keyboard shortcut to trigger PopClip manually." = "Utilisez le raccourci clavier pour déclencher PopClip manuellement.";
+
+/* No comment provided by engineer. */
+"User-generated" = "Générée par l’utilisateur";
+
+/* No comment provided by engineer. */
+"Verified" = "Vérifiée";
+
+/* No comment provided by engineer. */
+"Version" = "Version";
+
+/* button to show release notes */
+"View Details…" = "Voir les détails…";
+
+/* No comment provided by engineer. */
+"View Source" = "Afficher la source";
+
+/* No comment provided by engineer. */
+"View Web Page" = "Afficher la page web";
+
+/* Visit the website for the name app e.g. Visit Evernote Website */
+"Visit %@ Website" = "Visitez le site web de %@";
+
+/* No comment provided by engineer. */
+"Waiting to check for updates" = "En attente de vérification des mises à jour";
+
+/* No comment provided by engineer. */
+"Waiting…" = "En attente…";
+
+/* No comment provided by engineer. */
+"Web Page" = "Page web";
+
+/* No comment provided by engineer. */
+"Website Address" = "Adresse du site web";
+
+/* No comment provided by engineer. */
+"Websites…" = "Sites web…";
+
+/* Apple system color name; use Apple's official localized name */
+"Yellow" = "Jaune";
+
+/* No comment provided by engineer. */
+"You are signed in to %@." = "Vous êtes connecté à %@";
+
+/* No comment provided by engineer. */
+"You're all set! No settings to configure." = "Tout est prêt ! Aucun réglage à configurer.";
+
+/* No comment provided by engineer. */
+"Your License" = "Votre licence";
+
+/* No comment provided by engineer. */
+"Zip file" = "Fichier Zip";
+
+/* No comment provided by engineer. */
+"⚠️ Authorization failed." = "⚠️ L'autorisation a échoué.";
+
+/* URL rule description */
+"⚠️ Invalid" = "⚠️ Invalide";
+
+/* No comment provided by engineer. */
+"✅ PopClip Extension \"%@\" authorized." = "✅ Extension PopClip « %@ » autorisée.";

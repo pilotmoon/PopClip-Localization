@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>%lu Uses Left</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@uses@</string>
+      <key>uses</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>one</key>
+        <string>Осталось %lu использование</string>
+        <key>few</key>
+        <string>Осталось %lu использования</string>
+        <key>many</key>
+        <string>Осталось %lu использований</string>
+        <key>other</key>
+        <string>Осталось %lu использования</string>
+      </dict>
+    </dict>
+    <key>%lu extensions updated</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@count@</string>
+      <key>count</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>one</key>
+        <string>Обновлено %lu расширение</string>
+        <key>few</key>
+        <string>Обновлено %lu расширения</string>
+        <key>many</key>
+        <string>Обновлено %lu расширений</string>
+        <key>other</key>
+        <string>Обновлено %lu расширения</string>
+      </dict>
+    </dict>
+    <key>%lu updates available</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@count@</string>
+      <key>count</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>one</key>
+        <string>Доступно %lu обновление</string>
+        <key>few</key>
+        <string>Доступно %lu обновления</string>
+        <key>many</key>
+        <string>Доступно %lu обновлений</string>
+        <key>other</key>
+        <string>Доступно %lu обновления</string>
+      </dict>
+    </dict>
+  </dict>
+</plist>

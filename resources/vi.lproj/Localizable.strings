@@ -1,0 +1,881 @@
+/* Popup tooltip. %1$@ layout name, %2$@ action title. */
+"%1$@: %2$@" = "%1$@: %2$@";
+
+/* message shown when PopClip cannot appear automatically because it is blocked by the user's settings */
+"%@ is excluded" = "%@ bị loại trừ";
+
+/* message shown when PopClip cannot appear automatically in the given app due to compatibility problem. Example `Pixelmator Pro is not compatible` */
+"%@ is not compatible" = "%@ không tương thích";
+
+/* Example: 1.6 is now available (you have 1.5.2) */
+"%@ is now available (you have %@)." = "%1$@ hiện đã khả dụng (bạn có %2$@).";
+
+/* Example: 1.6 is now available */
+"%@ is now available." = "%@ hiện đã khả dụng.";
+
+/* Placeholder is app name. Example: `PopClip Update Available` */
+"%@ Update Available" = "%@ có bản cập nhật mới";
+
+/* Placeholder is app name. Example: `PopClip Update Ready` */
+"%@ Update Ready" = "%@ sẵn sàng cập nhật";
+
+/* number of extensions updated; plural forms in Localizable.stringsdict */
+"%lu extensions updated" = "%lu phần mở rộng đã cập nhật";
+
+/* number of updates available; plural forms in Localizable.stringsdict */
+"%lu updates available" = "%lu bản cập nhật có sẵn";
+
+/* number of uses remaining in the free trial; plural forms in Localizable.stringsdict */
+"%lu Uses Left" = "%lu Lượt dùng còn lại";
+
+/* click this button to get 10 more uses in the free trial */
+"+10 Uses" = "+10 lượt dùng";
+
+/* entry in selection list to indicate no selection */
+"- None -" = "Trống";
+
+/* icon picker: hint that the typed text may be 1 to 3 characters */
+"1–3 characters" = "1–3 ký tự";
+
+/* No comment provided by engineer. */
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "\"%@\" không được ký nhận bởi Pilotmoon Software. Bạn chỉ nên cài tiện tích mở rộng này từ nguồn tin tưởng.";
+
+/* No comment provided by engineer. */
+"\"%@\" Settings" = "Cài đặt \"%@\"";
+
+/* No comment provided by engineer. */
+"Above Text" = "Nằm trên văn bản";
+
+/* No comment provided by engineer. */
+"Accessibility access is required" = "Cần cấp quyền Trợ năng";
+
+/* No comment provided by engineer. */
+"Action" = "Hành động";
+
+/* No comment provided by engineer. */
+"Action Settings" = "Cài đặt hành động";
+
+/* Title of prefs pane for configuring actions. Translator: Please use the shortest possible term here */
+"Actions" = "Hành động";
+
+/* No comment provided by engineer. */
+"Activation" = "Kích hoạt";
+
+/* Button title. Add new item to list. Actual button is '+' icon, text is for screen reader only. */
+"Add" = "Thêm";
+
+/* icon picker: button revealing the icon adjustment controls */
+"Adjust" = "Điều chỉnh";
+
+/* No comment provided by engineer. */
+"Alternate Search URL" = "URL tìm kiếm thay thế";
+
+/* URL rule description */
+"and subdomains" = "và các tên miền phụ";
+
+/* Title of prefs pane for 'App' settings (about, version, license). Translator: Please use the shortest possible term here */
+"App" = "Ứng dụng";
+
+/* No comment provided by engineer. */
+"App Settings" = "Cài đặt ứng dụng";
+
+/* No comment provided by engineer. */
+"Appear automatically" = "Tự động xuất hiện";
+
+/* No comment provided by engineer. */
+"Appearance" = "Giao diện";
+
+/* No comment provided by engineer. */
+"Apply" = "Áp dụng";
+
+/* No comment provided by engineer. */
+"Apps…" = "Ứng dụng…";
+
+/* No comment provided by engineer. */
+"Authorized" = "Được ủy quyền";
+
+/* Dark/light mode will be the same as the operating system setting */
+"Auto" = "Tự động";
+
+/* Dark/light mode will be opposite to the operating system setting */
+"Auto (Inverse)" = "Tự động (Nghịch đảo)";
+
+/* No comment provided by engineer. */
+"Automatic update" = "Tự động cập nhật";
+
+/* No comment provided by engineer. */
+"Automatic updates" = "Tự động cập nhật";
+
+/* Action settings subtitle. %1$@ is the source extension name. */
+"Based on %1$@" = "Dựa trên %1$@";
+
+/* No comment provided by engineer. */
+"Below Text" = "Nằm dưới văn bản";
+
+/* Apple system color name; use Apple's official localized name */
+"Blue" = "Xanh lam";
+
+/* Apple system color name; use Apple's official localized name */
+"Brown" = "Nâu";
+
+/* Extensions list subtitle for a built-in action */
+"Built-in" = "Tích hợp";
+
+/* click button to buy the app */
+"Buy" = "Mua";
+
+/* No comment provided by engineer. */
+"Buy license key" = "Mua mã bản quyền";
+
+/* as in 'by Nick Moore' */
+"by" = "bởi";
+
+/* icon attribution author line */
+"by %@" = "bởi %@";
+
+/* No comment provided by engineer. */
+"Cancel" = "Huỷ";
+
+/* 1=name of app */
+"Cannot start %1$@" = "Không thể khởi động %1$@";
+
+/* No comment provided by engineer. */
+"Capabilities" = "Khả năng";
+
+/* No comment provided by engineer. */
+"Change Icon…" = "Thay đổi biểu tượng…";
+
+/* No comment provided by engineer. */
+"Check for extension updates" = "Kiểm tra bản cập nhật phần mở rộng";
+
+/* No comment provided by engineer. */
+"Check for updates" = "Kiểm tra bản cập nhật";
+
+/* No comment provided by engineer. */
+"Checking for updates…" = "Đang kiểm tra bản cập nhật…";
+
+/* No comment provided by engineer. */
+"Checking…" = "Đang kiểm tra…";
+
+/* No comment provided by engineer. */
+"Circle" = "Hình tròn";
+
+/* No comment provided by engineer. */
+"Clear" = "Xóa";
+
+/* No comment provided by engineer. */
+"Close" = "Đóng";
+
+/* No comment provided by engineer. */
+"Color" = "Màu sắc";
+
+/* example: Connecting to updateserver.example.com… */
+"Connecting to %@…" = "Đang kết nối tới %@…";
+
+/* Displayed when something has been copied to the clipboard */
+"Copied" = "Đã sao chép";
+
+/* No comment provided by engineer. */
+"Copy" = "Sao chép";
+
+/* No comment provided by engineer. */
+"Copy PNG Image" = "Sao chép ảnh PNG";
+
+/* No comment provided by engineer. */
+"Copy Specifier" = "Sao chép mã chỉ định";
+
+/* No comment provided by engineer. */
+"Couldn't reach the update server (status %lu)." = "Không thể kết nối với máy chủ cập nhật (trạng thái %lu).";
+
+/* No comment provided by engineer. */
+"Custom" = "Tùy chỉnh";
+
+/* No comment provided by engineer. */
+"Custom…" = "Tùy chỉnh…";
+
+/* Apple system color name; use Apple's official localized name */
+"Cyan" = "Xanh lơ";
+
+/* Indicates Dark color appearance */
+"Dark" = "Tối";
+
+/* No comment provided by engineer. */
+"Date" = "Ngày";
+
+/* No comment provided by engineer. */
+"Debug Console" = "Bảng điều khiển gỡ lỗi";
+
+/* No comment provided by engineer. */
+"Delete" = "Xóa";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "Xóa thư mục";
+
+/* No comment provided by engineer. */
+"Delete Separator" = "Xóa dấu phân cách";
+
+/* No comment provided by engineer. */
+"Developer-signed" = "Được nhà phát triển ký";
+
+/* name of dictionary look-up feature */
+"Dictionary" = "Từ điển";
+
+/* URL rule description */
+"Domain" = "Tên miền";
+
+/* button title */
+"Don't Install" = "Không cài đặt";
+
+/* No comment provided by engineer. */
+"Done" = "Hoàn thành";
+
+/* No comment provided by engineer. */
+"Downloaded %@ of %@…" = "Đã tải %1$@ trên tổng %2$@…";
+
+/* No comment provided by engineer. */
+"Downloading update…" = "Đang tải bản cập nhật…";
+
+/* No comment provided by engineer. */
+"Duplicate" = "Nhân bản";
+
+/* extension entitlement: the extension generates its actions dynamically */
+"Dynamic" = "Động";
+
+/* No comment provided by engineer. */
+"Email" = "Email";
+
+/* No comment provided by engineer. */
+"Enabled" = "Đã bật";
+
+/* extension info: special permissions the extension has */
+"Entitlements" = "Quyền";
+
+/* No comment provided by engineer. */
+"Error decoding icon" = "Lỗi giải mã biểu tượng";
+
+/* No comment provided by engineer. */
+"Error downloading icon" = "Lỗi tải xuống biểu tượng";
+
+/* No comment provided by engineer. */
+"Error rendering icon" = "Lỗi kết xuất biểu tượng";
+
+/* sample text */
+"Example" = "Ví dụ";
+
+/* No comment provided by engineer. */
+"Exclude these apps" = "Loại trừ các ứng dụng này";
+
+/* No comment provided by engineer. */
+"Exclude these websites:" = "Loại trừ các trang web này:";
+
+/* No comment provided by engineer. */
+"Expires: %@" = "Hết hạn: %@";
+
+/* No comment provided by engineer. */
+"Extension Commands" = "Lệnh phần mở rộng";
+
+/* No comment provided by engineer. */
+"Extension Info" = "Thông tin phần mở rộng";
+
+/* No comment provided by engineer. */
+"Extension Install Error" = "Lỗi cài đặt phần mở rộng";
+
+/* No comment provided by engineer. */
+"Extension Load Error" = "Lỗi tải phần mở rộng";
+
+/* No comment provided by engineer. */
+"Extensions" = "Phần mở rộng";
+
+/* Extracted percentage */
+"Extracted %d%%…" = "Đã giải nén %d%%…";
+
+/* No comment provided by engineer. */
+"Extracting update…" = "Đang giải nén bản cập nhật…";
+
+/* No comment provided by engineer. */
+"File" = "Tệp";
+
+/* icon picker option: shape is filled, not outline */
+"Fill" = "Tô đầy";
+
+/* No comment provided by engineer. */
+"Filter Actions" = "Lọc hành động";
+
+/* icon picker: flip (mirror) control */
+"Flip" = "Lật";
+
+/* No comment provided by engineer. */
+"Flip Horizontal" = "Lật ngang";
+
+/* No comment provided by engineer. */
+"Flip Vertical" = "Lật dọc";
+
+/* No comment provided by engineer. */
+"Folder" = "Thư mục";
+
+/* No comment provided by engineer. */
+"Font" = "Phông chữ";
+
+/* No comment provided by engineer. */
+"Forum" = "Diễn đàn";
+
+/* No comment provided by engineer. */
+"Free Trial" = "Dùng thử miễn phí";
+
+/* No comment provided by engineer. */
+"Free uses left: %lu" = "Số lượt dùng miễn phí còn lại: %lu";
+
+/* Title of general settings pane. Translator: Please use the shortest possible term here */
+"General" = "Chung";
+
+/* No comment provided by engineer. */
+"Get Extensions" = "Tải thêm phần mở rộng";
+
+/* Apple system color name; use Apple's official localized name */
+"Green" = "Xanh lục";
+
+/* No comment provided by engineer. */
+"Guide" = "Hướng dẫn";
+
+/* No comment provided by engineer. */
+"Hide Secret" = "Ẩn bí mật";
+
+/* No comment provided by engineer. */
+"Hold Option (⌥) for alternate search." = "Giữ nút Tùy chọn (⌥) để tìm kiếm theo cách khác.";
+
+/* URL rule description */
+"Host" = "Host";
+
+/* No comment provided by engineer. */
+"iCloud Sync" = "Đồng bộ hóa iCloud";
+
+/* No comment provided by engineer. */
+"Icon" = "Biểu tượng";
+
+/* No comment provided by engineer. */
+"Icon and Text" = "Biểu tượng và văn bản";
+
+/* No comment provided by engineer. */
+"Icon error" = "Lỗi biểu tượng";
+
+/* No comment provided by engineer. */
+"Icon not found" = "Không tìm thấy biểu tượng";
+
+/* No comment provided by engineer. */
+"Icon Only" = "Chỉ biểu tượng";
+
+/* No comment provided by engineer. */
+"Icon Picker" = "Trình chọn biểu tượng";
+
+/* No comment provided by engineer. */
+"Icon preview" = "Xem trước biểu tượng";
+
+/* No comment provided by engineer. */
+"Icon search failed. Check internet connection." = "Tìm kiếm biểu tượng thất bại. Kiểm tra kết nối internet.";
+
+/* No comment provided by engineer. */
+"Icon Specifier" = "Mã chỉ định biểu tượng";
+
+/* No comment provided by engineer. */
+"Icon Specifier Help" = "Trợ giúp mã chỉ định biểu tượng";
+
+/* No comment provided by engineer. */
+"Icon specifier is too long." = "Mã chỉ định biểu tượng quá dài.";
+
+/* No comment provided by engineer. */
+"Icon timed out" = "Biểu tượng hết thời gian chờ";
+
+/* extension info: the extension's bundle identifier */
+"Identifier" = "Mã định danh";
+
+/* No comment provided by engineer. */
+"Include beta versions" = "Bao gồm các phiên bản thử nghiệm";
+
+/* No comment provided by engineer. */
+"Include colored icons" = "Bao gồm biểu tượng màu";
+
+/* No comment provided by engineer. */
+"Include only these apps" = "Chỉ bao gồm các ứng dụng này";
+
+/* No comment provided by engineer. */
+"Including colored icons" = "Đang bao gồm biểu tượng màu";
+
+/* Apple system color name; use Apple's official localized name */
+"Indigo" = "Chàm";
+
+/* button title: install the named externsion */
+"Install \"%@\"" = "Cài đặt \"%@\"";
+
+/* No comment provided by engineer. */
+"Install automatically" = "Cài đặt tự động";
+
+/* No comment provided by engineer. */
+"Install Update" = "Cài đặt bản cập nhật";
+
+/* No comment provided by engineer. */
+"Installation" = "Cài đặt";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Installed %@" = "Đã cài đặt %@";
+
+/* No comment provided by engineer. */
+"Installing update…" = "Đang cài đặt bản cập nhật…";
+
+/* No comment provided by engineer. */
+"Installing…" = "Đang cài đặt…";
+
+/* No comment provided by engineer. */
+"Instances" = "Phiên bản tùy chỉnh";
+
+/* No comment provided by engineer. */
+"Invalid icon specifier" = "Mã chỉ định biểu tượng không hợp lệ";
+
+/* Example: `Last checked: Just now`. Indicates a time within the last minute */
+"Just now" = "Vừa mới xong";
+
+/* No comment provided by engineer. */
+"Keyboard shortcut" = "Phím tắt";
+
+/* No comment provided by engineer. */
+"Language" = "Ngôn ngữ";
+
+/* No comment provided by engineer. */
+"Languages" = "Ngôn ngữ";
+
+/* No comment provided by engineer. */
+"Last checked: %@" = "Lần kiểm tra cuối: %@";
+
+/* No comment provided by engineer. */
+"Learn More…" = "Tìm hiểu thêm…";
+
+/* No comment provided by engineer. */
+"License Details" = "Chi tiết thông tin cấp phép";
+
+/* No comment provided by engineer. */
+"License Details…" = "Chi tiết thông tin cấp phép…";
+
+/* No comment provided by engineer. */
+"License key not valid" = "Khóa giấy phép không hợp lệ";
+
+/* Indicates Light color appearance */
+"Light" = "Sáng";
+
+/* No comment provided by engineer. */
+"Loading icon…" = "Đang tải biểu tượng…";
+
+/* No comment provided by engineer. */
+"Main Menu" = "Menu chính";
+
+/* No comment provided by engineer. */
+"Manage Extensions…" = "Quản lý phần mở rộng…";
+
+/* extension info: how the extension was installed (snippet, file, URL scheme, etc.) */
+"Method" = "Phương thức";
+
+/* No comment provided by engineer. */
+"Migrated from previous PopClip version" = "Đã di chuyển từ phiên bản PopClip trước";
+
+/* Apple system color name; use Apple's official localized name */
+"Mint" = "Bạc hà";
+
+/* name of missing third party app */
+"Missing App: %@" = "Ứng dụng bị thiếu: %@";
+
+/* icon picker font option */
+"Monospaced" = "Đơn cách";
+
+/* No comment provided by engineer. */
+"More (Page %lu of %lu)" = "Thêm (Trang %1$lu / %2$lu)";
+
+/* icon picker: position offset control */
+"Move" = "Di chuyển";
+
+/* icon picker: horizontal position offset */
+"Move X" = "Di chuyển X";
+
+/* icon picker: vertical position offset */
+"Move Y" = "Di chuyển Y";
+
+/* No comment provided by engineer. */
+"Name" = "Tên";
+
+/* extension entitlement: the extension can access the network */
+"Network" = "Mạng";
+
+/* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
+"Never" = "Không bao giờ";
+
+/* No comment provided by engineer. */
+"New Folder" = "Thư mục mới";
+
+/* No comment provided by engineer. */
+"New Instance" = "Phiên bản tùy chỉnh mới";
+
+/* No comment provided by engineer. */
+"New Separator" = "Dấu phân cách mới";
+
+/* No comment provided by engineer. */
+"No extensions installed" = "Chưa cài đặt phần mở rộng nào";
+
+/* No comment provided by engineer. */
+"No icons found." = "Không tìm thấy biểu tượng nào.";
+
+/* No comment provided by engineer. */
+"None" = "Không có";
+
+/* No comment provided by engineer. */
+"Not Authorized" = "Không được ủy quyền";
+
+/* No comment provided by engineer. */
+"Not Now" = "Không phải bây giờ";
+
+/* No comment provided by engineer. */
+"Notify only" = "Chỉ thông báo";
+
+/* No comment provided by engineer. */
+"Off" = "Tắt";
+
+/* No comment provided by engineer. */
+"One or more extensions could not be updated." = "Không thể cập nhật một hoặc nhiều phần mở rộng.";
+
+/* name of link opening feature */
+"Open Link" = "Mở liên kết";
+
+/* No comment provided by engineer. */
+"Open Links" = "Mở liên kết";
+
+/* Accessibility help for a popup button that opens a submenu. */
+"Opens submenu" = "Mở menu con";
+
+/* Apple system color name; use Apple's official localized name */
+"Orange" = "Cam";
+
+/* extension info: where the extension came from (built-in, extensions directory, etc.) */
+"Origin" = "Nguồn gốc";
+
+/* No comment provided by engineer. */
+"Other…" = "Khác…";
+
+/* No comment provided by engineer. */
+"Package folder" = "Thư mục gói";
+
+/* No comment provided by engineer. */
+"Permissions" = "Quyền";
+
+/* Apple system color name; use Apple's official localized name */
+"Pink" = "Hồng";
+
+/* No comment provided by engineer. */
+"Please close this browser tab and return to PopClip." = "Vui lòng đóng tab trình duyệt này và quay lại PopClip.";
+
+/* No comment provided by engineer. */
+"PopClip  Icon Picker" = "Trình chọn biểu tượng PopClip";
+
+/* No comment provided by engineer. */
+"PopClip appears automatically when you select text with the pointer or when you click and hold." = "PopClip sẽ tự động xuất hiện khi bạn chọn văn bản bằng con trỏ hoặc khi bạn nhấn và giữ chuột.";
+
+/* No comment provided by engineer. */
+"PopClip can't find %@ on this computer. You probably need to install it." = "PopClip không tìm thấy %@ trên máy tính này. Bạn có thể phải cần cài đặt nó trước.";
+
+/* No comment provided by engineer. */
+"PopClip could not load the following extensions:\n\n%@" = "PopClip không thể tải các tiện ích mở rộng sau:\n\n%@";
+
+/* No comment provided by engineer. */
+"PopClip Extensions Directory" = "Thư mục phần mở rộng PopClip";
+
+/* No comment provided by engineer. */
+"PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip cần quyền Trợ năng để đọc văn bản bạn chọn trong các ứng dụng khác và thực hiện các hành động cho bạn.";
+
+/* No comment provided by engineer. */
+"PopClip will check spelling in each selected language." = "PopClip sẽ kiểm tra chính tả cho mỗi ngôn ngữ được lựa chọn.";
+
+/* No comment provided by engineer. */
+"Popup Item" = "Mục bật lên";
+
+/* No comment provided by engineer. */
+"Position" = "Vị trí";
+
+/* Apple system color name; use Apple's official localized name */
+"Purple" = "Tím";
+
+/* No comment provided by engineer. */
+"Quit PopClip" = "Thoát PopClip";
+
+/* No comment provided by engineer. */
+"Recently used apps" = "Ứng dụng vừa sử dụng gần đây";
+
+/* Apple system color name; use Apple's official localized name */
+"Red" = "Đỏ";
+
+/* icon picker font option */
+"Regular" = "Thường";
+
+/* No comment provided by engineer. */
+"Relaunch" = "Khởi động lại";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@ (you have %@)." = "Khởi động lại để sử dụng %1$@ (bạn có %2$@).";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@." = "Khởi động lại để sử dụng %@.";
+
+/* text shown above release notes */
+"Release notes:" = "Ghi chú phát hành:";
+
+/* Button title. Remove selected item from list. Actual button is '-' icon, text is for screen reader only. */
+"Remove" = "Xóa";
+
+/* No comment provided by engineer. */
+"Rename…" = "Đổi tên…";
+
+/* No comment provided by engineer. */
+"Replace your search term with ***\nFor example: https://example.com/?q=***" = "Thay cụm từ tìm kiếm của bạn bằng ***\nVí dụ: https://example.com/?q=***";
+
+/* No comment provided by engineer. */
+"Request Accessibility Access" = "Yêu cầu quyền truy cập Trợ năng";
+
+/* No comment provided by engineer. */
+"Reset to Default Icon" = "Đặt lại về biểu tượng mặc định";
+
+/* No comment provided by engineer. */
+"Restrict where PopClip can appear automatically." = "Giới hạn nơi PopClip có thể xuất hiện tự động.";
+
+/* name of 'reveal in finder' feature */
+"Reveal in Finder" = "Xem trong Finder";
+
+/* icon picker: rotation control */
+"Rotate" = "Xoay";
+
+/* No comment provided by engineer. */
+"Rule:" = "Quy tắc:";
+
+/* No comment provided by engineer. */
+"Rules" = "Quy tắc";
+
+/* icon picker: scale (size) control */
+"Scale" = "Tỷ lệ";
+
+/* name of web search feature */
+"Search" = "Tìm kiếm";
+
+/* Search for icons from the 'Iconify' icon library */
+"Search Iconify" = "Tìm kiếm Iconify";
+
+/* No comment provided by engineer. */
+"Search URL" = "Tìm địa chỉ";
+
+/* No comment provided by engineer. */
+"Searching %@ open source icons." = "Đang tìm kiếm %@ biểu tượng mã nguồn mở.";
+
+/* No comment provided by engineer. */
+"Select" = "Lựa chọn";
+
+/* No comment provided by engineer. */
+"Separator" = "Dấu phân cách";
+
+/* No comment provided by engineer. */
+"Settings for \"%@\"" = "Cài đặt cho \"%@\"";
+
+/* No comment provided by engineer. */
+"Settings…" = "Cài đặt…";
+
+/* icon picker: outer shape (none, square, circle) */
+"Shape" = "Hình dạng";
+
+/* No comment provided by engineer. */
+"Show \"%@\" in the actions list" = "Hiển thị \"%@\" trong danh sách hành động";
+
+/* No comment provided by engineer. */
+"Show As" = "Hiển thị dưới dạng";
+
+/* No comment provided by engineer. */
+"Show in menu bar" = "Hiển thị trên thanh công cụ";
+
+/* No comment provided by engineer. */
+"Show Secret" = "Hiện bí mật";
+
+/* No comment provided by engineer. */
+"Show Specifier" = "Hiện mã chỉ định";
+
+/* No comment provided by engineer. */
+"Sign In" = "Đăng nhập";
+
+/* No comment provided by engineer. */
+"Sign in failed." = "Đăng nhập thất bại.";
+
+/* No comment provided by engineer. */
+"Sign in to your %@ account." = "Đăng nhập vào tài khoản %@ của bạn.";
+
+/* No comment provided by engineer. */
+"Sign Out" = "Đăng Xuất";
+
+/* extension info: code-signing status */
+"Signature" = "Chữ ký";
+
+/* No comment provided by engineer. */
+"Signed in: %@" = "Đã đăng nhập: %@";
+
+/* No comment provided by engineer. */
+"Size" = "Kích cỡ";
+
+/* No comment provided by engineer. */
+"Snippet" = "Đoạn mã";
+
+/* No comment provided by engineer. */
+"Snippet is too long (%@ chars; max %@)" = "Đoạn mã quá dài (%1$@ ký tự; tối đa %2$@)";
+
+/* No comment provided by engineer. */
+"Software Update" = "Cập nhật phần mềm";
+
+/* No comment provided by engineer. */
+"Sort" = "Sắp xếp";
+
+/* No comment provided by engineer. */
+"Sort by Date" = "Sắp xếp theo ngày";
+
+/* No comment provided by engineer. */
+"Sort by Name" = "Sắp xếp theo tên";
+
+/* name of spelling checker feature */
+"Spelling" = "Chính tả";
+
+/* No comment provided by engineer. */
+"Square" = "Hình vuông";
+
+/* No comment provided by engineer. */
+"Start at login" = "Bật khi đăng nhập";
+
+/* URL rule description */
+"Starts with" = "Bắt đầu với";
+
+/* icon picker option: diagonal 'strike' or 'slash' line drawn over icon */
+"Strike" = "Gạch chéo";
+
+/* No comment provided by engineer. */
+"Style" = "Kiểu";
+
+/* Apple system color name; use Apple's official localized name */
+"Teal" = "Xanh mòng két";
+
+/* No comment provided by engineer. */
+"Technical information:" = "Thông tin kỹ thuật:";
+
+/* icon picker: use typed text as the icon */
+"Text" = "Văn bản";
+
+/* No comment provided by engineer. */
+"Text file" = "Tệp văn bản";
+
+/* No comment provided by engineer. */
+"Text Only" = "Chỉ văn bản";
+
+/* No comment provided by engineer. */
+"The application appears to be corrupted. Please install a fresh copy." = "Ứng dụng có thể đã bị hỏng. Vui lòng cài đặt lại.";
+
+/* No comment provided by engineer. */
+"This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Tiện ích mở rộng này không tương thích với phiên bản hiện tại của PopClip. Vui lòng cập nhật lên phiên bản PopClip mới nhất.";
+
+/* No comment provided by engineer. */
+"This extension requires macOS version %@ or above." = "Tiện tích mở rộng này yêu cầu macOS phiên bản %@ hoặc cao hơn.";
+
+/* the free trial has expired */
+"Trial Expired" = "Đã hết hạn dùng thử";
+
+/* No comment provided by engineer. */
+"Unavailable Action" = "Hành động không khả dụng";
+
+/* No comment provided by engineer. */
+"Unknown" = "Không xác định";
+
+/* No comment provided by engineer. */
+"Unsigned" = "Chưa ký";
+
+/* No comment provided by engineer. */
+"Unsigned Extension" = "Tiện ích mở rộng không được ký nhận";
+
+/* No comment provided by engineer. */
+"Up to date" = "Đã cập nhật";
+
+/* No comment provided by engineer. */
+"Update automatically" = "Tự động cập nhật";
+
+/* Extensions list subtitle when an update is available */
+"Update available" = "Có bản cập nhật";
+
+/* No comment provided by engineer. */
+"Update error" = "Lỗi cập nhật";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Updated %@" = "Đã cập nhật %@";
+
+/* No comment provided by engineer. */
+"Updater error" = "Lỗi cập nhật";
+
+/* No comment provided by engineer. */
+"Updates" = "Bản cập nhật";
+
+/* No comment provided by engineer. */
+"URL scheme" = "Lược đồ URL";
+
+/* No comment provided by engineer. */
+"Use the keyboard shortcut to trigger PopClip manually." = "Sử dụng phím tắt để khởi động PopClip thủ công.";
+
+/* No comment provided by engineer. */
+"User-generated" = "Do người dùng tạo";
+
+/* No comment provided by engineer. */
+"Verified" = "Đã xác minh";
+
+/* No comment provided by engineer. */
+"Version" = "Phiên bản";
+
+/* button to show release notes */
+"View Details…" = "Xem chi tiết…";
+
+/* No comment provided by engineer. */
+"View Source" = "Xem nguồn";
+
+/* No comment provided by engineer. */
+"View Web Page" = "Xem trang web";
+
+/* Visit the website for the name app e.g. Visit Evernote Website */
+"Visit %@ Website" = "Truy cập trang web %@";
+
+/* No comment provided by engineer. */
+"Waiting to check for updates" = "Đang chờ kiểm tra cập nhật";
+
+/* No comment provided by engineer. */
+"Waiting…" = "Đang đợi…";
+
+/* No comment provided by engineer. */
+"Web Page" = "Trang web";
+
+/* No comment provided by engineer. */
+"Website Address" = "Địa chỉ trang web";
+
+/* No comment provided by engineer. */
+"Websites…" = "Trang web…";
+
+/* Apple system color name; use Apple's official localized name */
+"Yellow" = "Vàng";
+
+/* No comment provided by engineer. */
+"You are signed in to %@." = "Bạn đang đăng nhập với tài khoản %@.";
+
+/* No comment provided by engineer. */
+"You're all set! No settings to configure." = "Bạn đã sẵn sàng! Không có cài đặt nào cần cấu hình.";
+
+/* No comment provided by engineer. */
+"Your License" = "Giấy phép của bạn";
+
+/* No comment provided by engineer. */
+"Zip file" = "Tệp Zip";
+
+/* No comment provided by engineer. */
+"⚠️ Authorization failed." = "⚠️ Ủy quyền không thành công.";
+
+/* URL rule description */
+"⚠️ Invalid" = "⚠️ Không hợp lệ";
+
+/* No comment provided by engineer. */
+"✅ PopClip Extension \"%@\" authorized." = "✅ Phần mở rộng PopClip \"%@\" đã được ủy quyền.";
