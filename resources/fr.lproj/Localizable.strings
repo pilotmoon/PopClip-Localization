@@ -5,7 +5,7 @@
 "%@ is excluded" = "%@ est exclu";
 
 /* message shown when PopClip cannot appear automatically in the given app due to compatibility problem. Example `Pixelmator Pro is not compatible` */
-"%@ is not compatible" = "%@ n'est pas compatible";
+"%@ is not compatible" = "%@ n’est pas compatible";
 
 /* Example: 1.6 is now available (you have 1.5.2) */
 "%@ is now available (you have %@)." = "%1$@ est maintenant disponible (vous utilisez actuellement %2$@).";
@@ -38,7 +38,7 @@
 "1–3 characters" = "1 à 3 caractères";
 
 /* Alert text; %@ is the extension name. 'extension' = a PopClip add-on/plug-in (not a file-name extension); 'signed' = code-signed by the developer. */
-"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "“%@” n’est pas signé par Pilotmoon Software. N’installez cette extension que si vous l’avez obtenue d’une source en qui vous avez confiance.";
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "« %@ » n’est pas signé par Pilotmoon Software. N’installez cette extension que si vous l’avez obtenue d’une source en qui vous avez confiance.";
 
 /* No comment provided by engineer. */
 "\"%@\" Settings" = "Paramètres « %@ »";
@@ -47,7 +47,7 @@
 "Above Text" = "Au-dessus du texte";
 
 /* No comment provided by engineer. */
-"Accessibility access is required" = "L'accès Accessibilité est requis";
+"Accessibility access is required" = "L’accès Accessibilité est requis";
 
 /* No comment provided by engineer. */
 "Action" = "Opération";
@@ -77,7 +77,7 @@
 "App" = "App";
 
 /* No comment provided by engineer. */
-"App Settings" = "Paramètres de l'application";
+"App Settings" = "Paramètres de l’application";
 
 /* No comment provided by engineer. */
 "Appear automatically" = "Apparaître automatiquement";
@@ -136,17 +136,17 @@
 /* No comment provided by engineer. */
 "Change Icon…" = "Changer l’icône…";
 
-/* No comment provided by engineer. */
+/* Menu command (imperative): check for updates to installed extensions */
 "Check for extension updates" = "Rechercher les mises à jour d’extensions";
 
 /* Menu command (imperative): check for app updates. */
-"Check for updates" = "Vérifier les mises à jour";
+"Check for updates" = "Rechercher les mises à jour";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for app updates */
 "Checking for updates…" = "Recherche de mises à jour…";
 
-/* No comment provided by engineer. */
-"Checking…" = "Vérification…";
+/* Progress label shown while checking for extension updates */
+"Checking…" = "Recherche…";
 
 /* icon picker option: shape is a circle */
 "Circle" = "Cercle";
@@ -179,10 +179,10 @@
 "Couldn't reach the update server (status %lu)." = "Impossible de joindre le serveur de mise à jour (état %lu).";
 
 /* No comment provided by engineer. */
-"Custom" = "Personnalisée";
+"Custom" = "Personnalisé";
 
 /* No comment provided by engineer. */
-"Custom…" = "Personnalisée…";
+"Custom…" = "Personnaliser…";
 
 /* Indicates Dark color appearance */
 "Dark" = "Foncé";
@@ -215,7 +215,7 @@
 "Don't Install" = "Ne pas installer";
 
 /* No comment provided by engineer. */
-"Done" = "OK";
+"Done" = "Terminé";
 
 /* No comment provided by engineer. */
 "Downloaded %@ of %@…" = "Téléchargement : %1$@ sur %2$@…";
@@ -326,16 +326,16 @@
 "Hide Secret" = "Masquer le secret";
 
 /* No comment provided by engineer. */
-"Hold Option (⌥) for alternate search." = "Maintenez l'option (⌥) pour effectuer une recherche alternative.";
+"Hold Option (⌥) for alternate search." = "Maintenez l’option (⌥) pour effectuer une recherche alternative.";
 
 /* URL rule description */
 "Host" = "Hôte";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud n’est pas disponible";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud est restreint";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "Synchronisation iCloud";
@@ -419,7 +419,7 @@
 "Invalid icon specifier" = "Spécificateur d’icône non valide";
 
 /* Example: `Last checked: Just now`. Indicates a time within the last minute */
-"Just now" = "A l'instant";
+"Just now" = "À l’instant";
 
 /* No comment provided by engineer. */
 "Keyboard shortcut" = "Raccourci clavier";
@@ -464,7 +464,7 @@
 "Migrated from previous PopClip version" = "Migrée depuis la version précédente de PopClip";
 
 /* name of missing third party app */
-"Missing App: %@" = "Appli manquante: %@";
+"Missing App: %@" = "Appli manquante : %@";
 
 /* icon picker font option */
 "Monospaced" = "Chasse fixe";
@@ -502,8 +502,8 @@
 /* No comment provided by engineer. */
 "No extensions installed" = "Aucune extension installée";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "Aucun compte iCloud";
 
 /* No comment provided by engineer. */
 "No icons found." = "Aucune icône trouvée.";
@@ -566,10 +566,10 @@
 "PopClip Extensions Directory" = "Répertoire des extensions PopClip";
 
 /* No comment provided by engineer. */
-"PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip a besoin de l'accès Accessibilité pour lire le texte que vous sélectionnez dans d'autres applications et pour effectuer des actions pour vous.";
+"PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip a besoin de l’accès Accessibilité pour lire le texte que vous sélectionnez dans d’autres applications et pour effectuer des actions pour vous.";
 
 /* No comment provided by engineer. */
-"PopClip will check spelling in each selected language." = "PopClip vérifiera l'orthographe dans toutes les langues sélectionnées.";
+"PopClip will check spelling in each selected language." = "PopClip vérifiera l’orthographe dans toutes les langues sélectionnées.";
 
 /* No comment provided by engineer. */
 "Popup Item" = "Élément de menu contextuel";
@@ -608,7 +608,7 @@
 "Replace your search term with ***\nFor example: https://example.com/?q=***" = "Remplacez votre terme de recherche par ***\nPar exemple : https://example.com/?q=***";
 
 /* No comment provided by engineer. */
-"Request Accessibility Access" = "Demander l'accès Accessibilité";
+"Request Accessibility Access" = "Demander l’accès Accessibilité";
 
 /* No comment provided by engineer. */
 "Reset to Default Icon" = "Rétablir l’icône par défaut";
@@ -743,7 +743,7 @@
 "Text Only" = "Texte seul";
 
 /* No comment provided by engineer. */
-"The application appears to be corrupted. Please install a fresh copy." = "L'application semble corrompue. Veuillez installer une nouvelle copie.";
+"The application appears to be corrupted. Please install a fresh copy." = "L’application semble corrompue. Veuillez installer une nouvelle copie.";
 
 /* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
 "This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Cette extension n’est pas compatible avec cette version de PopClip. Veuillez mettre à jour vers la dernière version de PopClip.";
@@ -830,7 +830,7 @@
 "Websites…" = "Sites web…";
 
 /* No comment provided by engineer. */
-"You are signed in to %@." = "Vous êtes connecté à %@";
+"You are signed in to %@." = "Vous êtes connecté à %@.";
 
 /* No comment provided by engineer. */
 "You're all set! No settings to configure." = "Tout est prêt ! Aucun réglage à configurer.";
@@ -842,7 +842,7 @@
 "Zip file" = "Fichier Zip";
 
 /* No comment provided by engineer. */
-"⚠️ Authorization failed." = "⚠️ L'autorisation a échoué.";
+"⚠️ Authorization failed." = "⚠️ L’autorisation a échoué.";
 
 /* URL rule description */
 "⚠️ Invalid" = "⚠️ Invalide";
