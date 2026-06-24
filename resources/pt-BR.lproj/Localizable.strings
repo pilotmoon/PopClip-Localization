@@ -37,7 +37,7 @@
 /* icon picker: hint that the typed text may be 1 to 3 characters */
 "1–3 characters" = "1–3 caracteres";
 
-/* No comment provided by engineer. */
+/* Alert text; %@ is the extension name. 'extension' = a PopClip add-on/plug-in (not a file-name extension); 'signed' = code-signed by the developer. */
 "\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "“%@” não é assinado pela Pilotmoon Software. Instale esta extensão somente se você a conseguiu por uma fonte confiável.";
 
 /* No comment provided by engineer. */
@@ -82,7 +82,7 @@
 /* No comment provided by engineer. */
 "Appear automatically" = "Aparecer automaticamente";
 
-/* No comment provided by engineer. */
+/* Title of the appearance settings section: visual appearance such as dark/light mode, color, and size. */
 "Appearance" = "Aparência";
 
 /* No comment provided by engineer. */
@@ -127,9 +127,6 @@
 /* No comment provided by engineer. */
 "Buy license key" = "Comprar chave de licença";
 
-/* as in 'by Nick Moore' */
-"by" = "por";
-
 /* icon attribution author line */
 "by %@" = "por %@";
 
@@ -148,7 +145,7 @@
 /* No comment provided by engineer. */
 "Check for extension updates" = "Procurar atualizações de extensões";
 
-/* No comment provided by engineer. */
+/* Menu command (imperative): check for app updates. */
 "Check for updates" = "Procurar por atualizações";
 
 /* No comment provided by engineer. */
@@ -772,7 +769,7 @@
 /* No comment provided by engineer. */
 "The application appears to be corrupted. Please install a fresh copy." = "O aplicativo parece estar corrompido. Instale uma cópia nova.";
 
-/* No comment provided by engineer. */
+/* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
 "This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Esta extensão não é compatível com essa versão do PopClip. Por favor, atualize para a versão mais recente do PopClip.";
 
 /* No comment provided by engineer. */
@@ -790,7 +787,7 @@
 /* No comment provided by engineer. */
 "Unsigned" = "Não assinado";
 
-/* No comment provided by engineer. */
+/* Alert title. 'Extension' here means a PopClip add-on/plug-in, not a file-name extension. 'Unsigned' = has no code signature. */
 "Unsigned Extension" = "Extensão não assinada";
 
 /* No comment provided by engineer. */

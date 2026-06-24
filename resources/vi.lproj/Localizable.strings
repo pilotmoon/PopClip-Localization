@@ -37,7 +37,7 @@
 /* icon picker: hint that the typed text may be 1 to 3 characters */
 "1–3 characters" = "1–3 ký tự";
 
-/* No comment provided by engineer. */
+/* Alert text; %@ is the extension name. 'extension' = a PopClip add-on/plug-in (not a file-name extension); 'signed' = code-signed by the developer. */
 "\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "\"%@\" không được ký nhận bởi Pilotmoon Software. Bạn chỉ nên cài tiện tích mở rộng này từ nguồn tin tưởng.";
 
 /* No comment provided by engineer. */
@@ -82,7 +82,7 @@
 /* No comment provided by engineer. */
 "Appear automatically" = "Tự động xuất hiện";
 
-/* No comment provided by engineer. */
+/* Title of the appearance settings section: visual appearance such as dark/light mode, color, and size. */
 "Appearance" = "Giao diện";
 
 /* No comment provided by engineer. */
@@ -127,9 +127,6 @@
 /* No comment provided by engineer. */
 "Buy license key" = "Mua mã bản quyền";
 
-/* as in 'by Nick Moore' */
-"by" = "bởi";
-
 /* icon attribution author line */
 "by %@" = "bởi %@";
 
@@ -148,7 +145,7 @@
 /* No comment provided by engineer. */
 "Check for extension updates" = "Kiểm tra bản cập nhật phần mở rộng";
 
-/* No comment provided by engineer. */
+/* Menu command (imperative): check for app updates. */
 "Check for updates" = "Kiểm tra bản cập nhật";
 
 /* No comment provided by engineer. */
@@ -772,7 +769,7 @@
 /* No comment provided by engineer. */
 "The application appears to be corrupted. Please install a fresh copy." = "Ứng dụng có thể đã bị hỏng. Vui lòng cài đặt lại.";
 
-/* No comment provided by engineer. */
+/* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
 "This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Tiện ích mở rộng này không tương thích với phiên bản hiện tại của PopClip. Vui lòng cập nhật lên phiên bản PopClip mới nhất.";
 
 /* No comment provided by engineer. */
@@ -790,7 +787,7 @@
 /* No comment provided by engineer. */
 "Unsigned" = "Chưa ký";
 
-/* No comment provided by engineer. */
+/* Alert title. 'Extension' here means a PopClip add-on/plug-in, not a file-name extension. 'Unsigned' = has no code signature. */
 "Unsigned Extension" = "Tiện ích mở rộng không được ký nhận";
 
 /* No comment provided by engineer. */
