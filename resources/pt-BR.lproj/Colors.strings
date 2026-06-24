@@ -1,35 +1,44 @@
 /* No comment provided by engineer. */
-"Blue" = "Azul";
+"blackColor" = "Preto";
 
 /* No comment provided by engineer. */
-"Brown" = "Marrom";
+"systemBlueColor" = "Azul";
 
 /* No comment provided by engineer. */
-"Cyan" = "Ciano";
+"systemBrownColor" = "Marrom";
 
 /* No comment provided by engineer. */
-"Green" = "Verde";
+"systemCyanColor" = "Cíano";
 
 /* No comment provided by engineer. */
-"Indigo" = "Índigo";
+"systemGrayColor" = "Cinza";
 
 /* No comment provided by engineer. */
-"Mint" = "Menta";
+"systemGreenColor" = "Verde";
 
 /* No comment provided by engineer. */
-"Orange" = "Laranja";
+"systemIndigoColor" = "Índigo";
 
 /* No comment provided by engineer. */
-"Pink" = "Rosa";
+"systemMintColor" = "Menta";
 
 /* No comment provided by engineer. */
-"Purple" = "Roxo";
+"systemOrangeColor" = "Laranja";
 
 /* No comment provided by engineer. */
-"Red" = "Vermelho";
+"systemPinkColor" = "Rosa";
 
 /* No comment provided by engineer. */
-"Teal" = "Verde-azulado";
+"systemPurpleColor" = "Roxo";
 
 /* No comment provided by engineer. */
-"Yellow" = "Amarelo";
+"systemRedColor" = "Vermelho";
+
+/* No comment provided by engineer. */
+"systemTealColor" = "Verde-cinza";
+
+/* No comment provided by engineer. */
+"systemYellowColor" = "Amarelo";
+
+/* No comment provided by engineer. */
+"whiteColor" = "Branco";

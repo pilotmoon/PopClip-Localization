@@ -1,35 +1,44 @@
 /* No comment provided by engineer. */
-"Blue" = "ブルー";
+"blackColor" = "ブラック";
 
 /* No comment provided by engineer. */
-"Brown" = "ブラウン";
+"systemBlueColor" = "ブルー";
 
 /* No comment provided by engineer. */
-"Cyan" = "シアン";
+"systemBrownColor" = "ブラウン";
 
 /* No comment provided by engineer. */
-"Green" = "グリーン";
+"systemCyanColor" = "シアン";
 
 /* No comment provided by engineer. */
-"Indigo" = "インディゴ";
+"systemGrayColor" = "グレイ";
 
 /* No comment provided by engineer. */
-"Mint" = "ミント";
+"systemGreenColor" = "グリーン";
 
 /* No comment provided by engineer. */
-"Orange" = "オレンジ";
+"systemIndigoColor" = "インディゴ";
 
 /* No comment provided by engineer. */
-"Pink" = "ピンク";
+"systemMintColor" = "ミント";
 
 /* No comment provided by engineer. */
-"Purple" = "パープル";
+"systemOrangeColor" = "オレンジ";
 
 /* No comment provided by engineer. */
-"Red" = "レッド";
+"systemPinkColor" = "ピンク";
 
 /* No comment provided by engineer. */
-"Teal" = "ティール";
+"systemPurpleColor" = "パープル";
 
 /* No comment provided by engineer. */
-"Yellow" = "イエロー";
+"systemRedColor" = "レッド";
+
+/* No comment provided by engineer. */
+"systemTealColor" = "ティール";
+
+/* No comment provided by engineer. */
+"systemYellowColor" = "イエロー";
+
+/* No comment provided by engineer. */
+"whiteColor" = "ホワイト";

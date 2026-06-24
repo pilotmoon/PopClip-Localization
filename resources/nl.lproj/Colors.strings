@@ -1,35 +1,44 @@
 /* No comment provided by engineer. */
-"Blue" = "Blauw";
+"blackColor" = "Zwart";
 
 /* No comment provided by engineer. */
-"Brown" = "Bruin";
+"systemBlueColor" = "Blauw";
 
 /* No comment provided by engineer. */
-"Cyan" = "Cyaan";
+"systemBrownColor" = "Bruin";
 
 /* No comment provided by engineer. */
-"Green" = "Groen";
+"systemCyanColor" = "Cyaan";
 
 /* No comment provided by engineer. */
-"Indigo" = "Indigo";
+"systemGrayColor" = "Grijs";
 
 /* No comment provided by engineer. */
-"Mint" = "Mint";
+"systemGreenColor" = "Groen";
 
 /* No comment provided by engineer. */
-"Orange" = "Oranje";
+"systemIndigoColor" = "Indigo";
 
 /* No comment provided by engineer. */
-"Pink" = "Roze";
+"systemMintColor" = "Mintgroen";
 
 /* No comment provided by engineer. */
-"Purple" = "Paars";
+"systemOrangeColor" = "Oranje";
 
 /* No comment provided by engineer. */
-"Red" = "Rood";
+"systemPinkColor" = "Roze";
 
 /* No comment provided by engineer. */
-"Teal" = "Groenblauw";
+"systemPurpleColor" = "Paars";
 
 /* No comment provided by engineer. */
-"Yellow" = "Geel";
+"systemRedColor" = "Rood";
+
+/* No comment provided by engineer. */
+"systemTealColor" = "Groenblauw";
+
+/* No comment provided by engineer. */
+"systemYellowColor" = "Geel";
+
+/* No comment provided by engineer. */
+"whiteColor" = "Wit";

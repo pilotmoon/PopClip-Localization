@@ -1,35 +1,44 @@
 /* No comment provided by engineer. */
-"Blue" = "Mavi";
+"blackColor" = "Siyah";
 
 /* No comment provided by engineer. */
-"Brown" = "Kahverengi";
+"systemBlueColor" = "Mavi";
 
 /* No comment provided by engineer. */
-"Cyan" = "Camgöbeği";
+"systemBrownColor" = "Kahverengi";
 
 /* No comment provided by engineer. */
-"Green" = "Yeşil";
+"systemCyanColor" = "Camgöbeği";
 
 /* No comment provided by engineer. */
-"Indigo" = "Çivit";
+"systemGrayColor" = "Gri";
 
 /* No comment provided by engineer. */
-"Mint" = "Nane";
+"systemGreenColor" = "Yeşil";
 
 /* No comment provided by engineer. */
-"Orange" = "Turuncu";
+"systemIndigoColor" = "İndigo";
 
 /* No comment provided by engineer. */
-"Pink" = "Pembe";
+"systemMintColor" = "Nane Yeşili";
 
 /* No comment provided by engineer. */
-"Purple" = "Mor";
+"systemOrangeColor" = "Turuncu";
 
 /* No comment provided by engineer. */
-"Red" = "Kırmızı";
+"systemPinkColor" = "Pembe";
 
 /* No comment provided by engineer. */
-"Teal" = "Deniz Mavisi";
+"systemPurpleColor" = "Mor";
 
 /* No comment provided by engineer. */
-"Yellow" = "Sarı";
+"systemRedColor" = "Kırmızı";
+
+/* No comment provided by engineer. */
+"systemTealColor" = "Deniz Mavisi";
+
+/* No comment provided by engineer. */
+"systemYellowColor" = "Sarı";
+
+/* No comment provided by engineer. */
+"whiteColor" = "Beyaz";

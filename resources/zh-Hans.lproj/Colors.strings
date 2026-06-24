@@ -1,35 +1,44 @@
 /* No comment provided by engineer. */
-"Blue" = "蓝色";
+"blackColor" = "黑色";
 
 /* No comment provided by engineer. */
-"Brown" = "棕色";
+"systemBlueColor" = "蓝色";
 
 /* No comment provided by engineer. */
-"Cyan" = "青色";
+"systemBrownColor" = "褐色";
 
 /* No comment provided by engineer. */
-"Green" = "绿色";
+"systemCyanColor" = "青色";
 
 /* No comment provided by engineer. */
-"Indigo" = "靛蓝色";
+"systemGrayColor" = "灰色";
 
 /* No comment provided by engineer. */
-"Mint" = "薄荷色";
+"systemGreenColor" = "绿色";
 
 /* No comment provided by engineer. */
-"Orange" = "橙色";
+"systemIndigoColor" = "靛蓝色";
 
 /* No comment provided by engineer. */
-"Pink" = "粉色";
+"systemMintColor" = "薄荷色";
 
 /* No comment provided by engineer. */
-"Purple" = "紫色";
+"systemOrangeColor" = "橙色";
 
 /* No comment provided by engineer. */
-"Red" = "红色";
+"systemPinkColor" = "粉色";
 
 /* No comment provided by engineer. */
-"Teal" = "蓝绿色";
+"systemPurpleColor" = "紫色";
 
 /* No comment provided by engineer. */
-"Yellow" = "黄色";
+"systemRedColor" = "红色";
+
+/* No comment provided by engineer. */
+"systemTealColor" = "深青色";
+
+/* No comment provided by engineer. */
+"systemYellowColor" = "黄色";
+
+/* No comment provided by engineer. */
+"whiteColor" = "白色";

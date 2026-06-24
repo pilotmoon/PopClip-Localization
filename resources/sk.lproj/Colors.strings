@@ -1,35 +1,44 @@
 /* No comment provided by engineer. */
-"Blue" = "Modrá";
+"blackColor" = "Čierna";
 
 /* No comment provided by engineer. */
-"Brown" = "Hnedá";
+"systemBlueColor" = "Modrá";
 
 /* No comment provided by engineer. */
-"Cyan" = "Azúrová";
+"systemBrownColor" = "Hnedá";
 
 /* No comment provided by engineer. */
-"Green" = "Zelená";
+"systemCyanColor" = "Azúrová";
 
 /* No comment provided by engineer. */
-"Indigo" = "Indigová";
+"systemGrayColor" = "Sivá";
 
 /* No comment provided by engineer. */
-"Mint" = "Mätová";
+"systemGreenColor" = "Zelená";
 
 /* No comment provided by engineer. */
-"Orange" = "Oranžová";
+"systemIndigoColor" = "Indigová";
 
 /* No comment provided by engineer. */
-"Pink" = "Ružová";
+"systemMintColor" = "Mätová";
 
 /* No comment provided by engineer. */
-"Purple" = "Fialová";
+"systemOrangeColor" = "Oranžová";
 
 /* No comment provided by engineer. */
-"Red" = "Červená";
+"systemPinkColor" = "Ružová";
 
 /* No comment provided by engineer. */
-"Teal" = "Tyrkysová";
+"systemPurpleColor" = "Purpurová";
 
 /* No comment provided by engineer. */
-"Yellow" = "Žltá";
+"systemRedColor" = "Červená";
+
+/* No comment provided by engineer. */
+"systemTealColor" = "Modrozelená";
+
+/* No comment provided by engineer. */
+"systemYellowColor" = "Žltá";
+
+/* No comment provided by engineer. */
+"whiteColor" = "Biela";

@@ -1,35 +1,44 @@
 /* No comment provided by engineer. */
-"Blue" = "Xanh lam";
+"blackColor" = "Đen";
 
 /* No comment provided by engineer. */
-"Brown" = "Nâu";
+"systemBlueColor" = "Lam";
 
 /* No comment provided by engineer. */
-"Cyan" = "Xanh lơ";
+"systemBrownColor" = "Nâu";
 
 /* No comment provided by engineer. */
-"Green" = "Xanh lục";
+"systemCyanColor" = "Xanh ngọc";
 
 /* No comment provided by engineer. */
-"Indigo" = "Chàm";
+"systemGrayColor" = "Xám";
 
 /* No comment provided by engineer. */
-"Mint" = "Bạc hà";
+"systemGreenColor" = "Lục";
 
 /* No comment provided by engineer. */
-"Orange" = "Cam";
+"systemIndigoColor" = "Chàm";
 
 /* No comment provided by engineer. */
-"Pink" = "Hồng";
+"systemMintColor" = "Bạc hà";
 
 /* No comment provided by engineer. */
-"Purple" = "Tím";
+"systemOrangeColor" = "Cam";
 
 /* No comment provided by engineer. */
-"Red" = "Đỏ";
+"systemPinkColor" = "Hồng";
 
 /* No comment provided by engineer. */
-"Teal" = "Xanh mòng két";
+"systemPurpleColor" = "Tía";
 
 /* No comment provided by engineer. */
-"Yellow" = "Vàng";
+"systemRedColor" = "Đỏ";
+
+/* No comment provided by engineer. */
+"systemTealColor" = "Mòng két";
+
+/* No comment provided by engineer. */
+"systemYellowColor" = "Vàng";
+
+/* No comment provided by engineer. */
+"whiteColor" = "Trắng";

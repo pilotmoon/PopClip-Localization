@@ -1,35 +1,44 @@
 /* No comment provided by engineer. */
-"Blue" = "Синій";
+"blackColor" = "Чорний";
 
 /* No comment provided by engineer. */
-"Brown" = "Коричневий";
+"systemBlueColor" = "Синій";
 
 /* No comment provided by engineer. */
-"Cyan" = "Блакитний";
+"systemBrownColor" = "Коричневий";
 
 /* No comment provided by engineer. */
-"Green" = "Зелений";
+"systemCyanColor" = "Блакитний";
 
 /* No comment provided by engineer. */
-"Indigo" = "Індиго";
+"systemGrayColor" = "Сірий";
 
 /* No comment provided by engineer. */
-"Mint" = "М’ятний";
+"systemGreenColor" = "Зелений";
 
 /* No comment provided by engineer. */
-"Orange" = "Помаранчевий";
+"systemIndigoColor" = "Індиго";
 
 /* No comment provided by engineer. */
-"Pink" = "Рожевий";
+"systemMintColor" = "Зелена мʼята";
 
 /* No comment provided by engineer. */
-"Purple" = "Фіолетовий";
+"systemOrangeColor" = "Оранжевий";
 
 /* No comment provided by engineer. */
-"Red" = "Червоний";
+"systemPinkColor" = "Рожевий";
 
 /* No comment provided by engineer. */
-"Teal" = "Бірюзовий";
+"systemPurpleColor" = "Бузковий";
 
 /* No comment provided by engineer. */
-"Yellow" = "Жовтий";
+"systemRedColor" = "Червоний";
+
+/* No comment provided by engineer. */
+"systemTealColor" = "Синьо-зелений";
+
+/* No comment provided by engineer. */
+"systemYellowColor" = "Жовтий";
+
+/* No comment provided by engineer. */
+"whiteColor" = "Білий";

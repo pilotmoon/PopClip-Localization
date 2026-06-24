@@ -1,36 +1,45 @@
 /* No comment provided by engineer. */
-"Blue" = "Blue";
+"blackColor" = "Black";
 
 /* No comment provided by engineer. */
-"Brown" = "Brown";
+"systemBlueColor" = "Blue";
 
 /* No comment provided by engineer. */
-"Cyan" = "Cyan";
+"systemBrownColor" = "Brown";
 
 /* No comment provided by engineer. */
-"Green" = "Green";
+"systemCyanColor" = "Cyan";
 
 /* No comment provided by engineer. */
-"Indigo" = "Indigo";
+"systemGrayColor" = "Gray";
 
 /* No comment provided by engineer. */
-"Mint" = "Mint";
+"systemGreenColor" = "Green";
 
 /* No comment provided by engineer. */
-"Orange" = "Orange";
+"systemIndigoColor" = "Indigo";
 
 /* No comment provided by engineer. */
-"Pink" = "Pink";
+"systemMintColor" = "Mint";
 
 /* No comment provided by engineer. */
-"Purple" = "Purple";
+"systemOrangeColor" = "Orange";
 
 /* No comment provided by engineer. */
-"Red" = "Red";
+"systemPinkColor" = "Pink";
 
 /* No comment provided by engineer. */
-"Teal" = "Teal";
+"systemPurpleColor" = "Purple";
 
 /* No comment provided by engineer. */
-"Yellow" = "Yellow";
+"systemRedColor" = "Red";
+
+/* No comment provided by engineer. */
+"systemTealColor" = "Teal";
+
+/* No comment provided by engineer. */
+"systemYellowColor" = "Yellow";
+
+/* No comment provided by engineer. */
+"whiteColor" = "White";
 

@@ -1,35 +1,44 @@
 /* No comment provided by engineer. */
-"Blue" = "파란색";
+"blackColor" = "검정색";
 
 /* No comment provided by engineer. */
-"Brown" = "갈색";
+"systemBlueColor" = "파란색";
 
 /* No comment provided by engineer. */
-"Cyan" = "시안";
+"systemBrownColor" = "갈색";
 
 /* No comment provided by engineer. */
-"Green" = "녹색";
+"systemCyanColor" = "사이안색";
 
 /* No comment provided by engineer. */
-"Indigo" = "남색";
+"systemGrayColor" = "회색";
 
 /* No comment provided by engineer. */
-"Mint" = "민트색";
+"systemGreenColor" = "초록색";
 
 /* No comment provided by engineer. */
-"Orange" = "주황색";
+"systemIndigoColor" = "남색";
 
 /* No comment provided by engineer. */
-"Pink" = "분홍색";
+"systemMintColor" = "민트색";
 
 /* No comment provided by engineer. */
-"Purple" = "보라색";
+"systemOrangeColor" = "주황색";
 
 /* No comment provided by engineer. */
-"Red" = "빨간색";
+"systemPinkColor" = "분홍색";
 
 /* No comment provided by engineer. */
-"Teal" = "청록색";
+"systemPurpleColor" = "보라색";
 
 /* No comment provided by engineer. */
-"Yellow" = "노란색";
+"systemRedColor" = "빨간색";
+
+/* No comment provided by engineer. */
+"systemTealColor" = "청록색";
+
+/* No comment provided by engineer. */
+"systemYellowColor" = "노란색";
+
+/* No comment provided by engineer. */
+"whiteColor" = "흰색";

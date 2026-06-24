@@ -1,35 +1,44 @@
 /* No comment provided by engineer. */
-"Blue" = "Blå";
+"blackColor" = "Sort";
 
 /* No comment provided by engineer. */
-"Brown" = "Brun";
+"systemBlueColor" = "Blå";
 
 /* No comment provided by engineer. */
-"Cyan" = "cyanblå";
+"systemBrownColor" = "Brun";
 
 /* No comment provided by engineer. */
-"Green" = "Grøn";
+"systemCyanColor" = "Cyan";
 
 /* No comment provided by engineer. */
-"Indigo" = "indigoblå";
+"systemGrayColor" = "Grå";
 
 /* No comment provided by engineer. */
-"Mint" = "mintgrøn";
+"systemGreenColor" = "Grøn";
 
 /* No comment provided by engineer. */
-"Orange" = "orange";
+"systemIndigoColor" = "Indigo";
 
 /* No comment provided by engineer. */
-"Pink" = "lyserød";
+"systemMintColor" = "Mint";
 
 /* No comment provided by engineer. */
-"Purple" = "Lilla";
+"systemOrangeColor" = "Orange";
 
 /* No comment provided by engineer. */
-"Red" = "Rød";
+"systemPinkColor" = "Pink";
 
 /* No comment provided by engineer. */
-"Teal" = "Blågrøn";
+"systemPurpleColor" = "Lilla";
 
 /* No comment provided by engineer. */
-"Yellow" = "Gul";
+"systemRedColor" = "Rød";
+
+/* No comment provided by engineer. */
+"systemTealColor" = "Grønblå";
+
+/* No comment provided by engineer. */
+"systemYellowColor" = "Gul";
+
+/* No comment provided by engineer. */
+"whiteColor" = "Hvid";
