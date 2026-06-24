@@ -29,10 +29,10 @@
 "%lu Uses Left" = "%lu Kullanım kaldı";
 
 /* click this button to get 10 more uses in the free trial */
-"+10 Uses" = "+10 Kullanım kaldı";
+"+10 Uses" = "+10 Kullanım";
 
 /* entry in selection list to indicate no selection */
-"- None -" = "- Seçilemiyor -";
+"- None -" = "- Yok -";
 
 /* icon picker: hint that the typed text may be 1 to 3 characters */
 "1–3 characters" = "1–3 karakter";
@@ -110,7 +110,7 @@
 "Based on %1$@" = "Temel: %1$@";
 
 /* No comment provided by engineer. */
-"Below Text" = "Metin aşağısında";
+"Below Text" = "Metnin aşağısında";
 
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "Yerleşik";
@@ -185,7 +185,7 @@
 "Custom…" = "Özel…";
 
 /* Indicates Dark color appearance */
-"Dark" = "Karanlık Tema";
+"Dark" = "Koyu";
 
 /* No comment provided by engineer. */
 "Date" = "Tarih";
@@ -326,16 +326,16 @@
 "Hide Secret" = "Gizli Bilgiyi Gizle";
 
 /* No comment provided by engineer. */
-"Hold Option (⌥) for alternate search." = "Alternat arama için Seçenek (⌥) tuşunu basılı tutun.";
+"Hold Option (⌥) for alternate search." = "Alternatif arama için Seçenek (⌥) tuşunu basılı tutun.";
 
 /* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "Sunucu";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud kullanılamıyor";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud kısıtlandı";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "iCloud Eşzamanlaması";
@@ -380,13 +380,13 @@
 "Identifier" = "Tanıtıcı";
 
 /* No comment provided by engineer. */
-"Include beta versions" = "Beta versiyonları dahil et";
+"Include beta versions" = "Beta sürümleri dahil et";
 
 /* No comment provided by engineer. */
 "Include colored icons" = "Renkli simgeleri dahil et";
 
 /* No comment provided by engineer. */
-"Include only these apps" = "Sadece bu uygulamaları dâhil et";
+"Include only these apps" = "Sadece bu uygulamaları dahil et";
 
 /* No comment provided by engineer. */
 "Including colored icons" = "Renkli simgeler dahil ediliyor";
@@ -425,13 +425,13 @@
 "Keyboard shortcut" = "Klavye kısayolu";
 
 /* No comment provided by engineer. */
-"Language" = "Lisan";
+"Language" = "Dil";
 
 /* No comment provided by engineer. */
-"Languages" = "Lisanlar";
+"Languages" = "Diller";
 
 /* No comment provided by engineer. */
-"Last checked: %@" = "Son kontrol: %@";
+"Last checked: %@" = "Son denetim: %@";
 
 /* No comment provided by engineer. */
 "Learn More…" = "Daha Fazla Bilgi…";
@@ -443,10 +443,10 @@
 "License Details…" = "Lisans Detayları…";
 
 /* No comment provided by engineer. */
-"License key not valid" = "Lisanss anahtarı geçersiz";
+"License key not valid" = "Lisans anahtarı geçersiz";
 
 /* Indicates Light color appearance */
-"Light" = "Aydınlık";
+"Light" = "Açık";
 
 /* No comment provided by engineer. */
 "Loading icon…" = "Simge yükleniyor…";
@@ -502,8 +502,8 @@
 /* No comment provided by engineer. */
 "No extensions installed" = "Yüklü uzantı yok";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "iCloud hesabı yok";
 
 /* No comment provided by engineer. */
 "No icons found." = "Simge bulunamadı.";
@@ -752,7 +752,7 @@
 "This extension requires macOS version %@ or above." = "Bu uzantı macOS sürüm %@ veya üstünü kullanmayı gerektirir.";
 
 /* the free trial has expired */
-"Trial Expired" = "Deneme Süresi sona erdi";
+"Trial Expired" = "Deneme süresi sona erdi";
 
 /* No comment provided by engineer. */
 "Unavailable Action" = "Kullanılamayan Eylem";
