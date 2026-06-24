@@ -32,13 +32,13 @@
 "+10 Uses" = "+10 исп.";
 
 /* entry in selection list to indicate no selection */
-"- None -" = "- исп. не осталось -";
+"- None -" = "- Нет -";
 
 /* icon picker: hint that the typed text may be 1 to 3 characters */
 "1–3 characters" = "1–3 символа";
 
 /* Alert text; %@ is the extension name. 'extension' = a PopClip add-on/plug-in (not a file-name extension); 'signed' = code-signed by the developer. */
-"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "“%@” не имеет подписи Pilotmoon Software. Устанавливайте это расширение только в случае если вы доверяете источнику.";
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "«%@» не имеет подписи Pilotmoon Software. Устанавливайте это расширение только в случае если вы доверяете источнику.";
 
 /* No comment provided by engineer. */
 "\"%@\" Settings" = "Настройки «%@»";
@@ -128,7 +128,7 @@
 "Cancel" = "Отменить";
 
 /* 1=name of app */
-"Cannot start %1$@" = "Невозможно начать %1$@";
+"Cannot start %1$@" = "Невозможно запустить %1$@";
 
 /* No comment provided by engineer. */
 "Capabilities" = "Возможности";
@@ -251,7 +251,7 @@
 "Example" = "Пример";
 
 /* No comment provided by engineer. */
-"Exclude these apps" = "исключить эти приложения";
+"Exclude these apps" = "Исключить эти приложения";
 
 /* No comment provided by engineer. */
 "Exclude these websites:" = "Исключить эти сайты:";
@@ -331,11 +331,11 @@
 /* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "Хост";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud недоступен";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud ограничен";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "Синхронизация iCloud";
@@ -380,7 +380,7 @@
 "Identifier" = "Идентификатор";
 
 /* No comment provided by engineer. */
-"Include beta versions" = "Включая бета-версии";
+"Include beta versions" = "Включать бета-версии";
 
 /* No comment provided by engineer. */
 "Include colored icons" = "Включать цветные значки";
@@ -392,7 +392,7 @@
 "Including colored icons" = "Включая цветные значки";
 
 /* button title: install the named externsion */
-"Install \"%@\"" = "Установить “%@”";
+"Install \"%@\"" = "Установить «%@»";
 
 /* No comment provided by engineer. */
 "Install automatically" = "Устанавливать автоматически";
@@ -502,8 +502,8 @@
 /* No comment provided by engineer. */
 "No extensions installed" = "Расширения не установлены";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "Нет учётной записи iCloud";
 
 /* No comment provided by engineer. */
 "No icons found." = "Значки не найдены.";
@@ -521,7 +521,7 @@
 "Notify only" = "Только уведомлять";
 
 /* Automatic updates menu option: disabled */
-"Off" = "Выключено";
+"Off" = "Выкл.";
 
 /* No comment provided by engineer. */
 "One or more extensions could not be updated." = "Не удалось обновить одно или несколько расширений.";
@@ -557,7 +557,7 @@
 "PopClip appears automatically when you select text with the pointer or when you click and hold." = "PopClip появляется автоматически, когда вы выделяете текст с помощью указателя или когда нажимаете и удерживаете.";
 
 /* No comment provided by engineer. */
-"PopClip can't find %@ on this computer. You probably need to install it." = "PopClip не найден %@ на этом компьютере. Возможно, нужно установить эту программу.";
+"PopClip can't find %@ on this computer. You probably need to install it." = "PopClip не может найти %@ на этом компьютере. Возможно, нужно установить эту программу.";
 
 /* No comment provided by engineer. */
 "PopClip could not load the following extensions:\n\n%@" = "PopClip не удалось загрузить следующие расширения:\n\n%@";
@@ -650,7 +650,7 @@
 "Separator" = "Разделитель";
 
 /* No comment provided by engineer. */
-"Settings for \"%@\"" = "Настройки для \"%@\"";
+"Settings for \"%@\"" = "Настройки для «%@»";
 
 /* No comment provided by engineer. */
 "Settings…" = "Настройки…";
@@ -659,7 +659,7 @@
 "Shape" = "Форма";
 
 /* No comment provided by engineer. */
-"Show \"%@\" in the actions list" = "Показывать \"%@\" в списке действий";
+"Show \"%@\" in the actions list" = "Показывать «%@» в списке действий";
 
 /* No comment provided by engineer. */
 "Show As" = "Показать как";
@@ -674,7 +674,7 @@
 "Show Specifier" = "Показать спецификатор";
 
 /* No comment provided by engineer. */
-"Sign In" = "Подписаться";
+"Sign In" = "Войти";
 
 /* No comment provided by engineer. */
 "Sign in failed." = "Ошибка входа.";
@@ -848,4 +848,4 @@
 "⚠️ Invalid" = "⚠️ Недействительно";
 
 /* No comment provided by engineer. */
-"✅ PopClip Extension \"%@\" authorized." = "✅ PopClip Расширение \"%@\" авторизовано.";
+"✅ PopClip Extension \"%@\" authorized." = "✅ Расширение PopClip «%@» авторизовано.";
