@@ -92,7 +92,7 @@
 "Apps…" = "Aplikacje…";
 
 /* No comment provided by engineer. */
-"Authorized" = "Autoryzuj";
+"Authorized" = "Autoryzowane";
 
 /* Dark/light mode will be the same as the operating system setting */
 "Auto" = "Automatyczny";
@@ -212,7 +212,7 @@
 "Domain" = "Domena";
 
 /* button title */
-"Don't Install" = "Nie Instaluj";
+"Don't Install" = "Nie instaluj";
 
 /* No comment provided by engineer. */
 "Done" = "Gotowe";
@@ -331,11 +331,11 @@
 /* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "Host";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud jest niedostępny";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud jest ograniczony";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "Synchronizacja z iCloud";
@@ -464,7 +464,7 @@
 "Migrated from previous PopClip version" = "Przeniesiono z poprzedniej wersji PopClip";
 
 /* name of missing third party app */
-"Missing App: %@" = "Brakująca Aplikacja: %@";
+"Missing App: %@" = "Brakująca aplikacja: %@";
 
 /* icon picker font option */
 "Monospaced" = "O stałej szerokości";
@@ -502,8 +502,8 @@
 /* No comment provided by engineer. */
 "No extensions installed" = "Nie zainstalowano rozszerzeń";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "Brak konta iCloud";
 
 /* No comment provided by engineer. */
 "No icons found." = "Nie znaleziono ikon.";
@@ -530,7 +530,7 @@
 "Open Link" = "Otwórz łącze";
 
 /* No comment provided by engineer. */
-"Open Links" = "Otwieraj Łącza";
+"Open Links" = "Otwieraj łącza";
 
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "Otwiera podmenu";
@@ -551,7 +551,7 @@
 "Please close this browser tab and return to PopClip." = "Zamknij zakładkę przeglądarki i wróć do PopClip.";
 
 /* No comment provided by engineer. */
-"PopClip  Icon Picker" = "PopClip  Wybór ikon";
+"PopClip  Icon Picker" = "PopClip Wybór ikon";
 
 /* No comment provided by engineer. */
 "PopClip appears automatically when you select text with the pointer or when you click and hold." = "PopClip pojawia się automatycznie, gdy zaznaczysz tekst za pomocą wskaźnika lub klikniesz i przytrzymasz.";
@@ -647,7 +647,7 @@
 "Select" = "Zaznacz";
 
 /* No comment provided by engineer. */
-"Separator" = "Rozdzielacz";
+"Separator" = "Separator";
 
 /* No comment provided by engineer. */
 "Settings for \"%@\"" = "Ustawienia „%@”";
@@ -812,7 +812,7 @@
 "View Web Page" = "Pokaż stronę internetową";
 
 /* Visit the website for the name app e.g. Visit Evernote Website */
-"Visit %@ Website" = "Odwiedź Stronę %@";
+"Visit %@ Website" = "Odwiedź stronę %@";
 
 /* No comment provided by engineer. */
 "Waiting to check for updates" = "Oczekiwanie na sprawdzenie dostępności aktualizacji";
