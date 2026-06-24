@@ -38,10 +38,10 @@
 "1–3 characters" = "1–3 caratteri";
 
 /* Alert text; %@ is the extension name. 'extension' = a PopClip add-on/plug-in (not a file-name extension); 'signed' = code-signed by the developer. */
-"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "“%@” non porta la firma di Pilotmoon Software. Installa questa estensione solo se proviene da una fonte fidata.";
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "«%@» non porta la firma di Pilotmoon Software. Installa questa estensione solo se proviene da una fonte fidata.";
 
 /* No comment provided by engineer. */
-"\"%@\" Settings" = "Impostazioni di \"%@\"";
+"\"%@\" Settings" = "Impostazioni di «%@»";
 
 /* No comment provided by engineer. */
 "Above Text" = "Sopra il testo";
@@ -215,13 +215,13 @@
 "Don't Install" = "Non installare";
 
 /* No comment provided by engineer. */
-"Done" = "Fatto";
+"Done" = "Fine";
 
 /* No comment provided by engineer. */
 "Downloaded %@ of %@…" = "Scaricati %1$@ di %2$@…";
 
 /* No comment provided by engineer. */
-"Downloading update…" = "Download aggiornamento…";
+"Downloading update…" = "Scaricamento aggiornamento…";
 
 /* No comment provided by engineer. */
 "Duplicate" = "Duplica";
@@ -331,11 +331,11 @@
 /* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "Host";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud non è disponibile";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud è limitato";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "Sincronizzazione iCloud";
@@ -392,7 +392,7 @@
 "Including colored icons" = "Inclusione icone colorate";
 
 /* button title: install the named externsion */
-"Install \"%@\"" = "Installa “%@”";
+"Install \"%@\"" = "Installa «%@»";
 
 /* No comment provided by engineer. */
 "Install automatically" = "Installa automaticamente";
@@ -431,7 +431,7 @@
 "Languages" = "Lingue";
 
 /* No comment provided by engineer. */
-"Last checked: %@" = "Ultimo controllo: %@";
+"Last checked: %@" = "Ultima verifica: %@";
 
 /* No comment provided by engineer. */
 "Learn More…" = "Maggiori informazioni…";
@@ -502,8 +502,8 @@
 /* No comment provided by engineer. */
 "No extensions installed" = "Nessuna estensione installata";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "Nessun account iCloud";
 
 /* No comment provided by engineer. */
 "No icons found." = "Nessuna icona trovata.";
@@ -569,7 +569,7 @@
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip necessita dei permessi di accessibilità per leggere il testo che selezioni in altre app e per eseguire azioni al tuo posto.";
 
 /* No comment provided by engineer. */
-"PopClip will check spelling in each selected language." = "PopClip controllerà l'ortografia in ogni lingua selezionata.";
+"PopClip will check spelling in each selected language." = "PopClip controllerà l’ortografia in ogni lingua selezionata.";
 
 /* No comment provided by engineer. */
 "Popup Item" = "Elemento popup";
@@ -650,7 +650,7 @@
 "Separator" = "Separatore";
 
 /* No comment provided by engineer. */
-"Settings for \"%@\"" = "Impostazioni per \"%@\"";
+"Settings for \"%@\"" = "Impostazioni per «%@»";
 
 /* No comment provided by engineer. */
 "Settings…" = "Impostazioni…";
@@ -659,7 +659,7 @@
 "Shape" = "Forma";
 
 /* No comment provided by engineer. */
-"Show \"%@\" in the actions list" = "Mostra \"%@\" nell’elenco azioni";
+"Show \"%@\" in the actions list" = "Mostra «%@» nell’elenco azioni";
 
 /* No comment provided by engineer. */
 "Show As" = "Mostra come";
@@ -698,7 +698,7 @@
 "Snippet" = "Frammento";
 
 /* No comment provided by engineer. */
-"Snippet is too long (%@ chars; max %@)" = "Lo snippet è troppo lungo (%1$@ caratteri; max %2$@)";
+"Snippet is too long (%@ chars; max %@)" = "Il frammento è troppo lungo (%1$@ caratteri; max %2$@)";
 
 /* No comment provided by engineer. */
 "Software Update" = "Aggiornamento software";
@@ -743,7 +743,7 @@
 "Text Only" = "Solo testo";
 
 /* No comment provided by engineer. */
-"The application appears to be corrupted. Please install a fresh copy." = "L'applicazione sembra danneggiata. Installa una nuova copia.";
+"The application appears to be corrupted. Please install a fresh copy." = "L’applicazione sembra danneggiata. Installa una nuova copia.";
 
 /* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
 "This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "L’estensione non è compatibile con questa versione di PopClip. Aggiorna all’ultima versione di PopClip.";
@@ -812,10 +812,10 @@
 "View Web Page" = "Visualizza pagina web";
 
 /* Visit the website for the name app e.g. Visit Evernote Website */
-"Visit %@ Website" = "Visita sito web %@";
+"Visit %@ Website" = "Visita il sito web di %@";
 
 /* No comment provided by engineer. */
-"Waiting to check for updates" = "In attesa di controllo aggiornamenti";
+"Waiting to check for updates" = "In attesa di verifica aggiornamenti";
 
 /* No comment provided by engineer. */
 "Waiting…" = "In attesa…";
@@ -848,4 +848,4 @@
 "⚠️ Invalid" = "⚠️ Non valido";
 
 /* No comment provided by engineer. */
-"✅ PopClip Extension \"%@\" authorized." = "✅ Estensione PopClip \"%@\" autorizzata.";
+"✅ PopClip Extension \"%@\" authorized." = "✅ Estensione PopClip «%@» autorizzata.";
