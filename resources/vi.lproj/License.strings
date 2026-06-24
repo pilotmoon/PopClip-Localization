@@ -1,0 +1,35 @@
+/* This value can appear for `License type:` when the user purchased on the app store instead of buying a standalone license key. Example: `License type: App Store Purchase` */
+"App Store Purchase" = "Mua qua App Store";
+
+/* The email address of the licensee */
+"Email: %@\n" = "Email: %@\n";
+
+/* No comment provided by engineer. */
+"License active" = "Giấy phép đang hoạt động";
+
+/* No comment provided by engineer. */
+"License expired" = "Giấy phép đã hết hạn";
+
+/* No comment provided by engineer. */
+"License key stored in iCloud" = "Mã giấy phép được lưu trên iCloud";
+
+/* Example: `License type: Standard Personal License` */
+"License type: %@\n" = "Loại giấy phép: %@\n";
+
+/* The name of the licensee */
+"Name: %@\n" = "Tên: %@\n";
+
+/* Example: `Number of users: 10 */
+"Number of users: %@\n" = "Số lượng người dùng: %@\n";
+
+/* Purchase reference / order number */
+"Order #: %@\n" = "Mã đơn hàng: %@\n";
+
+/* No comment provided by engineer. */
+"Purchase date: %@\n" = "Ngày mua: %@\n";
+
+/* No comment provided by engineer. */
+"Purchase record stored in iCloud" = "Bản ghi mua hàng được lưu trên iCloud";
+
+/* Example: `Updates until: 5 Jan 2026` -- The license will cover updates until this date */
+"Updates until: %@\n" = "Cập nhật đến: %@\n";

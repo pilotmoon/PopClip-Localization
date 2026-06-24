@@ -1,0 +1,35 @@
+/* This value can appear for `License type:` when the user purchased on the app store instead of buying a standalone license key. Example: `License type: App Store Purchase` */
+"App Store Purchase" = "App Store 구매";
+
+/* The email address of the licensee */
+"Email: %@\n" = "이메일: %@\n";
+
+/* No comment provided by engineer. */
+"License active" = "라이선스 활성화됨";
+
+/* No comment provided by engineer. */
+"License expired" = "라이선스 만료됨";
+
+/* No comment provided by engineer. */
+"License key stored in iCloud" = "라이선스 키가 iCloud에 저장됨";
+
+/* Example: `License type: Standard Personal License` */
+"License type: %@\n" = "라이선스 유형: %@\n";
+
+/* The name of the licensee */
+"Name: %@\n" = "이름: %@\n";
+
+/* Example: `Number of users: 10 */
+"Number of users: %@\n" = "사용자 수: %@\n";
+
+/* Purchase reference / order number */
+"Order #: %@\n" = "주문 번호: %@\n";
+
+/* No comment provided by engineer. */
+"Purchase date: %@\n" = "구매 날짜: %@\n";
+
+/* No comment provided by engineer. */
+"Purchase record stored in iCloud" = "구매 기록이 iCloud에 저장됨";
+
+/* Example: `Updates until: 5 Jan 2026` -- The license will cover updates until this date */
+"Updates until: %@\n" = "업데이트 기한: %@\n";

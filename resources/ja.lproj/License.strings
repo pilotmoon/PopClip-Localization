@@ -1,0 +1,35 @@
+/* This value can appear for `License type:` when the user purchased on the app store instead of buying a standalone license key. Example: `License type: App Store Purchase` */
+"App Store Purchase" = "App Storeでの購入";
+
+/* The email address of the licensee */
+"Email: %@\n" = "メールアドレス: %@\n";
+
+/* No comment provided by engineer. */
+"License active" = "ライセンスは有効です";
+
+/* No comment provided by engineer. */
+"License expired" = "ライセンスは期限切れです";
+
+/* No comment provided by engineer. */
+"License key stored in iCloud" = "ライセンスキーはiCloudに保存されています";
+
+/* Example: `License type: Standard Personal License` */
+"License type: %@\n" = "ライセンスの種類: %@\n";
+
+/* The name of the licensee */
+"Name: %@\n" = "名前: %@\n";
+
+/* Example: `Number of users: 10 */
+"Number of users: %@\n" = "ユーザー数: %@\n";
+
+/* Purchase reference / order number */
+"Order #: %@\n" = "注文番号: %@\n";
+
+/* No comment provided by engineer. */
+"Purchase date: %@\n" = "購入日: %@\n";
+
+/* No comment provided by engineer. */
+"Purchase record stored in iCloud" = "購入記録はiCloudに保存されています";
+
+/* Example: `Updates until: 5 Jan 2026` -- The license will cover updates until this date */
+"Updates until: %@\n" = "更新期限: %@\n";

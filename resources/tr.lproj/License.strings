@@ -1,0 +1,35 @@
+/* This value can appear for `License type:` when the user purchased on the app store instead of buying a standalone license key. Example: `License type: App Store Purchase` */
+"App Store Purchase" = "App Store Satın Alımı";
+
+/* The email address of the licensee */
+"Email: %@\n" = "E-posta: %@\n";
+
+/* No comment provided by engineer. */
+"License active" = "Lisans etkin";
+
+/* No comment provided by engineer. */
+"License expired" = "Lisansın süresi doldu";
+
+/* No comment provided by engineer. */
+"License key stored in iCloud" = "Lisans anahtarı iCloud'da saklandı";
+
+/* Example: `License type: Standard Personal License` */
+"License type: %@\n" = "Lisans türü: %@\n";
+
+/* The name of the licensee */
+"Name: %@\n" = "Ad: %@\n";
+
+/* Example: `Number of users: 10 */
+"Number of users: %@\n" = "Kullanıcı sayısı: %@\n";
+
+/* Purchase reference / order number */
+"Order #: %@\n" = "Sipariş No: %@\n";
+
+/* No comment provided by engineer. */
+"Purchase date: %@\n" = "Satın alma tarihi: %@\n";
+
+/* No comment provided by engineer. */
+"Purchase record stored in iCloud" = "Satın alma kaydı iCloud'da saklandı";
+
+/* Example: `Updates until: 5 Jan 2026` -- The license will cover updates until this date */
+"Updates until: %@\n" = "Şu tarihe kadarki güncellemeler: %@\n";

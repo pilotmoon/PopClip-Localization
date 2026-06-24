@@ -1,0 +1,35 @@
+/* This value can appear for `License type:` when the user purchased on the app store instead of buying a standalone license key. Example: `License type: App Store Purchase` */
+"App Store Purchase" = "Nákup cez App Store";
+
+/* The email address of the licensee */
+"Email: %@\n" = "E-mail: %@\n";
+
+/* No comment provided by engineer. */
+"License active" = "Licencia je aktívna";
+
+/* No comment provided by engineer. */
+"License expired" = "Platnosť licencie vypršala";
+
+/* No comment provided by engineer. */
+"License key stored in iCloud" = "Licenčný kľúč uložený v službe iCloud";
+
+/* Example: `License type: Standard Personal License` */
+"License type: %@\n" = "Typ licencie: %@\n";
+
+/* The name of the licensee */
+"Name: %@\n" = "Meno: %@\n";
+
+/* Example: `Number of users: 10 */
+"Number of users: %@\n" = "Počet používateľov: %@\n";
+
+/* Purchase reference / order number */
+"Order #: %@\n" = "Objednávka č.: %@\n";
+
+/* No comment provided by engineer. */
+"Purchase date: %@\n" = "Dátum nákupu: %@\n";
+
+/* No comment provided by engineer. */
+"Purchase record stored in iCloud" = "Záznam o nákupe uložený v službe iCloud";
+
+/* Example: `Updates until: 5 Jan 2026` -- The license will cover updates until this date */
+"Updates until: %@\n" = "Aktualizácie do: %@\n";

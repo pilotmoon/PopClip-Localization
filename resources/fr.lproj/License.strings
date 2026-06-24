@@ -1,0 +1,35 @@
+/* This value can appear for `License type:` when the user purchased on the app store instead of buying a standalone license key. Example: `License type: App Store Purchase` */
+"App Store Purchase" = "Achat sur l'App Store";
+
+/* The email address of the licensee */
+"Email: %@\n" = "E-mail : %@\n";
+
+/* No comment provided by engineer. */
+"License active" = "Licence active";
+
+/* No comment provided by engineer. */
+"License expired" = "Licence expirée";
+
+/* No comment provided by engineer. */
+"License key stored in iCloud" = "Clé de licence enregistrée dans iCloud";
+
+/* Example: `License type: Standard Personal License` */
+"License type: %@\n" = "Type de licence : %@\n";
+
+/* The name of the licensee */
+"Name: %@\n" = "Nom : %@\n";
+
+/* Example: `Number of users: 10 */
+"Number of users: %@\n" = "Nombre d'utilisateurs : %@\n";
+
+/* Purchase reference / order number */
+"Order #: %@\n" = "Commande n° : %@\n";
+
+/* No comment provided by engineer. */
+"Purchase date: %@\n" = "Date d'achat : %@\n";
+
+/* No comment provided by engineer. */
+"Purchase record stored in iCloud" = "Enregistrement d'achat stocké dans iCloud";
+
+/* Example: `Updates until: 5 Jan 2026` -- The license will cover updates until this date */
+"Updates until: %@\n" = "Mises à jour jusqu'au : %@\n";
