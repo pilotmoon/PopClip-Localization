@@ -38,7 +38,7 @@
 "1–3 characters" = "1–3 caracteres";
 
 /* Alert text; %@ is the extension name. 'extension' = a PopClip add-on/plug-in (not a file-name extension); 'signed' = code-signed by the developer. */
-"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "“%@” no está certificado por Pilotmoon Software. Instala esta extensión solo si procede de una fuente fiable.";
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "“%@” no está firmada por Pilotmoon Software. Instala esta extensión solo si procede de una fuente fiable.";
 
 /* No comment provided by engineer. */
 "\"%@\" Settings" = "Ajustes de «%@»";
@@ -164,7 +164,7 @@
 "Connecting to %@…" = "Conectando a %@…";
 
 /* Displayed when something has been copied to the clipboard */
-"Copied" = "Copiada";
+"Copied" = "Copiado";
 
 /* No comment provided by engineer. */
 "Copy" = "Copiar";
@@ -302,7 +302,7 @@
 "Folder" = "Carpeta";
 
 /* No comment provided by engineer. */
-"Font" = "Fuente";
+"Font" = "Tipo de letra";
 
 /* No comment provided by engineer. */
 "Forum" = "Foro";
@@ -326,16 +326,16 @@
 "Hide Secret" = "Ocultar secreto";
 
 /* No comment provided by engineer. */
-"Hold Option (⌥) for alternate search." = "Mantenga pulsado Opción (⌥) para búsqueda alternativa.";
+"Hold Option (⌥) for alternate search." = "Mantén pulsado Opción (⌥) para una búsqueda alternativa.";
 
 /* URL rule description */
-"Host" = "Anfitrión";
+"Host" = "Host";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud no está disponible";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud está restringido";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "Sincronización con iCloud";
@@ -502,8 +502,8 @@
 /* No comment provided by engineer. */
 "No extensions installed" = "No hay extensiones instaladas";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "Sin cuenta de iCloud";
 
 /* No comment provided by engineer. */
 "No icons found." = "No se encontraron iconos.";
@@ -548,7 +548,7 @@
 "Permissions" = "Permisos";
 
 /* No comment provided by engineer. */
-"Please close this browser tab and return to PopClip." = "Cierre esta pestaña del navegador y vuelva a PopClip.";
+"Please close this browser tab and return to PopClip." = "Cierra esta pestaña del navegador y vuelve a PopClip.";
 
 /* No comment provided by engineer. */
 "PopClip  Icon Picker" = "Selector de iconos de PopClip";
@@ -719,7 +719,7 @@
 "Square" = "Cuadrado";
 
 /* No comment provided by engineer. */
-"Start at login" = "Ejecutar al inicio de sesion";
+"Start at login" = "Ejecutar al inicio de sesión";
 
 /* URL rule description */
 "Starts with" = "Empieza por";
@@ -764,7 +764,7 @@
 "Unsigned" = "Sin firmar";
 
 /* Alert title. 'Extension' here means a PopClip add-on/plug-in, not a file-name extension. 'Unsigned' = has no code signature. */
-"Unsigned Extension" = "Extensión no certificada";
+"Unsigned Extension" = "Extensión sin firmar";
 
 /* No comment provided by engineer. */
 "Up to date" = "Actualizado";
