@@ -58,7 +58,7 @@
 /* Title of prefs pane for configuring actions. Translator: Please use the shortest possible term here */
 "Actions" = "アクション";
 
-/* No comment provided by engineer. */
+/* Settings section title: how PopClip is activated (auto-popup / keyboard shortcut) */
 "Activation" = "アクティベーション";
 
 /* Button title. Add new item to list. Actual button is '+' icon, text is for screen reader only. */
@@ -151,7 +151,7 @@
 /* icon picker option: shape is a circle */
 "Circle" = "円";
 
-/* No comment provided by engineer. */
+/* icon picker: button that clears/empties the picker input */
 "Clear" = "クリア";
 
 /* No comment provided by engineer. */
@@ -328,7 +328,7 @@
 /* No comment provided by engineer. */
 "Hold Option (⌥) for alternate search." = "Option（⌥）を長押しして、別の検索を実行します。";
 
-/* URL rule description */
+/* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "ホスト";
 
 /* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
@@ -520,7 +520,7 @@
 /* No comment provided by engineer. */
 "Notify only" = "通知のみ";
 
-/* No comment provided by engineer. */
+/* Automatic updates menu option: disabled */
 "Off" = "オフ";
 
 /* No comment provided by engineer. */

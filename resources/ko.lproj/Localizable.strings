@@ -58,7 +58,7 @@
 /* Title of prefs pane for configuring actions. Translator: Please use the shortest possible term here */
 "Actions" = "작업";
 
-/* No comment provided by engineer. */
+/* Settings section title: how PopClip is activated (auto-popup / keyboard shortcut) */
 "Activation" = "활성화";
 
 /* Button title. Add new item to list. Actual button is '+' icon, text is for screen reader only. */
@@ -151,7 +151,7 @@
 /* icon picker option: shape is a circle */
 "Circle" = "원";
 
-/* No comment provided by engineer. */
+/* icon picker: button that clears/empties the picker input */
 "Clear" = "지우기";
 
 /* No comment provided by engineer. */
@@ -328,7 +328,7 @@
 /* No comment provided by engineer. */
 "Hold Option (⌥) for alternate search." = "옵션(⌥)을 길게 눌러 대체 검색을 합니다.";
 
-/* URL rule description */
+/* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "호스트";
 
 /* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
@@ -520,7 +520,7 @@
 /* No comment provided by engineer. */
 "Notify only" = "알림만";
 
-/* No comment provided by engineer. */
+/* Automatic updates menu option: disabled */
 "Off" = "끄기";
 
 /* No comment provided by engineer. */

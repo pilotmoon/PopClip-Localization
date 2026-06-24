@@ -58,7 +58,7 @@
 /* Title of prefs pane for configuring actions. Translator: Please use the shortest possible term here */
 "Actions" = "Handlinger";
 
-/* No comment provided by engineer. */
+/* Settings section title: how PopClip is activated (auto-popup / keyboard shortcut) */
 "Activation" = "Aktivering";
 
 /* Button title. Add new item to list. Actual button is '+' icon, text is for screen reader only. */
@@ -151,7 +151,7 @@
 /* icon picker option: shape is a circle */
 "Circle" = "Cirkel";
 
-/* No comment provided by engineer. */
+/* icon picker: button that clears/empties the picker input */
 "Clear" = "Ryd";
 
 /* No comment provided by engineer. */
@@ -328,7 +328,7 @@
 /* No comment provided by engineer. */
 "Hold Option (⌥) for alternate search." = "Hold Option (⌥) for alternativ søgning.";
 
-/* URL rule description */
+/* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "Vært";
 
 /* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
@@ -520,7 +520,7 @@
 /* No comment provided by engineer. */
 "Notify only" = "Underret kun";
 
-/* No comment provided by engineer. */
+/* Automatic updates menu option: disabled */
 "Off" = "Fra";
 
 /* No comment provided by engineer. */
