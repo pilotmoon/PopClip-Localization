@@ -136,16 +136,16 @@
 /* No comment provided by engineer. */
 "Change Icon…" = "Simgeyi Değiştir…";
 
-/* No comment provided by engineer. */
+/* Menu command (imperative): check for updates to installed extensions */
 "Check for extension updates" = "Uzantı güncellemelerini denetle";
 
 /* Menu command (imperative): check for app updates. */
 "Check for updates" = "Güncellemeleri denetle";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for app updates */
 "Checking for updates…" = "Güncellemeler denetleniyor…";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for extension updates */
 "Checking…" = "Denetleniyor…";
 
 /* icon picker option: shape is a circle */
@@ -178,10 +178,10 @@
 /* No comment provided by engineer. */
 "Couldn't reach the update server (status %lu)." = "Güncelleme sunucusuna ulaşılamadı (durum %lu).";
 
-/* No comment provided by engineer. */
+/* Icon picker tab label: use your own supplied image as the icon */
 "Custom" = "Özel";
 
-/* No comment provided by engineer. */
+/* Pop-up menu item to enter a custom value; reused across many option types */
 "Custom…" = "Özel…";
 
 /* Indicates Dark color appearance */

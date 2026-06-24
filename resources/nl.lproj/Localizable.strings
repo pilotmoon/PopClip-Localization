@@ -136,16 +136,16 @@
 /* No comment provided by engineer. */
 "Change Icon…" = "Wijzig icoon…";
 
-/* No comment provided by engineer. */
+/* Menu command (imperative): check for updates to installed extensions */
 "Check for extension updates" = "Controleer op extensie-updates";
 
 /* Menu command (imperative): check for app updates. */
 "Check for updates" = "Controleren op updates";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for app updates */
 "Checking for updates…" = "Controleren op updates…";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for extension updates */
 "Checking…" = "Controleren…";
 
 /* icon picker option: shape is a circle */
@@ -178,10 +178,10 @@
 /* No comment provided by engineer. */
 "Couldn't reach the update server (status %lu)." = "Updateserver kon niet worden bereikt (status %lu).";
 
-/* No comment provided by engineer. */
+/* Icon picker tab label: use your own supplied image as the icon */
 "Custom" = "Aangepast";
 
-/* No comment provided by engineer. */
+/* Pop-up menu item to enter a custom value; reused across many option types */
 "Custom…" = "Aangepast…";
 
 /* Indicates Dark color appearance */

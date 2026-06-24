@@ -136,16 +136,16 @@
 /* No comment provided by engineer. */
 "Change Icon…" = "Zmeniť ikonu…";
 
-/* No comment provided by engineer. */
+/* Menu command (imperative): check for updates to installed extensions */
 "Check for extension updates" = "Skontrolovať aktualizácie rozšírení";
 
 /* Menu command (imperative): check for app updates. */
 "Check for updates" = "Skontrolovať aktualizácie";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for app updates */
 "Checking for updates…" = "Kontrolujú sa aktualizácie…";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for extension updates */
 "Checking…" = "Kontroluje sa…";
 
 /* icon picker option: shape is a circle */
@@ -178,10 +178,10 @@
 /* No comment provided by engineer. */
 "Couldn't reach the update server (status %lu)." = "Nepodarilo sa pripojiť k serveru aktualizácií (stav %lu).";
 
-/* No comment provided by engineer. */
+/* Icon picker tab label: use your own supplied image as the icon */
 "Custom" = "Vlastné";
 
-/* No comment provided by engineer. */
+/* Pop-up menu item to enter a custom value; reused across many option types */
 "Custom…" = "Vlastné…";
 
 /* Indicates Dark color appearance */

@@ -136,16 +136,16 @@
 /* No comment provided by engineer. */
 "Change Icon…" = "更改图标…";
 
-/* No comment provided by engineer. */
+/* Menu command (imperative): check for updates to installed extensions */
 "Check for extension updates" = "检查扩展更新";
 
 /* Menu command (imperative): check for app updates. */
 "Check for updates" = "检查更新";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for app updates */
 "Checking for updates…" = "正在检查更新…";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for extension updates */
 "Checking…" = "正在检查…";
 
 /* icon picker option: shape is a circle */
@@ -178,10 +178,10 @@
 /* No comment provided by engineer. */
 "Couldn't reach the update server (status %lu)." = "无法连接到更新服务器（状态 %lu）。";
 
-/* No comment provided by engineer. */
+/* Icon picker tab label: use your own supplied image as the icon */
 "Custom" = "自定";
 
-/* No comment provided by engineer. */
+/* Pop-up menu item to enter a custom value; reused across many option types */
 "Custom…" = "自定…";
 
 /* Indicates Dark color appearance */

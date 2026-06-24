@@ -136,16 +136,16 @@
 /* No comment provided by engineer. */
 "Change Icon…" = "Change Icon…";
 
-/* No comment provided by engineer. */
+/* Menu command (imperative): check for updates to installed extensions */
 "Check for extension updates" = "Check for extension updates";
 
 /* Menu command (imperative): check for app updates. */
 "Check for updates" = "Check for updates";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for app updates */
 "Checking for updates…" = "Checking for updates…";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for extension updates */
 "Checking…" = "Checking…";
 
 /* icon picker option: shape is a circle */
@@ -178,10 +178,10 @@
 /* No comment provided by engineer. */
 "Couldn't reach the update server (status %lu)." = "Couldn't reach the update server (status %lu).";
 
-/* No comment provided by engineer. */
+/* Icon picker tab label: use your own supplied image as the icon */
 "Custom" = "Custom";
 
-/* No comment provided by engineer. */
+/* Pop-up menu item to enter a custom value; reused across many option types */
 "Custom…" = "Custom…";
 
 /* Indicates Dark color appearance */

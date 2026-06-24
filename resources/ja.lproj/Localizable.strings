@@ -136,16 +136,16 @@
 /* No comment provided by engineer. */
 "Change Icon…" = "アイコンを変更…";
 
-/* No comment provided by engineer. */
+/* Menu command (imperative): check for updates to installed extensions */
 "Check for extension updates" = "拡張機能の更新を確認";
 
 /* Menu command (imperative): check for app updates. */
 "Check for updates" = "更新を確認";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for app updates */
 "Checking for updates…" = "更新を確認中…";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for extension updates */
 "Checking…" = "確認中…";
 
 /* icon picker option: shape is a circle */
@@ -178,10 +178,10 @@
 /* No comment provided by engineer. */
 "Couldn't reach the update server (status %lu)." = "更新サーバーに接続できませんでした（ステータス %lu）。";
 
-/* No comment provided by engineer. */
+/* Icon picker tab label: use your own supplied image as the icon */
 "Custom" = "カスタム";
 
-/* No comment provided by engineer. */
+/* Pop-up menu item to enter a custom value; reused across many option types */
 "Custom…" = "カスタム…";
 
 /* Indicates Dark color appearance */

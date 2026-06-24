@@ -136,16 +136,16 @@
 /* No comment provided by engineer. */
 "Change Icon…" = "Zmień ikonę…";
 
-/* No comment provided by engineer. */
+/* Menu command (imperative): check for updates to installed extensions */
 "Check for extension updates" = "Sprawdź aktualizacje rozszerzeń";
 
 /* Menu command (imperative): check for app updates. */
 "Check for updates" = "Sprawdź aktualizacje";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for app updates */
 "Checking for updates…" = "Sprawdzanie dostępności aktualizacji…";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for extension updates */
 "Checking…" = "Sprawdzanie…";
 
 /* icon picker option: shape is a circle */
@@ -178,10 +178,10 @@
 /* No comment provided by engineer. */
 "Couldn't reach the update server (status %lu)." = "Nie można połączyć się z serwerem aktualizacji (status %lu).";
 
-/* No comment provided by engineer. */
+/* Icon picker tab label: use your own supplied image as the icon */
 "Custom" = "Własne";
 
-/* No comment provided by engineer. */
+/* Pop-up menu item to enter a custom value; reused across many option types */
 "Custom…" = "Własne…";
 
 /* Indicates Dark color appearance */

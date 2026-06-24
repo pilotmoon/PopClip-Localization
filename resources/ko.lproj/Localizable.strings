@@ -136,16 +136,16 @@
 /* No comment provided by engineer. */
 "Change Icon…" = "아이콘 변경…";
 
-/* No comment provided by engineer. */
+/* Menu command (imperative): check for updates to installed extensions */
 "Check for extension updates" = "확장 기능 업데이트 확인";
 
 /* Menu command (imperative): check for app updates. */
 "Check for updates" = "업데이트 확인";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for app updates */
 "Checking for updates…" = "업데이트 확인 중…";
 
-/* No comment provided by engineer. */
+/* Progress label shown while checking for extension updates */
 "Checking…" = "확인 중…";
 
 /* icon picker option: shape is a circle */
@@ -178,10 +178,10 @@
 /* No comment provided by engineer. */
 "Couldn't reach the update server (status %lu)." = "업데이트 서버에 연결할 수 없습니다(상태 %lu).";
 
-/* No comment provided by engineer. */
+/* Icon picker tab label: use your own supplied image as the icon */
 "Custom" = "사용자화";
 
-/* No comment provided by engineer. */
+/* Pop-up menu item to enter a custom value; reused across many option types */
 "Custom…" = "사용자화…";
 
 /* Indicates Dark color appearance */
