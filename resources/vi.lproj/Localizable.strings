@@ -38,7 +38,7 @@
 "1–3 characters" = "1–3 ký tự";
 
 /* Alert text; %@ is the extension name. 'extension' = a PopClip add-on/plug-in (not a file-name extension); 'signed' = code-signed by the developer. */
-"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "\"%@\" không được ký nhận bởi Pilotmoon Software. Bạn chỉ nên cài tiện tích mở rộng này từ nguồn tin tưởng.";
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "\"%@\" không được ký nhận bởi Pilotmoon Software. Bạn chỉ nên cài phần mở rộng này từ nguồn tin tưởng.";
 
 /* No comment provided by engineer. */
 "\"%@\" Settings" = "Cài đặt \"%@\"";
@@ -125,7 +125,7 @@
 "by %@" = "bởi %@";
 
 /* No comment provided by engineer. */
-"Cancel" = "Huỷ";
+"Cancel" = "Hủy";
 
 /* 1=name of app */
 "Cannot start %1$@" = "Không thể khởi động %1$@";
@@ -215,7 +215,7 @@
 "Don't Install" = "Không cài đặt";
 
 /* No comment provided by engineer. */
-"Done" = "Hoàn thành";
+"Done" = "Xong";
 
 /* No comment provided by engineer. */
 "Downloaded %@ of %@…" = "Đã tải %1$@ trên tổng %2$@…";
@@ -331,11 +331,11 @@
 /* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "Host";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud không khả dụng";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud bị hạn chế";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "Đồng bộ hóa iCloud";
@@ -502,8 +502,8 @@
 /* No comment provided by engineer. */
 "No extensions installed" = "Chưa cài đặt phần mở rộng nào";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "Không có tài khoản iCloud";
 
 /* No comment provided by engineer. */
 "No icons found." = "Không tìm thấy biểu tượng nào.";
@@ -515,7 +515,7 @@
 "Not Authorized" = "Không được ủy quyền";
 
 /* No comment provided by engineer. */
-"Not Now" = "Không phải bây giờ";
+"Not Now" = "Để sau";
 
 /* No comment provided by engineer. */
 "Notify only" = "Chỉ thông báo";
@@ -560,7 +560,7 @@
 "PopClip can't find %@ on this computer. You probably need to install it." = "PopClip không tìm thấy %@ trên máy tính này. Bạn có thể phải cần cài đặt nó trước.";
 
 /* No comment provided by engineer. */
-"PopClip could not load the following extensions:\n\n%@" = "PopClip không thể tải các tiện ích mở rộng sau:\n\n%@";
+"PopClip could not load the following extensions:\n\n%@" = "PopClip không thể tải các phần mở rộng sau:\n\n%@";
 
 /* No comment provided by engineer. */
 "PopClip Extensions Directory" = "Thư mục phần mở rộng PopClip";
@@ -638,7 +638,7 @@
 "Search Iconify" = "Tìm kiếm Iconify";
 
 /* No comment provided by engineer. */
-"Search URL" = "Tìm địa chỉ";
+"Search URL" = "URL tìm kiếm";
 
 /* No comment provided by engineer. */
 "Searching %@ open source icons." = "Đang tìm kiếm %@ biểu tượng mã nguồn mở.";
@@ -665,7 +665,7 @@
 "Show As" = "Hiển thị dưới dạng";
 
 /* No comment provided by engineer. */
-"Show in menu bar" = "Hiển thị trên thanh công cụ";
+"Show in menu bar" = "Hiển thị trên thanh menu";
 
 /* No comment provided by engineer. */
 "Show Secret" = "Hiện bí mật";
@@ -746,10 +746,10 @@
 "The application appears to be corrupted. Please install a fresh copy." = "Ứng dụng có thể đã bị hỏng. Vui lòng cài đặt lại.";
 
 /* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
-"This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Tiện ích mở rộng này không tương thích với phiên bản hiện tại của PopClip. Vui lòng cập nhật lên phiên bản PopClip mới nhất.";
+"This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Phần mở rộng này không tương thích với phiên bản hiện tại của PopClip. Vui lòng cập nhật lên phiên bản PopClip mới nhất.";
 
 /* No comment provided by engineer. */
-"This extension requires macOS version %@ or above." = "Tiện tích mở rộng này yêu cầu macOS phiên bản %@ hoặc cao hơn.";
+"This extension requires macOS version %@ or above." = "Phần mở rộng này yêu cầu macOS phiên bản %@ hoặc cao hơn.";
 
 /* the free trial has expired */
 "Trial Expired" = "Đã hết hạn dùng thử";
@@ -764,7 +764,7 @@
 "Unsigned" = "Chưa ký";
 
 /* Alert title. 'Extension' here means a PopClip add-on/plug-in, not a file-name extension. 'Unsigned' = has no code signature. */
-"Unsigned Extension" = "Tiện ích mở rộng không được ký nhận";
+"Unsigned Extension" = "Phần mở rộng không được ký nhận";
 
 /* No comment provided by engineer. */
 "Up to date" = "Đã cập nhật";

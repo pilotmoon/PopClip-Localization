@@ -27,7 +27,7 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>lu</string>
         <key>other</key>
-        <string>Đã cập nhật %lu tiện ích mở rộng</string>
+        <string>%lu phần mở rộng đã cập nhật</string>
       </dict>
     </dict>
     <key>%lu updates available</key>
@@ -41,7 +41,7 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>lu</string>
         <key>other</key>
-        <string>%lu có bản cập nhật mới</string>
+        <string>%lu bản cập nhật có sẵn</string>
       </dict>
     </dict>
   </dict>
