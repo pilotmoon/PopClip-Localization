@@ -112,12 +112,6 @@
 /* No comment provided by engineer. */
 "Below Text" = "文本下方";
 
-/* Apple system color name; use Apple's official localized name */
-"Blue" = "蓝色";
-
-/* Apple system color name; use Apple's official localized name */
-"Brown" = "棕色";
-
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "内置";
 
@@ -189,9 +183,6 @@
 
 /* No comment provided by engineer. */
 "Custom…" = "自定…";
-
-/* Apple system color name; use Apple's official localized name */
-"Cyan" = "青色";
 
 /* Indicates Dark color appearance */
 "Dark" = "深色";
@@ -328,9 +319,6 @@
 /* No comment provided by engineer. */
 "Get Extensions" = "获取扩展";
 
-/* Apple system color name; use Apple's official localized name */
-"Green" = "绿色";
-
 /* No comment provided by engineer. */
 "Guide" = "指南";
 
@@ -396,9 +384,6 @@
 
 /* No comment provided by engineer. */
 "Including colored icons" = "正在包括彩色图标";
-
-/* Apple system color name; use Apple's official localized name */
-"Indigo" = "靛蓝色";
 
 /* button title: install the named externsion */
 "Install \"%@\"" = "安装“%@”";
@@ -472,9 +457,6 @@
 /* No comment provided by engineer. */
 "Migrated from previous PopClip version" = "从先前的 PopClip 版本迁移而来";
 
-/* Apple system color name; use Apple's official localized name */
-"Mint" = "薄荷色";
-
 /* name of missing third party app */
 "Missing App: %@" = "找不到应用：%@";
 
@@ -544,9 +526,6 @@
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "打开子菜单";
 
-/* Apple system color name; use Apple's official localized name */
-"Orange" = "橙色";
-
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "来源";
 
@@ -558,9 +537,6 @@
 
 /* No comment provided by engineer. */
 "Permissions" = "权限设置";
-
-/* Apple system color name; use Apple's official localized name */
-"Pink" = "粉色";
 
 /* No comment provided by engineer. */
 "Please close this browser tab and return to PopClip." = "请关闭此浏览器标签页并返回 PopClip。";
@@ -592,17 +568,11 @@
 /* No comment provided by engineer. */
 "Position" = "位置";
 
-/* Apple system color name; use Apple's official localized name */
-"Purple" = "紫色";
-
 /* No comment provided by engineer. */
 "Quit PopClip" = "退出 PopClip";
 
 /* No comment provided by engineer. */
 "Recently used apps" = "最近使用的 App";
-
-/* Apple system color name; use Apple's official localized name */
-"Red" = "红色";
 
 /* icon picker font option */
 "Regular" = "常规";
@@ -751,9 +721,6 @@
 /* No comment provided by engineer. */
 "Style" = "样式";
 
-/* Apple system color name; use Apple's official localized name */
-"Teal" = "蓝绿色";
-
 /* No comment provided by engineer. */
 "Technical information:" = "技术信息：";
 
@@ -852,9 +819,6 @@
 
 /* No comment provided by engineer. */
 "Websites…" = "网站…";
-
-/* Apple system color name; use Apple's official localized name */
-"Yellow" = "黄色";
 
 /* No comment provided by engineer. */
 "You are signed in to %@." = "您已经登录到 %@。";

@@ -112,12 +112,6 @@
 /* No comment provided by engineer. */
 "Below Text" = "Під текстом";
 
-/* Apple system color name; use Apple's official localized name */
-"Blue" = "Синій";
-
-/* Apple system color name; use Apple's official localized name */
-"Brown" = "Коричневий";
-
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "Вбудоване";
 
@@ -189,9 +183,6 @@
 
 /* No comment provided by engineer. */
 "Custom…" = "Власний…";
-
-/* Apple system color name; use Apple's official localized name */
-"Cyan" = "Блакитний";
 
 /* Indicates Dark color appearance */
 "Dark" = "Темний";
@@ -328,9 +319,6 @@
 /* No comment provided by engineer. */
 "Get Extensions" = "Отримати розширення";
 
-/* Apple system color name; use Apple's official localized name */
-"Green" = "Зелений";
-
 /* No comment provided by engineer. */
 "Guide" = "Довідка";
 
@@ -396,9 +384,6 @@
 
 /* No comment provided by engineer. */
 "Including colored icons" = "Додаються кольорові іконки";
-
-/* Apple system color name; use Apple's official localized name */
-"Indigo" = "Індиго";
 
 /* button title: install the named externsion */
 "Install \"%@\"" = "Установити «%@»";
@@ -472,9 +457,6 @@
 /* No comment provided by engineer. */
 "Migrated from previous PopClip version" = "Перенесено з попередньої версії PopClip";
 
-/* Apple system color name; use Apple's official localized name */
-"Mint" = "М’ятний";
-
 /* name of missing third party app */
 "Missing App: %@" = "Відсутній застосунок: %@";
 
@@ -544,9 +526,6 @@
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "Відкриває підменю";
 
-/* Apple system color name; use Apple's official localized name */
-"Orange" = "Помаранчевий";
-
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "Джерело";
 
@@ -558,9 +537,6 @@
 
 /* No comment provided by engineer. */
 "Permissions" = "Дозволи";
-
-/* Apple system color name; use Apple's official localized name */
-"Pink" = "Рожевий";
 
 /* No comment provided by engineer. */
 "Please close this browser tab and return to PopClip." = "Будь ласка, закрийте цю вкладку браузера й поверніться до PopClip.";
@@ -592,17 +568,11 @@
 /* No comment provided by engineer. */
 "Position" = "Позиція";
 
-/* Apple system color name; use Apple's official localized name */
-"Purple" = "Фіолетовий";
-
 /* No comment provided by engineer. */
 "Quit PopClip" = "Вийти з PopClip";
 
 /* No comment provided by engineer. */
 "Recently used apps" = "Нещодавно використані застосунки";
-
-/* Apple system color name; use Apple's official localized name */
-"Red" = "Червоний";
 
 /* icon picker font option */
 "Regular" = "Звичайний";
@@ -751,9 +721,6 @@
 /* No comment provided by engineer. */
 "Style" = "Стиль";
 
-/* Apple system color name; use Apple's official localized name */
-"Teal" = "Бірюзовий";
-
 /* No comment provided by engineer. */
 "Technical information:" = "Технічна інформація:";
 
@@ -852,9 +819,6 @@
 
 /* No comment provided by engineer. */
 "Websites…" = "Вебсайти…";
-
-/* Apple system color name; use Apple's official localized name */
-"Yellow" = "Жовтий";
 
 /* No comment provided by engineer. */
 "You are signed in to %@." = "Ви ввійшли до %@.";

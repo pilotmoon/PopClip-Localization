@@ -112,12 +112,6 @@
 /* No comment provided by engineer. */
 "Below Text" = "Nằm dưới văn bản";
 
-/* Apple system color name; use Apple's official localized name */
-"Blue" = "Xanh lam";
-
-/* Apple system color name; use Apple's official localized name */
-"Brown" = "Nâu";
-
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "Tích hợp";
 
@@ -189,9 +183,6 @@
 
 /* No comment provided by engineer. */
 "Custom…" = "Tùy chỉnh…";
-
-/* Apple system color name; use Apple's official localized name */
-"Cyan" = "Xanh lơ";
 
 /* Indicates Dark color appearance */
 "Dark" = "Tối";
@@ -328,9 +319,6 @@
 /* No comment provided by engineer. */
 "Get Extensions" = "Tải thêm phần mở rộng";
 
-/* Apple system color name; use Apple's official localized name */
-"Green" = "Xanh lục";
-
 /* No comment provided by engineer. */
 "Guide" = "Hướng dẫn";
 
@@ -396,9 +384,6 @@
 
 /* No comment provided by engineer. */
 "Including colored icons" = "Đang bao gồm biểu tượng màu";
-
-/* Apple system color name; use Apple's official localized name */
-"Indigo" = "Chàm";
 
 /* button title: install the named externsion */
 "Install \"%@\"" = "Cài đặt \"%@\"";
@@ -472,9 +457,6 @@
 /* No comment provided by engineer. */
 "Migrated from previous PopClip version" = "Đã di chuyển từ phiên bản PopClip trước";
 
-/* Apple system color name; use Apple's official localized name */
-"Mint" = "Bạc hà";
-
 /* name of missing third party app */
 "Missing App: %@" = "Ứng dụng bị thiếu: %@";
 
@@ -544,9 +526,6 @@
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "Mở menu con";
 
-/* Apple system color name; use Apple's official localized name */
-"Orange" = "Cam";
-
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "Nguồn gốc";
 
@@ -558,9 +537,6 @@
 
 /* No comment provided by engineer. */
 "Permissions" = "Quyền";
-
-/* Apple system color name; use Apple's official localized name */
-"Pink" = "Hồng";
 
 /* No comment provided by engineer. */
 "Please close this browser tab and return to PopClip." = "Vui lòng đóng tab trình duyệt này và quay lại PopClip.";
@@ -592,17 +568,11 @@
 /* No comment provided by engineer. */
 "Position" = "Vị trí";
 
-/* Apple system color name; use Apple's official localized name */
-"Purple" = "Tím";
-
 /* No comment provided by engineer. */
 "Quit PopClip" = "Thoát PopClip";
 
 /* No comment provided by engineer. */
 "Recently used apps" = "Ứng dụng vừa sử dụng gần đây";
-
-/* Apple system color name; use Apple's official localized name */
-"Red" = "Đỏ";
 
 /* icon picker font option */
 "Regular" = "Thường";
@@ -751,9 +721,6 @@
 /* No comment provided by engineer. */
 "Style" = "Kiểu";
 
-/* Apple system color name; use Apple's official localized name */
-"Teal" = "Xanh mòng két";
-
 /* No comment provided by engineer. */
 "Technical information:" = "Thông tin kỹ thuật:";
 
@@ -852,9 +819,6 @@
 
 /* No comment provided by engineer. */
 "Websites…" = "Trang web…";
-
-/* Apple system color name; use Apple's official localized name */
-"Yellow" = "Vàng";
 
 /* No comment provided by engineer. */
 "You are signed in to %@." = "Bạn đang đăng nhập với tài khoản %@.";

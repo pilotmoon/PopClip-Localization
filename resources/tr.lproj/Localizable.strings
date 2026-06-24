@@ -112,12 +112,6 @@
 /* No comment provided by engineer. */
 "Below Text" = "Metin aşağısında";
 
-/* Apple system color name; use Apple's official localized name */
-"Blue" = "Mavi";
-
-/* Apple system color name; use Apple's official localized name */
-"Brown" = "Kahverengi";
-
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "Yerleşik";
 
@@ -189,9 +183,6 @@
 
 /* No comment provided by engineer. */
 "Custom…" = "Özel…";
-
-/* Apple system color name; use Apple's official localized name */
-"Cyan" = "Camgöbeği";
 
 /* Indicates Dark color appearance */
 "Dark" = "Karanlık Tema";
@@ -328,9 +319,6 @@
 /* No comment provided by engineer. */
 "Get Extensions" = "Uzantıları Al";
 
-/* Apple system color name; use Apple's official localized name */
-"Green" = "Yeşil";
-
 /* No comment provided by engineer. */
 "Guide" = "Kılavuz";
 
@@ -396,9 +384,6 @@
 
 /* No comment provided by engineer. */
 "Including colored icons" = "Renkli simgeler dahil ediliyor";
-
-/* Apple system color name; use Apple's official localized name */
-"Indigo" = "Çivit";
 
 /* button title: install the named externsion */
 "Install \"%@\"" = "\"%@\" yükle";
@@ -472,9 +457,6 @@
 /* No comment provided by engineer. */
 "Migrated from previous PopClip version" = "Önceki PopClip sürümünden taşındı";
 
-/* Apple system color name; use Apple's official localized name */
-"Mint" = "Nane";
-
 /* name of missing third party app */
 "Missing App: %@" = "Eksik Uygulama: %@";
 
@@ -544,9 +526,6 @@
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "Alt menüyü açar";
 
-/* Apple system color name; use Apple's official localized name */
-"Orange" = "Turuncu";
-
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "Köken";
 
@@ -558,9 +537,6 @@
 
 /* No comment provided by engineer. */
 "Permissions" = "İzinler";
-
-/* Apple system color name; use Apple's official localized name */
-"Pink" = "Pembe";
 
 /* No comment provided by engineer. */
 "Please close this browser tab and return to PopClip." = "Lütfen bu tarayıcı sekmesini kapatıp PopClip'e geri dönün.";
@@ -592,17 +568,11 @@
 /* No comment provided by engineer. */
 "Position" = "Konum";
 
-/* Apple system color name; use Apple's official localized name */
-"Purple" = "Mor";
-
 /* No comment provided by engineer. */
 "Quit PopClip" = "PopClip'ten Çık";
 
 /* No comment provided by engineer. */
 "Recently used apps" = "Son kullanılan uygulamalar";
-
-/* Apple system color name; use Apple's official localized name */
-"Red" = "Kırmızı";
 
 /* icon picker font option */
 "Regular" = "Normal";
@@ -751,9 +721,6 @@
 /* No comment provided by engineer. */
 "Style" = "Stil";
 
-/* Apple system color name; use Apple's official localized name */
-"Teal" = "Deniz Mavisi";
-
 /* No comment provided by engineer. */
 "Technical information:" = "Teknik bilgi:";
 
@@ -852,9 +819,6 @@
 
 /* No comment provided by engineer. */
 "Websites…" = "Web siteleri…";
-
-/* Apple system color name; use Apple's official localized name */
-"Yellow" = "Sarı";
 
 /* No comment provided by engineer. */
 "You are signed in to %@." = "%@ üzerinde oturum açtınız.";

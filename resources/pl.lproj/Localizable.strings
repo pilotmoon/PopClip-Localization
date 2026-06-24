@@ -112,12 +112,6 @@
 /* No comment provided by engineer. */
 "Below Text" = "Poniżej tekstu";
 
-/* Apple system color name; use Apple's official localized name */
-"Blue" = "Niebieski";
-
-/* Apple system color name; use Apple's official localized name */
-"Brown" = "Brązowy";
-
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "Wbudowana";
 
@@ -189,9 +183,6 @@
 
 /* No comment provided by engineer. */
 "Custom…" = "Własne…";
-
-/* Apple system color name; use Apple's official localized name */
-"Cyan" = "Cyjan";
 
 /* Indicates Dark color appearance */
 "Dark" = "Ciemny";
@@ -328,9 +319,6 @@
 /* No comment provided by engineer. */
 "Get Extensions" = "Pobierz rozszerzenia";
 
-/* Apple system color name; use Apple's official localized name */
-"Green" = "Zielony";
-
 /* No comment provided by engineer. */
 "Guide" = "Przewodnik";
 
@@ -396,9 +384,6 @@
 
 /* No comment provided by engineer. */
 "Including colored icons" = "Uwzględnianie kolorowych ikon";
-
-/* Apple system color name; use Apple's official localized name */
-"Indigo" = "Indygo";
 
 /* button title: install the named externsion */
 "Install \"%@\"" = "Zainstaluj \"%@\"";
@@ -472,9 +457,6 @@
 /* No comment provided by engineer. */
 "Migrated from previous PopClip version" = "Przeniesiono z poprzedniej wersji PopClip";
 
-/* Apple system color name; use Apple's official localized name */
-"Mint" = "Miętowy";
-
 /* name of missing third party app */
 "Missing App: %@" = "Brakująca Aplikacja: %@";
 
@@ -544,9 +526,6 @@
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "Otwiera podmenu";
 
-/* Apple system color name; use Apple's official localized name */
-"Orange" = "Pomarańczowy";
-
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "Pochodzenie";
 
@@ -558,9 +537,6 @@
 
 /* No comment provided by engineer. */
 "Permissions" = "Uprawnienia";
-
-/* Apple system color name; use Apple's official localized name */
-"Pink" = "Różowy";
 
 /* No comment provided by engineer. */
 "Please close this browser tab and return to PopClip." = "Zamknij zakładkę przeglądarki i wróć do PopClip.";
@@ -592,17 +568,11 @@
 /* No comment provided by engineer. */
 "Position" = "Położenie";
 
-/* Apple system color name; use Apple's official localized name */
-"Purple" = "Fioletowy";
-
 /* No comment provided by engineer. */
 "Quit PopClip" = "Zakończ PopClip";
 
 /* No comment provided by engineer. */
 "Recently used apps" = "Ostatnio używane aplikacje";
-
-/* Apple system color name; use Apple's official localized name */
-"Red" = "Czerwony";
 
 /* icon picker font option */
 "Regular" = "Zwykły";
@@ -751,9 +721,6 @@
 /* No comment provided by engineer. */
 "Style" = "Styl";
 
-/* Apple system color name; use Apple's official localized name */
-"Teal" = "Turkusowy";
-
 /* No comment provided by engineer. */
 "Technical information:" = "Informacje techniczne:";
 
@@ -852,9 +819,6 @@
 
 /* No comment provided by engineer. */
 "Websites…" = "Strony internetowe…";
-
-/* Apple system color name; use Apple's official localized name */
-"Yellow" = "Żółty";
 
 /* No comment provided by engineer. */
 "You are signed in to %@." = "Jesteś zalogowany jako %@.";

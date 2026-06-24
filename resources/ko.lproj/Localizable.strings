@@ -112,12 +112,6 @@
 /* No comment provided by engineer. */
 "Below Text" = "텍스트 아래";
 
-/* Apple system color name; use Apple's official localized name */
-"Blue" = "파란색";
-
-/* Apple system color name; use Apple's official localized name */
-"Brown" = "갈색";
-
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "내장";
 
@@ -189,9 +183,6 @@
 
 /* No comment provided by engineer. */
 "Custom…" = "사용자화…";
-
-/* Apple system color name; use Apple's official localized name */
-"Cyan" = "시안";
 
 /* Indicates Dark color appearance */
 "Dark" = "어두움";
@@ -328,9 +319,6 @@
 /* No comment provided by engineer. */
 "Get Extensions" = "확장 기능 가져오기";
 
-/* Apple system color name; use Apple's official localized name */
-"Green" = "녹색";
-
 /* No comment provided by engineer. */
 "Guide" = "가이드";
 
@@ -396,9 +384,6 @@
 
 /* No comment provided by engineer. */
 "Including colored icons" = "컬러 아이콘 포함 중";
-
-/* Apple system color name; use Apple's official localized name */
-"Indigo" = "남색";
 
 /* button title: install the named externsion */
 "Install \"%@\"" = "“%@” 설치";
@@ -472,9 +457,6 @@
 /* No comment provided by engineer. */
 "Migrated from previous PopClip version" = "이전 PopClip 버전에서 마이그레이션됨";
 
-/* Apple system color name; use Apple's official localized name */
-"Mint" = "민트색";
-
 /* name of missing third party app */
 "Missing App: %@" = "누락된 앱: %@";
 
@@ -544,9 +526,6 @@
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "하위 메뉴 열기";
 
-/* Apple system color name; use Apple's official localized name */
-"Orange" = "주황색";
-
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "출처";
 
@@ -558,9 +537,6 @@
 
 /* No comment provided by engineer. */
 "Permissions" = "권한";
-
-/* Apple system color name; use Apple's official localized name */
-"Pink" = "분홍색";
 
 /* No comment provided by engineer. */
 "Please close this browser tab and return to PopClip." = "이 브라우저 탭을 닫고 PopClip으로 돌아가세요.";
@@ -592,17 +568,11 @@
 /* No comment provided by engineer. */
 "Position" = "위치";
 
-/* Apple system color name; use Apple's official localized name */
-"Purple" = "보라색";
-
 /* No comment provided by engineer. */
 "Quit PopClip" = "PopClip 끝내기";
 
 /* No comment provided by engineer. */
 "Recently used apps" = "최근 사용한 앱";
-
-/* Apple system color name; use Apple's official localized name */
-"Red" = "빨간색";
 
 /* icon picker font option */
 "Regular" = "일반";
@@ -751,9 +721,6 @@
 /* No comment provided by engineer. */
 "Style" = "스타일";
 
-/* Apple system color name; use Apple's official localized name */
-"Teal" = "청록색";
-
 /* No comment provided by engineer. */
 "Technical information:" = "기술 정보:";
 
@@ -852,9 +819,6 @@
 
 /* No comment provided by engineer. */
 "Websites…" = "웹사이트…";
-
-/* Apple system color name; use Apple's official localized name */
-"Yellow" = "노란색";
 
 /* No comment provided by engineer. */
 "You are signed in to %@." = "%@에 로그인되셨습니다.";

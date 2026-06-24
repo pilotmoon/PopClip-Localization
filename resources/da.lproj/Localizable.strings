@@ -112,12 +112,6 @@
 /* No comment provided by engineer. */
 "Below Text" = "Under tekst";
 
-/* Apple system color name; use Apple's official localized name */
-"Blue" = "Blå";
-
-/* Apple system color name; use Apple's official localized name */
-"Brown" = "Brun";
-
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "Indbygget";
 
@@ -189,9 +183,6 @@
 
 /* No comment provided by engineer. */
 "Custom…" = "Brugerdefineret…";
-
-/* Apple system color name; use Apple's official localized name */
-"Cyan" = "cyanblå";
 
 /* Indicates Dark color appearance */
 "Dark" = "Mørk";
@@ -328,9 +319,6 @@
 /* No comment provided by engineer. */
 "Get Extensions" = "Hent udvidelser";
 
-/* Apple system color name; use Apple's official localized name */
-"Green" = "Grøn";
-
 /* No comment provided by engineer. */
 "Guide" = "Guide";
 
@@ -396,9 +384,6 @@
 
 /* No comment provided by engineer. */
 "Including colored icons" = "Medtager farvede ikoner";
-
-/* Apple system color name; use Apple's official localized name */
-"Indigo" = "indigoblå";
 
 /* button title: install the named externsion */
 "Install \"%@\"" = "Installer \"%@\"";
@@ -472,9 +457,6 @@
 /* No comment provided by engineer. */
 "Migrated from previous PopClip version" = "Overført fra tidligere PopClip-version";
 
-/* Apple system color name; use Apple's official localized name */
-"Mint" = "mintgrøn";
-
 /* name of missing third party app */
 "Missing App: %@" = "Manglende app: %@";
 
@@ -544,9 +526,6 @@
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "Åbner undermenu";
 
-/* Apple system color name; use Apple's official localized name */
-"Orange" = "orange";
-
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "Oprindelse";
 
@@ -558,9 +537,6 @@
 
 /* No comment provided by engineer. */
 "Permissions" = "Tilladelser";
-
-/* Apple system color name; use Apple's official localized name */
-"Pink" = "lyserød";
 
 /* No comment provided by engineer. */
 "Please close this browser tab and return to PopClip." = "Luk denne browserfane og vend tilbage til PopClip.";
@@ -592,17 +568,11 @@
 /* No comment provided by engineer. */
 "Position" = "Placering";
 
-/* Apple system color name; use Apple's official localized name */
-"Purple" = "Lilla";
-
 /* No comment provided by engineer. */
 "Quit PopClip" = "Afslut PopClip";
 
 /* No comment provided by engineer. */
 "Recently used apps" = "Senest anvendte apps";
-
-/* Apple system color name; use Apple's official localized name */
-"Red" = "Rød";
 
 /* icon picker font option */
 "Regular" = "Almindelig";
@@ -751,9 +721,6 @@
 /* No comment provided by engineer. */
 "Style" = "Stil";
 
-/* Apple system color name; use Apple's official localized name */
-"Teal" = "Blågrøn";
-
 /* No comment provided by engineer. */
 "Technical information:" = "Teknisk information:";
 
@@ -852,9 +819,6 @@
 
 /* No comment provided by engineer. */
 "Websites…" = "Websteder…";
-
-/* Apple system color name; use Apple's official localized name */
-"Yellow" = "Gul";
 
 /* No comment provided by engineer. */
 "You are signed in to %@." = "Du er logget ind på %@.";

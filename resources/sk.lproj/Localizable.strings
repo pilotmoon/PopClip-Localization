@@ -112,12 +112,6 @@
 /* No comment provided by engineer. */
 "Below Text" = "Pod textom";
 
-/* Apple system color name; use Apple's official localized name */
-"Blue" = "Modrá";
-
-/* Apple system color name; use Apple's official localized name */
-"Brown" = "Hnedá";
-
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "Vstavané";
 
@@ -189,9 +183,6 @@
 
 /* No comment provided by engineer. */
 "Custom…" = "Vlastné…";
-
-/* Apple system color name; use Apple's official localized name */
-"Cyan" = "Azúrová";
 
 /* Indicates Dark color appearance */
 "Dark" = "Tmavá";
@@ -328,9 +319,6 @@
 /* No comment provided by engineer. */
 "Get Extensions" = "Získať rozšírenia";
 
-/* Apple system color name; use Apple's official localized name */
-"Green" = "Zelená";
-
 /* No comment provided by engineer. */
 "Guide" = "Príručka";
 
@@ -396,9 +384,6 @@
 
 /* No comment provided by engineer. */
 "Including colored icons" = "Vrátane farebných ikon";
-
-/* Apple system color name; use Apple's official localized name */
-"Indigo" = "Indigová";
 
 /* button title: install the named externsion */
 "Install \"%@\"" = "Inštalovať \"%@\"";
@@ -472,9 +457,6 @@
 /* No comment provided by engineer. */
 "Migrated from previous PopClip version" = "Prenesené z predchádzajúcej verzie PopClip";
 
-/* Apple system color name; use Apple's official localized name */
-"Mint" = "Mätová";
-
 /* name of missing third party app */
 "Missing App: %@" = "Chýbajúca aplikácia: %@";
 
@@ -544,9 +526,6 @@
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "Otvorí podmenu";
 
-/* Apple system color name; use Apple's official localized name */
-"Orange" = "Oranžová";
-
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "Pôvod";
 
@@ -558,9 +537,6 @@
 
 /* No comment provided by engineer. */
 "Permissions" = "Povolenia";
-
-/* Apple system color name; use Apple's official localized name */
-"Pink" = "Ružová";
 
 /* No comment provided by engineer. */
 "Please close this browser tab and return to PopClip." = "Zatvorte túto kartu prehliadača a vráťte sa do PopClip.";
@@ -592,17 +568,11 @@
 /* No comment provided by engineer. */
 "Position" = "Umiestnenie";
 
-/* Apple system color name; use Apple's official localized name */
-"Purple" = "Fialová";
-
 /* No comment provided by engineer. */
 "Quit PopClip" = "Ukončiť PopClip";
 
 /* No comment provided by engineer. */
 "Recently used apps" = "Nedávno použité aplikácie";
-
-/* Apple system color name; use Apple's official localized name */
-"Red" = "Červená";
 
 /* icon picker font option */
 "Regular" = "Normálne";
@@ -751,9 +721,6 @@
 /* No comment provided by engineer. */
 "Style" = "Štýl";
 
-/* Apple system color name; use Apple's official localized name */
-"Teal" = "Tyrkysová";
-
 /* No comment provided by engineer. */
 "Technical information:" = "Technické informácie:";
 
@@ -852,9 +819,6 @@
 
 /* No comment provided by engineer. */
 "Websites…" = "Webové stránky…";
-
-/* Apple system color name; use Apple's official localized name */
-"Yellow" = "Žltá";
 
 /* No comment provided by engineer. */
 "You are signed in to %@." = "Ste prihlásený do %@.";

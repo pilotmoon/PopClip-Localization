@@ -112,12 +112,6 @@
 /* No comment provided by engineer. */
 "Below Text" = "テキストの下";
 
-/* Apple system color name; use Apple's official localized name */
-"Blue" = "ブルー";
-
-/* Apple system color name; use Apple's official localized name */
-"Brown" = "ブラウン";
-
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "内蔵";
 
@@ -189,9 +183,6 @@
 
 /* No comment provided by engineer. */
 "Custom…" = "カスタム…";
-
-/* Apple system color name; use Apple's official localized name */
-"Cyan" = "シアン";
 
 /* Indicates Dark color appearance */
 "Dark" = "ダーク";
@@ -328,9 +319,6 @@
 /* No comment provided by engineer. */
 "Get Extensions" = "拡張機能を入手";
 
-/* Apple system color name; use Apple's official localized name */
-"Green" = "グリーン";
-
 /* No comment provided by engineer. */
 "Guide" = "ガイド";
 
@@ -396,9 +384,6 @@
 
 /* No comment provided by engineer. */
 "Including colored icons" = "カラーアイコンを含めています";
-
-/* Apple system color name; use Apple's official localized name */
-"Indigo" = "インディゴ";
 
 /* button title: install the named externsion */
 "Install \"%@\"" = "「%@」をインストール";
@@ -472,9 +457,6 @@
 /* No comment provided by engineer. */
 "Migrated from previous PopClip version" = "以前のPopClipバージョンから移行済み";
 
-/* Apple system color name; use Apple's official localized name */
-"Mint" = "ミント";
-
 /* name of missing third party app */
 "Missing App: %@" = "アプリ: %@が欠けています";
 
@@ -544,9 +526,6 @@
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "サブメニューを開きます";
 
-/* Apple system color name; use Apple's official localized name */
-"Orange" = "オレンジ";
-
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "出所";
 
@@ -558,9 +537,6 @@
 
 /* No comment provided by engineer. */
 "Permissions" = "権限";
-
-/* Apple system color name; use Apple's official localized name */
-"Pink" = "ピンク";
 
 /* No comment provided by engineer. */
 "Please close this browser tab and return to PopClip." = "このブラウザのタブを閉じてPopClipに戻ってください。";
@@ -594,17 +570,11 @@
 /* No comment provided by engineer. */
 "Position" = "位置";
 
-/* Apple system color name; use Apple's official localized name */
-"Purple" = "パープル";
-
 /* No comment provided by engineer. */
 "Quit PopClip" = "PopClipを終了";
 
 /* No comment provided by engineer. */
 "Recently used apps" = "最近使用したアプリ";
-
-/* Apple system color name; use Apple's official localized name */
-"Red" = "レッド";
 
 /* icon picker font option */
 "Regular" = "標準";
@@ -753,9 +723,6 @@
 /* No comment provided by engineer. */
 "Style" = "スタイル";
 
-/* Apple system color name; use Apple's official localized name */
-"Teal" = "ティール";
-
 /* No comment provided by engineer. */
 "Technical information:" = "技術情報:";
 
@@ -854,9 +821,6 @@
 
 /* No comment provided by engineer. */
 "Websites…" = "ウェブサイト…";
-
-/* Apple system color name; use Apple's official localized name */
-"Yellow" = "イエロー";
 
 /* No comment provided by engineer. */
 "You are signed in to %@." = "%@にサインインしています。";
