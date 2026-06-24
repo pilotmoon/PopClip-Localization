@@ -91,7 +91,7 @@
 /* No comment provided by engineer. */
 "Apps…" = "Apps…";
 
-/* No comment provided by engineer. */
+/* Status: the extension is authorized */
 "Authorized" = "Geautoriseerd";
 
 /* Dark/light mode will be the same as the operating system setting */
@@ -130,7 +130,7 @@
 /* 1=name of app */
 "Cannot start %1$@" = "Kan %1$@ niet starten";
 
-/* No comment provided by engineer. */
+/* Extension info section title: what the extension can do */
 "Capabilities" = "Mogelijkheden";
 
 /* No comment provided by engineer. */
@@ -157,7 +157,7 @@
 /* No comment provided by engineer. */
 "Close" = "Sluit";
 
-/* No comment provided by engineer. */
+/* Submenu title: the action icon color */
 "Color" = "Kleur";
 
 /* example: Connecting to updateserver.example.com… */
@@ -172,7 +172,7 @@
 /* No comment provided by engineer. */
 "Copy PNG Image" = "Kopieer PNG-afbeelding";
 
-/* No comment provided by engineer. */
+/* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "Kopieer specificatie";
 
 /* No comment provided by engineer. */
@@ -202,7 +202,7 @@
 /* No comment provided by engineer. */
 "Delete Separator" = "Verwijder scheidingsteken";
 
-/* No comment provided by engineer. */
+/* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Door ontwikkelaar ondertekend";
 
 /* name of dictionary look-up feature */
@@ -214,10 +214,10 @@
 /* button title */
 "Don't Install" = "Installeer niet";
 
-/* No comment provided by engineer. */
+/* Button to finish editing and close the action filter field */
 "Done" = "Gereed";
 
-/* No comment provided by engineer. */
+/* %@ and %@ are data sizes, e.g. “1.2 MB of 5 MB” */
 "Downloaded %@ of %@…" = "%1$@ van %2$@ gedownload…";
 
 /* No comment provided by engineer. */
@@ -232,7 +232,7 @@
 /* No comment provided by engineer. */
 "Email" = "E-mailadres";
 
-/* No comment provided by engineer. */
+/* Menu checkbox: whether this action is shown */
 "Enabled" = "Ingeschakeld";
 
 /* extension info: special permissions the extension has */
@@ -256,7 +256,7 @@
 /* No comment provided by engineer. */
 "Exclude these websites:" = "Sluit deze websites uit:";
 
-/* No comment provided by engineer. */
+/* %@ is the expiry date */
 "Expires: %@" = "Verloopt: %@";
 
 /* No comment provided by engineer. */
@@ -301,7 +301,7 @@
 /* No comment provided by engineer. */
 "Folder" = "Map";
 
-/* No comment provided by engineer. */
+/* icon picker: typeface for a text icon */
 "Font" = "Lettertype";
 
 /* No comment provided by engineer. */
@@ -322,7 +322,7 @@
 /* No comment provided by engineer. */
 "Guide" = "Gids";
 
-/* No comment provided by engineer. */
+/* Toggle: hide a stored secret value such as an API key */
 "Hide Secret" = "Verberg geheim";
 
 /* No comment provided by engineer. */
@@ -412,7 +412,7 @@
 /* No comment provided by engineer. */
 "Installing…" = "Installeren…";
 
-/* No comment provided by engineer. */
+/* Extension info: number of running instances of this extension */
 "Instances" = "Instanties";
 
 /* No comment provided by engineer. */
@@ -430,7 +430,7 @@
 /* No comment provided by engineer. */
 "Languages" = "Talen";
 
-/* No comment provided by engineer. */
+/* %@ is a relative time such as “Just now”, “5 minutes ago”, or “Never” */
 "Last checked: %@" = "Laatst gecontroleerd: %@";
 
 /* No comment provided by engineer. */
@@ -460,7 +460,7 @@
 /* extension info: how the extension was installed (snippet, file, URL scheme, etc.) */
 "Method" = "Methode";
 
-/* No comment provided by engineer. */
+/* Extension info source value: migrated from an older PopClip version */
 "Migrated from previous PopClip version" = "Gemigreerd vanuit vorige PopClip-versie";
 
 /* name of missing third party app */
@@ -493,7 +493,7 @@
 /* No comment provided by engineer. */
 "New Folder" = "Nieuwe map";
 
-/* No comment provided by engineer. */
+/* Menu command: create another instance of this extension */
 "New Instance" = "Nieuwe instantie";
 
 /* No comment provided by engineer. */
@@ -511,7 +511,7 @@
 /* No comment provided by engineer. */
 "None" = "Geen";
 
-/* No comment provided by engineer. */
+/* Status: the extension is not authorized */
 "Not Authorized" = "Niet geautoriseerd";
 
 /* No comment provided by engineer. */
@@ -538,7 +538,7 @@
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "Herkomst";
 
-/* No comment provided by engineer. */
+/* URL rule pop-up: a match type other than the presets (Domain, Host, etc.) */
 "Other…" = "Overig…";
 
 /* No comment provided by engineer. */
@@ -574,7 +574,7 @@
 /* No comment provided by engineer. */
 "Popup Item" = "Pop-uponderdeel";
 
-/* No comment provided by engineer. */
+/* Appearance setting: where the PopClip bar appears */
 "Position" = "Positie";
 
 /* No comment provided by engineer. */
@@ -589,7 +589,7 @@
 /* No comment provided by engineer. */
 "Relaunch" = "Herstart";
 
-/* No comment provided by engineer. */
+/* %@ is the new version; the second %@ is the current version */
 "Relaunch to use %@ (you have %@)." = "Herstart om %1$@ te gebruiken (je hebt %2$@).";
 
 /* No comment provided by engineer. */
@@ -622,10 +622,10 @@
 /* icon picker: rotation control */
 "Rotate" = "Roteren";
 
-/* No comment provided by engineer. */
+/* Label shown before a URL rule definition */
 "Rule:" = "Regel:";
 
-/* No comment provided by engineer. */
+/* Section label: URL rules that restrict where PopClip appears */
 "Rules" = "Regels";
 
 /* icon picker: scale (size) control */
@@ -640,7 +640,7 @@
 /* No comment provided by engineer. */
 "Search URL" = "Zoek-URL";
 
-/* No comment provided by engineer. */
+/* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "Zoeken in %@ opensource-iconen.";
 
 /* No comment provided by engineer. */
@@ -661,16 +661,16 @@
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "Toon \"%@\" in de actielijst";
 
-/* No comment provided by engineer. */
+/* Submenu title: how this action is shown — icon, text, or both */
 "Show As" = "Toon als";
 
 /* No comment provided by engineer. */
 "Show in menu bar" = "Weergeven in menubalk";
 
-/* No comment provided by engineer. */
+/* Toggle: reveal a stored secret value such as an API key */
 "Show Secret" = "Toon geheim";
 
-/* No comment provided by engineer. */
+/* Menu item: reveal the icon specifier (the icon's text code) */
 "Show Specifier" = "Toon specificatie";
 
 /* No comment provided by engineer. */
@@ -688,13 +688,13 @@
 /* extension info: code-signing status */
 "Signature" = "Ondertekening";
 
-/* No comment provided by engineer. */
+/* Account status; %@ is the date the user signed in */
 "Signed in: %@" = "Aangemeld: %@";
 
-/* No comment provided by engineer. */
+/* Appearance setting: size of the PopClip bar */
 "Size" = "Grootte";
 
-/* No comment provided by engineer. */
+/* Extension info source value: installed from a text snippet */
 "Snippet" = "Fragment";
 
 /* No comment provided by engineer. */
@@ -703,7 +703,7 @@
 /* No comment provided by engineer. */
 "Software Update" = "Software-update";
 
-/* No comment provided by engineer. */
+/* Button tooltip: sort the extensions list */
 "Sort" = "Sorteer";
 
 /* No comment provided by engineer. */
@@ -727,7 +727,7 @@
 /* icon picker option: diagonal 'strike' or 'slash' line drawn over icon */
 "Strike" = "Doorhalen";
 
-/* No comment provided by engineer. */
+/* Appearance setting: visual style of the PopClip bar */
 "Style" = "Stijl";
 
 /* No comment provided by engineer. */
@@ -760,7 +760,7 @@
 /* No comment provided by engineer. */
 "Unknown" = "Onbekend";
 
-/* No comment provided by engineer. */
+/* Extension info signature value (describes an extension): has no code signature */
 "Unsigned" = "Niet ondertekend";
 
 /* Alert title. 'Extension' here means a PopClip add-on/plug-in, not a file-name extension. 'Unsigned' = has no code signature. */
@@ -793,10 +793,10 @@
 /* No comment provided by engineer. */
 "Use the keyboard shortcut to trigger PopClip manually." = "Gebruik de sneltoets om PopClip handmatig te activeren.";
 
-/* No comment provided by engineer. */
+/* Extension info origin value (describes an extension): created by the user */
 "User-generated" = "Door gebruiker gemaakt";
 
-/* No comment provided by engineer. */
+/* Extension info signature value (describes an extension): signature verified */
 "Verified" = "Geverifieerd";
 
 /* No comment provided by engineer. */

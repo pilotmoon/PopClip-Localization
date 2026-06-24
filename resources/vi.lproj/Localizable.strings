@@ -91,7 +91,7 @@
 /* No comment provided by engineer. */
 "Apps…" = "Ứng dụng…";
 
-/* No comment provided by engineer. */
+/* Status: the extension is authorized */
 "Authorized" = "Được ủy quyền";
 
 /* Dark/light mode will be the same as the operating system setting */
@@ -130,7 +130,7 @@
 /* 1=name of app */
 "Cannot start %1$@" = "Không thể khởi động %1$@";
 
-/* No comment provided by engineer. */
+/* Extension info section title: what the extension can do */
 "Capabilities" = "Khả năng";
 
 /* No comment provided by engineer. */
@@ -157,7 +157,7 @@
 /* No comment provided by engineer. */
 "Close" = "Đóng";
 
-/* No comment provided by engineer. */
+/* Submenu title: the action icon color */
 "Color" = "Màu sắc";
 
 /* example: Connecting to updateserver.example.com… */
@@ -172,7 +172,7 @@
 /* No comment provided by engineer. */
 "Copy PNG Image" = "Sao chép ảnh PNG";
 
-/* No comment provided by engineer. */
+/* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "Sao chép mã chỉ định";
 
 /* No comment provided by engineer. */
@@ -202,7 +202,7 @@
 /* No comment provided by engineer. */
 "Delete Separator" = "Xóa dấu phân cách";
 
-/* No comment provided by engineer. */
+/* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Được nhà phát triển ký";
 
 /* name of dictionary look-up feature */
@@ -214,10 +214,10 @@
 /* button title */
 "Don't Install" = "Không cài đặt";
 
-/* No comment provided by engineer. */
+/* Button to finish editing and close the action filter field */
 "Done" = "Xong";
 
-/* No comment provided by engineer. */
+/* %@ and %@ are data sizes, e.g. “1.2 MB of 5 MB” */
 "Downloaded %@ of %@…" = "Đã tải %1$@ trên tổng %2$@…";
 
 /* No comment provided by engineer. */
@@ -232,7 +232,7 @@
 /* No comment provided by engineer. */
 "Email" = "Email";
 
-/* No comment provided by engineer. */
+/* Menu checkbox: whether this action is shown */
 "Enabled" = "Đã bật";
 
 /* extension info: special permissions the extension has */
@@ -256,7 +256,7 @@
 /* No comment provided by engineer. */
 "Exclude these websites:" = "Loại trừ các trang web này:";
 
-/* No comment provided by engineer. */
+/* %@ is the expiry date */
 "Expires: %@" = "Hết hạn: %@";
 
 /* No comment provided by engineer. */
@@ -301,7 +301,7 @@
 /* No comment provided by engineer. */
 "Folder" = "Thư mục";
 
-/* No comment provided by engineer. */
+/* icon picker: typeface for a text icon */
 "Font" = "Phông chữ";
 
 /* No comment provided by engineer. */
@@ -322,7 +322,7 @@
 /* No comment provided by engineer. */
 "Guide" = "Hướng dẫn";
 
-/* No comment provided by engineer. */
+/* Toggle: hide a stored secret value such as an API key */
 "Hide Secret" = "Ẩn bí mật";
 
 /* No comment provided by engineer. */
@@ -412,7 +412,7 @@
 /* No comment provided by engineer. */
 "Installing…" = "Đang cài đặt…";
 
-/* No comment provided by engineer. */
+/* Extension info: number of running instances of this extension */
 "Instances" = "Phiên bản tùy chỉnh";
 
 /* No comment provided by engineer. */
@@ -430,7 +430,7 @@
 /* No comment provided by engineer. */
 "Languages" = "Ngôn ngữ";
 
-/* No comment provided by engineer. */
+/* %@ is a relative time such as “Just now”, “5 minutes ago”, or “Never” */
 "Last checked: %@" = "Lần kiểm tra cuối: %@";
 
 /* No comment provided by engineer. */
@@ -460,7 +460,7 @@
 /* extension info: how the extension was installed (snippet, file, URL scheme, etc.) */
 "Method" = "Phương thức";
 
-/* No comment provided by engineer. */
+/* Extension info source value: migrated from an older PopClip version */
 "Migrated from previous PopClip version" = "Đã di chuyển từ phiên bản PopClip trước";
 
 /* name of missing third party app */
@@ -493,7 +493,7 @@
 /* No comment provided by engineer. */
 "New Folder" = "Thư mục mới";
 
-/* No comment provided by engineer. */
+/* Menu command: create another instance of this extension */
 "New Instance" = "Phiên bản tùy chỉnh mới";
 
 /* No comment provided by engineer. */
@@ -511,7 +511,7 @@
 /* No comment provided by engineer. */
 "None" = "Không có";
 
-/* No comment provided by engineer. */
+/* Status: the extension is not authorized */
 "Not Authorized" = "Không được ủy quyền";
 
 /* No comment provided by engineer. */
@@ -538,7 +538,7 @@
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "Nguồn gốc";
 
-/* No comment provided by engineer. */
+/* URL rule pop-up: a match type other than the presets (Domain, Host, etc.) */
 "Other…" = "Khác…";
 
 /* No comment provided by engineer. */
@@ -574,7 +574,7 @@
 /* No comment provided by engineer. */
 "Popup Item" = "Mục bật lên";
 
-/* No comment provided by engineer. */
+/* Appearance setting: where the PopClip bar appears */
 "Position" = "Vị trí";
 
 /* No comment provided by engineer. */
@@ -589,7 +589,7 @@
 /* No comment provided by engineer. */
 "Relaunch" = "Khởi động lại";
 
-/* No comment provided by engineer. */
+/* %@ is the new version; the second %@ is the current version */
 "Relaunch to use %@ (you have %@)." = "Khởi động lại để sử dụng %1$@ (bạn có %2$@).";
 
 /* No comment provided by engineer. */
@@ -622,10 +622,10 @@
 /* icon picker: rotation control */
 "Rotate" = "Xoay";
 
-/* No comment provided by engineer. */
+/* Label shown before a URL rule definition */
 "Rule:" = "Quy tắc:";
 
-/* No comment provided by engineer. */
+/* Section label: URL rules that restrict where PopClip appears */
 "Rules" = "Quy tắc";
 
 /* icon picker: scale (size) control */
@@ -640,7 +640,7 @@
 /* No comment provided by engineer. */
 "Search URL" = "URL tìm kiếm";
 
-/* No comment provided by engineer. */
+/* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "Đang tìm kiếm %@ biểu tượng mã nguồn mở.";
 
 /* No comment provided by engineer. */
@@ -661,16 +661,16 @@
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "Hiển thị \"%@\" trong danh sách hành động";
 
-/* No comment provided by engineer. */
+/* Submenu title: how this action is shown — icon, text, or both */
 "Show As" = "Hiển thị dưới dạng";
 
 /* No comment provided by engineer. */
 "Show in menu bar" = "Hiển thị trên thanh menu";
 
-/* No comment provided by engineer. */
+/* Toggle: reveal a stored secret value such as an API key */
 "Show Secret" = "Hiện bí mật";
 
-/* No comment provided by engineer. */
+/* Menu item: reveal the icon specifier (the icon's text code) */
 "Show Specifier" = "Hiện mã chỉ định";
 
 /* No comment provided by engineer. */
@@ -688,13 +688,13 @@
 /* extension info: code-signing status */
 "Signature" = "Chữ ký";
 
-/* No comment provided by engineer. */
+/* Account status; %@ is the date the user signed in */
 "Signed in: %@" = "Đã đăng nhập: %@";
 
-/* No comment provided by engineer. */
+/* Appearance setting: size of the PopClip bar */
 "Size" = "Kích cỡ";
 
-/* No comment provided by engineer. */
+/* Extension info source value: installed from a text snippet */
 "Snippet" = "Đoạn mã";
 
 /* No comment provided by engineer. */
@@ -703,7 +703,7 @@
 /* No comment provided by engineer. */
 "Software Update" = "Cập nhật phần mềm";
 
-/* No comment provided by engineer. */
+/* Button tooltip: sort the extensions list */
 "Sort" = "Sắp xếp";
 
 /* No comment provided by engineer. */
@@ -727,7 +727,7 @@
 /* icon picker option: diagonal 'strike' or 'slash' line drawn over icon */
 "Strike" = "Gạch chéo";
 
-/* No comment provided by engineer. */
+/* Appearance setting: visual style of the PopClip bar */
 "Style" = "Kiểu";
 
 /* No comment provided by engineer. */
@@ -760,7 +760,7 @@
 /* No comment provided by engineer. */
 "Unknown" = "Không xác định";
 
-/* No comment provided by engineer. */
+/* Extension info signature value (describes an extension): has no code signature */
 "Unsigned" = "Chưa ký";
 
 /* Alert title. 'Extension' here means a PopClip add-on/plug-in, not a file-name extension. 'Unsigned' = has no code signature. */
@@ -793,10 +793,10 @@
 /* No comment provided by engineer. */
 "Use the keyboard shortcut to trigger PopClip manually." = "Sử dụng phím tắt để khởi động PopClip thủ công.";
 
-/* No comment provided by engineer. */
+/* Extension info origin value (describes an extension): created by the user */
 "User-generated" = "Do người dùng tạo";
 
-/* No comment provided by engineer. */
+/* Extension info signature value (describes an extension): signature verified */
 "Verified" = "Đã xác minh";
 
 /* No comment provided by engineer. */

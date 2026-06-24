@@ -91,7 +91,7 @@
 /* No comment provided by engineer. */
 "Apps…" = "Aplikacje…";
 
-/* No comment provided by engineer. */
+/* Status: the extension is authorized */
 "Authorized" = "Autoryzowane";
 
 /* Dark/light mode will be the same as the operating system setting */
@@ -130,7 +130,7 @@
 /* 1=name of app */
 "Cannot start %1$@" = "Nie można uruchomić %1$@";
 
-/* No comment provided by engineer. */
+/* Extension info section title: what the extension can do */
 "Capabilities" = "Możliwości";
 
 /* No comment provided by engineer. */
@@ -157,7 +157,7 @@
 /* No comment provided by engineer. */
 "Close" = "Zamknij";
 
-/* No comment provided by engineer. */
+/* Submenu title: the action icon color */
 "Color" = "Kolor";
 
 /* example: Connecting to updateserver.example.com… */
@@ -172,7 +172,7 @@
 /* No comment provided by engineer. */
 "Copy PNG Image" = "Kopiuj obraz PNG";
 
-/* No comment provided by engineer. */
+/* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "Kopiuj specyfikator";
 
 /* No comment provided by engineer. */
@@ -202,7 +202,7 @@
 /* No comment provided by engineer. */
 "Delete Separator" = "Usuń separator";
 
-/* No comment provided by engineer. */
+/* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Podpisane przez dewelopera";
 
 /* name of dictionary look-up feature */
@@ -214,10 +214,10 @@
 /* button title */
 "Don't Install" = "Nie instaluj";
 
-/* No comment provided by engineer. */
+/* Button to finish editing and close the action filter field */
 "Done" = "Gotowe";
 
-/* No comment provided by engineer. */
+/* %@ and %@ are data sizes, e.g. “1.2 MB of 5 MB” */
 "Downloaded %@ of %@…" = "Pobrano %1$@ z %2$@…";
 
 /* No comment provided by engineer. */
@@ -232,7 +232,7 @@
 /* No comment provided by engineer. */
 "Email" = "E-mail";
 
-/* No comment provided by engineer. */
+/* Menu checkbox: whether this action is shown */
 "Enabled" = "Włączone";
 
 /* extension info: special permissions the extension has */
@@ -256,7 +256,7 @@
 /* No comment provided by engineer. */
 "Exclude these websites:" = "Wyklucz te strony internetowe:";
 
-/* No comment provided by engineer. */
+/* %@ is the expiry date */
 "Expires: %@" = "Wygasa: %@";
 
 /* No comment provided by engineer. */
@@ -301,7 +301,7 @@
 /* No comment provided by engineer. */
 "Folder" = "Katalog";
 
-/* No comment provided by engineer. */
+/* icon picker: typeface for a text icon */
 "Font" = "Czcionka";
 
 /* No comment provided by engineer. */
@@ -322,7 +322,7 @@
 /* No comment provided by engineer. */
 "Guide" = "Przewodnik";
 
-/* No comment provided by engineer. */
+/* Toggle: hide a stored secret value such as an API key */
 "Hide Secret" = "Ukryj sekret";
 
 /* No comment provided by engineer. */
@@ -412,7 +412,7 @@
 /* No comment provided by engineer. */
 "Installing…" = "Instalowanie…";
 
-/* No comment provided by engineer. */
+/* Extension info: number of running instances of this extension */
 "Instances" = "Instancje";
 
 /* No comment provided by engineer. */
@@ -430,7 +430,7 @@
 /* No comment provided by engineer. */
 "Languages" = "Języki";
 
-/* No comment provided by engineer. */
+/* %@ is a relative time such as “Just now”, “5 minutes ago”, or “Never” */
 "Last checked: %@" = "Ostatnio sprawdzono: %@";
 
 /* No comment provided by engineer. */
@@ -460,7 +460,7 @@
 /* extension info: how the extension was installed (snippet, file, URL scheme, etc.) */
 "Method" = "Metoda";
 
-/* No comment provided by engineer. */
+/* Extension info source value: migrated from an older PopClip version */
 "Migrated from previous PopClip version" = "Przeniesiono z poprzedniej wersji PopClip";
 
 /* name of missing third party app */
@@ -493,7 +493,7 @@
 /* No comment provided by engineer. */
 "New Folder" = "Nowy folder";
 
-/* No comment provided by engineer. */
+/* Menu command: create another instance of this extension */
 "New Instance" = "Nowa instancja";
 
 /* No comment provided by engineer. */
@@ -511,7 +511,7 @@
 /* No comment provided by engineer. */
 "None" = "Brak";
 
-/* No comment provided by engineer. */
+/* Status: the extension is not authorized */
 "Not Authorized" = "Brak autoryzacji";
 
 /* No comment provided by engineer. */
@@ -538,7 +538,7 @@
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "Pochodzenie";
 
-/* No comment provided by engineer. */
+/* URL rule pop-up: a match type other than the presets (Domain, Host, etc.) */
 "Other…" = "Inne…";
 
 /* No comment provided by engineer. */
@@ -574,7 +574,7 @@
 /* No comment provided by engineer. */
 "Popup Item" = "Element wyskakujący";
 
-/* No comment provided by engineer. */
+/* Appearance setting: where the PopClip bar appears */
 "Position" = "Położenie";
 
 /* No comment provided by engineer. */
@@ -589,7 +589,7 @@
 /* No comment provided by engineer. */
 "Relaunch" = "Uruchom ponownie";
 
-/* No comment provided by engineer. */
+/* %@ is the new version; the second %@ is the current version */
 "Relaunch to use %@ (you have %@)." = "Uruchom ponownie, aby użyć %1$@ (masz %2$@).";
 
 /* No comment provided by engineer. */
@@ -622,10 +622,10 @@
 /* icon picker: rotation control */
 "Rotate" = "Obróć";
 
-/* No comment provided by engineer. */
+/* Label shown before a URL rule definition */
 "Rule:" = "Reguła:";
 
-/* No comment provided by engineer. */
+/* Section label: URL rules that restrict where PopClip appears */
 "Rules" = "Reguły";
 
 /* icon picker: scale (size) control */
@@ -640,7 +640,7 @@
 /* No comment provided by engineer. */
 "Search URL" = "Wyszukaj URL";
 
-/* No comment provided by engineer. */
+/* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "Przeszukiwanie %@ ikon open source.";
 
 /* No comment provided by engineer. */
@@ -661,16 +661,16 @@
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "Pokaż „%@” na liście czynności";
 
-/* No comment provided by engineer. */
+/* Submenu title: how this action is shown — icon, text, or both */
 "Show As" = "Pokaż jako";
 
 /* No comment provided by engineer. */
 "Show in menu bar" = "Pokazuj na pasku";
 
-/* No comment provided by engineer. */
+/* Toggle: reveal a stored secret value such as an API key */
 "Show Secret" = "Pokaż sekret";
 
-/* No comment provided by engineer. */
+/* Menu item: reveal the icon specifier (the icon's text code) */
 "Show Specifier" = "Pokaż specyfikator";
 
 /* No comment provided by engineer. */
@@ -688,13 +688,13 @@
 /* extension info: code-signing status */
 "Signature" = "Podpis";
 
-/* No comment provided by engineer. */
+/* Account status; %@ is the date the user signed in */
 "Signed in: %@" = "Zalogowano: %@";
 
-/* No comment provided by engineer. */
+/* Appearance setting: size of the PopClip bar */
 "Size" = "Wielkość";
 
-/* No comment provided by engineer. */
+/* Extension info source value: installed from a text snippet */
 "Snippet" = "Fragment";
 
 /* No comment provided by engineer. */
@@ -703,7 +703,7 @@
 /* No comment provided by engineer. */
 "Software Update" = "Aktualizacja oprogramowania";
 
-/* No comment provided by engineer. */
+/* Button tooltip: sort the extensions list */
 "Sort" = "Sortuj";
 
 /* No comment provided by engineer. */
@@ -727,7 +727,7 @@
 /* icon picker option: diagonal 'strike' or 'slash' line drawn over icon */
 "Strike" = "Przekreślenie";
 
-/* No comment provided by engineer. */
+/* Appearance setting: visual style of the PopClip bar */
 "Style" = "Styl";
 
 /* No comment provided by engineer. */
@@ -760,7 +760,7 @@
 /* No comment provided by engineer. */
 "Unknown" = "Nieznane";
 
-/* No comment provided by engineer. */
+/* Extension info signature value (describes an extension): has no code signature */
 "Unsigned" = "Niepodpisane";
 
 /* Alert title. 'Extension' here means a PopClip add-on/plug-in, not a file-name extension. 'Unsigned' = has no code signature. */
@@ -793,10 +793,10 @@
 /* No comment provided by engineer. */
 "Use the keyboard shortcut to trigger PopClip manually." = "Użyj skrótu klawiaturowego, aby uruchomić PopClip ręcznie.";
 
-/* No comment provided by engineer. */
+/* Extension info origin value (describes an extension): created by the user */
 "User-generated" = "Utworzone przez użytkownika";
 
-/* No comment provided by engineer. */
+/* Extension info signature value (describes an extension): signature verified */
 "Verified" = "Zweryfikowane";
 
 /* No comment provided by engineer. */

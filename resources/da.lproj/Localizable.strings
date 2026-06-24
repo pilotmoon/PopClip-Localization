@@ -91,7 +91,7 @@
 /* No comment provided by engineer. */
 "Apps…" = "Apps…";
 
-/* No comment provided by engineer. */
+/* Status: the extension is authorized */
 "Authorized" = "Autoriseret";
 
 /* Dark/light mode will be the same as the operating system setting */
@@ -130,7 +130,7 @@
 /* 1=name of app */
 "Cannot start %1$@" = "Kan ikke starte %1$@";
 
-/* No comment provided by engineer. */
+/* Extension info section title: what the extension can do */
 "Capabilities" = "Funktioner";
 
 /* No comment provided by engineer. */
@@ -157,7 +157,7 @@
 /* No comment provided by engineer. */
 "Close" = "Luk";
 
-/* No comment provided by engineer. */
+/* Submenu title: the action icon color */
 "Color" = "Farve";
 
 /* example: Connecting to updateserver.example.com… */
@@ -172,7 +172,7 @@
 /* No comment provided by engineer. */
 "Copy PNG Image" = "Kopier PNG-billede";
 
-/* No comment provided by engineer. */
+/* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "Kopier specifikator";
 
 /* No comment provided by engineer. */
@@ -202,7 +202,7 @@
 /* No comment provided by engineer. */
 "Delete Separator" = "Slet skillelinje";
 
-/* No comment provided by engineer. */
+/* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Signeret af udvikler";
 
 /* name of dictionary look-up feature */
@@ -214,10 +214,10 @@
 /* button title */
 "Don't Install" = "Installer ikke";
 
-/* No comment provided by engineer. */
+/* Button to finish editing and close the action filter field */
 "Done" = "OK";
 
-/* No comment provided by engineer. */
+/* %@ and %@ are data sizes, e.g. “1.2 MB of 5 MB” */
 "Downloaded %@ of %@…" = "Downloadet %1$@ af %2$@…";
 
 /* No comment provided by engineer. */
@@ -232,7 +232,7 @@
 /* No comment provided by engineer. */
 "Email" = "E-mail";
 
-/* No comment provided by engineer. */
+/* Menu checkbox: whether this action is shown */
 "Enabled" = "Aktiveret";
 
 /* extension info: special permissions the extension has */
@@ -256,7 +256,7 @@
 /* No comment provided by engineer. */
 "Exclude these websites:" = "Udeluk disse websites:";
 
-/* No comment provided by engineer. */
+/* %@ is the expiry date */
 "Expires: %@" = "Udløber: %@";
 
 /* No comment provided by engineer. */
@@ -301,7 +301,7 @@
 /* No comment provided by engineer. */
 "Folder" = "Mappe";
 
-/* No comment provided by engineer. */
+/* icon picker: typeface for a text icon */
 "Font" = "Skrift";
 
 /* No comment provided by engineer. */
@@ -322,7 +322,7 @@
 /* No comment provided by engineer. */
 "Guide" = "Guide";
 
-/* No comment provided by engineer. */
+/* Toggle: hide a stored secret value such as an API key */
 "Hide Secret" = "Skjul hemmelighed";
 
 /* No comment provided by engineer. */
@@ -412,7 +412,7 @@
 /* No comment provided by engineer. */
 "Installing…" = "Installerer…";
 
-/* No comment provided by engineer. */
+/* Extension info: number of running instances of this extension */
 "Instances" = "Forekomster";
 
 /* No comment provided by engineer. */
@@ -430,7 +430,7 @@
 /* No comment provided by engineer. */
 "Languages" = "Sprog";
 
-/* No comment provided by engineer. */
+/* %@ is a relative time such as “Just now”, “5 minutes ago”, or “Never” */
 "Last checked: %@" = "Sidst tjekket: %@";
 
 /* No comment provided by engineer. */
@@ -460,7 +460,7 @@
 /* extension info: how the extension was installed (snippet, file, URL scheme, etc.) */
 "Method" = "Metode";
 
-/* No comment provided by engineer. */
+/* Extension info source value: migrated from an older PopClip version */
 "Migrated from previous PopClip version" = "Overført fra tidligere PopClip-version";
 
 /* name of missing third party app */
@@ -493,7 +493,7 @@
 /* No comment provided by engineer. */
 "New Folder" = "Ny mappe";
 
-/* No comment provided by engineer. */
+/* Menu command: create another instance of this extension */
 "New Instance" = "Ny forekomst";
 
 /* No comment provided by engineer. */
@@ -511,7 +511,7 @@
 /* No comment provided by engineer. */
 "None" = "Ingen";
 
-/* No comment provided by engineer. */
+/* Status: the extension is not authorized */
 "Not Authorized" = "Ikke autoriseret";
 
 /* No comment provided by engineer. */
@@ -538,7 +538,7 @@
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "Oprindelse";
 
-/* No comment provided by engineer. */
+/* URL rule pop-up: a match type other than the presets (Domain, Host, etc.) */
 "Other…" = "Andet…";
 
 /* No comment provided by engineer. */
@@ -574,7 +574,7 @@
 /* No comment provided by engineer. */
 "Popup Item" = "Popup-element";
 
-/* No comment provided by engineer. */
+/* Appearance setting: where the PopClip bar appears */
 "Position" = "Placering";
 
 /* No comment provided by engineer. */
@@ -589,7 +589,7 @@
 /* No comment provided by engineer. */
 "Relaunch" = "Genstart";
 
-/* No comment provided by engineer. */
+/* %@ is the new version; the second %@ is the current version */
 "Relaunch to use %@ (you have %@)." = "Genstart for at bruge %1$@ (du har %2$@).";
 
 /* No comment provided by engineer. */
@@ -622,10 +622,10 @@
 /* icon picker: rotation control */
 "Rotate" = "Roter";
 
-/* No comment provided by engineer. */
+/* Label shown before a URL rule definition */
 "Rule:" = "Regel:";
 
-/* No comment provided by engineer. */
+/* Section label: URL rules that restrict where PopClip appears */
 "Rules" = "Regler";
 
 /* icon picker: scale (size) control */
@@ -640,7 +640,7 @@
 /* No comment provided by engineer. */
 "Search URL" = "URL til søgning";
 
-/* No comment provided by engineer. */
+/* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "Søger blandt %@ open source-ikoner.";
 
 /* No comment provided by engineer. */
@@ -661,16 +661,16 @@
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "Vis \"%@\" på handlingslisten";
 
-/* No comment provided by engineer. */
+/* Submenu title: how this action is shown — icon, text, or both */
 "Show As" = "Vis som";
 
 /* No comment provided by engineer. */
 "Show in menu bar" = "Vis i menulinjen";
 
-/* No comment provided by engineer. */
+/* Toggle: reveal a stored secret value such as an API key */
 "Show Secret" = "Vis hemmelighed";
 
-/* No comment provided by engineer. */
+/* Menu item: reveal the icon specifier (the icon's text code) */
 "Show Specifier" = "Vis specifikator";
 
 /* No comment provided by engineer. */
@@ -688,13 +688,13 @@
 /* extension info: code-signing status */
 "Signature" = "Signatur";
 
-/* No comment provided by engineer. */
+/* Account status; %@ is the date the user signed in */
 "Signed in: %@" = "Logget ind: %@";
 
-/* No comment provided by engineer. */
+/* Appearance setting: size of the PopClip bar */
 "Size" = "Størrelse";
 
-/* No comment provided by engineer. */
+/* Extension info source value: installed from a text snippet */
 "Snippet" = "Uddrag";
 
 /* No comment provided by engineer. */
@@ -703,7 +703,7 @@
 /* No comment provided by engineer. */
 "Software Update" = "Softwareopdatering";
 
-/* No comment provided by engineer. */
+/* Button tooltip: sort the extensions list */
 "Sort" = "Sortér";
 
 /* No comment provided by engineer. */
@@ -727,7 +727,7 @@
 /* icon picker option: diagonal 'strike' or 'slash' line drawn over icon */
 "Strike" = "Streg";
 
-/* No comment provided by engineer. */
+/* Appearance setting: visual style of the PopClip bar */
 "Style" = "Stil";
 
 /* No comment provided by engineer. */
@@ -760,7 +760,7 @@
 /* No comment provided by engineer. */
 "Unknown" = "Ukendt";
 
-/* No comment provided by engineer. */
+/* Extension info signature value (describes an extension): has no code signature */
 "Unsigned" = "Usigneret";
 
 /* Alert title. 'Extension' here means a PopClip add-on/plug-in, not a file-name extension. 'Unsigned' = has no code signature. */
@@ -793,10 +793,10 @@
 /* No comment provided by engineer. */
 "Use the keyboard shortcut to trigger PopClip manually." = "Brug tastaturgenvej for at åbne PopClip manuelt.";
 
-/* No comment provided by engineer. */
+/* Extension info origin value (describes an extension): created by the user */
 "User-generated" = "Brugergenereret";
 
-/* No comment provided by engineer. */
+/* Extension info signature value (describes an extension): signature verified */
 "Verified" = "Verificeret";
 
 /* No comment provided by engineer. */

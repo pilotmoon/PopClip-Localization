@@ -91,7 +91,7 @@
 /* No comment provided by engineer. */
 "Apps…" = "App…";
 
-/* No comment provided by engineer. */
+/* Status: the extension is authorized */
 "Authorized" = "已授权";
 
 /* Dark/light mode will be the same as the operating system setting */
@@ -130,7 +130,7 @@
 /* 1=name of app */
 "Cannot start %1$@" = "无法启动 %1$@";
 
-/* No comment provided by engineer. */
+/* Extension info section title: what the extension can do */
 "Capabilities" = "功能";
 
 /* No comment provided by engineer. */
@@ -157,7 +157,7 @@
 /* No comment provided by engineer. */
 "Close" = "关闭";
 
-/* No comment provided by engineer. */
+/* Submenu title: the action icon color */
 "Color" = "颜色";
 
 /* example: Connecting to updateserver.example.com… */
@@ -172,7 +172,7 @@
 /* No comment provided by engineer. */
 "Copy PNG Image" = "复制 PNG 图像";
 
-/* No comment provided by engineer. */
+/* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "复制说明符";
 
 /* No comment provided by engineer. */
@@ -202,7 +202,7 @@
 /* No comment provided by engineer. */
 "Delete Separator" = "删除分隔符";
 
-/* No comment provided by engineer. */
+/* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "开发者签名";
 
 /* name of dictionary look-up feature */
@@ -214,10 +214,10 @@
 /* button title */
 "Don't Install" = "不安装";
 
-/* No comment provided by engineer. */
+/* Button to finish editing and close the action filter field */
 "Done" = "完成";
 
-/* No comment provided by engineer. */
+/* %@ and %@ are data sizes, e.g. “1.2 MB of 5 MB” */
 "Downloaded %@ of %@…" = "已下载 %1$@/%2$@…";
 
 /* No comment provided by engineer. */
@@ -232,7 +232,7 @@
 /* No comment provided by engineer. */
 "Email" = "电子邮件";
 
-/* No comment provided by engineer. */
+/* Menu checkbox: whether this action is shown */
 "Enabled" = "已启用";
 
 /* extension info: special permissions the extension has */
@@ -256,7 +256,7 @@
 /* No comment provided by engineer. */
 "Exclude these websites:" = "排除这些网站：";
 
-/* No comment provided by engineer. */
+/* %@ is the expiry date */
 "Expires: %@" = "到期：%@";
 
 /* No comment provided by engineer. */
@@ -301,7 +301,7 @@
 /* No comment provided by engineer. */
 "Folder" = "文件夹";
 
-/* No comment provided by engineer. */
+/* icon picker: typeface for a text icon */
 "Font" = "字体";
 
 /* No comment provided by engineer. */
@@ -322,7 +322,7 @@
 /* No comment provided by engineer. */
 "Guide" = "指南";
 
-/* No comment provided by engineer. */
+/* Toggle: hide a stored secret value such as an API key */
 "Hide Secret" = "隐藏密钥";
 
 /* No comment provided by engineer. */
@@ -412,7 +412,7 @@
 /* No comment provided by engineer. */
 "Installing…" = "正在安装…";
 
-/* No comment provided by engineer. */
+/* Extension info: number of running instances of this extension */
 "Instances" = "实例";
 
 /* No comment provided by engineer. */
@@ -430,7 +430,7 @@
 /* No comment provided by engineer. */
 "Languages" = "语言";
 
-/* No comment provided by engineer. */
+/* %@ is a relative time such as “Just now”, “5 minutes ago”, or “Never” */
 "Last checked: %@" = "上次检查：%@";
 
 /* No comment provided by engineer. */
@@ -460,7 +460,7 @@
 /* extension info: how the extension was installed (snippet, file, URL scheme, etc.) */
 "Method" = "方法";
 
-/* No comment provided by engineer. */
+/* Extension info source value: migrated from an older PopClip version */
 "Migrated from previous PopClip version" = "从先前的 PopClip 版本迁移而来";
 
 /* name of missing third party app */
@@ -493,7 +493,7 @@
 /* No comment provided by engineer. */
 "New Folder" = "新建文件夹";
 
-/* No comment provided by engineer. */
+/* Menu command: create another instance of this extension */
 "New Instance" = "新建实例";
 
 /* No comment provided by engineer. */
@@ -511,7 +511,7 @@
 /* No comment provided by engineer. */
 "None" = "无";
 
-/* No comment provided by engineer. */
+/* Status: the extension is not authorized */
 "Not Authorized" = "未授权";
 
 /* No comment provided by engineer. */
@@ -538,7 +538,7 @@
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "来源";
 
-/* No comment provided by engineer. */
+/* URL rule pop-up: a match type other than the presets (Domain, Host, etc.) */
 "Other…" = "其他…";
 
 /* No comment provided by engineer. */
@@ -574,7 +574,7 @@
 /* No comment provided by engineer. */
 "Popup Item" = "弹出项";
 
-/* No comment provided by engineer. */
+/* Appearance setting: where the PopClip bar appears */
 "Position" = "位置";
 
 /* No comment provided by engineer. */
@@ -589,7 +589,7 @@
 /* No comment provided by engineer. */
 "Relaunch" = "重新启动";
 
-/* No comment provided by engineer. */
+/* %@ is the new version; the second %@ is the current version */
 "Relaunch to use %@ (you have %@)." = "重新启动以使用 %1$@（您拥有 %2$@）。";
 
 /* No comment provided by engineer. */
@@ -622,10 +622,10 @@
 /* icon picker: rotation control */
 "Rotate" = "旋转";
 
-/* No comment provided by engineer. */
+/* Label shown before a URL rule definition */
 "Rule:" = "规则：";
 
-/* No comment provided by engineer. */
+/* Section label: URL rules that restrict where PopClip appears */
 "Rules" = "规则";
 
 /* icon picker: scale (size) control */
@@ -640,7 +640,7 @@
 /* No comment provided by engineer. */
 "Search URL" = "搜索 URL";
 
-/* No comment provided by engineer. */
+/* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "正在搜索 %@ 个开源图标。";
 
 /* No comment provided by engineer. */
@@ -661,16 +661,16 @@
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "在操作列表中显示“%@”";
 
-/* No comment provided by engineer. */
+/* Submenu title: how this action is shown — icon, text, or both */
 "Show As" = "显示为";
 
 /* No comment provided by engineer. */
 "Show in menu bar" = "在菜单栏中显示";
 
-/* No comment provided by engineer. */
+/* Toggle: reveal a stored secret value such as an API key */
 "Show Secret" = "显示密钥";
 
-/* No comment provided by engineer. */
+/* Menu item: reveal the icon specifier (the icon's text code) */
 "Show Specifier" = "显示说明符";
 
 /* No comment provided by engineer. */
@@ -688,13 +688,13 @@
 /* extension info: code-signing status */
 "Signature" = "签名";
 
-/* No comment provided by engineer. */
+/* Account status; %@ is the date the user signed in */
 "Signed in: %@" = "已登录：%@";
 
-/* No comment provided by engineer. */
+/* Appearance setting: size of the PopClip bar */
 "Size" = "大小";
 
-/* No comment provided by engineer. */
+/* Extension info source value: installed from a text snippet */
 "Snippet" = "片段";
 
 /* No comment provided by engineer. */
@@ -703,7 +703,7 @@
 /* No comment provided by engineer. */
 "Software Update" = "软件更新";
 
-/* No comment provided by engineer. */
+/* Button tooltip: sort the extensions list */
 "Sort" = "排序";
 
 /* No comment provided by engineer. */
@@ -727,7 +727,7 @@
 /* icon picker option: diagonal 'strike' or 'slash' line drawn over icon */
 "Strike" = "斜杠";
 
-/* No comment provided by engineer. */
+/* Appearance setting: visual style of the PopClip bar */
 "Style" = "样式";
 
 /* No comment provided by engineer. */
@@ -760,7 +760,7 @@
 /* No comment provided by engineer. */
 "Unknown" = "未知";
 
-/* No comment provided by engineer. */
+/* Extension info signature value (describes an extension): has no code signature */
 "Unsigned" = "未签名";
 
 /* Alert title. 'Extension' here means a PopClip add-on/plug-in, not a file-name extension. 'Unsigned' = has no code signature. */
@@ -793,10 +793,10 @@
 /* No comment provided by engineer. */
 "Use the keyboard shortcut to trigger PopClip manually." = "使用键盘快捷键手动触发 PopClip。";
 
-/* No comment provided by engineer. */
+/* Extension info origin value (describes an extension): created by the user */
 "User-generated" = "用户生成";
 
-/* No comment provided by engineer. */
+/* Extension info signature value (describes an extension): signature verified */
 "Verified" = "已验证";
 
 /* No comment provided by engineer. */
