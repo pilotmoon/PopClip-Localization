@@ -20,7 +20,7 @@
 "%@ Update Ready" = "%@の更新が完了しました";
 
 /* number of extensions updated; plural forms in Localizable.stringsdict */
-"%lu extensions updated" = "%lu個の拡張機能を更新しました";
+"%lu extensions updated" = "%lu個の拡張機能が更新されました";
 
 /* number of updates available; plural forms in Localizable.stringsdict */
 "%lu updates available" = "%lu件の更新があります";
@@ -29,7 +29,7 @@
 "%lu Uses Left" = "残り%lu回分";
 
 /* click this button to get 10 more uses in the free trial */
-"+10 Uses" = "+10 回分";
+"+10 Uses" = "+10回分";
 
 /* entry in selection list to indicate no selection */
 "- None -" = "- なし -";
@@ -95,10 +95,10 @@
 "Authorized" = "承認済み";
 
 /* Dark/light mode will be the same as the operating system setting */
-"Auto" = "オート";
+"Auto" = "自動";
 
 /* Dark/light mode will be opposite to the operating system setting */
-"Auto (Inverse)" = "オート（反転）";
+"Auto (Inverse)" = "自動（反転）";
 
 /* No comment provided by engineer. */
 "Automatic update" = "自動更新";
@@ -128,7 +128,7 @@
 "Cancel" = "キャンセル";
 
 /* 1=name of app */
-"Cannot start %1$@" = "%1$@ を開始できません";
+"Cannot start %1$@" = "%1$@を開始できません";
 
 /* No comment provided by engineer. */
 "Capabilities" = "機能";
@@ -331,11 +331,11 @@
 /* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "ホスト";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloudは利用できません";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloudは制限されています";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "iCloud同期";
@@ -464,7 +464,7 @@
 "Migrated from previous PopClip version" = "以前のPopClipバージョンから移行済み";
 
 /* name of missing third party app */
-"Missing App: %@" = "アプリ: %@が欠けています";
+"Missing App: %@" = "アプリが見つかりません: %@";
 
 /* icon picker font option */
 "Monospaced" = "等幅";
@@ -502,8 +502,8 @@
 /* No comment provided by engineer. */
 "No extensions installed" = "拡張機能がインストールされていません";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "iCloudアカウントなし";
 
 /* No comment provided by engineer. */
 "No icons found." = "アイコンが見つかりません。";
@@ -515,7 +515,7 @@
 "Not Authorized" = "承認されていません";
 
 /* No comment provided by engineer. */
-"Not Now" = "後で行う";
+"Not Now" = "今はしない";
 
 /* No comment provided by engineer. */
 "Notify only" = "通知のみ";
@@ -551,18 +551,16 @@
 "Please close this browser tab and return to PopClip." = "このブラウザのタブを閉じてPopClipに戻ってください。";
 
 /* No comment provided by engineer. */
-"PopClip  Icon Picker" = "PopClip アイコンピッカー";
+"PopClip  Icon Picker" = "PopClipアイコンピッカー";
 
 /* No comment provided by engineer. */
 "PopClip appears automatically when you select text with the pointer or when you click and hold." = "ポインターでテキストを選択するか、クリックして押し続けるとPopClipが自動的に表示されます。";
 
 /* No comment provided by engineer. */
-"PopClip can't find %@ on this computer. You probably need to install it." = "PopClipはこのコンピューターに%@ を見つけることが出来ません。インストールしてください。";
+"PopClip can't find %@ on this computer. You probably need to install it." = "PopClipはこのコンピューターで%@が見つかりません。インストールが必要かもしれません。";
 
 /* No comment provided by engineer. */
-"PopClip could not load the following extensions:\n\n%@" = "PopClipは次の拡張機能を読み込めませんでした：
-
-%@";
+"PopClip could not load the following extensions:\n\n%@" = "PopClipは次の拡張機能を読み込めませんでした：\n\n%@";
 
 /* No comment provided by engineer. */
 "PopClip Extensions Directory" = "PopClip拡張機能ディレクトリ";
@@ -619,7 +617,7 @@
 "Restrict where PopClip can appear automatically." = "PopClipが自動で表示される範囲を制限します。";
 
 /* name of 'reveal in finder' feature */
-"Reveal in Finder" = "Finder に表示";
+"Reveal in Finder" = "Finderに表示";
 
 /* icon picker: rotation control */
 "Rotate" = "回転";
@@ -640,7 +638,7 @@
 "Search Iconify" = "Iconifyを検索";
 
 /* No comment provided by engineer. */
-"Search URL" = "検索 URL";
+"Search URL" = "検索URL";
 
 /* No comment provided by engineer. */
 "Searching %@ open source icons." = "%@個のオープンソースアイコンを検索中。";
@@ -751,7 +749,7 @@
 "This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "この拡張機能はこのバージョンのPopClipと互換性がありません。PopClipを最新バージョンに更新してください。";
 
 /* No comment provided by engineer. */
-"This extension requires macOS version %@ or above." = "この拡張機能には macOS バージョン %@ 以上が必要です。";
+"This extension requires macOS version %@ or above." = "この拡張機能にはmacOSバージョン%@以上が必要です。";
 
 /* the free trial has expired */
 "Trial Expired" = "トライアルの有効期限が切れました";
@@ -814,7 +812,7 @@
 "View Web Page" = "Webページを表示";
 
 /* Visit the website for the name app e.g. Visit Evernote Website */
-"Visit %@ Website" = "%@ウェブサイトにアクセス";
+"Visit %@ Website" = "%@のウェブサイトにアクセス";
 
 /* No comment provided by engineer. */
 "Waiting to check for updates" = "更新の確認を待機中";
