@@ -8,7 +8,7 @@
 "%@ is not compatible" = "%@ 不兼容";
 
 /* Example: 1.6 is now available (you have 1.5.2) */
-"%@ is now available (you have %@)." = "%1$@ 现已可用（你拥有 %2$@）。";
+"%@ is now available (you have %@)." = "%1$@ 现已可用（您拥有 %2$@）。";
 
 /* Example: 1.6 is now available */
 "%@ is now available." = "%@ 现已可用。";
@@ -38,7 +38,7 @@
 "1–3 characters" = "1–3 个字符";
 
 /* Alert text; %@ is the extension name. 'extension' = a PopClip add-on/plug-in (not a file-name extension); 'signed' = code-signed by the developer. */
-"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "“%@”不是 Pilotmoon Software 签署的。您必须对此扩展的来源充分信任才可安装。";
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "“%@”未由 Pilotmoon Software 签名。您必须对此扩展的来源充分信任才可安装。";
 
 /* No comment provided by engineer. */
 "\"%@\" Settings" = "“%@”设置";
@@ -74,7 +74,7 @@
 "and subdomains" = "和子域名";
 
 /* Title of prefs pane for 'App' settings (about, version, license). Translator: Please use the shortest possible term here */
-"App" = "软件";
+"App" = "App";
 
 /* No comment provided by engineer. */
 "App Settings" = "App 设置";
@@ -95,10 +95,10 @@
 "Authorized" = "已授权";
 
 /* Dark/light mode will be the same as the operating system setting */
-"Auto" = "自动显示";
+"Auto" = "自动";
 
 /* Dark/light mode will be opposite to the operating system setting */
-"Auto (Inverse)" = "自动(反向)";
+"Auto (Inverse)" = "自动（反向）";
 
 /* No comment provided by engineer. */
 "Automatic update" = "自动更新";
@@ -179,10 +179,10 @@
 "Couldn't reach the update server (status %lu)." = "无法连接到更新服务器（状态 %lu）。";
 
 /* Icon picker tab label: use your own supplied image as the icon */
-"Custom" = "自定";
+"Custom" = "自定义";
 
 /* Pop-up menu item to enter a custom value; reused across many option types */
-"Custom…" = "自定…";
+"Custom…" = "自定义…";
 
 /* Indicates Dark color appearance */
 "Dark" = "深色";
@@ -331,11 +331,11 @@
 /* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "主机";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud 不可用";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud 受限制";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "iCloud 同步";
@@ -464,7 +464,7 @@
 "Migrated from previous PopClip version" = "从先前的 PopClip 版本迁移而来";
 
 /* name of missing third party app */
-"Missing App: %@" = "找不到应用：%@";
+"Missing App: %@" = "找不到 App：%@";
 
 /* icon picker font option */
 "Monospaced" = "等宽";
@@ -502,8 +502,8 @@
 /* No comment provided by engineer. */
 "No extensions installed" = "未安装扩展";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "无 iCloud 账户";
 
 /* No comment provided by engineer. */
 "No icons found." = "未找到图标。";
@@ -515,7 +515,7 @@
 "Not Authorized" = "未授权";
 
 /* No comment provided by engineer. */
-"Not Now" = "现在不要";
+"Not Now" = "以后";
 
 /* No comment provided by engineer. */
 "Notify only" = "仅通知";
@@ -590,7 +590,7 @@
 "Relaunch" = "重新启动";
 
 /* No comment provided by engineer. */
-"Relaunch to use %@ (you have %@)." = "重新启动以使用 %1$@（你拥有 %2$@）。";
+"Relaunch to use %@ (you have %@)." = "重新启动以使用 %1$@（您拥有 %2$@）。";
 
 /* No comment provided by engineer. */
 "Relaunch to use %@." = "重新启动以使用 %@。";
@@ -680,7 +680,7 @@
 "Sign in failed." = "登录失败。";
 
 /* No comment provided by engineer. */
-"Sign in to your %@ account." = "登录你的 %@ 账户。";
+"Sign in to your %@ account." = "登录您的 %@ 账户。";
 
 /* No comment provided by engineer. */
 "Sign Out" = "退出登录";
@@ -764,7 +764,7 @@
 "Unsigned" = "未签名";
 
 /* Alert title. 'Extension' here means a PopClip add-on/plug-in, not a file-name extension. 'Unsigned' = has no code signature. */
-"Unsigned Extension" = "未签署的扩展";
+"Unsigned Extension" = "未签名的扩展";
 
 /* No comment provided by engineer. */
 "Up to date" = "已是最新";
