@@ -26,7 +26,7 @@
 "%lu updates available" = "有 %lu 个可用更新";
 
 /* number of uses remaining in the free trial; plural forms in Localizable.stringsdict */
-"%lu Uses Left" = "尚余 %lu 次使用";
+"%lu Uses Left" = "剩余 %lu 次使用";
 
 /* click this button to get 10 more uses in the free trial */
 "+10 Uses" = "加 10 次使用";
@@ -38,7 +38,7 @@
 "1–3 characters" = "1–3 个字符";
 
 /* Alert text; %@ is the extension name. 'extension' = a PopClip add-on/plug-in (not a file-name extension); 'signed' = code-signed by the developer. */
-"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "“%@” 不是 Pilotmoon Software 签署的。您必须对此扩展的来源充分信任才可安装。";
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "“%@”不是 Pilotmoon Software 签署的。您必须对此扩展的来源充分信任才可安装。";
 
 /* No comment provided by engineer. */
 "\"%@\" Settings" = "“%@”设置";
@@ -125,7 +125,7 @@
 "Buy" = "购买";
 
 /* No comment provided by engineer. */
-"Buy license key" = "购买许可密钥";
+"Buy license key" = "购买许可证密钥";
 
 /* icon attribution author line */
 "by %@" = "作者：%@";
@@ -401,7 +401,7 @@
 "Indigo" = "靛蓝色";
 
 /* button title: install the named externsion */
-"Install \"%@\"" = "安装 “%@”";
+"Install \"%@\"" = "安装“%@”";
 
 /* No comment provided by engineer. */
 "Install automatically" = "自动安装";
@@ -446,7 +446,7 @@
 "Learn More…" = "了解详情…";
 
 /* No comment provided by engineer. */
-"License Details" = "许可证详情";
+"License Details" = "许可证详细信息";
 
 /* No comment provided by engineer. */
 "License Details…" = "许可证详细信息…";
@@ -704,7 +704,7 @@
 "Sign in to your %@ account." = "登录你的 %@ 账户。";
 
 /* No comment provided by engineer. */
-"Sign Out" = "退出";
+"Sign Out" = "退出登录";
 
 /* extension info: code-signing status */
 "Signature" = "签名";

@@ -13,7 +13,7 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>lu</string>
         <key>other</key>
-        <string>尚余 %lu 次使用</string>
+        <string>剩余 %lu 次使用</string>
       </dict>
     </dict>
     <key>%lu extensions updated</key>
