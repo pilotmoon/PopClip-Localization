@@ -20,16 +20,16 @@
 "%@ Update Ready" = "%@ 업데이트 준비 완료";
 
 /* number of extensions updated; plural forms in Localizable.stringsdict */
-"%lu extensions updated" = "%lu개의 확장 기능이 업데이트됨";
+"%lu extensions updated" = "%lu개의 확장 프로그램이 업데이트됨";
 
 /* number of updates available; plural forms in Localizable.stringsdict */
 "%lu updates available" = "%lu개의 업데이트 사용 가능";
 
 /* number of uses remaining in the free trial; plural forms in Localizable.stringsdict */
-"%lu Uses Left" = "%lu 이용 남음";
+"%lu Uses Left" = "%lu회 남음";
 
 /* click this button to get 10 more uses in the free trial */
-"+10 Uses" = "+10 이용";
+"+10 Uses" = "+10회";
 
 /* entry in selection list to indicate no selection */
 "- None -" = "- 없음 -";
@@ -38,7 +38,7 @@
 "1–3 characters" = "1~3자";
 
 /* Alert text; %@ is the extension name. 'extension' = a PopClip add-on/plug-in (not a file-name extension); 'signed' = code-signed by the developer. */
-"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "“%@”은/는 Pilotmoon Software에 등록되지 않았습니다. 신뢰할 수 있는 출처로부터 받으신 경우에만 이 확장 기능을 설치해 주십시오.";
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "“%@”은(는) Pilotmoon Software에서 서명하지 않았습니다. 신뢰할 수 있는 출처로부터 받은 경우에만 이 확장 프로그램을 설치하세요.";
 
 /* No comment provided by engineer. */
 "\"%@\" Settings" = "“%@” 설정";
@@ -83,7 +83,7 @@
 "Appear automatically" = "자동으로 표시";
 
 /* Title of the appearance settings section: visual appearance such as dark/light mode, color, and size. */
-"Appearance" = "표시";
+"Appearance" = "모양";
 
 /* No comment provided by engineer. */
 "Apply" = "적용";
@@ -95,10 +95,10 @@
 "Authorized" = "승인 완료";
 
 /* Dark/light mode will be the same as the operating system setting */
-"Auto" = "운영체제의 다크/라이트모드 자동 반영";
+"Auto" = "자동";
 
 /* Dark/light mode will be opposite to the operating system setting */
-"Auto (Inverse)" = "운영체제의 다크/라이트모드 자동 반영(반대)";
+"Auto (Inverse)" = "자동(반대)";
 
 /* No comment provided by engineer. */
 "Automatic update" = "자동 업데이트";
@@ -137,7 +137,7 @@
 "Change Icon…" = "아이콘 변경…";
 
 /* Menu command (imperative): check for updates to installed extensions */
-"Check for extension updates" = "확장 기능 업데이트 확인";
+"Check for extension updates" = "확장 프로그램 업데이트 확인";
 
 /* Menu command (imperative): check for app updates. */
 "Check for updates" = "업데이트 확인";
@@ -260,19 +260,19 @@
 "Expires: %@" = "만료: %@";
 
 /* No comment provided by engineer. */
-"Extension Commands" = "확장 기능 명령";
+"Extension Commands" = "확장 프로그램 명령";
 
 /* No comment provided by engineer. */
-"Extension Info" = "확장 기능 정보";
+"Extension Info" = "확장 프로그램 정보";
 
 /* No comment provided by engineer. */
-"Extension Install Error" = "확장 기능 설치 오류";
+"Extension Install Error" = "확장 프로그램 설치 오류";
 
 /* No comment provided by engineer. */
-"Extension Load Error" = "확장 기능 로드 오류";
+"Extension Load Error" = "확장 프로그램 로드 오류";
 
 /* No comment provided by engineer. */
-"Extensions" = "확장 기능";
+"Extensions" = "확장 프로그램";
 
 /* Extracted percentage */
 "Extracted %d%%…" = "%d%% 추출됨…";
@@ -308,7 +308,7 @@
 "Forum" = "포럼";
 
 /* No comment provided by engineer. */
-"Free Trial" = "무료 평가판";
+"Free Trial" = "무료 체험";
 
 /* No comment provided by engineer. */
 "Free uses left: %lu" = "남은 무료 사용 횟수: %lu";
@@ -317,7 +317,7 @@
 "General" = "일반";
 
 /* No comment provided by engineer. */
-"Get Extensions" = "확장 기능 가져오기";
+"Get Extensions" = "확장 프로그램 가져오기";
 
 /* No comment provided by engineer. */
 "Guide" = "가이드";
@@ -331,11 +331,11 @@
 /* URL rule description */
 "Host" = "호스트";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud를 사용할 수 없음";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud가 제한됨";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "iCloud 동기화";
@@ -362,7 +362,7 @@
 "Icon preview" = "아이콘 미리보기";
 
 /* No comment provided by engineer. */
-"Icon search failed. Check internet connection." = "아이콘 검색에 실패했습니다. 인터넷 연결을 확인하십시오.";
+"Icon search failed. Check internet connection." = "아이콘 검색에 실패했습니다. 인터넷 연결을 확인하세요.";
 
 /* No comment provided by engineer. */
 "Icon Specifier" = "아이콘 지정자";
@@ -455,7 +455,7 @@
 "Main Menu" = "메인 메뉴";
 
 /* No comment provided by engineer. */
-"Manage Extensions…" = "확장 기능 관리…";
+"Manage Extensions…" = "확장 프로그램 관리…";
 
 /* extension info: how the extension was installed (snippet, file, URL scheme, etc.) */
 "Method" = "방식";
@@ -500,10 +500,10 @@
 "New Separator" = "새 구분선";
 
 /* No comment provided by engineer. */
-"No extensions installed" = "설치된 확장 기능 없음";
+"No extensions installed" = "설치된 확장 프로그램 없음";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "iCloud 계정 없음";
 
 /* No comment provided by engineer. */
 "No icons found." = "아이콘을 찾을 수 없습니다.";
@@ -524,7 +524,7 @@
 "Off" = "끄기";
 
 /* No comment provided by engineer. */
-"One or more extensions could not be updated." = "하나 이상의 확장 기능을 업데이트할 수 없습니다.";
+"One or more extensions could not be updated." = "하나 이상의 확장 프로그램을 업데이트할 수 없습니다.";
 
 /* name of link opening feature */
 "Open Link" = "링크 열기";
@@ -557,13 +557,13 @@
 "PopClip appears automatically when you select text with the pointer or when you click and hold." = "포인터로 텍스트를 선택하거나 클릭하고 길게 누르면 PopClip이 자동으로 나타납니다.";
 
 /* No comment provided by engineer. */
-"PopClip can't find %@ on this computer. You probably need to install it." = "PopClip은 이 컴퓨터에서 %@을/를 찾을 수 없습니다. 아마도 설치하셔야 할 것 같습니다.";
+"PopClip can't find %@ on this computer. You probably need to install it." = "PopClip은 이 컴퓨터에서 %@을(를) 찾을 수 없습니다. 설치해야 할 수도 있습니다.";
 
 /* No comment provided by engineer. */
 "PopClip could not load the following extensions:\n\n%@" = "PopClip이 다음 확장 프로그램을 로드할 수 없습니다:\n\n%@";
 
 /* No comment provided by engineer. */
-"PopClip Extensions Directory" = "PopClip 확장 기능 디렉토리";
+"PopClip Extensions Directory" = "PopClip 확장 프로그램 디렉토리";
 
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip은 다른 앱에서 사용자가 선택하는 텍스트를 읽고 사용자를 대신하여 작업을 수행하기 위해 손쉬운 사용 권한이 필요합니다.";
@@ -605,7 +605,7 @@
 "Rename…" = "이름 변경…";
 
 /* No comment provided by engineer. */
-"Replace your search term with ***\nFor example: https://example.com/?q=***" = "검색어를 ***로 바꾸십시오\n예: https://example.com/?q=***";
+"Replace your search term with ***\nFor example: https://example.com/?q=***" = "검색어를 ***로 바꾸세요\n예: https://example.com/?q=***";
 
 /* No comment provided by engineer. */
 "Request Accessibility Access" = "손쉬운 사용 권한 요청";
@@ -650,7 +650,7 @@
 "Separator" = "구분선";
 
 /* No comment provided by engineer. */
-"Settings for \"%@\"" = "\"%@\" 설정";
+"Settings for \"%@\"" = "“%@” 설정";
 
 /* No comment provided by engineer. */
 "Settings…" = "설정…";
@@ -659,7 +659,7 @@
 "Shape" = "모양";
 
 /* No comment provided by engineer. */
-"Show \"%@\" in the actions list" = "작업 목록에 \"%@\" 표시";
+"Show \"%@\" in the actions list" = "작업 목록에 “%@” 표시";
 
 /* No comment provided by engineer. */
 "Show As" = "다음으로 표시";
@@ -680,7 +680,7 @@
 "Sign in failed." = "로그인에 실패했습니다.";
 
 /* No comment provided by engineer. */
-"Sign in to your %@ account." = "귀하의 %@ 계정에 로그인합니다.";
+"Sign in to your %@ account." = "%@ 계정에 로그인하세요.";
 
 /* No comment provided by engineer. */
 "Sign Out" = "로그아웃";
@@ -719,7 +719,7 @@
 "Square" = "사각형";
 
 /* No comment provided by engineer. */
-"Start at login" = "로그인할때 시작";
+"Start at login" = "로그인할 때 시작";
 
 /* URL rule description */
 "Starts with" = "다음으로 시작:";
@@ -746,10 +746,10 @@
 "The application appears to be corrupted. Please install a fresh copy." = "이 응용 프로그램은 손상된 것 같습니다. 새로운 사본을 설치하세요.";
 
 /* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
-"This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "이 확장 기능은 본 PopClip 버전과 호환되지 않습니다. 최신 PopClip 버전으로 업데이트 해 주십시오.";
+"This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "이 확장 프로그램은 본 PopClip 버전과 호환되지 않습니다. 최신 PopClip 버전으로 업데이트하세요.";
 
 /* No comment provided by engineer. */
-"This extension requires macOS version %@ or above." = "이 확장은 macOS 버전 %@ 이상이 필요합니다.";
+"This extension requires macOS version %@ or above." = "이 확장 프로그램은 macOS 버전 %@ 이상이 필요합니다.";
 
 /* the free trial has expired */
 "Trial Expired" = "체험 기간이 만료됨";
@@ -764,7 +764,7 @@
 "Unsigned" = "서명되지 않음";
 
 /* Alert title. 'Extension' here means a PopClip add-on/plug-in, not a file-name extension. 'Unsigned' = has no code signature. */
-"Unsigned Extension" = "등록되지 않은 확장 기능";
+"Unsigned Extension" = "서명되지 않은 확장 프로그램";
 
 /* No comment provided by engineer. */
 "Up to date" = "최신 상태";
@@ -830,7 +830,7 @@
 "Websites…" = "웹사이트…";
 
 /* No comment provided by engineer. */
-"You are signed in to %@." = "%@에 로그인되셨습니다.";
+"You are signed in to %@." = "%@에 로그인되었습니다.";
 
 /* No comment provided by engineer. */
 "You're all set! No settings to configure." = "준비가 완료되었습니다! 구성할 설정이 없습니다.";
@@ -848,4 +848,4 @@
 "⚠️ Invalid" = "⚠️ 유효하지 않음";
 
 /* No comment provided by engineer. */
-"✅ PopClip Extension \"%@\" authorized." = "✅ 팝클립 확장 \"%@\" 승인 완료.";
+"✅ PopClip Extension \"%@\" authorized." = "✅ PopClip 확장 프로그램 “%@” 승인 완료.";
