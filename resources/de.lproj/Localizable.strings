@@ -38,10 +38,10 @@
 "1–3 characters" = "1–3 Zeichen";
 
 /* Alert text; %@ is the extension name. 'extension' = a PopClip add-on/plug-in (not a file-name extension); 'signed' = code-signed by the developer. */
-"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "“%@” ist nicht von Pilotmoon Software signiert. Installiere diese Extension nur, wenn diese aus einer vertrauenswürdigen Quelle stammt.";
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "„%@“ ist nicht von Pilotmoon Software signiert. Installieren Sie diese Erweiterung nur, wenn sie aus einer vertrauenswürdigen Quelle stammt.";
 
 /* No comment provided by engineer. */
-"\"%@\" Settings" = "Einstellungen für „%@”";
+"\"%@\" Settings" = "Einstellungen für „%@“";
 
 /* No comment provided by engineer. */
 "Above Text" = "Über Text";
@@ -74,7 +74,7 @@
 "and subdomains" = "und Subdomains";
 
 /* Title of prefs pane for 'App' settings (about, version, license). Translator: Please use the shortest possible term here */
-"App" = "Programm";
+"App" = "App";
 
 /* No comment provided by engineer. */
 "App Settings" = "App-Einstellungen";
@@ -128,7 +128,7 @@
 "Cancel" = "Abbrechen";
 
 /* 1=name of app */
-"Cannot start %1$@" = "Kann nicht starten %1$@";
+"Cannot start %1$@" = "%1$@ kann nicht gestartet werden.";
 
 /* No comment provided by engineer. */
 "Capabilities" = "Funktionen";
@@ -331,11 +331,11 @@
 /* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "Host";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud ist nicht verfügbar";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud ist eingeschränkt";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "iCloud-Sync";
@@ -392,7 +392,7 @@
 "Including colored icons" = "Farbige Symbole werden einbezogen";
 
 /* button title: install the named externsion */
-"Install \"%@\"" = "“%@” installieren";
+"Install \"%@\"" = "„%@“ installieren";
 
 /* No comment provided by engineer. */
 "Install automatically" = "Automatisch installieren";
@@ -401,7 +401,7 @@
 "Install Update" = "Update installieren";
 
 /* No comment provided by engineer. */
-"Installation" = "Installationsdaten";
+"Installation" = "Installation";
 
 /* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
 "Installed %@" = "Installiert %@";
@@ -482,7 +482,7 @@
 "Move Y" = "Y bewegen";
 
 /* No comment provided by engineer. */
-"Name" = "Bezeichnung";
+"Name" = "Name";
 
 /* extension entitlement: the extension can access the network */
 "Network" = "Netzwerk";
@@ -502,8 +502,8 @@
 /* No comment provided by engineer. */
 "No extensions installed" = "Keine Erweiterungen installiert";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "Kein iCloud-Konto";
 
 /* No comment provided by engineer. */
 "No icons found." = "Keine Symbole gefunden.";
@@ -650,7 +650,7 @@
 "Separator" = "Trennlinie";
 
 /* No comment provided by engineer. */
-"Settings for \"%@\"" = "Einstellungen für \"%@\"";
+"Settings for \"%@\"" = "Einstellungen für „%@“";
 
 /* No comment provided by engineer. */
 "Settings…" = "Einstellungen…";
@@ -659,7 +659,7 @@
 "Shape" = "Form";
 
 /* No comment provided by engineer. */
-"Show \"%@\" in the actions list" = "\"%@\" in der Aktionsliste anzeigen";
+"Show \"%@\" in the actions list" = "„%@“ in der Aktionsliste anzeigen";
 
 /* No comment provided by engineer. */
 "Show As" = "Anzeigen als";
@@ -680,10 +680,10 @@
 "Sign in failed." = "Anmeldung fehlgeschlagen.";
 
 /* No comment provided by engineer. */
-"Sign in to your %@ account." = "In Ihr %@-Konto einloggen";
+"Sign in to your %@ account." = "Bei Ihrem %@-Konto anmelden";
 
 /* No comment provided by engineer. */
-"Sign Out" = "Ausloggen";
+"Sign Out" = "Abmelden";
 
 /* extension info: code-signing status */
 "Signature" = "Signatur";
@@ -698,7 +698,7 @@
 "Snippet" = "Textbaustein";
 
 /* No comment provided by engineer. */
-"Snippet is too long (%@ chars; max %@)" = "Snippet ist zu lang (%1$@ Zeichen; max. %2$@)";
+"Snippet is too long (%@ chars; max %@)" = "Textbaustein ist zu lang (%1$@ Zeichen; max. %2$@)";
 
 /* No comment provided by engineer. */
 "Software Update" = "Software-Update";
@@ -734,7 +734,7 @@
 "Technical information:" = "Technische Infos:";
 
 /* icon picker: use typed text as the icon */
-"Text" = "Schrift";
+"Text" = "Text";
 
 /* No comment provided by engineer. */
 "Text file" = "Textdatei";
@@ -746,7 +746,7 @@
 "The application appears to be corrupted. Please install a fresh copy." = "Die App scheint beschädigt zu sein. Bitte installieren Sie eine neue Kopie.";
 
 /* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
-"This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Diese Extension ist nicht kompatibel mit dieser Version von PopClip. Bitte aktualisieren Sie auf die neueste Version von PopClip.";
+"This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Diese Erweiterung ist nicht kompatibel mit dieser Version von PopClip. Bitte aktualisieren Sie auf die neueste Version von PopClip.";
 
 /* No comment provided by engineer. */
 "This extension requires macOS version %@ or above." = "Diese Erweiterung erfordert macOS-Version %@ oder höher.";
@@ -764,7 +764,7 @@
 "Unsigned" = "Nicht signiert";
 
 /* Alert title. 'Extension' here means a PopClip add-on/plug-in, not a file-name extension. 'Unsigned' = has no code signature. */
-"Unsigned Extension" = "Unsignierte Extension";
+"Unsigned Extension" = "Unsignierte Erweiterung";
 
 /* No comment provided by engineer. */
 "Up to date" = "Aktuell";
@@ -800,7 +800,7 @@
 "Verified" = "Verifiziert";
 
 /* No comment provided by engineer. */
-"Version" = "Versionsnummer";
+"Version" = "Version";
 
 /* button to show release notes */
 "View Details…" = "Details anzeigen…";
@@ -830,7 +830,7 @@
 "Websites…" = "Webseiten…";
 
 /* No comment provided by engineer. */
-"You are signed in to %@." = "Sie sind in %@ eingeloggt.";
+"You are signed in to %@." = "Sie sind bei %@ angemeldet.";
 
 /* No comment provided by engineer. */
 "You're all set! No settings to configure." = "Alles bereit! Keine Einstellungen zu konfigurieren.";
@@ -848,4 +848,4 @@
 "⚠️ Invalid" = "⚠️ Ungültig";
 
 /* No comment provided by engineer. */
-"✅ PopClip Extension \"%@\" authorized." = "✅ PopClip-Erweiterung \"%@\" autorisiert.";
+"✅ PopClip Extension \"%@\" authorized." = "✅ PopClip-Erweiterung „%@“ autorisiert.";
