@@ -38,7 +38,7 @@
 "1–3 characters" = "1–3 個字元";
 
 /* Alert text; %@ is the extension name. 'extension' = a PopClip add-on/plug-in (not a file-name extension); 'signed' = code-signed by the developer. */
-"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "「%@」未經 Pilotmoon Software 簽章。若要安裝此擴充功能，請確認是從您信任的來源下載而來。";
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "「%@」未經 Pilotmoon Software 簽署。若要安裝此擴充功能，請確認是從您信任的來源下載而來。";
 
 /* No comment provided by engineer. */
 "\"%@\" Settings" = "「%@」設定";
@@ -74,7 +74,7 @@
 "and subdomains" = "與子網域";
 
 /* Title of prefs pane for 'App' settings (about, version, license). Translator: Please use the shortest possible term here */
-"App" = "程式";
+"App" = "App";
 
 /* No comment provided by engineer. */
 "App Settings" = "App 設定";
@@ -98,7 +98,7 @@
 "Auto" = "自動";
 
 /* Dark/light mode will be opposite to the operating system setting */
-"Auto (Inverse)" = "自動 (反轉)";
+"Auto (Inverse)" = "自動（反轉）";
 
 /* No comment provided by engineer. */
 "Automatic update" = "自動更新";
@@ -215,7 +215,7 @@
 "Don't Install" = "不要安裝";
 
 /* No comment provided by engineer. */
-"Done" = "已完成";
+"Done" = "完成";
 
 /* No comment provided by engineer. */
 "Downloaded %@ of %@…" = "已下載 %1$@ / %2$@…";
@@ -331,11 +331,11 @@
 /* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "主機";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud 無法使用";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud 受限制";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "iCloud 同步";
@@ -380,7 +380,7 @@
 "Identifier" = "識別碼";
 
 /* No comment provided by engineer. */
-"Include beta versions" = "包含beta版本";
+"Include beta versions" = "包含 Beta 版本";
 
 /* No comment provided by engineer. */
 "Include colored icons" = "包含彩色圖示";
@@ -464,7 +464,7 @@
 "Migrated from previous PopClip version" = "已從先前 PopClip 版本移轉";
 
 /* name of missing third party app */
-"Missing App: %@" = "缺少的應用程式：%@";
+"Missing App: %@" = "缺少 App：%@";
 
 /* icon picker font option */
 "Monospaced" = "等寬";
@@ -502,8 +502,8 @@
 /* No comment provided by engineer. */
 "No extensions installed" = "尚未安裝擴充功能";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "沒有 iCloud 帳號";
 
 /* No comment provided by engineer. */
 "No icons found." = "找不到圖示。";
@@ -515,7 +515,7 @@
 "Not Authorized" = "未授權";
 
 /* No comment provided by engineer. */
-"Not Now" = "之後再說";
+"Not Now" = "稍後再說";
 
 /* No comment provided by engineer. */
 "Notify only" = "僅通知";
@@ -551,7 +551,7 @@
 "Please close this browser tab and return to PopClip." = "請關閉此瀏覽器頁籤並返回 PopClip。";
 
 /* No comment provided by engineer. */
-"PopClip  Icon Picker" = "PopClip  圖示挑選器";
+"PopClip  Icon Picker" = "PopClip 圖示挑選器";
 
 /* No comment provided by engineer. */
 "PopClip appears automatically when you select text with the pointer or when you click and hold." = "當您用滑鼠指標選取文字或點擊並按住時，PopClip 會自動顯示。";
@@ -686,7 +686,7 @@
 "Sign Out" = "登出";
 
 /* extension info: code-signing status */
-"Signature" = "簽章";
+"Signature" = "簽名";
 
 /* No comment provided by engineer. */
 "Signed in: %@" = "已登入：%@";

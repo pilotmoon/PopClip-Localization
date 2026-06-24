@@ -41,7 +41,7 @@
         <key>NSStringFormatValueTypeKey</key>
         <string>lu</string>
         <key>other</key>
-        <string>%lu 個更新可用</string>
+        <string>有 %lu 項更新可用</string>
       </dict>
     </dict>
   </dict>
