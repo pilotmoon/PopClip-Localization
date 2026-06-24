@@ -17,7 +17,7 @@
 "%@ Update Available" = "%@ opdatering tilgængelig";
 
 /* Placeholder is app name. Example: `PopClip Update Ready` */
-"%@ Update Ready" = "%@ opdatering Klar";
+"%@ Update Ready" = "%@ opdatering klar";
 
 /* number of extensions updated; plural forms in Localizable.stringsdict */
 "%lu extensions updated" = "%lu udvidelser opdateret";
@@ -125,7 +125,7 @@
 "by %@" = "af %@";
 
 /* No comment provided by engineer. */
-"Cancel" = "Afbryd";
+"Cancel" = "Annuller";
 
 /* 1=name of app */
 "Cannot start %1$@" = "Kan ikke starte %1$@";
@@ -200,7 +200,7 @@
 "Delete Folder" = "Slet mappe";
 
 /* No comment provided by engineer. */
-"Delete Separator" = "Slet separator";
+"Delete Separator" = "Slet skillelinje";
 
 /* No comment provided by engineer. */
 "Developer-signed" = "Signeret af udvikler";
@@ -215,7 +215,7 @@
 "Don't Install" = "Installer ikke";
 
 /* No comment provided by engineer. */
-"Done" = "Udfør";
+"Done" = "OK";
 
 /* No comment provided by engineer. */
 "Downloaded %@ of %@…" = "Downloadet %1$@ af %2$@…";
@@ -331,11 +331,11 @@
 /* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "Vært";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud er ikke tilgængelig";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud er begrænset";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "iCloud-synkronisering";
@@ -437,7 +437,7 @@
 "Learn More…" = "Læs mere…";
 
 /* No comment provided by engineer. */
-"License Details" = "Licens detaljer";
+"License Details" = "Licensoplysninger";
 
 /* No comment provided by engineer. */
 "License Details…" = "Licensoplysninger…";
@@ -497,13 +497,13 @@
 "New Instance" = "Ny forekomst";
 
 /* No comment provided by engineer. */
-"New Separator" = "Ny separator";
+"New Separator" = "Ny skillelinje";
 
 /* No comment provided by engineer. */
 "No extensions installed" = "Ingen udvidelser installeret";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "Ingen iCloud-konto";
 
 /* No comment provided by engineer. */
 "No icons found." = "Ingen ikoner fundet.";
@@ -527,10 +527,10 @@
 "One or more extensions could not be updated." = "En eller flere udvidelser kunne ikke opdateres.";
 
 /* name of link opening feature */
-"Open Link" = "Åben link";
+"Open Link" = "Åbn link";
 
 /* No comment provided by engineer. */
-"Open Links" = "Åben links";
+"Open Links" = "Åbn links";
 
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "Åbner undermenu";
@@ -551,7 +551,7 @@
 "Please close this browser tab and return to PopClip." = "Luk denne browserfane og vend tilbage til PopClip.";
 
 /* No comment provided by engineer. */
-"PopClip  Icon Picker" = "PopClip  Ikonvælger";
+"PopClip  Icon Picker" = "PopClip Ikonvælger";
 
 /* No comment provided by engineer. */
 "PopClip appears automatically when you select text with the pointer or when you click and hold." = "PopClip vises automatisk, når du markerer tekst med markøren eller når du klikker og holder nede.";
@@ -569,7 +569,7 @@
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip kræver adgang til tilgængelighed for at læse teksten du markerer i andre apps og for at udføre handlinger for dig.";
 
 /* No comment provided by engineer. */
-"PopClip will check spelling in each selected language." = "PopClip kontrollerer stavemåde i hvert sprog.";
+"PopClip will check spelling in each selected language." = "PopClip kontrollerer stavemåde i hvert valgt sprog.";
 
 /* No comment provided by engineer. */
 "Popup Item" = "Popup-element";
@@ -647,7 +647,7 @@
 "Select" = "Vælg";
 
 /* No comment provided by engineer. */
-"Separator" = "Skilletegn";
+"Separator" = "Skillelinje";
 
 /* No comment provided by engineer. */
 "Settings for \"%@\"" = "Indstillinger for \"%@\"";
@@ -665,7 +665,7 @@
 "Show As" = "Vis som";
 
 /* No comment provided by engineer. */
-"Show in menu bar" = "Vis i menubar";
+"Show in menu bar" = "Vis i menulinjen";
 
 /* No comment provided by engineer. */
 "Show Secret" = "Vis hemmelighed";
@@ -713,7 +713,7 @@
 "Sort by Name" = "Sortér efter navn";
 
 /* name of spelling checker feature */
-"Spelling" = "Ordbog";
+"Spelling" = "Stavekontrol";
 
 /* icon picker option: shape is a square */
 "Square" = "Firkant";
