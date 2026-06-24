@@ -331,11 +331,11 @@
 /* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "Hostiteľ";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud nie je k dispozícii";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud je obmedzený";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "iCloud synchronizácia";
@@ -502,8 +502,8 @@
 /* No comment provided by engineer. */
 "No extensions installed" = "Nie sú nainštalované žiadne rozšírenia";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "Žiadny účet iCloud";
 
 /* No comment provided by engineer. */
 "No icons found." = "Nenašli sa žiadne ikony.";
@@ -551,7 +551,7 @@
 "Please close this browser tab and return to PopClip." = "Zatvorte túto kartu prehliadača a vráťte sa do PopClip.";
 
 /* No comment provided by engineer. */
-"PopClip  Icon Picker" = "PopClip  Výber ikony";
+"PopClip  Icon Picker" = "PopClip Výber ikony";
 
 /* No comment provided by engineer. */
 "PopClip appears automatically when you select text with the pointer or when you click and hold." = "PopClip sa automaticky zobrazí, keď vyberiete text ukazovateľom alebo keď kliknete a podržíte.";

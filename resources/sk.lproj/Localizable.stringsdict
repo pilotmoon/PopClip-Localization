@@ -19,7 +19,7 @@
         <key>many</key>
         <string>zostáva %lu použití</string>
         <key>other</key>
-        <string>zostáva %lu použitia</string>
+        <string>zostáva %lu použití</string>
       </dict>
     </dict>
     <key>%lu extensions updated</key>
@@ -39,7 +39,7 @@
         <key>many</key>
         <string>%lu rozšírení aktualizovaných</string>
         <key>other</key>
-        <string>%lu rozšírenia aktualizované</string>
+        <string>%lu rozšírení aktualizovaných</string>
       </dict>
     </dict>
     <key>%lu updates available</key>
@@ -59,7 +59,7 @@
         <key>many</key>
         <string>%lu aktualizácií k dispozícii</string>
         <key>other</key>
-        <string>%lu aktualizácie k dispozícii</string>
+        <string>%lu aktualizácií k dispozícii</string>
       </dict>
     </dict>
   </dict>
