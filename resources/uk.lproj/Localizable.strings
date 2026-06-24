@@ -26,13 +26,13 @@
 "%lu updates available" = "Доступно оновлень: %lu";
 
 /* number of uses remaining in the free trial; plural forms in Localizable.stringsdict */
-"%lu Uses Left" = "Лишилося використань: %lu";
+"%lu Uses Left" = "Залишилося використань: %lu";
 
 /* click this button to get 10 more uses in the free trial */
 "+10 Uses" = "+10 використань";
 
 /* entry in selection list to indicate no selection */
-"- None -" = "- Використань немає -";
+"- None -" = "- Немає -";
 
 /* icon picker: hint that the typed text may be 1 to 3 characters */
 "1–3 characters" = "1–3 символи";
@@ -116,7 +116,7 @@
 "Built-in" = "Вбудоване";
 
 /* click button to buy the app */
-"Buy" = "Придбати";
+"Buy" = "Купити";
 
 /* No comment provided by engineer. */
 "Buy license key" = "Купити ліцензійний ключ";
@@ -176,7 +176,7 @@
 "Copy Specifier" = "Копіювати специфікатор";
 
 /* No comment provided by engineer. */
-"Couldn't reach the update server (status %lu)." = "Не вдалося зв’язатися із сервером оновлень (статус %lu).";
+"Couldn't reach the update server (status %lu)." = "Не вдалося зв'язатися із сервером оновлень (статус %lu).";
 
 /* Icon picker tab label: use your own supplied image as the icon */
 "Custom" = "Власний";
@@ -275,7 +275,7 @@
 "Extensions" = "Розширення";
 
 /* Extracted percentage */
-"Extracted %d%%…" = "Розпаковано %d%…";
+"Extracted %d%%…" = "Розпаковано %d%%…";
 
 /* No comment provided by engineer. */
 "Extracting update…" = "Розпакування оновлення…";
@@ -331,11 +331,11 @@
 /* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "Хост";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud недоступний";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud обмежено";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "Синхронізація iCloud";
@@ -502,8 +502,8 @@
 /* No comment provided by engineer. */
 "No extensions installed" = "Розширення не встановлено";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "Немає облікового запису iCloud";
 
 /* No comment provided by engineer. */
 "No icons found." = "Іконок не знайдено.";
@@ -551,7 +551,7 @@
 "Please close this browser tab and return to PopClip." = "Будь ласка, закрийте цю вкладку браузера й поверніться до PopClip.";
 
 /* No comment provided by engineer. */
-"PopClip  Icon Picker" = "PopClip  Вибір іконок";
+"PopClip  Icon Picker" = "PopClip Вибір іконок";
 
 /* No comment provided by engineer. */
 "PopClip appears automatically when you select text with the pointer or when you click and hold." = "PopClip з'являється автоматично, коли ви виділяєте текст указівником або коли натискаєте й утримуєте.";
@@ -599,7 +599,7 @@
 "Release notes:" = "Примітки до випуску:";
 
 /* Button title. Remove selected item from list. Actual button is '-' icon, text is for screen reader only. */
-"Remove" = "Видалити";
+"Remove" = "Вилучити";
 
 /* No comment provided by engineer. */
 "Rename…" = "Перейменувати…";
@@ -650,7 +650,7 @@
 "Separator" = "Розділювач";
 
 /* No comment provided by engineer. */
-"Settings for \"%@\"" = "Налаштування для \"%@\"";
+"Settings for \"%@\"" = "Налаштування для «%@»";
 
 /* No comment provided by engineer. */
 "Settings…" = "Налаштування…";
@@ -659,7 +659,7 @@
 "Shape" = "Форма";
 
 /* No comment provided by engineer. */
-"Show \"%@\" in the actions list" = "Показувати \"%@\" у списку дій";
+"Show \"%@\" in the actions list" = "Показувати «%@» у списку дій";
 
 /* No comment provided by engineer. */
 "Show As" = "Показувати як";
@@ -818,7 +818,7 @@
 "Waiting to check for updates" = "Очікування перевірки оновлень";
 
 /* No comment provided by engineer. */
-"Waiting…" = "Зачекайте…";
+"Waiting…" = "Очікування…";
 
 /* No comment provided by engineer. */
 "Web Page" = "Вебсторінка";
