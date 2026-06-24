@@ -38,7 +38,7 @@
 "1–3 characters" = "1–3 tekens";
 
 /* Alert text; %@ is the extension name. 'extension' = a PopClip add-on/plug-in (not a file-name extension); 'signed' = code-signed by the developer. */
-"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "“%@” is niet ondertekend door Pilotmoon Software. Installeer deze extensie alleen als u de bron vertrouwt.";
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "\"%@\" is niet ondertekend door Pilotmoon Software. Installeer deze extensie alleen als je de bron vertrouwt.";
 
 /* No comment provided by engineer. */
 "\"%@\" Settings" = "\"%@\"-Instellingen";
@@ -331,11 +331,11 @@
 /* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "Host";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
-"iCloud is not available" = "iCloud is not available";
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud is niet beschikbaar";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
-"iCloud is restricted" = "iCloud is restricted";
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud is beperkt";
 
 /* No comment provided by engineer. */
 "iCloud Sync" = "iCloud-synchronisatie";
@@ -392,7 +392,7 @@
 "Including colored icons" = "Inclusief gekleurde iconen";
 
 /* button title: install the named externsion */
-"Install \"%@\"" = "Installeer “%@”";
+"Install \"%@\"" = "Installeer \"%@\"";
 
 /* No comment provided by engineer. */
 "Install automatically" = "Installeer automatisch";
@@ -502,8 +502,8 @@
 /* No comment provided by engineer. */
 "No extensions installed" = "Geen extensies geïnstalleerd";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
-"No iCloud account" = "No iCloud account";
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "Geen iCloud-account";
 
 /* No comment provided by engineer. */
 "No icons found." = "Geen iconen gevonden.";
@@ -551,13 +551,13 @@
 "Please close this browser tab and return to PopClip." = "Sluit dit browsertabblad en ga terug naar PopClip.";
 
 /* No comment provided by engineer. */
-"PopClip  Icon Picker" = "PopClip  Icoonkiezer";
+"PopClip  Icon Picker" = "PopClip Icoonkiezer";
 
 /* No comment provided by engineer. */
 "PopClip appears automatically when you select text with the pointer or when you click and hold." = "PopClip verschijnt automatisch wanneer je tekst selecteert met de aanwijzer of wanneer je klikt en vasthoudt.";
 
 /* No comment provided by engineer. */
-"PopClip can't find %@ on this computer. You probably need to install it." = "PopClip kan %@ niet vinden op deze computer. U moet het waarschijnlijk installeren.";
+"PopClip can't find %@ on this computer. You probably need to install it." = "PopClip kan %@ niet vinden op deze computer. Je moet het waarschijnlijk installeren.";
 
 /* No comment provided by engineer. */
 "PopClip could not load the following extensions:\n\n%@" = "PopClip kon de volgende extensies niet laden:\n\n%@";
@@ -680,7 +680,7 @@
 "Sign in failed." = "Inloggen mislukt.";
 
 /* No comment provided by engineer. */
-"Sign in to your %@ account." = "Log in op uw %@-account.";
+"Sign in to your %@ account." = "Log in op je %@-account.";
 
 /* No comment provided by engineer. */
 "Sign Out" = "Log uit";
@@ -830,7 +830,7 @@
 "Websites…" = "Websites…";
 
 /* No comment provided by engineer. */
-"You are signed in to %@." = "U bent ingelogd op %@.";
+"You are signed in to %@." = "Je bent ingelogd op %@.";
 
 /* No comment provided by engineer. */
 "You're all set! No settings to configure." = "Alles is ingesteld! Geen instellingen om te configureren.";
