@@ -337,6 +337,9 @@
 /* No comment provided by engineer. */
 "iCloud Sync" = "iCloud-synchronisatie";
 
+/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
+"iCloud sync error (%@)" = "iCloud sync error (%@)";
+
 /* No comment provided by engineer. */
 "Icon" = "Icoon";
 
