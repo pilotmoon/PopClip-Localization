@@ -337,8 +337,8 @@
 /* No comment provided by engineer. */
 "iCloud Sync" = "Synchronisation iCloud";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
-"iCloud sync error (%@)" = "iCloud sync error (%@)";
+/* Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
+"iCloud sync error (%@)" = "Erreur de synchronisation iCloud (%@)";
 
 /* No comment provided by engineer. */
 "Icon" = "Icône";
@@ -745,6 +745,15 @@
 /* No comment provided by engineer. */
 "The application appears to be corrupted. Please install a fresh copy." = "L’application semble corrompue. Veuillez installer une nouvelle copie.";
 
+/* Alert message shown when a file dragged into the icon picker's specifier field is not readable as an image */
+"The file could not be read as an SVG or PNG image." = "Le fichier n’a pas pu être lu comme image SVG ou PNG.";
+
+/* Alert message shown when a file dragged into the icon picker's specifier field is too big */
+"The file is too large to use as an icon specifier." = "Le fichier est trop volumineux pour être utilisé comme spécificateur d’icône.";
+
+/* Alert detail text below the file-too-big message; each %@ is a file size such as '10 KB' */
+"The maximum size is about %@ for an SVG file or %@ for a PNG file." = "La taille maximale est d’environ %1$@ pour un fichier SVG ou %2$@ pour un fichier PNG.";
+
 /* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
 "This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Cette extension n’est pas compatible avec cette version de PopClip. Veuillez mettre à jour vers la dernière version de PopClip.";
 
@@ -783,6 +792,9 @@
 
 /* No comment provided by engineer. */
 "Updates" = "Mises à jour";
+
+/* No comment provided by engineer. */
+"Upgrade…" = "Mettre à niveau…";
 
 /* No comment provided by engineer. */
 "URL scheme" = "Schéma d’URL";

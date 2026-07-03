@@ -337,8 +337,8 @@
 /* No comment provided by engineer. */
 "iCloud Sync" = "Synchronizacja z iCloud";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
-"iCloud sync error (%@)" = "iCloud sync error (%@)";
+/* Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
+"iCloud sync error (%@)" = "Błąd synchronizacji z iCloud (%@)";
 
 /* No comment provided by engineer. */
 "Icon" = "Ikona";
@@ -745,6 +745,15 @@
 /* No comment provided by engineer. */
 "The application appears to be corrupted. Please install a fresh copy." = "Aplikacja wydaje się być uszkodzona. Proszę zainstalować ją ponownie.";
 
+/* Alert message shown when a file dragged into the icon picker's specifier field is not readable as an image */
+"The file could not be read as an SVG or PNG image." = "Nie można odczytać pliku jako obrazu SVG lub PNG.";
+
+/* Alert message shown when a file dragged into the icon picker's specifier field is too big */
+"The file is too large to use as an icon specifier." = "Plik jest za duży, aby użyć go jako specyfikatora ikony.";
+
+/* Alert detail text below the file-too-big message; each %@ is a file size such as '10 KB' */
+"The maximum size is about %@ for an SVG file or %@ for a PNG file." = "Maksymalny rozmiar to około %1$@ dla pliku SVG lub %2$@ dla pliku PNG.";
+
 /* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
 "This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "To rozszerzenie nie jest kompatybilne z tą wersją PopClip. Proszę zaktualizować do najnowszej wersji PopClip.";
 
@@ -783,6 +792,9 @@
 
 /* No comment provided by engineer. */
 "Updates" = "Aktualizacje";
+
+/* No comment provided by engineer. */
+"Upgrade…" = "Uaktualnij…";
 
 /* No comment provided by engineer. */
 "URL scheme" = "Schemat URL";

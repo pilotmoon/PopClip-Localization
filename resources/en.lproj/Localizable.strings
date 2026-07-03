@@ -745,6 +745,15 @@
 /* No comment provided by engineer. */
 "The application appears to be corrupted. Please install a fresh copy." = "The application appears to be corrupted. Please install a fresh copy.";
 
+/* Alert message shown when a file dragged into the icon picker's specifier field is not readable as an image */
+"The file could not be read as an SVG or PNG image." = "The file could not be read as an SVG or PNG image.";
+
+/* Alert message shown when a file dragged into the icon picker's specifier field is too big */
+"The file is too large to use as an icon specifier." = "The file is too large to use as an icon specifier.";
+
+/* Alert detail text below the file-too-big message; each %@ is a file size such as '10 KB' */
+"The maximum size is about %@ for an SVG file or %@ for a PNG file." = "The maximum size is about %1$@ for an SVG file or %2$@ for a PNG file.";
+
 /* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
 "This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip.";
 
@@ -783,6 +792,9 @@
 
 /* No comment provided by engineer. */
 "Updates" = "Updates";
+
+/* No comment provided by engineer. */
+"Upgrade…" = "Upgrade…";
 
 /* No comment provided by engineer. */
 "URL scheme" = "URL scheme";

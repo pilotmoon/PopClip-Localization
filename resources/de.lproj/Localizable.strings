@@ -337,8 +337,8 @@
 /* No comment provided by engineer. */
 "iCloud Sync" = "iCloud-Sync";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
-"iCloud sync error (%@)" = "iCloud sync error (%@)";
+/* Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
+"iCloud sync error (%@)" = "iCloud-Sync-Fehler (%@)";
 
 /* No comment provided by engineer. */
 "Icon" = "Symbol";
@@ -745,6 +745,15 @@
 /* No comment provided by engineer. */
 "The application appears to be corrupted. Please install a fresh copy." = "Die App scheint beschädigt zu sein. Bitte installieren Sie eine neue Kopie.";
 
+/* Alert message shown when a file dragged into the icon picker's specifier field is not readable as an image */
+"The file could not be read as an SVG or PNG image." = "Die Datei konnte nicht als SVG- oder PNG-Bild gelesen werden.";
+
+/* Alert message shown when a file dragged into the icon picker's specifier field is too big */
+"The file is too large to use as an icon specifier." = "Die Datei ist zu groß, um als Symbolbezeichner verwendet zu werden.";
+
+/* Alert detail text below the file-too-big message; each %@ is a file size such as '10 KB' */
+"The maximum size is about %@ for an SVG file or %@ for a PNG file." = "Die maximale Größe beträgt etwa %1$@ für eine SVG-Datei oder %2$@ für eine PNG-Datei.";
+
 /* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
 "This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Diese Erweiterung ist nicht kompatibel mit dieser Version von PopClip. Bitte aktualisieren Sie auf die neueste Version von PopClip.";
 
@@ -783,6 +792,9 @@
 
 /* No comment provided by engineer. */
 "Updates" = "Aktualisierungen";
+
+/* No comment provided by engineer. */
+"Upgrade…" = "Upgrade…";
 
 /* No comment provided by engineer. */
 "URL scheme" = "URL-Schema";

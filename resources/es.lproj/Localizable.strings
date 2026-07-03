@@ -337,8 +337,8 @@
 /* No comment provided by engineer. */
 "iCloud Sync" = "Sincronización con iCloud";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
-"iCloud sync error (%@)" = "iCloud sync error (%@)";
+/* Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
+"iCloud sync error (%@)" = "Error de sincronización de iCloud (%@)";
 
 /* No comment provided by engineer. */
 "Icon" = "Icono";
@@ -745,6 +745,15 @@
 /* No comment provided by engineer. */
 "The application appears to be corrupted. Please install a fresh copy." = "La aplicación parece estar dañada. Instala una copia nueva.";
 
+/* Alert message shown when a file dragged into the icon picker's specifier field is not readable as an image */
+"The file could not be read as an SVG or PNG image." = "No se pudo leer el archivo como imagen SVG o PNG.";
+
+/* Alert message shown when a file dragged into the icon picker's specifier field is too big */
+"The file is too large to use as an icon specifier." = "El archivo es demasiado grande para usarlo como especificador de icono.";
+
+/* Alert detail text below the file-too-big message; each %@ is a file size such as '10 KB' */
+"The maximum size is about %@ for an SVG file or %@ for a PNG file." = "El tamaño máximo es de aproximadamente %1$@ para un archivo SVG o %2$@ para un archivo PNG.";
+
 /* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
 "This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Esta extensión no es compatible con esta versión de PopClip. Actualiza a la última versión de PopClip.";
 
@@ -783,6 +792,9 @@
 
 /* No comment provided by engineer. */
 "Updates" = "Actualizaciones";
+
+/* No comment provided by engineer. */
+"Upgrade…" = "Mejorar…";
 
 /* No comment provided by engineer. */
 "URL scheme" = "Esquema de URL";

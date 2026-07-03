@@ -33,3 +33,6 @@
 
 /* Example: `Updates until: 5 Jan 2026` -- The license will cover updates until this date */
 "Updates until: %@\n" = "업데이트 기한: %@\n";
+
+/* No comment provided by engineer. */
+"Upgrade required" = "업그레이드 필요";

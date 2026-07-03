@@ -337,8 +337,8 @@
 /* No comment provided by engineer. */
 "iCloud Sync" = "Sincronizzazione iCloud";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
-"iCloud sync error (%@)" = "iCloud sync error (%@)";
+/* Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
+"iCloud sync error (%@)" = "Errore di sincronizzazione iCloud (%@)";
 
 /* No comment provided by engineer. */
 "Icon" = "Icona";
@@ -745,6 +745,15 @@
 /* No comment provided by engineer. */
 "The application appears to be corrupted. Please install a fresh copy." = "L’applicazione sembra danneggiata. Installa una nuova copia.";
 
+/* Alert message shown when a file dragged into the icon picker's specifier field is not readable as an image */
+"The file could not be read as an SVG or PNG image." = "Impossibile leggere il file come immagine SVG o PNG.";
+
+/* Alert message shown when a file dragged into the icon picker's specifier field is too big */
+"The file is too large to use as an icon specifier." = "Il file è troppo grande per essere usato come specificatore icona.";
+
+/* Alert detail text below the file-too-big message; each %@ is a file size such as '10 KB' */
+"The maximum size is about %@ for an SVG file or %@ for a PNG file." = "La dimensione massima è di circa %1$@ per un file SVG o %2$@ per un file PNG.";
+
 /* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
 "This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "L’estensione non è compatibile con questa versione di PopClip. Aggiorna all’ultima versione di PopClip.";
 
@@ -783,6 +792,9 @@
 
 /* No comment provided by engineer. */
 "Updates" = "Aggiornamenti";
+
+/* No comment provided by engineer. */
+"Upgrade…" = "Upgrade…";
 
 /* No comment provided by engineer. */
 "URL scheme" = "Schema URL";

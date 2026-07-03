@@ -337,8 +337,8 @@
 /* No comment provided by engineer. */
 "iCloud Sync" = "iCloud 동기화";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
-"iCloud sync error (%@)" = "iCloud sync error (%@)";
+/* Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
+"iCloud sync error (%@)" = "iCloud 동기화 오류(%@)";
 
 /* No comment provided by engineer. */
 "Icon" = "아이콘";
@@ -745,6 +745,15 @@
 /* No comment provided by engineer. */
 "The application appears to be corrupted. Please install a fresh copy." = "이 응용 프로그램은 손상된 것 같습니다. 새로운 사본을 설치하세요.";
 
+/* Alert message shown when a file dragged into the icon picker's specifier field is not readable as an image */
+"The file could not be read as an SVG or PNG image." = "파일을 SVG 또는 PNG 이미지로 읽을 수 없습니다.";
+
+/* Alert message shown when a file dragged into the icon picker's specifier field is too big */
+"The file is too large to use as an icon specifier." = "파일이 너무 커서 아이콘 지정자로 사용할 수 없습니다.";
+
+/* Alert detail text below the file-too-big message; each %@ is a file size such as '10 KB' */
+"The maximum size is about %@ for an SVG file or %@ for a PNG file." = "최대 크기는 SVG 파일의 경우 약 %1$@, PNG 파일의 경우 약 %2$@입니다.";
+
 /* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
 "This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "이 확장 프로그램은 본 PopClip 버전과 호환되지 않습니다. 최신 PopClip 버전으로 업데이트하세요.";
 
@@ -783,6 +792,9 @@
 
 /* No comment provided by engineer. */
 "Updates" = "업데이트";
+
+/* No comment provided by engineer. */
+"Upgrade…" = "업그레이드…";
 
 /* No comment provided by engineer. */
 "URL scheme" = "URL 스킴";

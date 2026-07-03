@@ -337,8 +337,8 @@
 /* No comment provided by engineer. */
 "iCloud Sync" = "Синхронизация iCloud";
 
-/* TODO:TRANSLATE — Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
-"iCloud sync error (%@)" = "iCloud sync error (%@)";
+/* Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
+"iCloud sync error (%@)" = "Ошибка синхронизации iCloud (%@)";
 
 /* No comment provided by engineer. */
 "Icon" = "Значок";
@@ -745,6 +745,15 @@
 /* No comment provided by engineer. */
 "The application appears to be corrupted. Please install a fresh copy." = "Приложение повреждено. Пожалуйста, установите новую копию.";
 
+/* Alert message shown when a file dragged into the icon picker's specifier field is not readable as an image */
+"The file could not be read as an SVG or PNG image." = "Не удалось прочитать файл как изображение SVG или PNG.";
+
+/* Alert message shown when a file dragged into the icon picker's specifier field is too big */
+"The file is too large to use as an icon specifier." = "Файл слишком велик для использования в качестве спецификатора значка.";
+
+/* Alert detail text below the file-too-big message; each %@ is a file size such as '10 KB' */
+"The maximum size is about %@ for an SVG file or %@ for a PNG file." = "Максимальный размер составляет примерно %1$@ для файла SVG или %2$@ для файла PNG.";
+
 /* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
 "This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Это расширение несовместимо с этой версией PopClip. Произведите обновление до последней версии PopClip.";
 
@@ -783,6 +792,9 @@
 
 /* No comment provided by engineer. */
 "Updates" = "Обновления";
+
+/* No comment provided by engineer. */
+"Upgrade…" = "Обновить…";
 
 /* No comment provided by engineer. */
 "URL scheme" = "URL-схема";

@@ -34,3 +34,6 @@
 /* Example: `Updates until: 5 Jan 2026` -- The license will cover updates until this date */
 "Updates until: %@\n" = "Updates until: %@\n";
 
+/* No comment provided by engineer. */
+"Upgrade required" = "Upgrade required";
+
