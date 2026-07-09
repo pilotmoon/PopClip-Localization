@@ -19,9 +19,6 @@
 /* The name of the licensee */
 "Name: %@\n" = "Ad: %@\n";
 
-/* Example: `Number of users: 10 */
-"Number of users: %@\n" = "Kullanıcı sayısı: %@\n";
-
 /* Purchase reference / order number */
 "Order #: %@\n" = "Sipariş No: %@\n";
 
@@ -30,6 +27,9 @@
 
 /* No comment provided by engineer. */
 "Purchase record stored in iCloud" = "Satın alma kaydı iCloud'da saklandı";
+
+/* Example: `Quantity: 10 */
+"Quantity: %@\n" = "Adet: %@\n";
 
 /* Example: `Updates until: 5 Jan 2026` -- The license will cover updates until this date */
 "Updates until: %@\n" = "Şu tarihe kadarki güncellemeler: %@\n";

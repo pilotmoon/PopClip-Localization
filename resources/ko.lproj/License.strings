@@ -19,9 +19,6 @@
 /* The name of the licensee */
 "Name: %@\n" = "이름: %@\n";
 
-/* Example: `Number of users: 10 */
-"Number of users: %@\n" = "사용자 수: %@\n";
-
 /* Purchase reference / order number */
 "Order #: %@\n" = "주문 번호: %@\n";
 
@@ -30,6 +27,9 @@
 
 /* No comment provided by engineer. */
 "Purchase record stored in iCloud" = "구매 기록이 iCloud에 저장됨";
+
+/* Example: `Quantity: 10 */
+"Quantity: %@\n" = "수량: %@\n";
 
 /* Example: `Updates until: 5 Jan 2026` -- The license will cover updates until this date */
 "Updates until: %@\n" = "업데이트 기한: %@\n";

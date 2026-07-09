@@ -19,9 +19,6 @@
 /* The name of the licensee */
 "Name: %@\n" = "Tên: %@\n";
 
-/* Example: `Number of users: 10 */
-"Number of users: %@\n" = "Số lượng người dùng: %@\n";
-
 /* Purchase reference / order number */
 "Order #: %@\n" = "Mã đơn hàng: %@\n";
 
@@ -30,6 +27,9 @@
 
 /* No comment provided by engineer. */
 "Purchase record stored in iCloud" = "Bản ghi mua hàng được lưu trên iCloud";
+
+/* Example: `Quantity: 10 */
+"Quantity: %@\n" = "Số lượng: %@\n";
 
 /* Example: `Updates until: 5 Jan 2026` -- The license will cover updates until this date */
 "Updates until: %@\n" = "Cập nhật đến: %@\n";

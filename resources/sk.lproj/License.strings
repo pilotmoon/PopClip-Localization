@@ -19,9 +19,6 @@
 /* The name of the licensee */
 "Name: %@\n" = "Meno: %@\n";
 
-/* Example: `Number of users: 10 */
-"Number of users: %@\n" = "Počet používateľov: %@\n";
-
 /* Purchase reference / order number */
 "Order #: %@\n" = "Objednávka č.: %@\n";
 
@@ -30,6 +27,9 @@
 
 /* No comment provided by engineer. */
 "Purchase record stored in iCloud" = "Záznam o nákupe uložený v službe iCloud";
+
+/* Example: `Quantity: 10 */
+"Quantity: %@\n" = "Počet: %@\n";
 
 /* Example: `Updates until: 5 Jan 2026` -- The license will cover updates until this date */
 "Updates until: %@\n" = "Aktualizácie do: %@\n";

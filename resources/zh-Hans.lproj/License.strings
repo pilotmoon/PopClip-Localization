@@ -19,9 +19,6 @@
 /* The name of the licensee */
 "Name: %@\n" = "姓名：%@\n";
 
-/* Example: `Number of users: 10 */
-"Number of users: %@\n" = "用户数：%@\n";
-
 /* Purchase reference / order number */
 "Order #: %@\n" = "订单号：%@\n";
 
@@ -30,6 +27,9 @@
 
 /* No comment provided by engineer. */
 "Purchase record stored in iCloud" = "购买记录已存储在 iCloud 中";
+
+/* Example: `Quantity: 10 */
+"Quantity: %@\n" = "数量：%@\n";
 
 /* Example: `Updates until: 5 Jan 2026` -- The license will cover updates until this date */
 "Updates until: %@\n" = "更新截止日期：%@\n";

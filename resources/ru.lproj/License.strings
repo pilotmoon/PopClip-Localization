@@ -19,9 +19,6 @@
 /* The name of the licensee */
 "Name: %@\n" = "Имя: %@\n";
 
-/* Example: `Number of users: 10 */
-"Number of users: %@\n" = "Количество пользователей: %@\n";
-
 /* Purchase reference / order number */
 "Order #: %@\n" = "Заказ №: %@\n";
 
@@ -30,6 +27,9 @@
 
 /* No comment provided by engineer. */
 "Purchase record stored in iCloud" = "Запись о покупке сохранена в iCloud";
+
+/* Example: `Quantity: 10 */
+"Quantity: %@\n" = "Количество: %@\n";
 
 /* Example: `Updates until: 5 Jan 2026` -- The license will cover updates until this date */
 "Updates until: %@\n" = "Обновления до: %@\n";
