@@ -544,6 +544,10 @@
 /* No comment provided by engineer. */
 "Package folder" = "Cartella pacchetto";
 
+/* Row name for a separator with the page-break style
+   Separator style menu item: following actions go to the next page of the bar */
+"Page Break" = "Interruzione di pagina";
+
 /* No comment provided by engineer. */
 "Permissions" = "Permessi";
 
@@ -643,11 +647,15 @@
 /* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "Ricerca tra %@ icone open source.";
 
+/* Row name for a separator with the section-break style
+   Separator style menu item: break between button groups in the bar */
+"Section Break" = "Interruzione di sezione";
+
 /* No comment provided by engineer. */
 "Select" = "Seleziona";
 
-/* No comment provided by engineer. */
-"Separator" = "Separatore";
+/* Submenu title: the separator's style — section break or page break */
+"Separator Style" = "Stile del separatore";
 
 /* No comment provided by engineer. */
 "Settings for \"%@\"" = "Impostazioni per «%@»";

@@ -197,7 +197,7 @@
 "Delete Folder" = "Verwijder map";
 
 /* No comment provided by engineer. */
-"Delete Separator" = "Verwijder scheidingsteken";
+"Delete Separator" = "Verwijder scheidingslijn";
 
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Door ontwikkelaar ondertekend";
@@ -497,7 +497,7 @@
 "New Instance" = "Nieuwe instantie";
 
 /* No comment provided by engineer. */
-"New Separator" = "Nieuw scheidingsteken";
+"New Separator" = "Nieuwe scheidingslijn";
 
 /* No comment provided by engineer. */
 "No extensions installed" = "Geen extensies geïnstalleerd";
@@ -543,6 +543,10 @@
 
 /* No comment provided by engineer. */
 "Package folder" = "Pakketmap";
+
+/* Row name for a separator with the page-break style
+   Separator style menu item: following actions go to the next page of the bar */
+"Page Break" = "Pagina-einde";
 
 /* No comment provided by engineer. */
 "Permissions" = "Toestemmingen";
@@ -643,11 +647,15 @@
 /* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "Zoeken in %@ opensource-iconen.";
 
+/* Row name for a separator with the section-break style
+   Separator style menu item: break between button groups in the bar */
+"Section Break" = "Sectie-einde";
+
 /* No comment provided by engineer. */
 "Select" = "Selecteer";
 
-/* No comment provided by engineer. */
-"Separator" = "Scheidingsteken";
+/* Submenu title: the separator's style — section break or page break */
+"Separator Style" = "Stijl van scheidingslijn";
 
 /* No comment provided by engineer. */
 "Settings for \"%@\"" = "Instellingen voor \"%@\"";

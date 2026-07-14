@@ -544,6 +544,10 @@
 /* No comment provided by engineer. */
 "Package folder" = "Thư mục gói";
 
+/* Row name for a separator with the page-break style
+   Separator style menu item: following actions go to the next page of the bar */
+"Page Break" = "Ngắt trang";
+
 /* No comment provided by engineer. */
 "Permissions" = "Quyền";
 
@@ -643,11 +647,15 @@
 /* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "Đang tìm kiếm %@ biểu tượng mã nguồn mở.";
 
+/* Row name for a separator with the section-break style
+   Separator style menu item: break between button groups in the bar */
+"Section Break" = "Ngắt phần";
+
 /* No comment provided by engineer. */
 "Select" = "Lựa chọn";
 
-/* No comment provided by engineer. */
-"Separator" = "Dấu phân cách";
+/* Submenu title: the separator's style — section break or page break */
+"Separator Style" = "Kiểu dấu phân cách";
 
 /* No comment provided by engineer. */
 "Settings for \"%@\"" = "Cài đặt cho \"%@\"";

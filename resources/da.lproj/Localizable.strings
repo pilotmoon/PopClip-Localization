@@ -544,6 +544,10 @@
 /* No comment provided by engineer. */
 "Package folder" = "Pakkemappe";
 
+/* Row name for a separator with the page-break style
+   Separator style menu item: following actions go to the next page of the bar */
+"Page Break" = "Sideskift";
+
 /* No comment provided by engineer. */
 "Permissions" = "Tilladelser";
 
@@ -643,11 +647,15 @@
 /* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "Søger blandt %@ open source-ikoner.";
 
+/* Row name for a separator with the section-break style
+   Separator style menu item: break between button groups in the bar */
+"Section Break" = "Sektionsskift";
+
 /* No comment provided by engineer. */
 "Select" = "Vælg";
 
-/* No comment provided by engineer. */
-"Separator" = "Skillelinje";
+/* Submenu title: the separator's style — section break or page break */
+"Separator Style" = "Skillelinjestil";
 
 /* No comment provided by engineer. */
 "Settings for \"%@\"" = "Indstillinger for \"%@\"";

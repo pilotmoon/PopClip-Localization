@@ -544,6 +544,10 @@
 /* No comment provided by engineer. */
 "Package folder" = "패키지 폴더";
 
+/* Row name for a separator with the page-break style
+   Separator style menu item: following actions go to the next page of the bar */
+"Page Break" = "페이지 나누기";
+
 /* No comment provided by engineer. */
 "Permissions" = "권한";
 
@@ -643,11 +647,15 @@
 /* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "%@개의 오픈 소스 아이콘 검색 중입니다.";
 
+/* Row name for a separator with the section-break style
+   Separator style menu item: break between button groups in the bar */
+"Section Break" = "섹션 나누기";
+
 /* No comment provided by engineer. */
 "Select" = "선택";
 
-/* No comment provided by engineer. */
-"Separator" = "구분선";
+/* Submenu title: the separator's style — section break or page break */
+"Separator Style" = "구분선 스타일";
 
 /* No comment provided by engineer. */
 "Settings for \"%@\"" = "“%@” 설정";

@@ -544,6 +544,10 @@
 /* No comment provided by engineer. */
 "Package folder" = "パッケージフォルダ";
 
+/* Row name for a separator with the page-break style
+   Separator style menu item: following actions go to the next page of the bar */
+"Page Break" = "改ページ";
+
 /* No comment provided by engineer. */
 "Permissions" = "権限";
 
@@ -643,11 +647,15 @@
 /* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "%@個のオープンソースアイコンを検索中。";
 
+/* Row name for a separator with the section-break style
+   Separator style menu item: break between button groups in the bar */
+"Section Break" = "セクション区切り";
+
 /* No comment provided by engineer. */
 "Select" = "選択";
 
-/* No comment provided by engineer. */
-"Separator" = "区切り線";
+/* Submenu title: the separator's style — section break or page break */
+"Separator Style" = "区切り線のスタイル";
 
 /* No comment provided by engineer. */
 "Settings for \"%@\"" = "「%@」の設定";

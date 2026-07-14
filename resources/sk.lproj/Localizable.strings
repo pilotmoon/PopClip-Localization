@@ -544,6 +544,10 @@
 /* No comment provided by engineer. */
 "Package folder" = "Priečinok balíka";
 
+/* Row name for a separator with the page-break style
+   Separator style menu item: following actions go to the next page of the bar */
+"Page Break" = "Zalomenie strany";
+
 /* No comment provided by engineer. */
 "Permissions" = "Povolenia";
 
@@ -643,11 +647,15 @@
 /* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "Prehľadáva sa %@ ikon s otvoreným zdrojovým kódom.";
 
+/* Row name for a separator with the section-break style
+   Separator style menu item: break between button groups in the bar */
+"Section Break" = "Zalomenie sekcie";
+
 /* No comment provided by engineer. */
 "Select" = "Vybrať";
 
-/* No comment provided by engineer. */
-"Separator" = "Oddeľovač";
+/* Submenu title: the separator's style — section break or page break */
+"Separator Style" = "Štýl oddeľovača";
 
 /* No comment provided by engineer. */
 "Settings for \"%@\"" = "Nastavenia pre „%@“";

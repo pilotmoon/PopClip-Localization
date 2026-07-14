@@ -544,6 +544,10 @@
 /* No comment provided by engineer. */
 "Package folder" = "Paket klasörü";
 
+/* Row name for a separator with the page-break style
+   Separator style menu item: following actions go to the next page of the bar */
+"Page Break" = "Sayfa Sonu";
+
 /* No comment provided by engineer. */
 "Permissions" = "İzinler";
 
@@ -643,11 +647,15 @@
 /* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "%@ açık kaynak simgesi aranıyor.";
 
+/* Row name for a separator with the section-break style
+   Separator style menu item: break between button groups in the bar */
+"Section Break" = "Bölüm Sonu";
+
 /* No comment provided by engineer. */
 "Select" = "Seç";
 
-/* No comment provided by engineer. */
-"Separator" = "Ayırıcı";
+/* Submenu title: the separator's style — section break or page break */
+"Separator Style" = "Ayırıcı Stili";
 
 /* No comment provided by engineer. */
 "Settings for \"%@\"" = "\"%@\" ayarları";

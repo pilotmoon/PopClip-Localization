@@ -544,6 +544,10 @@
 /* No comment provided by engineer. */
 "Package folder" = "套件檔案夾";
 
+/* Row name for a separator with the page-break style
+   Separator style menu item: following actions go to the next page of the bar */
+"Page Break" = "分頁符號";
+
 /* No comment provided by engineer. */
 "Permissions" = "取用授權";
 
@@ -643,11 +647,15 @@
 /* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "正在搜尋 %@ 個開放原始碼圖示。";
 
+/* Row name for a separator with the section-break style
+   Separator style menu item: break between button groups in the bar */
+"Section Break" = "分節符號";
+
 /* No comment provided by engineer. */
 "Select" = "選取";
 
-/* No comment provided by engineer. */
-"Separator" = "分隔線";
+/* Submenu title: the separator's style — section break or page break */
+"Separator Style" = "分隔線樣式";
 
 /* No comment provided by engineer. */
 "Settings for \"%@\"" = "「%@」的設定";
