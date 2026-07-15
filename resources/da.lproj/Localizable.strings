@@ -346,20 +346,14 @@
 /* Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
 "iCloud sync error (%@)" = "iCloud-synkroniseringsfejl (%@)";
 
-/* No comment provided by engineer. */
+/* Show As menu item: display this action as an icon */
 "Icon" = "Ikon";
-
-/* No comment provided by engineer. */
-"Icon and Text" = "Ikon og tekst";
 
 /* No comment provided by engineer. */
 "Icon error" = "Ikonfejl";
 
 /* No comment provided by engineer. */
 "Icon not found" = "Ikon ikke fundet";
-
-/* No comment provided by engineer. */
-"Icon Only" = "Kun ikon";
 
 /* No comment provided by engineer. */
 "Icon Picker" = "Ikonvælger";
@@ -672,7 +666,7 @@
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "Vis \"%@\" på handlingslisten";
 
-/* Submenu title: how this action is shown — icon, text, or both */
+/* Submenu title: how this action is shown — icon or text */
 "Show As" = "Vis som";
 
 /* No comment provided by engineer. */
@@ -744,14 +738,12 @@
 /* No comment provided by engineer. */
 "Technical information:" = "Teknisk information:";
 
-/* icon picker: use typed text as the icon */
+/* icon picker: use typed text as the icon
+   Show As menu item: display this action as text */
 "Text" = "Tekst";
 
 /* No comment provided by engineer. */
 "Text file" = "Tekstfil";
-
-/* No comment provided by engineer. */
-"Text Only" = "Kun tekst";
 
 /* No comment provided by engineer. */
 "The application appears to be corrupted. Please install a fresh copy." = "Programmet virker til at være korrupt. Installer venligst en frisk kopi.";

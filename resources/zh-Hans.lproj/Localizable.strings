@@ -346,20 +346,14 @@
 /* Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
 "iCloud sync error (%@)" = "iCloud 同步错误（%@）";
 
-/* No comment provided by engineer. */
+/* Show As menu item: display this action as an icon */
 "Icon" = "图标";
-
-/* No comment provided by engineer. */
-"Icon and Text" = "图标和文本";
 
 /* No comment provided by engineer. */
 "Icon error" = "图标错误";
 
 /* No comment provided by engineer. */
 "Icon not found" = "未找到图标";
-
-/* No comment provided by engineer. */
-"Icon Only" = "仅图标";
 
 /* No comment provided by engineer. */
 "Icon Picker" = "图标选择器";
@@ -672,7 +666,7 @@
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "在操作列表中显示“%@”";
 
-/* Submenu title: how this action is shown — icon, text, or both */
+/* Submenu title: how this action is shown — icon or text */
 "Show As" = "显示为";
 
 /* No comment provided by engineer. */
@@ -744,14 +738,12 @@
 /* No comment provided by engineer. */
 "Technical information:" = "技术信息：";
 
-/* icon picker: use typed text as the icon */
+/* icon picker: use typed text as the icon
+   Show As menu item: display this action as text */
 "Text" = "文本";
 
 /* No comment provided by engineer. */
 "Text file" = "文本文件";
-
-/* No comment provided by engineer. */
-"Text Only" = "仅文本";
 
 /* No comment provided by engineer. */
 "The application appears to be corrupted. Please install a fresh copy." = "应用程序似乎已损坏。请安装一个新副本。";

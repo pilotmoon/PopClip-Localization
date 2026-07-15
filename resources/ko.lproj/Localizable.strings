@@ -346,20 +346,14 @@
 /* Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
 "iCloud sync error (%@)" = "iCloud 동기화 오류(%@)";
 
-/* No comment provided by engineer. */
+/* Show As menu item: display this action as an icon */
 "Icon" = "아이콘";
-
-/* No comment provided by engineer. */
-"Icon and Text" = "아이콘 및 텍스트";
 
 /* No comment provided by engineer. */
 "Icon error" = "아이콘 오류";
 
 /* No comment provided by engineer. */
 "Icon not found" = "아이콘을 찾을 수 없음";
-
-/* No comment provided by engineer. */
-"Icon Only" = "아이콘만";
 
 /* No comment provided by engineer. */
 "Icon Picker" = "아이콘 선택기";
@@ -672,7 +666,7 @@
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "작업 목록에 “%@” 표시";
 
-/* Submenu title: how this action is shown — icon, text, or both */
+/* Submenu title: how this action is shown — icon or text */
 "Show As" = "다음으로 표시";
 
 /* No comment provided by engineer. */
@@ -744,14 +738,12 @@
 /* No comment provided by engineer. */
 "Technical information:" = "기술 정보:";
 
-/* icon picker: use typed text as the icon */
+/* icon picker: use typed text as the icon
+   Show As menu item: display this action as text */
 "Text" = "텍스트";
 
 /* No comment provided by engineer. */
 "Text file" = "텍스트 파일";
-
-/* No comment provided by engineer. */
-"Text Only" = "텍스트만";
 
 /* No comment provided by engineer. */
 "The application appears to be corrupted. Please install a fresh copy." = "이 응용 프로그램은 손상된 것 같습니다. 새로운 사본을 설치하세요.";

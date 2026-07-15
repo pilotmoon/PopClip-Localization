@@ -346,20 +346,14 @@
 /* Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
 "iCloud sync error (%@)" = "Error de sincronización de iCloud (%@)";
 
-/* No comment provided by engineer. */
+/* Show As menu item: display this action as an icon */
 "Icon" = "Icono";
-
-/* No comment provided by engineer. */
-"Icon and Text" = "Icono y texto";
 
 /* No comment provided by engineer. */
 "Icon error" = "Error de icono";
 
 /* No comment provided by engineer. */
 "Icon not found" = "Icono no encontrado";
-
-/* No comment provided by engineer. */
-"Icon Only" = "Solo icono";
 
 /* No comment provided by engineer. */
 "Icon Picker" = "Selector de iconos";
@@ -672,7 +666,7 @@
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "Mostrar \"%@\" en la lista de acciones";
 
-/* Submenu title: how this action is shown — icon, text, or both */
+/* Submenu title: how this action is shown — icon or text */
 "Show As" = "Mostrar como";
 
 /* No comment provided by engineer. */
@@ -744,14 +738,12 @@
 /* No comment provided by engineer. */
 "Technical information:" = "Información técnica:";
 
-/* icon picker: use typed text as the icon */
+/* icon picker: use typed text as the icon
+   Show As menu item: display this action as text */
 "Text" = "Texto";
 
 /* No comment provided by engineer. */
 "Text file" = "Archivo de texto";
-
-/* No comment provided by engineer. */
-"Text Only" = "Solo texto";
 
 /* No comment provided by engineer. */
 "The application appears to be corrupted. Please install a fresh copy." = "La aplicación parece estar dañada. Instala una copia nueva.";
