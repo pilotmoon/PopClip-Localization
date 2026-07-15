@@ -30,6 +30,22 @@
         <string>%lu個の拡張機能が更新されました</string>
       </dict>
     </dict>
+    <key>%lu instances</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@count@</string>
+      <key>count</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>zero</key>
+        <string>インスタンスなし</string>
+        <key>other</key>
+        <string>%lu個のインスタンス</string>
+      </dict>
+    </dict>
     <key>%lu updates available</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>

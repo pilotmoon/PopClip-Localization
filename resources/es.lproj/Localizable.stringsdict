@@ -34,6 +34,24 @@
         <string>%lu extensiones actualizadas</string>
       </dict>
     </dict>
+    <key>%lu instances</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@count@</string>
+      <key>count</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>zero</key>
+        <string>Sin instancias</string>
+        <key>one</key>
+        <string>%lu instancia</string>
+        <key>other</key>
+        <string>%lu instancias</string>
+      </dict>
+    </dict>
     <key>%lu updates available</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>

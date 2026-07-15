@@ -1,3 +1,6 @@
+/* Extensions list subtitle: joins the install info with the instance count, e.g. \"Installed 3 days ago · 2 instances\" */
+"%1$@ · %2$@" = "%1$@ · %2$@";
+
 /* Popup tooltip. %1$@ layout name, %2$@ action title. */
 "%1$@: %2$@" = "%1$@: %2$@";
 
@@ -21,6 +24,9 @@
 
 /* number of extensions updated; plural forms in Localizable.stringsdict */
 "%lu extensions updated" = "Aktualizovaných %lu rozšírení";
+
+/* Extensions list subtitle: count of an extension's instances; plural forms in Localizable.stringsdict (zero reads \"No instances\") */
+"%lu instances" = "%lu inštancií";
 
 /* number of updates available; plural forms in Localizable.stringsdict */
 "%lu updates available" = "K dispozícii je %lu aktualizácií";

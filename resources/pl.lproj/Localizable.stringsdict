@@ -42,6 +42,28 @@
         <string>Zaktualizowano %lu rozszerzenia</string>
       </dict>
     </dict>
+    <key>%lu instances</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@count@</string>
+      <key>count</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>zero</key>
+        <string>Brak instancji</string>
+        <key>one</key>
+        <string>%lu instancja</string>
+        <key>few</key>
+        <string>%lu instancje</string>
+        <key>many</key>
+        <string>%lu instancji</string>
+        <key>other</key>
+        <string>%lu instancji</string>
+      </dict>
+    </dict>
     <key>%lu updates available</key>
     <dict>
       <key>NSStringLocalizedFormatKey</key>
