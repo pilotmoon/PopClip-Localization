@@ -148,6 +148,12 @@
 /* Progress label shown while checking for extension updates */
 "Checking…" = "Denetleniyor…";
 
+/* icon picker: instruction text at the top of the file chooser dialog */
+"Choose an SVG or PNG image file to use as the icon." = "Simge olarak kullanılacak bir SVG veya PNG görüntü dosyası seçin.";
+
+/* icon picker: button that opens a file chooser to select an SVG or PNG image file to use as the icon */
+"Choose SVG or PNG…" = "SVG veya PNG Seç…";
+
 /* icon picker option: shape is a circle */
 "Circle" = "Daire";
 

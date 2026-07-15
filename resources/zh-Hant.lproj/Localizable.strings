@@ -148,6 +148,12 @@
 /* Progress label shown while checking for extension updates */
 "Checking…" = "正在檢查…";
 
+/* icon picker: instruction text at the top of the file chooser dialog */
+"Choose an SVG or PNG image file to use as the icon." = "選擇要用作圖示的 SVG 或 PNG 影像檔。";
+
+/* icon picker: button that opens a file chooser to select an SVG or PNG image file to use as the icon */
+"Choose SVG or PNG…" = "選擇 SVG 或 PNG…";
+
 /* icon picker option: shape is a circle */
 "Circle" = "圓形";
 

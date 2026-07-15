@@ -148,6 +148,12 @@
 /* Progress label shown while checking for extension updates */
 "Checking…" = "확인 중…";
 
+/* icon picker: instruction text at the top of the file chooser dialog */
+"Choose an SVG or PNG image file to use as the icon." = "아이콘으로 사용할 SVG 또는 PNG 이미지 파일을 선택하십시오.";
+
+/* icon picker: button that opens a file chooser to select an SVG or PNG image file to use as the icon */
+"Choose SVG or PNG…" = "SVG 또는 PNG 선택…";
+
 /* icon picker option: shape is a circle */
 "Circle" = "원";
 

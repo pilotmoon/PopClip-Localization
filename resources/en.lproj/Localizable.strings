@@ -148,6 +148,12 @@
 /* Progress label shown while checking for extension updates */
 "Checking…" = "Checking…";
 
+/* icon picker: instruction text at the top of the file chooser dialog */
+"Choose an SVG or PNG image file to use as the icon." = "Choose an SVG or PNG image file to use as the icon.";
+
+/* icon picker: button that opens a file chooser to select an SVG or PNG image file to use as the icon */
+"Choose SVG or PNG…" = "Choose SVG or PNG…";
+
 /* icon picker option: shape is a circle */
 "Circle" = "Circle";
 
