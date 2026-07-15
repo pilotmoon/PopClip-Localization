@@ -34,6 +34,9 @@
 /* number of uses remaining in the free trial; plural forms in Localizable.stringsdict */
 "%lu Uses Left" = "%lu Kullanım kaldı";
 
+/* appended to the icon specifier tooltip; %@ is the specifier's total character count */
+"(%@ characters)" = "(%@ karakter)";
+
 /* click this button to get 10 more uses in the free trial */
 "+10 Uses" = "+10 Kullanım";
 
