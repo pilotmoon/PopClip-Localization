@@ -211,9 +211,6 @@
 /* button title */
 "Don't Install" = "Yükleme";
 
-/* Button to finish editing and close the action filter field */
-"Done" = "Tamamlandı";
-
 /* %@ and %@ are data sizes, e.g. “1.2 MB of 5 MB” */
 "Downloaded %@ of %@…" = "%1$@ / %2$@ indirildi…";
 
@@ -283,8 +280,8 @@
 /* icon picker option: shape is filled, not outline */
 "Fill" = "Doldur";
 
-/* No comment provided by engineer. */
-"Filter Actions" = "Eylemleri Filtrele";
+/* Placeholder in the field that filters the actions list */
+"Filter" = "Filtrele";
 
 /* icon picker: flip (mirror) control */
 "Flip" = "Çevir";

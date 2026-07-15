@@ -211,9 +211,6 @@
 /* button title */
 "Don't Install" = "설치하지 않음";
 
-/* Button to finish editing and close the action filter field */
-"Done" = "완료";
-
 /* %@ and %@ are data sizes, e.g. “1.2 MB of 5 MB” */
 "Downloaded %@ of %@…" = "%1$@/%2$@ 다운로드 완료…";
 
@@ -283,8 +280,8 @@
 /* icon picker option: shape is filled, not outline */
 "Fill" = "채우기";
 
-/* No comment provided by engineer. */
-"Filter Actions" = "작업 필터링";
+/* Placeholder in the field that filters the actions list */
+"Filter" = "필터";
 
 /* icon picker: flip (mirror) control */
 "Flip" = "뒤집기";

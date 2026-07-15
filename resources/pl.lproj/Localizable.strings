@@ -211,9 +211,6 @@
 /* button title */
 "Don't Install" = "Nie instaluj";
 
-/* Button to finish editing and close the action filter field */
-"Done" = "Gotowe";
-
 /* %@ and %@ are data sizes, e.g. “1.2 MB of 5 MB” */
 "Downloaded %@ of %@…" = "Pobrano %1$@ z %2$@…";
 
@@ -283,8 +280,8 @@
 /* icon picker option: shape is filled, not outline */
 "Fill" = "Wypełnienie";
 
-/* No comment provided by engineer. */
-"Filter Actions" = "Filtruj czynności";
+/* Placeholder in the field that filters the actions list */
+"Filter" = "Filtruj";
 
 /* icon picker: flip (mirror) control */
 "Flip" = "Odbij";

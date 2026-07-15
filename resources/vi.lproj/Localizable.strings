@@ -211,9 +211,6 @@
 /* button title */
 "Don't Install" = "Không cài đặt";
 
-/* Button to finish editing and close the action filter field */
-"Done" = "Xong";
-
 /* %@ and %@ are data sizes, e.g. “1.2 MB of 5 MB” */
 "Downloaded %@ of %@…" = "Đã tải %1$@ trên tổng %2$@…";
 
@@ -283,8 +280,8 @@
 /* icon picker option: shape is filled, not outline */
 "Fill" = "Tô đầy";
 
-/* No comment provided by engineer. */
-"Filter Actions" = "Lọc hành động";
+/* Placeholder in the field that filters the actions list */
+"Filter" = "Lọc";
 
 /* icon picker: flip (mirror) control */
 "Flip" = "Lật";

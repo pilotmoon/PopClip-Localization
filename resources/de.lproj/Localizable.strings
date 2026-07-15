@@ -211,9 +211,6 @@
 /* button title */
 "Don't Install" = "Nicht installieren";
 
-/* Button to finish editing and close the action filter field */
-"Done" = "Fertig";
-
 /* %@ and %@ are data sizes, e.g. “1.2 MB of 5 MB” */
 "Downloaded %@ of %@…" = "%1$@ von %2$@ heruntergeladen…";
 
@@ -283,8 +280,8 @@
 /* icon picker option: shape is filled, not outline */
 "Fill" = "Füllung";
 
-/* No comment provided by engineer. */
-"Filter Actions" = "Aktionen filtern";
+/* Placeholder in the field that filters the actions list */
+"Filter" = "Filtern";
 
 /* icon picker: flip (mirror) control */
 "Flip" = "Spiegeln";

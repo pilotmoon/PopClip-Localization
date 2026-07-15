@@ -211,9 +211,6 @@
 /* button title */
 "Don't Install" = "不安装";
 
-/* Button to finish editing and close the action filter field */
-"Done" = "完成";
-
 /* %@ and %@ are data sizes, e.g. “1.2 MB of 5 MB” */
 "Downloaded %@ of %@…" = "已下载 %1$@/%2$@…";
 
@@ -283,8 +280,8 @@
 /* icon picker option: shape is filled, not outline */
 "Fill" = "填充";
 
-/* No comment provided by engineer. */
-"Filter Actions" = "筛选操作";
+/* Placeholder in the field that filters the actions list */
+"Filter" = "筛选";
 
 /* icon picker: flip (mirror) control */
 "Flip" = "翻转";

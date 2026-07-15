@@ -211,9 +211,6 @@
 /* button title */
 "Don't Install" = "Не встановлювати";
 
-/* Button to finish editing and close the action filter field */
-"Done" = "Готово";
-
 /* %@ and %@ are data sizes, e.g. “1.2 MB of 5 MB” */
 "Downloaded %@ of %@…" = "Завантажено %1$@ з %2$@…";
 
@@ -283,8 +280,8 @@
 /* icon picker option: shape is filled, not outline */
 "Fill" = "Заливка";
 
-/* No comment provided by engineer. */
-"Filter Actions" = "Фільтрувати дії";
+/* Placeholder in the field that filters the actions list */
+"Filter" = "Фільтр";
 
 /* icon picker: flip (mirror) control */
 "Flip" = "Віддзеркалити";
