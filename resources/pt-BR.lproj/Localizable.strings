@@ -64,9 +64,6 @@
 /* icon picker: button revealing the icon adjustment controls */
 "Adjust" = "Ajustar";
 
-/* No comment provided by engineer. */
-"Alternate Search URL" = "URL de pesquisa alternativo";
-
 /* URL rule description */
 "and subdomains" = "e subdomínios";
 
@@ -318,9 +315,6 @@
 
 /* Toggle: hide a stored secret value such as an API key */
 "Hide Secret" = "Ocultar segredo";
-
-/* No comment provided by engineer. */
-"Hold Option (⌥) for alternate search." = "Mantenha pressionada a tecla Option (⌥) para a busca alternativa.";
 
 /* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "Host";
@@ -606,9 +600,6 @@
 "Rename…" = "Renomear…";
 
 /* No comment provided by engineer. */
-"Replace your search term with ***\nFor example: https://example.com/?q=***" = "Substitua seu termo de busca por ***\nPor exemplo: https://example.com/?q=***";
-
-/* No comment provided by engineer. */
 "Request Accessibility Access" = "Solicitar acesso à acessibilidade";
 
 /* No comment provided by engineer. */
@@ -635,11 +626,11 @@
 /* name of web search feature */
 "Search" = "Busca";
 
+/* No comment provided by engineer. */
+"Search Engine" = "Mecanismo de busca";
+
 /* Search for icons from the 'Iconify' icon library */
 "Search Iconify" = "Buscar no Iconify";
-
-/* No comment provided by engineer. */
-"Search URL" = "URL da pesquisa";
 
 /* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "Buscando %@ ícones de código aberto.";
@@ -803,6 +794,9 @@
 
 /* No comment provided by engineer. */
 "URL scheme" = "Esquema de URL";
+
+/* No comment provided by engineer. */
+"Use *** in place of the search text." = "Use *** no lugar do texto de busca.";
 
 /* No comment provided by engineer. */
 "Use the keyboard shortcut to trigger PopClip manually." = "Use o atalho de teclado para acionar o PopClip manualmente.";

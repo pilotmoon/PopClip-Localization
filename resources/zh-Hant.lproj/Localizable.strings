@@ -64,9 +64,6 @@
 /* icon picker: button revealing the icon adjustment controls */
 "Adjust" = "調整";
 
-/* No comment provided by engineer. */
-"Alternate Search URL" = "備用搜尋 URL";
-
 /* URL rule description */
 "and subdomains" = "與子網域";
 
@@ -318,9 +315,6 @@
 
 /* Toggle: hide a stored secret value such as an API key */
 "Hide Secret" = "隱藏密鑰";
-
-/* No comment provided by engineer. */
-"Hold Option (⌥) for alternate search." = "按住 Option (⌥) 進行備用搜尋。";
 
 /* URL rule: the host part of a URL, e.g. example.com */
 "Host" = "主機";
@@ -606,9 +600,6 @@
 "Rename…" = "重新命名…";
 
 /* No comment provided by engineer. */
-"Replace your search term with ***\nFor example: https://example.com/?q=***" = "使用 *** 取代您的搜尋詞彙\n例如：https://example.com/?q=***";
-
-/* No comment provided by engineer. */
 "Request Accessibility Access" = "要求輔助使用存取權";
 
 /* No comment provided by engineer. */
@@ -635,11 +626,11 @@
 /* name of web search feature */
 "Search" = "搜尋";
 
+/* No comment provided by engineer. */
+"Search Engine" = "搜尋引擎";
+
 /* Search for icons from the 'Iconify' icon library */
 "Search Iconify" = "搜尋 Iconify";
-
-/* No comment provided by engineer. */
-"Search URL" = "搜尋 URL";
 
 /* %@ is a count (number of icons) */
 "Searching %@ open source icons." = "正在搜尋 %@ 個開放原始碼圖示。";
@@ -803,6 +794,9 @@
 
 /* No comment provided by engineer. */
 "URL scheme" = "URL 方案";
+
+/* No comment provided by engineer. */
+"Use *** in place of the search text." = "以 *** 代替搜尋文字。";
 
 /* No comment provided by engineer. */
 "Use the keyboard shortcut to trigger PopClip manually." = "使用鍵盤快速鍵手動呼叫 PopClip。";
