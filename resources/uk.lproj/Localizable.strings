@@ -292,9 +292,6 @@
 /* icon picker option: shape is filled, not outline */
 "Fill" = "Заливка";
 
-/* Placeholder in the field that filters the actions list */
-"Filter" = "Фільтр";
-
 /* icon picker: flip (mirror) control */
 "Flip" = "Віддзеркалити";
 
@@ -450,6 +447,9 @@
 
 /* No comment provided by engineer. */
 "Loading icon…" = "Завантаження іконки…";
+
+/* Shown under the iCloud Sync menu item when the Mac's Low Power Mode is on, which can delay iCloud sync activity */
+"Low Power Mode may delay syncing" = "Режим енергозбереження може затримувати синхронізацію";
 
 /* No comment provided by engineer. */
 "Main Menu" = "Головне меню";
@@ -632,7 +632,8 @@
 /* icon picker: scale (size) control */
 "Scale" = "Масштаб";
 
-/* name of web search feature */
+/* name of web search feature
+   Placeholder in the field that searches the actions list */
 "Search" = "Пошук";
 
 /* No comment provided by engineer. */

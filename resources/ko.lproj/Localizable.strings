@@ -292,9 +292,6 @@
 /* icon picker option: shape is filled, not outline */
 "Fill" = "채우기";
 
-/* Placeholder in the field that filters the actions list */
-"Filter" = "필터";
-
 /* icon picker: flip (mirror) control */
 "Flip" = "뒤집기";
 
@@ -450,6 +447,9 @@
 
 /* No comment provided by engineer. */
 "Loading icon…" = "아이콘 로드 중…";
+
+/* Shown under the iCloud Sync menu item when the Mac's Low Power Mode is on, which can delay iCloud sync activity */
+"Low Power Mode may delay syncing" = "저전력 모드에서는 동기화가 지연될 수 있습니다";
 
 /* No comment provided by engineer. */
 "Main Menu" = "메인 메뉴";
@@ -632,7 +632,8 @@
 /* icon picker: scale (size) control */
 "Scale" = "크기 조절";
 
-/* name of web search feature */
+/* name of web search feature
+   Placeholder in the field that searches the actions list */
 "Search" = "검색";
 
 /* No comment provided by engineer. */
