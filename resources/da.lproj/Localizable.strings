@@ -190,9 +190,6 @@
 /* Icon picker tab label: use your own supplied image as the icon */
 "Custom" = "Brugerdefineret";
 
-/* Pop-up menu item to enter a custom value; reused across many option types */
-"Custom…" = "Brugerdefineret…";
-
 /* Indicates Dark color appearance */
 "Dark" = "Mørk";
 
@@ -538,7 +535,8 @@
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "Oprindelse";
 
-/* URL rule pop-up: a match type other than the presets (Domain, Host, etc.) */
+/* Pop-up menu item to enter a custom value; reused across many option types
+   URL rule pop-up: a match type other than the presets (Domain, Host, etc.) */
 "Other…" = "Andet…";
 
 /* No comment provided by engineer. */

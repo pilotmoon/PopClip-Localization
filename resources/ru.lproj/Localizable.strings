@@ -190,9 +190,6 @@
 /* Icon picker tab label: use your own supplied image as the icon */
 "Custom" = "Свое";
 
-/* Pop-up menu item to enter a custom value; reused across many option types */
-"Custom…" = "Свое…";
-
 /* Indicates Dark color appearance */
 "Dark" = "Тёмный";
 
@@ -538,7 +535,8 @@
 /* extension info: where the extension came from (built-in, extensions directory, etc.) */
 "Origin" = "Источник";
 
-/* URL rule pop-up: a match type other than the presets (Domain, Host, etc.) */
+/* Pop-up menu item to enter a custom value; reused across many option types
+   URL rule pop-up: a match type other than the presets (Domain, Host, etc.) */
 "Other…" = "Другое…";
 
 /* No comment provided by engineer. */
