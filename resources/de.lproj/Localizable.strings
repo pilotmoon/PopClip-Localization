@@ -83,7 +83,7 @@
 "App Settings" = "App-Einstellungen";
 
 /* No comment provided by engineer. */
-"Appear automatically" = "Automatisch erscheinen";
+"Appear automatically" = "Automatisch einblenden";
 
 /* Title of the appearance settings section: visual appearance such as dark/light mode, color, and size. */
 "Appearance" = "Erscheinungsbild";
@@ -613,7 +613,7 @@
 "Reset to Default Icon" = "Auf Standardsymbol zurücksetzen";
 
 /* No comment provided by engineer. */
-"Restrict where PopClip can appear automatically." = "Beschränken Sie, wo PopClip automatisch erscheinen kann.";
+"Restrict where PopClip can appear automatically." = "Legen Sie fest, wo PopClip automatisch eingeblendet wird.";
 
 /* name of 'reveal in finder' feature */
 "Reveal in Finder" = "Im Finder anzeigen";
@@ -805,7 +805,7 @@
 "Use *** in place of the search text." = "Verwenden Sie *** anstelle des Suchtexts.";
 
 /* No comment provided by engineer. */
-"Use the keyboard shortcut to trigger PopClip manually." = "Verwenden Sie den Tastaturkurzbefehl, um PopClip manuell auszulösen.";
+"Use the keyboard shortcut to trigger PopClip manually." = "Verwenden Sie den Tastaturkurzbefehl, um PopClip manuell einzublenden.";
 
 /* Extension info origin value (describes an extension): created by the user */
 "User-generated" = "Benutzergeneriert";
