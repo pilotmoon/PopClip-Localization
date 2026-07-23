@@ -115,6 +115,9 @@
 /* No comment provided by engineer. */
 "Below Text" = "テキストの下";
 
+/* TODO:TRANSLATE — source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
+"Binary file (%@)" = "Binary file (%@)";
+
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "内蔵";
 
@@ -172,7 +175,8 @@
 /* example: Connecting to updateserver.example.com… */
 "Connecting to %@…" = "%@に接続中…";
 
-/* Displayed when something has been copied to the clipboard */
+/* Displayed when something has been copied to the clipboard
+   source viewer: transient button title after copying the snippet */
 "Copied" = "コピーされました";
 
 /* No comment provided by engineer. */
@@ -180,6 +184,9 @@
 
 /* No comment provided by engineer. */
 "Copy PNG Image" = "PNG画像をコピー";
+
+/* TODO:TRANSLATE — source viewer: button that copies the extension's snippet text to the clipboard */
+"Copy Snippet" = "Copy Snippet";
 
 /* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "指定子をコピー";
@@ -262,6 +269,12 @@
 /* %@ is the expiry date */
 "Expires: %@" = "有効期限: %@";
 
+/* TODO:TRANSLATE — source viewer: button that exports the extension as a .popclipext package */
+"Export…" = "Export…";
+
+/* TODO:TRANSLATE — Submenu title: commands for the action's extension */
+"Extension" = "Extension";
+
 /* No comment provided by engineer. */
 "Extension Commands" = "拡張機能コマンド";
 
@@ -273,6 +286,9 @@
 
 /* No comment provided by engineer. */
 "Extension Load Error" = "拡張機能の読み込みエラー";
+
+/* TODO:TRANSLATE — source viewer: window subtitle shown under the extension name */
+"Extension Source" = "Extension Source";
 
 /* No comment provided by engineer. */
 "Extensions" = "拡張機能";

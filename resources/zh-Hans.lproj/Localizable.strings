@@ -115,6 +115,9 @@
 /* No comment provided by engineer. */
 "Below Text" = "文本下方";
 
+/* TODO:TRANSLATE — source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
+"Binary file (%@)" = "Binary file (%@)";
+
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "内置";
 
@@ -172,7 +175,8 @@
 /* example: Connecting to updateserver.example.com… */
 "Connecting to %@…" = "正在连接到 %@…";
 
-/* Displayed when something has been copied to the clipboard */
+/* Displayed when something has been copied to the clipboard
+   source viewer: transient button title after copying the snippet */
 "Copied" = "已复制";
 
 /* No comment provided by engineer. */
@@ -180,6 +184,9 @@
 
 /* No comment provided by engineer. */
 "Copy PNG Image" = "复制 PNG 图像";
+
+/* TODO:TRANSLATE — source viewer: button that copies the extension's snippet text to the clipboard */
+"Copy Snippet" = "Copy Snippet";
 
 /* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "复制说明符";
@@ -262,6 +269,12 @@
 /* %@ is the expiry date */
 "Expires: %@" = "到期：%@";
 
+/* TODO:TRANSLATE — source viewer: button that exports the extension as a .popclipext package */
+"Export…" = "Export…";
+
+/* TODO:TRANSLATE — Submenu title: commands for the action's extension */
+"Extension" = "Extension";
+
 /* No comment provided by engineer. */
 "Extension Commands" = "扩展命令";
 
@@ -273,6 +286,9 @@
 
 /* No comment provided by engineer. */
 "Extension Load Error" = "扩展加载错误";
+
+/* TODO:TRANSLATE — source viewer: window subtitle shown under the extension name */
+"Extension Source" = "Extension Source";
 
 /* No comment provided by engineer. */
 "Extensions" = "扩展";
