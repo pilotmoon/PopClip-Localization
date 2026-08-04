@@ -115,8 +115,8 @@
 /* No comment provided by engineer. */
 "Below Text" = "텍스트 아래";
 
-/* TODO:TRANSLATE — source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
-"Binary file (%@)" = "Binary file (%@)";
+/* source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
+"Binary file (%@)" = "바이너리 파일(%@)";
 
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "내장";
@@ -132,6 +132,9 @@
 
 /* No comment provided by engineer. */
 "Cancel" = "취소";
+
+/* Displayed when the user cancels a running action by clicking its spinner */
+"Canceled" = "취소됨";
 
 /* 1=name of app */
 "Cannot start %1$@" = "%1$@ 앱을 시작할 수 없습니다";
@@ -185,8 +188,8 @@
 /* No comment provided by engineer. */
 "Copy PNG Image" = "PNG 이미지 복사";
 
-/* TODO:TRANSLATE — source viewer: button that copies the extension's snippet text to the clipboard */
-"Copy Snippet" = "Copy Snippet";
+/* source viewer: button that copies the extension's snippet text to the clipboard */
+"Copy Snippet" = "스니펫 복사";
 
 /* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "지정자 복사";
@@ -269,11 +272,11 @@
 /* %@ is the expiry date */
 "Expires: %@" = "만료: %@";
 
-/* TODO:TRANSLATE — source viewer: button that exports the extension as a .popclipext package */
-"Export…" = "Export…";
+/* source viewer: button that exports the extension as a .popclipext package */
+"Export…" = "내보내기…";
 
-/* TODO:TRANSLATE — Submenu title: commands for the action's extension */
-"Extension" = "Extension";
+/* Submenu title: commands for the action's extension */
+"Extension" = "확장 프로그램";
 
 /* No comment provided by engineer. */
 "Extension Commands" = "확장 프로그램 명령";
@@ -287,8 +290,8 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "확장 프로그램 로드 오류";
 
-/* TODO:TRANSLATE — source viewer: window subtitle shown under the extension name */
-"Extension Source" = "Extension Source";
+/* source viewer: window subtitle shown under the extension name */
+"Extension Source" = "확장 프로그램 소스";
 
 /* No comment provided by engineer. */
 "Extensions" = "확장 프로그램";

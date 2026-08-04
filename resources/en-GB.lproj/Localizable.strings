@@ -1,2 +1,5 @@
+/* Displayed when the user cancels a running action by clicking its spinner */
+"Canceled" = "Cancelled";
+
 /* Submenu title: the action icon color */
 "Color" = "Colour";

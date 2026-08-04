@@ -115,8 +115,8 @@
 /* No comment provided by engineer. */
 "Below Text" = "Abaixo do texto";
 
-/* TODO:TRANSLATE — source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
-"Binary file (%@)" = "Binary file (%@)";
+/* source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
+"Binary file (%@)" = "Arquivo binário (%@)";
 
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "Integrado";
@@ -132,6 +132,9 @@
 
 /* No comment provided by engineer. */
 "Cancel" = "Cancelar";
+
+/* Displayed when the user cancels a running action by clicking its spinner */
+"Canceled" = "Cancelado";
 
 /* 1=name of app */
 "Cannot start %1$@" = "Não é possível iniciar %1$@";
@@ -185,8 +188,8 @@
 /* No comment provided by engineer. */
 "Copy PNG Image" = "Copiar imagem PNG";
 
-/* TODO:TRANSLATE — source viewer: button that copies the extension's snippet text to the clipboard */
-"Copy Snippet" = "Copy Snippet";
+/* source viewer: button that copies the extension's snippet text to the clipboard */
+"Copy Snippet" = "Copiar snippet";
 
 /* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "Copiar especificador";
@@ -269,11 +272,11 @@
 /* %@ is the expiry date */
 "Expires: %@" = "Expira em: %@";
 
-/* TODO:TRANSLATE — source viewer: button that exports the extension as a .popclipext package */
-"Export…" = "Export…";
+/* source viewer: button that exports the extension as a .popclipext package */
+"Export…" = "Exportar…";
 
-/* TODO:TRANSLATE — Submenu title: commands for the action's extension */
-"Extension" = "Extension";
+/* Submenu title: commands for the action's extension */
+"Extension" = "Extensão";
 
 /* No comment provided by engineer. */
 "Extension Commands" = "Comandos da extensão";
@@ -287,8 +290,8 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "Erro ao carregar extensão";
 
-/* TODO:TRANSLATE — source viewer: window subtitle shown under the extension name */
-"Extension Source" = "Extension Source";
+/* source viewer: window subtitle shown under the extension name */
+"Extension Source" = "Código-fonte da extensão";
 
 /* No comment provided by engineer. */
 "Extensions" = "Extensões";
@@ -715,10 +718,10 @@
 "Size" = "Tamanho";
 
 /* Extension info source value: installed from a text snippet */
-"Snippet" = "Trecho";
+"Snippet" = "Snippet";
 
 /* No comment provided by engineer. */
-"Snippet is too long (%@ chars; max %@)" = "O trecho é longo demais (%1$@ caracteres; máx. %2$@)";
+"Snippet is too long (%@ chars; max %@)" = "O snippet é longo demais (%1$@ caracteres; máx. %2$@)";
 
 /* No comment provided by engineer. */
 "Software Update" = "Atualização de software";

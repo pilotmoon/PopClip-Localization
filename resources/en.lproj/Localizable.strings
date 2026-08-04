@@ -133,6 +133,9 @@
 /* No comment provided by engineer. */
 "Cancel" = "Cancel";
 
+/* Displayed when the user cancels a running action by clicking its spinner */
+"Canceled" = "Canceled";
+
 /* 1=name of app */
 "Cannot start %1$@" = "Cannot start %1$@";
 

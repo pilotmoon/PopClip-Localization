@@ -115,8 +115,8 @@
 /* No comment provided by engineer. */
 "Below Text" = "Onder tekst";
 
-/* TODO:TRANSLATE — source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
-"Binary file (%@)" = "Binary file (%@)";
+/* source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
+"Binary file (%@)" = "Binair bestand (%@)";
 
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "Ingebouwd";
@@ -132,6 +132,9 @@
 
 /* No comment provided by engineer. */
 "Cancel" = "Annuleer";
+
+/* Displayed when the user cancels a running action by clicking its spinner */
+"Canceled" = "Geannuleerd";
 
 /* 1=name of app */
 "Cannot start %1$@" = "Kan %1$@ niet starten";
@@ -185,8 +188,8 @@
 /* No comment provided by engineer. */
 "Copy PNG Image" = "Kopieer PNG-afbeelding";
 
-/* TODO:TRANSLATE — source viewer: button that copies the extension's snippet text to the clipboard */
-"Copy Snippet" = "Copy Snippet";
+/* source viewer: button that copies the extension's snippet text to the clipboard */
+"Copy Snippet" = "Kopieer snippet";
 
 /* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "Kopieer specificatie";
@@ -269,11 +272,11 @@
 /* %@ is the expiry date */
 "Expires: %@" = "Verloopt: %@";
 
-/* TODO:TRANSLATE — source viewer: button that exports the extension as a .popclipext package */
-"Export…" = "Export…";
+/* source viewer: button that exports the extension as a .popclipext package */
+"Export…" = "Exporteer…";
 
-/* TODO:TRANSLATE — Submenu title: commands for the action's extension */
-"Extension" = "Extension";
+/* Submenu title: commands for the action's extension */
+"Extension" = "Extensie";
 
 /* No comment provided by engineer. */
 "Extension Commands" = "Extensiecommando's";
@@ -287,8 +290,8 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "Laadfout extensie";
 
-/* TODO:TRANSLATE — source viewer: window subtitle shown under the extension name */
-"Extension Source" = "Extension Source";
+/* source viewer: window subtitle shown under the extension name */
+"Extension Source" = "Bron van de extensie";
 
 /* No comment provided by engineer. */
 "Extensions" = "Extensies";
@@ -715,10 +718,10 @@
 "Size" = "Grootte";
 
 /* Extension info source value: installed from a text snippet */
-"Snippet" = "Fragment";
+"Snippet" = "Snippet";
 
 /* No comment provided by engineer. */
-"Snippet is too long (%@ chars; max %@)" = "Fragment is te lang (%1$@ tekens; max. %2$@)";
+"Snippet is too long (%@ chars; max %@)" = "Snippet is te lang (%1$@ tekens; max. %2$@)";
 
 /* No comment provided by engineer. */
 "Software Update" = "Software-update";

@@ -5,7 +5,7 @@
 "Setapp","proper noun","Third-party subscription platform. Do not translate."
 "extension","noun","A PopClip add-on / plug-in. NOT a file-name extension (e.g. .txt) — never use the file-suffix term."
 "action","noun","A single button/command shown in the PopClip popup."
-"snippet","noun","A short text/YAML config that defines an extension."
+"snippet","noun","A short text/YAML config that defines an extension. Product term — do not translate: keep the English word 'snippet' (native transliteration in ja/ko/ru/uk); never a generic word like 'fragment' or 'excerpt'."
 "specifier","noun","A text string identifying an icon, e.g. symbol:star (Icon Specifier)."
 "entitlement","noun","A special permission an extension declares (e.g. network access)."
 "rule","noun","A condition controlling where PopClip appears (URL rule / app rule)."

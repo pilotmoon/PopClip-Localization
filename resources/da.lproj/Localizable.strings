@@ -115,8 +115,8 @@
 /* No comment provided by engineer. */
 "Below Text" = "Under tekst";
 
-/* TODO:TRANSLATE — source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
-"Binary file (%@)" = "Binary file (%@)";
+/* source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
+"Binary file (%@)" = "Binær fil (%@)";
 
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "Indbygget";
@@ -132,6 +132,9 @@
 
 /* No comment provided by engineer. */
 "Cancel" = "Annuller";
+
+/* Displayed when the user cancels a running action by clicking its spinner */
+"Canceled" = "Annulleret";
 
 /* 1=name of app */
 "Cannot start %1$@" = "Kan ikke starte %1$@";
@@ -185,8 +188,8 @@
 /* No comment provided by engineer. */
 "Copy PNG Image" = "Kopier PNG-billede";
 
-/* TODO:TRANSLATE — source viewer: button that copies the extension's snippet text to the clipboard */
-"Copy Snippet" = "Copy Snippet";
+/* source viewer: button that copies the extension's snippet text to the clipboard */
+"Copy Snippet" = "Kopier snippet";
 
 /* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "Kopier specifikator";
@@ -269,11 +272,11 @@
 /* %@ is the expiry date */
 "Expires: %@" = "Udløber: %@";
 
-/* TODO:TRANSLATE — source viewer: button that exports the extension as a .popclipext package */
-"Export…" = "Export…";
+/* source viewer: button that exports the extension as a .popclipext package */
+"Export…" = "Eksporter…";
 
-/* TODO:TRANSLATE — Submenu title: commands for the action's extension */
-"Extension" = "Extension";
+/* Submenu title: commands for the action's extension */
+"Extension" = "Udvidelse";
 
 /* No comment provided by engineer. */
 "Extension Commands" = "Udvidelseskommandoer";
@@ -287,8 +290,8 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "Fejl ved indlæsning af udvidelse";
 
-/* TODO:TRANSLATE — source viewer: window subtitle shown under the extension name */
-"Extension Source" = "Extension Source";
+/* source viewer: window subtitle shown under the extension name */
+"Extension Source" = "Udvidelsens kilde";
 
 /* No comment provided by engineer. */
 "Extensions" = "Udvidelser";
@@ -715,7 +718,7 @@
 "Size" = "Størrelse";
 
 /* Extension info source value: installed from a text snippet */
-"Snippet" = "Uddrag";
+"Snippet" = "Snippet";
 
 /* No comment provided by engineer. */
 "Snippet is too long (%@ chars; max %@)" = "Snippetet er for langt (%1$@ tegn; maks. %2$@)";

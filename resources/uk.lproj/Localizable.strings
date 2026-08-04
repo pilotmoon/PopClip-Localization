@@ -115,8 +115,8 @@
 /* No comment provided by engineer. */
 "Below Text" = "Під текстом";
 
-/* TODO:TRANSLATE — source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
-"Binary file (%@)" = "Binary file (%@)";
+/* source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
+"Binary file (%@)" = "Двійковий файл (%@)";
 
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "Вбудоване";
@@ -132,6 +132,9 @@
 
 /* No comment provided by engineer. */
 "Cancel" = "Скасувати";
+
+/* Displayed when the user cancels a running action by clicking its spinner */
+"Canceled" = "Скасовано";
 
 /* 1=name of app */
 "Cannot start %1$@" = "Не вдалося запустити %1$@";
@@ -185,8 +188,8 @@
 /* No comment provided by engineer. */
 "Copy PNG Image" = "Копіювати зображення PNG";
 
-/* TODO:TRANSLATE — source viewer: button that copies the extension's snippet text to the clipboard */
-"Copy Snippet" = "Copy Snippet";
+/* source viewer: button that copies the extension's snippet text to the clipboard */
+"Copy Snippet" = "Копіювати сніпет";
 
 /* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "Копіювати специфікатор";
@@ -269,11 +272,11 @@
 /* %@ is the expiry date */
 "Expires: %@" = "Термін дії: %@";
 
-/* TODO:TRANSLATE — source viewer: button that exports the extension as a .popclipext package */
-"Export…" = "Export…";
+/* source viewer: button that exports the extension as a .popclipext package */
+"Export…" = "Експортувати…";
 
-/* TODO:TRANSLATE — Submenu title: commands for the action's extension */
-"Extension" = "Extension";
+/* Submenu title: commands for the action's extension */
+"Extension" = "Розширення";
 
 /* No comment provided by engineer. */
 "Extension Commands" = "Команди розширення";
@@ -287,8 +290,8 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "Помилка завантаження розширення";
 
-/* TODO:TRANSLATE — source viewer: window subtitle shown under the extension name */
-"Extension Source" = "Extension Source";
+/* source viewer: window subtitle shown under the extension name */
+"Extension Source" = "Вихідний код розширення";
 
 /* No comment provided by engineer. */
 "Extensions" = "Розширення";
@@ -715,10 +718,10 @@
 "Size" = "Розмір";
 
 /* Extension info source value: installed from a text snippet */
-"Snippet" = "Фрагмент";
+"Snippet" = "Сніпет";
 
 /* No comment provided by engineer. */
-"Snippet is too long (%@ chars; max %@)" = "Фрагмент задовгий (%1$@ симв.; макс. %2$@)";
+"Snippet is too long (%@ chars; max %@)" = "Сніпет задовгий (%1$@ симв.; макс. %2$@)";
 
 /* No comment provided by engineer. */
 "Software Update" = "Оновлення ПЗ";

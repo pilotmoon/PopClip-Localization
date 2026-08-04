@@ -115,8 +115,8 @@
 /* No comment provided by engineer. */
 "Below Text" = "文本下方";
 
-/* TODO:TRANSLATE — source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
-"Binary file (%@)" = "Binary file (%@)";
+/* source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
+"Binary file (%@)" = "二进制文件（%@）";
 
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "内置";
@@ -132,6 +132,9 @@
 
 /* No comment provided by engineer. */
 "Cancel" = "取消";
+
+/* Displayed when the user cancels a running action by clicking its spinner */
+"Canceled" = "已取消";
 
 /* 1=name of app */
 "Cannot start %1$@" = "无法启动 %1$@";
@@ -185,8 +188,8 @@
 /* No comment provided by engineer. */
 "Copy PNG Image" = "复制 PNG 图像";
 
-/* TODO:TRANSLATE — source viewer: button that copies the extension's snippet text to the clipboard */
-"Copy Snippet" = "Copy Snippet";
+/* source viewer: button that copies the extension's snippet text to the clipboard */
+"Copy Snippet" = "复制 Snippet";
 
 /* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "复制说明符";
@@ -269,11 +272,11 @@
 /* %@ is the expiry date */
 "Expires: %@" = "到期：%@";
 
-/* TODO:TRANSLATE — source viewer: button that exports the extension as a .popclipext package */
-"Export…" = "Export…";
+/* source viewer: button that exports the extension as a .popclipext package */
+"Export…" = "导出…";
 
-/* TODO:TRANSLATE — Submenu title: commands for the action's extension */
-"Extension" = "Extension";
+/* Submenu title: commands for the action's extension */
+"Extension" = "扩展";
 
 /* No comment provided by engineer. */
 "Extension Commands" = "扩展命令";
@@ -287,8 +290,8 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "扩展加载错误";
 
-/* TODO:TRANSLATE — source viewer: window subtitle shown under the extension name */
-"Extension Source" = "Extension Source";
+/* source viewer: window subtitle shown under the extension name */
+"Extension Source" = "扩展源代码";
 
 /* No comment provided by engineer. */
 "Extensions" = "扩展";
@@ -715,10 +718,10 @@
 "Size" = "大小";
 
 /* Extension info source value: installed from a text snippet */
-"Snippet" = "片段";
+"Snippet" = "Snippet";
 
 /* No comment provided by engineer. */
-"Snippet is too long (%@ chars; max %@)" = "片段过长（%1$@ 个字符；最多 %2$@）";
+"Snippet is too long (%@ chars; max %@)" = "Snippet 过长（%1$@ 个字符；最多 %2$@）";
 
 /* No comment provided by engineer. */
 "Software Update" = "软件更新";

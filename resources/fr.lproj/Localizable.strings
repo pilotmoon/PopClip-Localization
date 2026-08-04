@@ -115,8 +115,8 @@
 /* No comment provided by engineer. */
 "Below Text" = "En dessous du texte";
 
-/* TODO:TRANSLATE — source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
-"Binary file (%@)" = "Binary file (%@)";
+/* source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
+"Binary file (%@)" = "Fichier binaire (%@)";
 
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "Intégrée";
@@ -132,6 +132,9 @@
 
 /* No comment provided by engineer. */
 "Cancel" = "Annuler";
+
+/* Displayed when the user cancels a running action by clicking its spinner */
+"Canceled" = "Annulé";
 
 /* 1=name of app */
 "Cannot start %1$@" = "Impossible de démarrer %1$@";
@@ -185,8 +188,8 @@
 /* No comment provided by engineer. */
 "Copy PNG Image" = "Copier l’image PNG";
 
-/* TODO:TRANSLATE — source viewer: button that copies the extension's snippet text to the clipboard */
-"Copy Snippet" = "Copy Snippet";
+/* source viewer: button that copies the extension's snippet text to the clipboard */
+"Copy Snippet" = "Copier le snippet";
 
 /* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "Copier le spécificateur";
@@ -269,10 +272,10 @@
 /* %@ is the expiry date */
 "Expires: %@" = "Expire : %@";
 
-/* TODO:TRANSLATE — source viewer: button that exports the extension as a .popclipext package */
-"Export…" = "Export…";
+/* source viewer: button that exports the extension as a .popclipext package */
+"Export…" = "Exporter…";
 
-/* TODO:TRANSLATE — Submenu title: commands for the action's extension */
+/* Submenu title: commands for the action's extension */
 "Extension" = "Extension";
 
 /* No comment provided by engineer. */
@@ -287,8 +290,8 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "Erreur de chargement de l’extension";
 
-/* TODO:TRANSLATE — source viewer: window subtitle shown under the extension name */
-"Extension Source" = "Extension Source";
+/* source viewer: window subtitle shown under the extension name */
+"Extension Source" = "Source de l’extension";
 
 /* No comment provided by engineer. */
 "Extensions" = "Extensions";
@@ -715,10 +718,10 @@
 "Size" = "Taille";
 
 /* Extension info source value: installed from a text snippet */
-"Snippet" = "Extrait";
+"Snippet" = "Snippet";
 
 /* No comment provided by engineer. */
-"Snippet is too long (%@ chars; max %@)" = "L’extrait est trop long (%1$@ caractères ; max %2$@)";
+"Snippet is too long (%@ chars; max %@)" = "Le snippet est trop long (%1$@ caractères ; max %2$@)";
 
 /* No comment provided by engineer. */
 "Software Update" = "Mise à jour du logiciel";

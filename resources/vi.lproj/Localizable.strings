@@ -115,8 +115,8 @@
 /* No comment provided by engineer. */
 "Below Text" = "Nằm dưới văn bản";
 
-/* TODO:TRANSLATE — source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
-"Binary file (%@)" = "Binary file (%@)";
+/* source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
+"Binary file (%@)" = "Tệp nhị phân (%@)";
 
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "Tích hợp";
@@ -132,6 +132,9 @@
 
 /* No comment provided by engineer. */
 "Cancel" = "Hủy";
+
+/* Displayed when the user cancels a running action by clicking its spinner */
+"Canceled" = "Đã hủy";
 
 /* 1=name of app */
 "Cannot start %1$@" = "Không thể khởi động %1$@";
@@ -185,8 +188,8 @@
 /* No comment provided by engineer. */
 "Copy PNG Image" = "Sao chép ảnh PNG";
 
-/* TODO:TRANSLATE — source viewer: button that copies the extension's snippet text to the clipboard */
-"Copy Snippet" = "Copy Snippet";
+/* source viewer: button that copies the extension's snippet text to the clipboard */
+"Copy Snippet" = "Sao chép snippet";
 
 /* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "Sao chép mã chỉ định";
@@ -269,11 +272,11 @@
 /* %@ is the expiry date */
 "Expires: %@" = "Hết hạn: %@";
 
-/* TODO:TRANSLATE — source viewer: button that exports the extension as a .popclipext package */
-"Export…" = "Export…";
+/* source viewer: button that exports the extension as a .popclipext package */
+"Export…" = "Xuất…";
 
-/* TODO:TRANSLATE — Submenu title: commands for the action's extension */
-"Extension" = "Extension";
+/* Submenu title: commands for the action's extension */
+"Extension" = "Phần mở rộng";
 
 /* No comment provided by engineer. */
 "Extension Commands" = "Lệnh phần mở rộng";
@@ -287,8 +290,8 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "Lỗi tải phần mở rộng";
 
-/* TODO:TRANSLATE — source viewer: window subtitle shown under the extension name */
-"Extension Source" = "Extension Source";
+/* source viewer: window subtitle shown under the extension name */
+"Extension Source" = "Mã nguồn phần mở rộng";
 
 /* No comment provided by engineer. */
 "Extensions" = "Phần mở rộng";
@@ -715,10 +718,10 @@
 "Size" = "Kích cỡ";
 
 /* Extension info source value: installed from a text snippet */
-"Snippet" = "Đoạn mã";
+"Snippet" = "Snippet";
 
 /* No comment provided by engineer. */
-"Snippet is too long (%@ chars; max %@)" = "Đoạn mã quá dài (%1$@ ký tự; tối đa %2$@)";
+"Snippet is too long (%@ chars; max %@)" = "Snippet quá dài (%1$@ ký tự; tối đa %2$@)";
 
 /* No comment provided by engineer. */
 "Software Update" = "Cập nhật phần mềm";

@@ -115,8 +115,8 @@
 /* No comment provided by engineer. */
 "Below Text" = "Pod textom";
 
-/* TODO:TRANSLATE — source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
-"Binary file (%@)" = "Binary file (%@)";
+/* source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
+"Binary file (%@)" = "Binárny súbor (%@)";
 
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "Vstavané";
@@ -132,6 +132,9 @@
 
 /* No comment provided by engineer. */
 "Cancel" = "Zrušiť";
+
+/* Displayed when the user cancels a running action by clicking its spinner */
+"Canceled" = "Zrušené";
 
 /* 1=name of app */
 "Cannot start %1$@" = "%1$@ sa nedá spustiť";
@@ -185,8 +188,8 @@
 /* No comment provided by engineer. */
 "Copy PNG Image" = "Kopírovať obrázok PNG";
 
-/* TODO:TRANSLATE — source viewer: button that copies the extension's snippet text to the clipboard */
-"Copy Snippet" = "Copy Snippet";
+/* source viewer: button that copies the extension's snippet text to the clipboard */
+"Copy Snippet" = "Kopírovať snippet";
 
 /* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "Kopírovať špecifikátor";
@@ -269,11 +272,11 @@
 /* %@ is the expiry date */
 "Expires: %@" = "Platnosť končí: %@";
 
-/* TODO:TRANSLATE — source viewer: button that exports the extension as a .popclipext package */
-"Export…" = "Export…";
+/* source viewer: button that exports the extension as a .popclipext package */
+"Export…" = "Exportovať…";
 
-/* TODO:TRANSLATE — Submenu title: commands for the action's extension */
-"Extension" = "Extension";
+/* Submenu title: commands for the action's extension */
+"Extension" = "Rozšírenie";
 
 /* No comment provided by engineer. */
 "Extension Commands" = "Príkazy rozšírenia";
@@ -287,8 +290,8 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "Chyba načítania rozšírenia";
 
-/* TODO:TRANSLATE — source viewer: window subtitle shown under the extension name */
-"Extension Source" = "Extension Source";
+/* source viewer: window subtitle shown under the extension name */
+"Extension Source" = "Zdrojový kód rozšírenia";
 
 /* No comment provided by engineer. */
 "Extensions" = "Rozšírenia";
@@ -715,10 +718,10 @@
 "Size" = "Veľkosť";
 
 /* Extension info source value: installed from a text snippet */
-"Snippet" = "Úryvok";
+"Snippet" = "Snippet";
 
 /* No comment provided by engineer. */
-"Snippet is too long (%@ chars; max %@)" = "Úryvok je príliš dlhý (%1$@ znakov; max. %2$@)";
+"Snippet is too long (%@ chars; max %@)" = "Snippet je príliš dlhý (%1$@ znakov; max. %2$@)";
 
 /* No comment provided by engineer. */
 "Software Update" = "Aktualizácia softvéru";

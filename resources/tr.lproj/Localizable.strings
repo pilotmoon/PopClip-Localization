@@ -115,8 +115,8 @@
 /* No comment provided by engineer. */
 "Below Text" = "Metnin aşağısında";
 
-/* TODO:TRANSLATE — source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
-"Binary file (%@)" = "Binary file (%@)";
+/* source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
+"Binary file (%@)" = "İkili dosya (%@)";
 
 /* Extensions list subtitle for a built-in action */
 "Built-in" = "Yerleşik";
@@ -132,6 +132,9 @@
 
 /* No comment provided by engineer. */
 "Cancel" = "Vazgeç";
+
+/* Displayed when the user cancels a running action by clicking its spinner */
+"Canceled" = "İptal edildi";
 
 /* 1=name of app */
 "Cannot start %1$@" = "%1$@ başlatılamıyor";
@@ -185,8 +188,8 @@
 /* No comment provided by engineer. */
 "Copy PNG Image" = "PNG Görselini Kopyala";
 
-/* TODO:TRANSLATE — source viewer: button that copies the extension's snippet text to the clipboard */
-"Copy Snippet" = "Copy Snippet";
+/* source viewer: button that copies the extension's snippet text to the clipboard */
+"Copy Snippet" = "Snippet'i Kopyala";
 
 /* Button: copy the icon specifier (the icon's text code) */
 "Copy Specifier" = "Belirteci Kopyala";
@@ -269,11 +272,11 @@
 /* %@ is the expiry date */
 "Expires: %@" = "Sona erer: %@";
 
-/* TODO:TRANSLATE — source viewer: button that exports the extension as a .popclipext package */
-"Export…" = "Export…";
+/* source viewer: button that exports the extension as a .popclipext package */
+"Export…" = "Dışa Aktar…";
 
-/* TODO:TRANSLATE — Submenu title: commands for the action's extension */
-"Extension" = "Extension";
+/* Submenu title: commands for the action's extension */
+"Extension" = "Uzantı";
 
 /* No comment provided by engineer. */
 "Extension Commands" = "Uzantı Komutları";
@@ -287,8 +290,8 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "Uzantı Yüklenme Hatası";
 
-/* TODO:TRANSLATE — source viewer: window subtitle shown under the extension name */
-"Extension Source" = "Extension Source";
+/* source viewer: window subtitle shown under the extension name */
+"Extension Source" = "Uzantı Kaynağı";
 
 /* No comment provided by engineer. */
 "Extensions" = "Uzantılar";
@@ -715,10 +718,10 @@
 "Size" = "Boyut";
 
 /* Extension info source value: installed from a text snippet */
-"Snippet" = "Parçacık";
+"Snippet" = "Snippet";
 
 /* No comment provided by engineer. */
-"Snippet is too long (%@ chars; max %@)" = "Parçacık çok uzun (%1$@ karakter; en fazla %2$@)";
+"Snippet is too long (%@ chars; max %@)" = "Snippet çok uzun (%1$@ karakter; en fazla %2$@)";
 
 /* No comment provided by engineer. */
 "Software Update" = "Yazılım Güncellemesi";
