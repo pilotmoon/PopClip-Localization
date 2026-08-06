@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>%lu Uses Left</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@uses@</string>
+      <key>uses</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>one</key>
+        <string>%lu användning kvar</string>
+        <key>other</key>
+        <string>%lu användningar kvar</string>
+      </dict>
+    </dict>
+    <key>%lu extensions updated</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@count@</string>
+      <key>count</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>one</key>
+        <string>%lu tillägg uppdaterat</string>
+        <key>other</key>
+        <string>%lu tillägg uppdaterade</string>
+      </dict>
+    </dict>
+    <key>%lu instances</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@count@</string>
+      <key>count</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>zero</key>
+        <string>Inga instanser</string>
+        <key>one</key>
+        <string>%lu instans</string>
+        <key>other</key>
+        <string>%lu instanser</string>
+      </dict>
+    </dict>
+    <key>%lu updates available</key>
+    <dict>
+      <key>NSStringLocalizedFormatKey</key>
+      <string>%#@count@</string>
+      <key>count</key>
+      <dict>
+        <key>NSStringFormatSpecTypeKey</key>
+        <string>NSStringPluralRuleType</string>
+        <key>NSStringFormatValueTypeKey</key>
+        <string>lu</string>
+        <key>one</key>
+        <string>%lu uppdatering tillgänglig</string>
+        <key>other</key>
+        <string>%lu uppdateringar tillgängliga</string>
+      </dict>
+    </dict>
+  </dict>
+</plist>

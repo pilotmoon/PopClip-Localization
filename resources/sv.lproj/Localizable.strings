@@ -1,0 +1,884 @@
+/* Extensions list subtitle: joins the install info with the instance count, e.g. \"Installed 3 days ago · 2 instances\" */
+"%1$@ · %2$@" = "%1$@ · %2$@";
+
+/* Popup tooltip. %1$@ layout name, %2$@ action title. */
+"%1$@: %2$@" = "%1$@: %2$@";
+
+/* message shown when PopClip cannot appear automatically because it is blocked by the user's settings */
+"%@ is excluded" = "%@ är exkluderad";
+
+/* message shown when PopClip cannot appear automatically in the given app due to compatibility problem. Example `Pixelmator Pro is not compatible` */
+"%@ is not compatible" = "%@ är inte kompatibel";
+
+/* Example: 1.6 is now available (you have 1.5.2) */
+"%@ is now available (you have %@)." = "%1$@ är nu tillgänglig (du har %2$@).";
+
+/* Example: 1.6 is now available */
+"%@ is now available." = "%@ är nu tillgänglig.";
+
+/* Placeholder is app name. Example: `PopClip Update Available` */
+"%@ Update Available" = "%@-uppdatering tillgänglig";
+
+/* Placeholder is app name. Example: `PopClip Update Ready` */
+"%@ Update Ready" = "%@-uppdatering redo";
+
+/* number of extensions updated; plural forms in Localizable.stringsdict */
+"%lu extensions updated" = "%lu tillägg uppdaterade";
+
+/* Extensions list subtitle: count of an extension's instances; plural forms in Localizable.stringsdict (zero reads \"No instances\") */
+"%lu instances" = "%lu instanser";
+
+/* number of updates available; plural forms in Localizable.stringsdict */
+"%lu updates available" = "%lu uppdateringar tillgängliga";
+
+/* number of uses remaining in the free trial; plural forms in Localizable.stringsdict */
+"%lu Uses Left" = "%lu användningar kvar";
+
+/* appended to the icon specifier tooltip; %@ is the specifier's total character count */
+"(%@ characters)" = "(%@ tecken)";
+
+/* click this button to get 10 more uses in the free trial */
+"+10 Uses" = "+10 användningar";
+
+/* icon picker: hint that the typed text may be 1 to 3 characters */
+"1–3 characters" = "1–3 tecken";
+
+/* Alert text; %@ is the extension name. 'extension' = a PopClip add-on/plug-in (not a file-name extension); 'signed' = code-signed by the developer. */
+"\"%@\" is not signed by Pilotmoon Software. Only install this extension if you got it from a source you trust." = "”%@” är inte signerat av Pilotmoon Software. Installera bara det här tillägget om det kommer från en källa du litar på.";
+
+/* No comment provided by engineer. */
+"\"%@\" Settings" = "Inställningar för ”%@”";
+
+/* No comment provided by engineer. */
+"Above Text" = "Ovanför texten";
+
+/* No comment provided by engineer. */
+"Accessibility access is required" = "Tillgång till Hjälpmedel krävs";
+
+/* No comment provided by engineer. */
+"Action" = "Åtgärd";
+
+/* No comment provided by engineer. */
+"Action Settings" = "Åtgärdsinställningar";
+
+/* Title of prefs pane for configuring actions. Translator: Please use the shortest possible term here */
+"Actions" = "Åtgärder";
+
+/* Settings section title: how PopClip is activated (auto-popup / keyboard shortcut) */
+"Activation" = "Aktivering";
+
+/* Button title. Add new item to list. Actual button is '+' icon, text is for screen reader only. */
+"Add" = "Lägg till";
+
+/* icon picker: button revealing the icon adjustment controls */
+"Adjust" = "Justera";
+
+/* URL rule description */
+"and subdomains" = "och underdomäner";
+
+/* Title of prefs pane for 'App' settings (about, version, license). Translator: Please use the shortest possible term here */
+"App" = "App";
+
+/* No comment provided by engineer. */
+"App Settings" = "Appinställningar";
+
+/* No comment provided by engineer. */
+"Appear automatically" = "Visa automatiskt";
+
+/* Title of the appearance settings section: visual appearance such as dark/light mode, color, and size. */
+"Appearance" = "Utseende";
+
+/* No comment provided by engineer. */
+"Apply" = "Tillämpa";
+
+/* No comment provided by engineer. */
+"Apps…" = "Appar…";
+
+/* Status: the extension is authorized */
+"Authorized" = "Auktoriserat";
+
+/* Dark/light mode will be the same as the operating system setting */
+"Auto" = "Auto";
+
+/* Dark/light mode will be opposite to the operating system setting */
+"Auto (Inverse)" = "Auto (Omvänt)";
+
+/* No comment provided by engineer. */
+"Automatic update" = "Automatisk uppdatering";
+
+/* No comment provided by engineer. */
+"Automatic updates" = "Automatiska uppdateringar";
+
+/* Action settings subtitle. %1$@ is the source extension name. */
+"Based on %1$@" = "Baserat på %1$@";
+
+/* No comment provided by engineer. */
+"Below Text" = "Under texten";
+
+/* source viewer: placeholder shown for a file that is neither text nor an image; %@ is the file size */
+"Binary file (%@)" = "Binärfil (%@)";
+
+/* Extensions list subtitle for a built-in action */
+"Built-in" = "Inbyggt";
+
+/* click button to buy the app */
+"Buy" = "Köp";
+
+/* No comment provided by engineer. */
+"Buy license key" = "Köp licensnyckel";
+
+/* icon attribution author line */
+"by %@" = "av %@";
+
+/* No comment provided by engineer. */
+"Cancel" = "Avbryt";
+
+/* Displayed when the user cancels a running action by clicking its spinner */
+"Canceled" = "Avbrutet";
+
+/* 1=name of app */
+"Cannot start %1$@" = "Kan inte starta %1$@";
+
+/* Extension info section title: what the extension can do */
+"Capabilities" = "Funktioner";
+
+/* No comment provided by engineer. */
+"Change Icon…" = "Ändra ikon…";
+
+/* Menu command (imperative): check for updates to installed extensions */
+"Check for extension updates" = "Sök efter tilläggsuppdateringar";
+
+/* Menu command (imperative): check for app updates. */
+"Check for updates" = "Sök efter uppdateringar";
+
+/* Progress label shown while checking for app updates */
+"Checking for updates…" = "Söker efter uppdateringar…";
+
+/* Progress label shown while checking for extension updates */
+"Checking…" = "Söker…";
+
+/* icon picker: instruction text at the top of the file chooser dialog */
+"Choose an SVG or PNG image file to use as the icon." = "Välj en SVG- eller PNG-bildfil som ska användas som ikon.";
+
+/* icon picker: button that opens a file chooser to select an SVG or PNG image file to use as the icon */
+"Choose SVG or PNG…" = "Välj SVG eller PNG…";
+
+/* icon picker option: shape is a circle */
+"Circle" = "Cirkel";
+
+/* icon picker: button that clears/empties the picker input */
+"Clear" = "Rensa";
+
+/* No comment provided by engineer. */
+"Close" = "Stäng";
+
+/* Submenu title: the action icon color */
+"Color" = "Färg";
+
+/* example: Connecting to updateserver.example.com… */
+"Connecting to %@…" = "Ansluter till %@…";
+
+/* Displayed when something has been copied to the clipboard
+   source viewer: transient button title after copying the snippet */
+"Copied" = "Kopierat";
+
+/* No comment provided by engineer. */
+"Copy" = "Kopiera";
+
+/* No comment provided by engineer. */
+"Copy PNG Image" = "Kopiera PNG-bild";
+
+/* source viewer: button that copies the extension's snippet text to the clipboard */
+"Copy Snippet" = "Kopiera snippet";
+
+/* Button: copy the icon specifier (the icon's text code) */
+"Copy Specifier" = "Kopiera specifikation";
+
+/* No comment provided by engineer. */
+"Couldn't reach the update server (status %lu)." = "Kunde inte nå uppdateringsservern (status %lu).";
+
+/* Icon picker tab label: use your own supplied image as the icon */
+"Custom" = "Anpassad";
+
+/* Indicates Dark color appearance */
+"Dark" = "Mörk";
+
+/* No comment provided by engineer. */
+"Date" = "Datum";
+
+/* No comment provided by engineer. */
+"Debug Console" = "Felsökningskonsol";
+
+/* No comment provided by engineer. */
+"Delete" = "Radera";
+
+/* No comment provided by engineer. */
+"Delete Folder" = "Radera mapp";
+
+/* No comment provided by engineer. */
+"Delete Separator" = "Radera avgränsare";
+
+/* Extension info origin value (describes an extension): signed by the developer */
+"Developer-signed" = "Utvecklarsignerat";
+
+/* name of dictionary look-up feature */
+"Dictionary" = "Ordbok";
+
+/* URL rule description */
+"Domain" = "Domän";
+
+/* button title */
+"Don't Install" = "Installera inte";
+
+/* %@ and %@ are data sizes, e.g. “1.2 MB of 5 MB” */
+"Downloaded %@ of %@…" = "Hämtat %1$@ av %2$@…";
+
+/* No comment provided by engineer. */
+"Downloading update…" = "Hämtar uppdatering…";
+
+/* No comment provided by engineer. */
+"Duplicate" = "Duplicera";
+
+/* extension entitlement: the extension generates its actions dynamically */
+"Dynamic" = "Dynamisk";
+
+/* No comment provided by engineer. */
+"Email" = "E-post";
+
+/* Menu checkbox: whether this action is shown */
+"Enabled" = "Aktiverad";
+
+/* extension info: special permissions the extension has */
+"Entitlements" = "Rättigheter";
+
+/* No comment provided by engineer. */
+"Error decoding icon" = "Fel vid avkodning av ikon";
+
+/* No comment provided by engineer. */
+"Error downloading icon" = "Fel vid hämtning av ikon";
+
+/* No comment provided by engineer. */
+"Error rendering icon" = "Fel vid rendering av ikon";
+
+/* sample text */
+"Example" = "Exempel";
+
+/* No comment provided by engineer. */
+"Exclude these apps" = "Exkludera dessa appar";
+
+/* No comment provided by engineer. */
+"Exclude these websites:" = "Exkludera dessa webbplatser:";
+
+/* %@ is the expiry date */
+"Expires: %@" = "Går ut: %@";
+
+/* source viewer: button that exports the extension as a .popclipext package */
+"Export…" = "Exportera…";
+
+/* Submenu title: commands for the action's extension */
+"Extension" = "Tillägg";
+
+/* No comment provided by engineer. */
+"Extension Commands" = "Tilläggskommandon";
+
+/* No comment provided by engineer. */
+"Extension Info" = "Tilläggsinformation";
+
+/* No comment provided by engineer. */
+"Extension Install Error" = "Fel vid installation av tillägg";
+
+/* No comment provided by engineer. */
+"Extension Load Error" = "Fel vid inläsning av tillägg";
+
+/* source viewer: window subtitle shown under the extension name */
+"Extension Source" = "Tilläggets källa";
+
+/* No comment provided by engineer. */
+"Extensions" = "Tillägg";
+
+/* Extracted percentage */
+"Extracted %d%%…" = "Extraherat %d %%…";
+
+/* No comment provided by engineer. */
+"Extracting update…" = "Extraherar uppdatering…";
+
+/* No comment provided by engineer. */
+"File" = "Fil";
+
+/* icon picker option: shape is filled, not outline */
+"Fill" = "Fylld";
+
+/* icon picker: flip (mirror) control */
+"Flip" = "Vänd";
+
+/* No comment provided by engineer. */
+"Flip Horizontal" = "Vänd horisontellt";
+
+/* No comment provided by engineer. */
+"Flip Vertical" = "Vänd vertikalt";
+
+/* No comment provided by engineer. */
+"Folder" = "Mapp";
+
+/* icon picker: typeface for a text icon */
+"Font" = "Typsnitt";
+
+/* No comment provided by engineer. */
+"Forum" = "Forum";
+
+/* No comment provided by engineer. */
+"Free Trial" = "Gratis testperiod";
+
+/* No comment provided by engineer. */
+"Free uses left: %lu" = "Gratis användningar kvar: %lu";
+
+/* Title of general settings pane. Translator: Please use the shortest possible term here */
+"General" = "Allmänt";
+
+/* No comment provided by engineer. */
+"Get Extensions" = "Hämta tillägg";
+
+/* No comment provided by engineer. */
+"Guide" = "Guide";
+
+/* Toggle: hide a stored secret value such as an API key */
+"Hide Secret" = "Dölj hemlighet";
+
+/* URL rule: the host part of a URL, e.g. example.com */
+"Host" = "Värd";
+
+/* Shown under the iCloud Sync menu item when iCloud is temporarily unavailable */
+"iCloud is not available" = "iCloud är inte tillgängligt";
+
+/* Shown under the iCloud Sync menu item when iCloud is restricted (e.g. by parental controls or device management) */
+"iCloud is restricted" = "iCloud är begränsat";
+
+/* No comment provided by engineer. */
+"iCloud Sync" = "iCloud-synkronisering";
+
+/* Shown under the iCloud Sync menu item when CloudKit sync is currently failing; the placeholder is a short reason such as 'network failure' */
+"iCloud sync error (%@)" = "iCloud-synkroniseringsfel (%@)";
+
+/* Show As menu item: display this action as an icon */
+"Icon" = "Ikon";
+
+/* No comment provided by engineer. */
+"Icon error" = "Ikonfel";
+
+/* No comment provided by engineer. */
+"Icon not found" = "Ikonen hittades inte";
+
+/* No comment provided by engineer. */
+"Icon Picker" = "Ikonväljare";
+
+/* No comment provided by engineer. */
+"Icon preview" = "Ikonförhandsvisning";
+
+/* No comment provided by engineer. */
+"Icon search failed. Check internet connection." = "Ikonsökningen misslyckades. Kontrollera internetanslutningen.";
+
+/* No comment provided by engineer. */
+"Icon Specifier" = "Ikonspecifikation";
+
+/* No comment provided by engineer. */
+"Icon Specifier Help" = "Hjälp för ikonspecifikation";
+
+/* No comment provided by engineer. */
+"Icon specifier is too long." = "Ikonspecifikationen är för lång.";
+
+/* No comment provided by engineer. */
+"Icon timed out" = "Tidsgräns för ikon överskreds";
+
+/* extension info: the extension's bundle identifier */
+"Identifier" = "Identifierare";
+
+/* No comment provided by engineer. */
+"Include beta versions" = "Inkludera betaversioner";
+
+/* No comment provided by engineer. */
+"Include colored icons" = "Inkludera färgade ikoner";
+
+/* No comment provided by engineer. */
+"Include only these apps" = "Inkludera endast dessa appar";
+
+/* No comment provided by engineer. */
+"Including colored icons" = "Inkluderar färgade ikoner";
+
+/* button title: install the named externsion */
+"Install \"%@\"" = "Installera ”%@”";
+
+/* No comment provided by engineer. */
+"Install automatically" = "Installera automatiskt";
+
+/* No comment provided by engineer. */
+"Install Update" = "Installera uppdatering";
+
+/* No comment provided by engineer. */
+"Installation" = "Installation";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Installed %@" = "Installerat %@";
+
+/* No comment provided by engineer. */
+"Installing update…" = "Installerar uppdatering…";
+
+/* No comment provided by engineer. */
+"Installing…" = "Installerar…";
+
+/* Extension info: number of running instances of this extension */
+"Instances" = "Instanser";
+
+/* No comment provided by engineer. */
+"Invalid icon specifier" = "Ogiltig ikonspecifikation";
+
+/* Example: `Last checked: Just now`. Indicates a time within the last minute */
+"Just now" = "Just nu";
+
+/* No comment provided by engineer. */
+"Keyboard shortcut" = "Kortkommando";
+
+/* No comment provided by engineer. */
+"Language" = "Språk";
+
+/* No comment provided by engineer. */
+"Languages" = "Språk";
+
+/* %@ is a relative time such as “Just now”, “5 minutes ago”, or “Never” */
+"Last checked: %@" = "Senast kontrollerat: %@";
+
+/* No comment provided by engineer. */
+"Learn More…" = "Läs mer…";
+
+/* No comment provided by engineer. */
+"License Details" = "Licensinformation";
+
+/* No comment provided by engineer. */
+"License Details…" = "Licensinformation…";
+
+/* No comment provided by engineer. */
+"License key not valid" = "Licensnyckeln är ogiltig";
+
+/* Indicates Light color appearance */
+"Light" = "Ljus";
+
+/* No comment provided by engineer. */
+"Loading icon…" = "Läser in ikon…";
+
+/* Shown under the iCloud Sync menu item when the Mac's Low Power Mode is on, which can delay iCloud sync activity */
+"Low Power Mode may delay syncing" = "Strömsparläge kan fördröja synkronisering";
+
+/* No comment provided by engineer. */
+"Main Menu" = "Huvudmeny";
+
+/* No comment provided by engineer. */
+"Manage Extensions…" = "Hantera tillägg…";
+
+/* extension info: how the extension was installed (snippet, file, URL scheme, etc.) */
+"Method" = "Metod";
+
+/* Extension info source value: migrated from an older PopClip version */
+"Migrated from previous PopClip version" = "Migrerat från tidigare PopClip-version";
+
+/* name of missing third party app */
+"Missing App: %@" = "App saknas: %@";
+
+/* icon picker font option */
+"Monospaced" = "Fast bredd";
+
+/* No comment provided by engineer. */
+"More (Page %lu of %lu)" = "Mer (sida %1$lu av %2$lu)";
+
+/* icon picker: position offset control */
+"Move" = "Flytta";
+
+/* icon picker: horizontal position offset */
+"Move X" = "Flytta X";
+
+/* icon picker: vertical position offset */
+"Move Y" = "Flytta Y";
+
+/* No comment provided by engineer. */
+"Name" = "Namn";
+
+/* extension entitlement: the extension can access the network */
+"Network" = "Nätverk";
+
+/* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
+"Never" = "Aldrig";
+
+/* No comment provided by engineer. */
+"New Folder" = "Ny mapp";
+
+/* Menu command: create another instance of this extension */
+"New Instance" = "Ny instans";
+
+/* No comment provided by engineer. */
+"New Separator" = "Ny avgränsare";
+
+/* No comment provided by engineer. */
+"No extensions installed" = "Inga tillägg installerade";
+
+/* Shown under the iCloud Sync menu item when the user is not signed in to iCloud */
+"No iCloud account" = "Inget iCloud-konto";
+
+/* No comment provided by engineer. */
+"No icons found." = "Inga ikoner hittades.";
+
+/* No comment provided by engineer. */
+"None" = "Inga";
+
+/* Status: the extension is not authorized */
+"Not Authorized" = "Inte auktoriserat";
+
+/* No comment provided by engineer. */
+"Not Now" = "Inte nu";
+
+/* No comment provided by engineer. */
+"Notify only" = "Endast notis";
+
+/* Automatic updates menu option: disabled */
+"Off" = "Av";
+
+/* No comment provided by engineer. */
+"One or more extensions could not be updated." = "Ett eller flera tillägg kunde inte uppdateras.";
+
+/* name of link opening feature */
+"Open Link" = "Öppna länk";
+
+/* No comment provided by engineer. */
+"Open Links" = "Öppna länkar";
+
+/* Accessibility help for a popup button that opens a submenu. */
+"Opens submenu" = "Öppnar undermeny";
+
+/* extension info: where the extension came from (built-in, extensions directory, etc.) */
+"Origin" = "Ursprung";
+
+/* Pop-up menu item to enter a custom value; reused across many option types
+   URL rule pop-up: a match type other than the presets (Domain, Host, etc.) */
+"Other…" = "Annat…";
+
+/* No comment provided by engineer. */
+"Package folder" = "Paketmapp";
+
+/* Row name for a separator with the page-break style
+   Separator style menu item: following actions go to the next page of the bar */
+"Page Break" = "Sidbrytning";
+
+/* No comment provided by engineer. */
+"Permissions" = "Behörigheter";
+
+/* No comment provided by engineer. */
+"Please close this browser tab and return to PopClip." = "Stäng denna webbläsarflik och återgå till PopClip.";
+
+/* No comment provided by engineer. */
+"PopClip  Icon Picker" = "PopClip  Ikonväljare";
+
+/* No comment provided by engineer. */
+"PopClip appears automatically when you select text with the pointer or when you click and hold." = "PopClip visas automatiskt när du markerar text med pekaren eller när du klickar och håller ned.";
+
+/* No comment provided by engineer. */
+"PopClip can't find %@ on this computer. You probably need to install it." = "PopClip kan inte hitta %@ på den här datorn. Du behöver förmodligen installera appen.";
+
+/* No comment provided by engineer. */
+"PopClip could not load the following extensions:\n\n%@" = "PopClip kunde inte läsa in följande tillägg:\n\n%@";
+
+/* No comment provided by engineer. */
+"PopClip Extensions Directory" = "PopClip-tilläggskatalog";
+
+/* No comment provided by engineer. */
+"PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip behöver tillgång till Hjälpmedel för att läsa texten du markerar i andra appar och för att utföra åtgärder åt dig.";
+
+/* No comment provided by engineer. */
+"PopClip will check spelling in each selected language." = "PopClip kontrollerar stavningen i varje valt språk.";
+
+/* No comment provided by engineer. */
+"Popup Item" = "Popup-objekt";
+
+/* Appearance setting: where the PopClip bar appears */
+"Position" = "Position";
+
+/* No comment provided by engineer. */
+"Quit PopClip" = "Avsluta PopClip";
+
+/* No comment provided by engineer. */
+"Recently used apps" = "Senast använda appar";
+
+/* icon picker font option */
+"Regular" = "Normal";
+
+/* No comment provided by engineer. */
+"Relaunch" = "Starta om";
+
+/* %@ is the new version; the second %@ is the current version */
+"Relaunch to use %@ (you have %@)." = "Starta om för att använda %1$@ (du har %2$@).";
+
+/* No comment provided by engineer. */
+"Relaunch to use %@." = "Starta om för att använda %@.";
+
+/* text shown above release notes */
+"Release notes:" = "Versionsinformation:";
+
+/* Button title. Remove selected item from list. Actual button is '-' icon, text is for screen reader only. */
+"Remove" = "Ta bort";
+
+/* No comment provided by engineer. */
+"Rename…" = "Byt namn…";
+
+/* No comment provided by engineer. */
+"Request Accessibility Access" = "Begär tillgång till Hjälpmedel";
+
+/* No comment provided by engineer. */
+"Reset to Default Icon" = "Återställ till standardikon";
+
+/* No comment provided by engineer. */
+"Restrict where PopClip can appear automatically." = "Begränsa var PopClip kan visas automatiskt.";
+
+/* name of 'reveal in finder' feature */
+"Reveal in Finder" = "Visa i Finder";
+
+/* icon picker: rotation control */
+"Rotate" = "Rotera";
+
+/* Label shown before a URL rule definition */
+"Rule:" = "Regel:";
+
+/* Section label: URL rules that restrict where PopClip appears */
+"Rules" = "Regler";
+
+/* icon picker: scale (size) control */
+"Scale" = "Skala";
+
+/* name of web search feature
+   Placeholder in the field that searches the actions list */
+"Search" = "Sök";
+
+/* No comment provided by engineer. */
+"Search Engine" = "Sökmotor";
+
+/* Search for icons from the 'Iconify' icon library */
+"Search Iconify" = "Sök i Iconify";
+
+/* %@ is a count (number of icons) */
+"Searching %@ open source icons." = "Söker bland %@ ikoner med öppen källkod.";
+
+/* Row name for a separator with the section-break style
+   Separator style menu item: break between button groups in the bar */
+"Section Break" = "Avsnittsbrytning";
+
+/* No comment provided by engineer. */
+"Select" = "Välj";
+
+/* Submenu title: the separator's style — section break or page break */
+"Separator Style" = "Avgränsarstil";
+
+/* No comment provided by engineer. */
+"Settings for \"%@\"" = "Inställningar för ”%@”";
+
+/* No comment provided by engineer. */
+"Settings…" = "Inställningar…";
+
+/* icon picker: outer shape (none, square, circle) */
+"Shape" = "Form";
+
+/* No comment provided by engineer. */
+"Show \"%@\" in the actions list" = "Visa ”%@” i åtgärdslistan";
+
+/* Submenu title: how this action is shown — icon or text */
+"Show As" = "Visa som";
+
+/* No comment provided by engineer. */
+"Show in menu bar" = "Visa i menyraden";
+
+/* Toggle: reveal a stored secret value such as an API key */
+"Show Secret" = "Visa hemlighet";
+
+/* Menu item: reveal the icon specifier (the icon's text code) */
+"Show Specifier" = "Visa specifikation";
+
+/* No comment provided by engineer. */
+"Sign In" = "Logga in";
+
+/* No comment provided by engineer. */
+"Sign in failed." = "Inloggning misslyckades.";
+
+/* No comment provided by engineer. */
+"Sign in to your %@ account." = "Logga in på ditt %@-konto.";
+
+/* No comment provided by engineer. */
+"Sign Out" = "Logga ut";
+
+/* extension info: code-signing status */
+"Signature" = "Signatur";
+
+/* Account status; %@ is the date the user signed in */
+"Signed in: %@" = "Inloggad: %@";
+
+/* Appearance setting: size of the PopClip bar */
+"Size" = "Storlek";
+
+/* Extension info source value: installed from a text snippet */
+"Snippet" = "Snippet";
+
+/* No comment provided by engineer. */
+"Snippet is too long (%@ chars; max %@)" = "Snippeten är för lång (%1$@ tecken; max %2$@)";
+
+/* No comment provided by engineer. */
+"Software Update" = "Programuppdatering";
+
+/* Button tooltip: sort the extensions list */
+"Sort" = "Sortera";
+
+/* No comment provided by engineer. */
+"Sort by Date" = "Sortera efter datum";
+
+/* No comment provided by engineer. */
+"Sort by Name" = "Sortera efter namn";
+
+/* name of spelling checker feature */
+"Spelling" = "Stavning";
+
+/* icon picker option: shape is a square */
+"Square" = "Kvadrat";
+
+/* No comment provided by engineer. */
+"Start at login" = "Starta vid inloggning";
+
+/* URL rule description */
+"Starts with" = "Börjar med";
+
+/* icon picker option: diagonal 'strike' or 'slash' line drawn over icon */
+"Strike" = "Snedstreck";
+
+/* Appearance setting: visual style of the PopClip bar */
+"Style" = "Stil";
+
+/* No comment provided by engineer. */
+"Technical information:" = "Teknisk information:";
+
+/* icon picker: use typed text as the icon
+   Show As menu item: display this action as text */
+"Text" = "Text";
+
+/* No comment provided by engineer. */
+"Text file" = "Textfil";
+
+/* No comment provided by engineer. */
+"The application appears to be corrupted. Please install a fresh copy." = "Programmet verkar vara skadat. Installera en ny kopia.";
+
+/* Alert message shown when a file dragged into the icon picker's specifier field is not readable as an image */
+"The file could not be read as an SVG or PNG image." = "Filen kunde inte läsas som en SVG- eller PNG-bild.";
+
+/* Alert message shown when a file dragged into the icon picker's specifier field is too big */
+"The file is too large to use as an icon specifier." = "Filen är för stor för att användas som ikonspecifikation.";
+
+/* Alert detail text below the file-too-big message; each %@ is a file size such as '10 KB' */
+"The maximum size is about %@ for an SVG file or %@ for a PNG file." = "Maxstorleken är cirka %1$@ för en SVG-fil eller %2$@ för en PNG-fil.";
+
+/* Error shown to the user. 'extension' here means a PopClip add-on/plug-in, not a file-name extension. */
+"This extension is not compatible with this version of PopClip. Please update to the latest version of PopClip." = "Detta tillägg är inte kompatibelt med denna version av PopClip. Uppdatera till den senaste versionen av PopClip.";
+
+/* No comment provided by engineer. */
+"This extension requires macOS version %@ or above." = "Detta tillägg kräver macOS version %@ eller senare.";
+
+/* the free trial has expired */
+"Trial Expired" = "Testperioden har gått ut";
+
+/* No comment provided by engineer. */
+"Unknown" = "Okänt";
+
+/* Extension info signature value (describes an extension): has no code signature */
+"Unsigned" = "Osignerat";
+
+/* Alert title. 'Extension' here means a PopClip add-on/plug-in, not a file-name extension. 'Unsigned' = has no code signature. */
+"Unsigned Extension" = "Osignerat tillägg";
+
+/* No comment provided by engineer. */
+"Up to date" = "Allt är uppdaterat";
+
+/* No comment provided by engineer. */
+"Update automatically" = "Uppdatera automatiskt";
+
+/* Extensions list subtitle when an update is available */
+"Update available" = "Uppdatering tillgänglig";
+
+/* No comment provided by engineer. */
+"Update error" = "Uppdateringsfel";
+
+/* Extensions list subtitle; %@ is a relative time like \"3 days ago\" */
+"Updated %@" = "Uppdaterat %@";
+
+/* No comment provided by engineer. */
+"Updater error" = "Fel i uppdateraren";
+
+/* No comment provided by engineer. */
+"Updates" = "Uppdateringar";
+
+/* No comment provided by engineer. */
+"Upgrade…" = "Uppgradera…";
+
+/* No comment provided by engineer. */
+"URL scheme" = "URL-schema";
+
+/* No comment provided by engineer. */
+"Use *** in place of the search text." = "Använd *** i stället för söktexten.";
+
+/* No comment provided by engineer. */
+"Use the keyboard shortcut to trigger PopClip manually." = "Använd kortkommandot för att visa PopClip manuellt.";
+
+/* Extension info origin value (describes an extension): created by the user */
+"User-generated" = "Användargenererat";
+
+/* Extension info signature value (describes an extension): signature verified */
+"Verified" = "Verifierat";
+
+/* No comment provided by engineer. */
+"Version" = "Version";
+
+/* button to show release notes */
+"View Details…" = "Visa detaljer…";
+
+/* No comment provided by engineer. */
+"View Source" = "Visa källa";
+
+/* No comment provided by engineer. */
+"View Web Page" = "Visa webbsida";
+
+/* Visit the website for the name app e.g. Visit Evernote Website */
+"Visit %@ Website" = "Besök %@-webbplatsen";
+
+/* No comment provided by engineer. */
+"Waiting to check for updates" = "Väntar på att söka efter uppdateringar";
+
+/* No comment provided by engineer. */
+"Waiting…" = "Väntar…";
+
+/* No comment provided by engineer. */
+"Web Page" = "Webbsida";
+
+/* No comment provided by engineer. */
+"Website Address" = "Webbplatsadress";
+
+/* No comment provided by engineer. */
+"Websites…" = "Webbplatser…";
+
+/* No comment provided by engineer. */
+"You are signed in to %@." = "Du är inloggad på %@.";
+
+/* No comment provided by engineer. */
+"You're all set! No settings to configure." = "Klart! Inga inställningar att konfigurera.";
+
+/* No comment provided by engineer. */
+"Your License" = "Din licens";
+
+/* No comment provided by engineer. */
+"Zip file" = "Zip-fil";
+
+/* No comment provided by engineer. */
+"⚠️ Authorization failed." = "⚠️ Auktorisering misslyckades.";
+
+/* URL rule description */
+"⚠️ Invalid" = "⚠️ Ogiltig";
+
+/* No comment provided by engineer. */
+"✅ PopClip Extension \"%@\" authorized." = "✅ PopClip-tillägget ”%@” har auktoriserats.";
