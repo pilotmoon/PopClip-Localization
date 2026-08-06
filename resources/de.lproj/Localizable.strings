@@ -489,7 +489,7 @@
 "More (Page %lu of %lu)" = "Mehr (Seite %1$lu von %2$lu)";
 
 /* icon picker: position offset control */
-"Move" = "Bewegen";
+"Move" = "Position";
 
 /* icon picker: horizontal position offset */
 "Move X" = "X bewegen";
@@ -647,7 +647,7 @@
 "Rules" = "Regeln";
 
 /* icon picker: scale (size) control */
-"Scale" = "Skalieren";
+"Scale" = "Größe";
 
 /* name of web search feature
    Placeholder in the field that searches the actions list */

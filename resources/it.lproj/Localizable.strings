@@ -309,19 +309,19 @@
 "Fill" = "Riempimento";
 
 /* icon picker: flip (mirror) control */
-"Flip" = "Capovolgi";
+"Flip" = "Ribalta";
 
 /* No comment provided by engineer. */
-"Flip Horizontal" = "Capovolgi orizzontalmente";
+"Flip Horizontal" = "Ribalta orizzontalmente";
 
 /* No comment provided by engineer. */
-"Flip Vertical" = "Capovolgi verticalmente";
+"Flip Vertical" = "Ribalta verticalmente";
 
 /* No comment provided by engineer. */
 "Folder" = "Cartella";
 
 /* icon picker: typeface for a text icon */
-"Font" = "Carattere";
+"Font" = "Font";
 
 /* No comment provided by engineer. */
 "Forum" = "Forum";

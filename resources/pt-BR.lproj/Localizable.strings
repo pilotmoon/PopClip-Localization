@@ -306,7 +306,7 @@
 "File" = "Arquivo";
 
 /* icon picker option: shape is filled, not outline */
-"Fill" = "Preenchimento";
+"Fill" = "Preencher";
 
 /* icon picker: flip (mirror) control */
 "Flip" = "Inverter";

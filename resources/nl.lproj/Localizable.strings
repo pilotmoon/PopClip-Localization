@@ -309,7 +309,7 @@
 "Fill" = "Vulling";
 
 /* icon picker: flip (mirror) control */
-"Flip" = "Spiegelen";
+"Flip" = "Spiegel";
 
 /* No comment provided by engineer. */
 "Flip Horizontal" = "Horizontaal spiegelen";
@@ -489,7 +489,7 @@
 "More (Page %lu of %lu)" = "Meer (pagina %1$lu van %2$lu)";
 
 /* icon picker: position offset control */
-"Move" = "Verplaatsen";
+"Move" = "Positie";
 
 /* icon picker: horizontal position offset */
 "Move X" = "Verplaats X";
@@ -638,7 +638,7 @@
 "Reveal in Finder" = "Toon in Finder";
 
 /* icon picker: rotation control */
-"Rotate" = "Roteren";
+"Rotate" = "Draai";
 
 /* Label shown before a URL rule definition */
 "Rule:" = "Regel:";

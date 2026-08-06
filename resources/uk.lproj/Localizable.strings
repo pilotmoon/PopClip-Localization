@@ -489,7 +489,7 @@
 "More (Page %lu of %lu)" = "Ще (сторінка %1$lu з %2$lu)";
 
 /* icon picker: position offset control */
-"Move" = "Перемістити";
+"Move" = "Зсув";
 
 /* icon picker: horizontal position offset */
 "Move X" = "Зсув X";

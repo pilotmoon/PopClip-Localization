@@ -489,7 +489,7 @@
 "More (Page %lu of %lu)" = "Plus (page %1$lu sur %2$lu)";
 
 /* icon picker: position offset control */
-"Move" = "Déplacer";
+"Move" = "Position";
 
 /* icon picker: horizontal position offset */
 "Move X" = "Déplacer X";
