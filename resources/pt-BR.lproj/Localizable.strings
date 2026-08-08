@@ -290,9 +290,6 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "Erro ao carregar extensão";
 
-/* source viewer: window subtitle shown under the extension name */
-"Extension Source" = "Código-fonte da extensão";
-
 /* No comment provided by engineer. */
 "Extensions" = "Extensões";
 
@@ -582,6 +579,9 @@
 
 /* No comment provided by engineer. */
 "PopClip could not load the following extensions:\n\n%@" = "O PopClip não pôde carregar as seguintes extensões:\n\n%@";
+
+/* source viewer: window subtitle shown under the extension name */
+"PopClip Extension Source" = "Código-fonte da extensão do PopClip";
 
 /* No comment provided by engineer. */
 "PopClip Extensions Directory" = "Diretório de extensões do PopClip";

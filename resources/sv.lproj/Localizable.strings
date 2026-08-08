@@ -290,9 +290,6 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "Fel vid inläsning av tillägg";
 
-/* source viewer: window subtitle shown under the extension name */
-"Extension Source" = "Tilläggets källa";
-
 /* No comment provided by engineer. */
 "Extensions" = "Tillägg";
 
@@ -582,6 +579,9 @@
 
 /* No comment provided by engineer. */
 "PopClip could not load the following extensions:\n\n%@" = "PopClip kunde inte läsa in följande tillägg:\n\n%@";
+
+/* source viewer: window subtitle shown under the extension name */
+"PopClip Extension Source" = "PopClip-tilläggets källa";
 
 /* No comment provided by engineer. */
 "PopClip Extensions Directory" = "PopClip-tilläggskatalog";

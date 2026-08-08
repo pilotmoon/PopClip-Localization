@@ -290,9 +290,6 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "Chyba načítania rozšírenia";
 
-/* source viewer: window subtitle shown under the extension name */
-"Extension Source" = "Zdrojový kód rozšírenia";
-
 /* No comment provided by engineer. */
 "Extensions" = "Rozšírenia";
 
@@ -582,6 +579,9 @@
 
 /* No comment provided by engineer. */
 "PopClip could not load the following extensions:\n\n%@" = "PopClip nemohol načítať nasledujúce rozšírenia:\n\n%@";
+
+/* source viewer: window subtitle shown under the extension name */
+"PopClip Extension Source" = "Zdrojový kód rozšírenia PopClip";
 
 /* No comment provided by engineer. */
 "PopClip Extensions Directory" = "Adresár rozšírení PopClip";

@@ -290,9 +290,6 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "Uzantı Yüklenme Hatası";
 
-/* source viewer: window subtitle shown under the extension name */
-"Extension Source" = "Uzantı Kaynağı";
-
 /* No comment provided by engineer. */
 "Extensions" = "Uzantılar";
 
@@ -582,6 +579,9 @@
 
 /* No comment provided by engineer. */
 "PopClip could not load the following extensions:\n\n%@" = "PopClip şu uzantıları yükleyemedi:\n\n%@";
+
+/* source viewer: window subtitle shown under the extension name */
+"PopClip Extension Source" = "PopClip Uzantı Kaynağı";
 
 /* No comment provided by engineer. */
 "PopClip Extensions Directory" = "PopClip Uzantılar Dizini";

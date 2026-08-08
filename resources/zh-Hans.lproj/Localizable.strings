@@ -290,9 +290,6 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "扩展加载错误";
 
-/* source viewer: window subtitle shown under the extension name */
-"Extension Source" = "扩展源代码";
-
 /* No comment provided by engineer. */
 "Extensions" = "扩展";
 
@@ -582,6 +579,9 @@
 
 /* No comment provided by engineer. */
 "PopClip could not load the following extensions:\n\n%@" = "PopClip 无法加载以下扩展：\n\n%@";
+
+/* source viewer: window subtitle shown under the extension name */
+"PopClip Extension Source" = "PopClip 扩展源代码";
 
 /* No comment provided by engineer. */
 "PopClip Extensions Directory" = "PopClip 扩展目录";

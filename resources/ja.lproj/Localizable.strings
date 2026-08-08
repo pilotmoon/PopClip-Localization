@@ -290,9 +290,6 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "拡張機能の読み込みエラー";
 
-/* source viewer: window subtitle shown under the extension name */
-"Extension Source" = "拡張機能のソース";
-
 /* No comment provided by engineer. */
 "Extensions" = "拡張機能";
 
@@ -582,6 +579,9 @@
 
 /* No comment provided by engineer. */
 "PopClip could not load the following extensions:\n\n%@" = "PopClipは次の拡張機能を読み込めませんでした：\n\n%@";
+
+/* source viewer: window subtitle shown under the extension name */
+"PopClip Extension Source" = "PopClip拡張機能のソース";
 
 /* No comment provided by engineer. */
 "PopClip Extensions Directory" = "PopClip拡張機能ディレクトリ";

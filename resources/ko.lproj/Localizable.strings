@@ -290,9 +290,6 @@
 /* No comment provided by engineer. */
 "Extension Load Error" = "확장 프로그램 로드 오류";
 
-/* source viewer: window subtitle shown under the extension name */
-"Extension Source" = "확장 프로그램 소스";
-
 /* No comment provided by engineer. */
 "Extensions" = "확장 프로그램";
 
@@ -582,6 +579,9 @@
 
 /* No comment provided by engineer. */
 "PopClip could not load the following extensions:\n\n%@" = "PopClip이 다음 확장 프로그램을 로드할 수 없습니다:\n\n%@";
+
+/* source viewer: window subtitle shown under the extension name */
+"PopClip Extension Source" = "PopClip 확장 프로그램 소스";
 
 /* No comment provided by engineer. */
 "PopClip Extensions Directory" = "PopClip 확장 프로그램 디렉토리";
