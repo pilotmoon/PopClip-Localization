@@ -22,6 +22,12 @@
 /* Placeholder is app name. Example: `PopClip Update Ready` */
 "%@ Update Ready" = "Оновлення %@ готове";
 
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted above" = "%@, нові дії вставляються вище";
+
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted below" = "%@, нові дії вставляються нижче";
+
 /* number of extensions updated; plural forms in Localizable.stringsdict */
 "%lu extensions updated" = "Оновлено розширень: %lu";
 
@@ -221,9 +227,6 @@
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Підписано розробником";
 
-/* name of dictionary look-up feature */
-"Dictionary" = "Словник";
-
 /* URL rule description */
 "Domain" = "Домен";
 
@@ -401,6 +404,12 @@
 /* No comment provided by engineer. */
 "Including colored icons" = "Додаються кольорові іконки";
 
+/* Separator menu item (checkable): actions for newly installed extensions go directly above this separator */
+"Insert New Actions Above" = "Вставляти нові дії вище";
+
+/* Separator menu item (checkable): actions for newly installed extensions go directly below this separator */
+"Insert New Actions Below" = "Вставляти нові дії нижче";
+
 /* button title: install the named externsion */
 "Install \"%@\"" = "Установити «%@»";
 
@@ -433,12 +442,6 @@
 
 /* No comment provided by engineer. */
 "Keyboard shortcut" = "Гарячі клавіші";
-
-/* No comment provided by engineer. */
-"Language" = "Мова";
-
-/* No comment provided by engineer. */
-"Languages" = "Мови";
 
 /* %@ is a relative time such as “Just now”, “5 minutes ago”, or “Never” */
 "Last checked: %@" = "Остання перевірка: %@";
@@ -503,6 +506,9 @@
 /* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
 "Never" = "Ніколи";
 
+/* Caption on the separator row where actions for newly installed extensions are added; follows an up or down arrow showing which side */
+"New Actions" = "Нові дії";
+
 /* No comment provided by engineer. */
 "New Folder" = "Нова папка";
 
@@ -539,11 +545,14 @@
 /* No comment provided by engineer. */
 "One or more extensions could not be updated." = "Не вдалося оновити одне або кілька розширень.";
 
-/* name of link opening feature */
-"Open Link" = "Відкрити посилання";
+/* alert button that opens the macOS Automation privacy settings pane */
+"Open Automation Settings" = "Відкрити налаштування автоматизації";
 
 /* No comment provided by engineer. */
-"Open Links" = "Відкрити посилання";
+"Open Link" = "Відкрити посилання";
+
+/* alert button that opens the macOS Reminders privacy settings pane */
+"Open Reminders Settings" = "Відкрити налаштування «Нагадування»";
 
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "Відкриває підменю";
@@ -589,8 +598,11 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip потребує доступу до спеціальних можливостей, щоб зчитувати виділений текст в інших застосунках та виконувати дії для вас.";
 
-/* No comment provided by engineer. */
-"PopClip will check spelling in each selected language." = "PopClip перевірятиме правопис для кожної вибраної мови.";
+/* title of an alert shown when an extension action fails because Reminders permission is denied */
+"PopClip needs permission to access your Reminders" = "PopClip потребує дозволу на доступ до ваших нагадувань";
+
+/* title of an alert shown when an extension action fails because macOS automation permission is denied */
+"PopClip needs permission to control another app" = "PopClip потребує дозволу на керування іншою програмою";
 
 /* No comment provided by engineer. */
 "Popup Item" = "Елемент спливного меню";
@@ -634,9 +646,6 @@
 /* No comment provided by engineer. */
 "Restrict where PopClip can appear automatically." = "Обмежте, де PopClip може з'являтися автоматично.";
 
-/* name of 'reveal in finder' feature */
-"Reveal in Finder" = "Показати у Finder";
-
 /* icon picker: rotation control */
 "Rotate" = "Повернути";
 
@@ -649,12 +658,8 @@
 /* icon picker: scale (size) control */
 "Scale" = "Масштаб";
 
-/* name of web search feature
-   Placeholder in the field that searches the actions list */
+/* Placeholder in the field that searches the actions list */
 "Search" = "Пошук";
-
-/* No comment provided by engineer. */
-"Search Engine" = "Пошукова система";
 
 /* Search for icons from the 'Iconify' icon library */
 "Search Iconify" = "Пошук в Iconify";
@@ -680,6 +685,9 @@
 
 /* icon picker: outer shape (none, square, circle) */
 "Shape" = "Форма";
+
+/* extension entitlement: the extension can run shell scripts and AppleScripts */
+"Shell Script / AppleScript" = "Скрипт оболонки / AppleScript";
 
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "Показувати «%@» у списку дій";
@@ -735,9 +743,6 @@
 /* No comment provided by engineer. */
 "Sort by Name" = "Сортувати за назвою";
 
-/* name of spelling checker feature */
-"Spelling" = "Правопис";
-
 /* icon picker option: shape is a square */
 "Square" = "Квадрат";
 
@@ -781,6 +786,12 @@
 /* No comment provided by engineer. */
 "This extension requires macOS version %@ or above." = "Це розширення потребує macOS версії %@ або новішої.";
 
+/* explanatory text of the alert shown when an extension action fails because Reminders permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access to “PopClip” in Reminders settings." = "Щоб розширення «%@» працювало, надайте доступ для «PopClip» у налаштуваннях «Нагадування».";
+
+/* explanatory text of the alert shown when an extension action fails because macOS automation permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access under “PopClip” in Automation settings." = "Щоб розширення «%@» працювало, надайте доступ у розділі «PopClip» у налаштуваннях автоматизації.";
+
 /* the free trial has expired */
 "Trial Expired" = "Пробний період закінчився";
 
@@ -819,9 +830,6 @@
 
 /* No comment provided by engineer. */
 "URL scheme" = "Схема URL";
-
-/* No comment provided by engineer. */
-"Use *** in place of the search text." = "Використовуйте *** замість тексту пошуку.";
 
 /* No comment provided by engineer. */
 "Use the keyboard shortcut to trigger PopClip manually." = "Використовуйте гарячі клавіші для виклику PopClip вручну.";

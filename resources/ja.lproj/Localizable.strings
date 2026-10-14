@@ -22,6 +22,12 @@
 /* Placeholder is app name. Example: `PopClip Update Ready` */
 "%@ Update Ready" = "%@の更新が完了しました";
 
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted above" = "%@、新しいアクションはこの上に挿入されます";
+
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted below" = "%@、新しいアクションはこの下に挿入されます";
+
 /* number of extensions updated; plural forms in Localizable.stringsdict */
 "%lu extensions updated" = "%lu個の拡張機能が更新されました";
 
@@ -221,9 +227,6 @@
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "開発元署名済み";
 
-/* name of dictionary look-up feature */
-"Dictionary" = "辞書";
-
 /* URL rule description */
 "Domain" = "ドメイン";
 
@@ -401,6 +404,12 @@
 /* No comment provided by engineer. */
 "Including colored icons" = "カラーアイコンを含めています";
 
+/* Separator menu item (checkable): actions for newly installed extensions go directly above this separator */
+"Insert New Actions Above" = "新しいアクションを上に挿入";
+
+/* Separator menu item (checkable): actions for newly installed extensions go directly below this separator */
+"Insert New Actions Below" = "新しいアクションを下に挿入";
+
 /* button title: install the named externsion */
 "Install \"%@\"" = "「%@」をインストール";
 
@@ -433,12 +442,6 @@
 
 /* No comment provided by engineer. */
 "Keyboard shortcut" = "キーボードショートカット";
-
-/* No comment provided by engineer. */
-"Language" = "言語";
-
-/* No comment provided by engineer. */
-"Languages" = "言語";
 
 /* %@ is a relative time such as “Just now”, “5 minutes ago”, or “Never” */
 "Last checked: %@" = "最終チェック: %@";
@@ -503,6 +506,9 @@
 /* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
 "Never" = "未確認";
 
+/* Caption on the separator row where actions for newly installed extensions are added; follows an up or down arrow showing which side */
+"New Actions" = "新しいアクション";
+
 /* No comment provided by engineer. */
 "New Folder" = "新規フォルダ";
 
@@ -539,11 +545,14 @@
 /* No comment provided by engineer. */
 "One or more extensions could not be updated." = "いくつかの拡張機能を更新できませんでした。";
 
-/* name of link opening feature */
-"Open Link" = "リンクを開く";
+/* alert button that opens the macOS Automation privacy settings pane */
+"Open Automation Settings" = "オートメーション設定を開く";
 
 /* No comment provided by engineer. */
-"Open Links" = "リンクを開く";
+"Open Link" = "リンクを開く";
+
+/* alert button that opens the macOS Reminders privacy settings pane */
+"Open Reminders Settings" = "リマインダー設定を開く";
 
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "サブメニューを開きます";
@@ -589,8 +598,11 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClipは、他のアプリで選択したテキストを読んだり、あなたのためにアクションを実行するために、アクセシビリティアクセスを必要とします。";
 
-/* No comment provided by engineer. */
-"PopClip will check spelling in each selected language." = "PopClipは選択した言語でスペルチェックを実行します。";
+/* title of an alert shown when an extension action fails because Reminders permission is denied */
+"PopClip needs permission to access your Reminders" = "PopClipにリマインダーへのアクセス許可が必要です";
+
+/* title of an alert shown when an extension action fails because macOS automation permission is denied */
+"PopClip needs permission to control another app" = "PopClipに他のアプリを制御する許可が必要です";
 
 /* No comment provided by engineer. */
 "Popup Item" = "ポップアップ項目";
@@ -634,9 +646,6 @@
 /* No comment provided by engineer. */
 "Restrict where PopClip can appear automatically." = "PopClipが自動で表示される範囲を制限します。";
 
-/* name of 'reveal in finder' feature */
-"Reveal in Finder" = "Finderに表示";
-
 /* icon picker: rotation control */
 "Rotate" = "回転";
 
@@ -649,12 +658,8 @@
 /* icon picker: scale (size) control */
 "Scale" = "拡大縮小";
 
-/* name of web search feature
-   Placeholder in the field that searches the actions list */
+/* Placeholder in the field that searches the actions list */
 "Search" = "検索";
-
-/* No comment provided by engineer. */
-"Search Engine" = "検索エンジン";
 
 /* Search for icons from the 'Iconify' icon library */
 "Search Iconify" = "Iconifyを検索";
@@ -680,6 +685,9 @@
 
 /* icon picker: outer shape (none, square, circle) */
 "Shape" = "形状";
+
+/* extension entitlement: the extension can run shell scripts and AppleScripts */
+"Shell Script / AppleScript" = "シェルスクリプト/AppleScript";
 
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "アクションリストに「%@」を表示";
@@ -735,9 +743,6 @@
 /* No comment provided by engineer. */
 "Sort by Name" = "名前順に並べ替え";
 
-/* name of spelling checker feature */
-"Spelling" = "スペル";
-
 /* icon picker option: shape is a square */
 "Square" = "四角形";
 
@@ -781,6 +786,12 @@
 /* No comment provided by engineer. */
 "This extension requires macOS version %@ or above." = "この拡張機能にはmacOSバージョン%@以上が必要です。";
 
+/* explanatory text of the alert shown when an extension action fails because Reminders permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access to “PopClip” in Reminders settings." = "「%@」拡張機能を使用するには、リマインダー設定で「PopClip」にアクセスを許可してください。";
+
+/* explanatory text of the alert shown when an extension action fails because macOS automation permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access under “PopClip” in Automation settings." = "「%@」拡張機能を使用するには、オートメーション設定の「PopClip」の下でアクセスを許可してください。";
+
 /* the free trial has expired */
 "Trial Expired" = "トライアルの有効期限が切れました";
 
@@ -819,9 +830,6 @@
 
 /* No comment provided by engineer. */
 "URL scheme" = "URLスキーム";
-
-/* No comment provided by engineer. */
-"Use *** in place of the search text." = "検索テキストの代わりに *** を使用してください。";
 
 /* No comment provided by engineer. */
 "Use the keyboard shortcut to trigger PopClip manually." = "キーボードショートカットを使ってPopClipを手動で呼び出します。";

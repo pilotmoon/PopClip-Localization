@@ -22,6 +22,12 @@
 /* Placeholder is app name. Example: `PopClip Update Ready` */
 "%@ Update Ready" = "%@ sẵn sàng cập nhật";
 
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted above" = "%@, hành động mới được chèn vào phía trên";
+
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted below" = "%@, hành động mới được chèn vào phía dưới";
+
 /* number of extensions updated; plural forms in Localizable.stringsdict */
 "%lu extensions updated" = "%lu phần mở rộng đã cập nhật";
 
@@ -221,9 +227,6 @@
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Được nhà phát triển ký";
 
-/* name of dictionary look-up feature */
-"Dictionary" = "Từ điển";
-
 /* URL rule description */
 "Domain" = "Tên miền";
 
@@ -401,6 +404,12 @@
 /* No comment provided by engineer. */
 "Including colored icons" = "Đang bao gồm biểu tượng màu";
 
+/* Separator menu item (checkable): actions for newly installed extensions go directly above this separator */
+"Insert New Actions Above" = "Chèn hành động mới phía trên";
+
+/* Separator menu item (checkable): actions for newly installed extensions go directly below this separator */
+"Insert New Actions Below" = "Chèn hành động mới phía dưới";
+
 /* button title: install the named externsion */
 "Install \"%@\"" = "Cài đặt \"%@\"";
 
@@ -433,12 +442,6 @@
 
 /* No comment provided by engineer. */
 "Keyboard shortcut" = "Phím tắt";
-
-/* No comment provided by engineer. */
-"Language" = "Ngôn ngữ";
-
-/* No comment provided by engineer. */
-"Languages" = "Ngôn ngữ";
 
 /* %@ is a relative time such as “Just now”, “5 minutes ago”, or “Never” */
 "Last checked: %@" = "Lần kiểm tra cuối: %@";
@@ -503,6 +506,9 @@
 /* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
 "Never" = "Không bao giờ";
 
+/* Caption on the separator row where actions for newly installed extensions are added; follows an up or down arrow showing which side */
+"New Actions" = "Hành động mới";
+
 /* No comment provided by engineer. */
 "New Folder" = "Thư mục mới";
 
@@ -539,11 +545,14 @@
 /* No comment provided by engineer. */
 "One or more extensions could not be updated." = "Không thể cập nhật một hoặc nhiều phần mở rộng.";
 
-/* name of link opening feature */
-"Open Link" = "Mở liên kết";
+/* alert button that opens the macOS Automation privacy settings pane */
+"Open Automation Settings" = "Mở cài đặt Tự động hóa";
 
 /* No comment provided by engineer. */
-"Open Links" = "Mở liên kết";
+"Open Link" = "Mở liên kết";
+
+/* alert button that opens the macOS Reminders privacy settings pane */
+"Open Reminders Settings" = "Mở cài đặt Lời nhắc";
 
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "Mở menu con";
@@ -589,8 +598,11 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip cần quyền Trợ năng để đọc văn bản bạn chọn trong các ứng dụng khác và thực hiện các hành động cho bạn.";
 
-/* No comment provided by engineer. */
-"PopClip will check spelling in each selected language." = "PopClip sẽ kiểm tra chính tả cho mỗi ngôn ngữ được lựa chọn.";
+/* title of an alert shown when an extension action fails because Reminders permission is denied */
+"PopClip needs permission to access your Reminders" = "PopClip cần quyền để truy cập Lời nhắc của bạn";
+
+/* title of an alert shown when an extension action fails because macOS automation permission is denied */
+"PopClip needs permission to control another app" = "PopClip cần quyền để điều khiển ứng dụng khác";
 
 /* No comment provided by engineer. */
 "Popup Item" = "Mục bật lên";
@@ -634,9 +646,6 @@
 /* No comment provided by engineer. */
 "Restrict where PopClip can appear automatically." = "Giới hạn nơi PopClip có thể xuất hiện tự động.";
 
-/* name of 'reveal in finder' feature */
-"Reveal in Finder" = "Xem trong Finder";
-
 /* icon picker: rotation control */
 "Rotate" = "Xoay";
 
@@ -649,12 +658,8 @@
 /* icon picker: scale (size) control */
 "Scale" = "Tỷ lệ";
 
-/* name of web search feature
-   Placeholder in the field that searches the actions list */
+/* Placeholder in the field that searches the actions list */
 "Search" = "Tìm kiếm";
-
-/* No comment provided by engineer. */
-"Search Engine" = "Công cụ tìm kiếm";
 
 /* Search for icons from the 'Iconify' icon library */
 "Search Iconify" = "Tìm kiếm Iconify";
@@ -680,6 +685,9 @@
 
 /* icon picker: outer shape (none, square, circle) */
 "Shape" = "Hình dạng";
+
+/* extension entitlement: the extension can run shell scripts and AppleScripts */
+"Shell Script / AppleScript" = "Tập lệnh shell / AppleScript";
 
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "Hiển thị \"%@\" trong danh sách hành động";
@@ -735,9 +743,6 @@
 /* No comment provided by engineer. */
 "Sort by Name" = "Sắp xếp theo tên";
 
-/* name of spelling checker feature */
-"Spelling" = "Chính tả";
-
 /* icon picker option: shape is a square */
 "Square" = "Hình vuông";
 
@@ -781,6 +786,12 @@
 /* No comment provided by engineer. */
 "This extension requires macOS version %@ or above." = "Phần mở rộng này yêu cầu macOS phiên bản %@ hoặc cao hơn.";
 
+/* explanatory text of the alert shown when an extension action fails because Reminders permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access to “PopClip” in Reminders settings." = "Để phần mở rộng “%@” hoạt động, hãy cấp quyền truy cập cho “PopClip” trong cài đặt Lời nhắc.";
+
+/* explanatory text of the alert shown when an extension action fails because macOS automation permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access under “PopClip” in Automation settings." = "Để phần mở rộng “%@” hoạt động, hãy cấp quyền truy cập dưới mục “PopClip” trong cài đặt Tự động hóa.";
+
 /* the free trial has expired */
 "Trial Expired" = "Đã hết hạn dùng thử";
 
@@ -819,9 +830,6 @@
 
 /* No comment provided by engineer. */
 "URL scheme" = "Lược đồ URL";
-
-/* No comment provided by engineer. */
-"Use *** in place of the search text." = "Dùng *** thay cho văn bản tìm kiếm.";
 
 /* No comment provided by engineer. */
 "Use the keyboard shortcut to trigger PopClip manually." = "Sử dụng phím tắt để khởi động PopClip thủ công.";

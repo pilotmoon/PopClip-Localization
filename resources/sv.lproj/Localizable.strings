@@ -22,6 +22,12 @@
 /* Placeholder is app name. Example: `PopClip Update Ready` */
 "%@ Update Ready" = "%@-uppdatering redo";
 
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted above" = "%@, nya åtgärder infogas ovanför";
+
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted below" = "%@, nya åtgärder infogas nedanför";
+
 /* number of extensions updated; plural forms in Localizable.stringsdict */
 "%lu extensions updated" = "%lu tillägg uppdaterade";
 
@@ -221,9 +227,6 @@
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Utvecklarsignerat";
 
-/* name of dictionary look-up feature */
-"Dictionary" = "Ordbok";
-
 /* URL rule description */
 "Domain" = "Domän";
 
@@ -401,6 +404,12 @@
 /* No comment provided by engineer. */
 "Including colored icons" = "Inkluderar färgade ikoner";
 
+/* Separator menu item (checkable): actions for newly installed extensions go directly above this separator */
+"Insert New Actions Above" = "Infoga nya åtgärder ovanför";
+
+/* Separator menu item (checkable): actions for newly installed extensions go directly below this separator */
+"Insert New Actions Below" = "Infoga nya åtgärder nedanför";
+
 /* button title: install the named externsion */
 "Install \"%@\"" = "Installera ”%@”";
 
@@ -433,12 +442,6 @@
 
 /* No comment provided by engineer. */
 "Keyboard shortcut" = "Kortkommando";
-
-/* No comment provided by engineer. */
-"Language" = "Språk";
-
-/* No comment provided by engineer. */
-"Languages" = "Språk";
 
 /* %@ is a relative time such as “Just now”, “5 minutes ago”, or “Never” */
 "Last checked: %@" = "Senast kontrollerat: %@";
@@ -503,6 +506,9 @@
 /* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
 "Never" = "Aldrig";
 
+/* Caption on the separator row where actions for newly installed extensions are added; follows an up or down arrow showing which side */
+"New Actions" = "Nya åtgärder";
+
 /* No comment provided by engineer. */
 "New Folder" = "Ny mapp";
 
@@ -539,11 +545,14 @@
 /* No comment provided by engineer. */
 "One or more extensions could not be updated." = "Ett eller flera tillägg kunde inte uppdateras.";
 
-/* name of link opening feature */
-"Open Link" = "Öppna länk";
+/* alert button that opens the macOS Automation privacy settings pane */
+"Open Automation Settings" = "Öppna inställningar för Automatisering";
 
 /* No comment provided by engineer. */
-"Open Links" = "Öppna länkar";
+"Open Link" = "Öppna länk";
+
+/* alert button that opens the macOS Reminders privacy settings pane */
+"Open Reminders Settings" = "Öppna inställningar för Påminnelser";
 
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "Öppnar undermeny";
@@ -589,8 +598,11 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip behöver tillgång till Hjälpmedel för att läsa texten du markerar i andra appar och för att utföra åtgärder åt dig.";
 
-/* No comment provided by engineer. */
-"PopClip will check spelling in each selected language." = "PopClip kontrollerar stavningen i varje valt språk.";
+/* title of an alert shown when an extension action fails because Reminders permission is denied */
+"PopClip needs permission to access your Reminders" = "PopClip behöver behörighet för att få tillgång till dina påminnelser";
+
+/* title of an alert shown when an extension action fails because macOS automation permission is denied */
+"PopClip needs permission to control another app" = "PopClip behöver behörighet för att styra en annan app";
 
 /* No comment provided by engineer. */
 "Popup Item" = "Popup-objekt";
@@ -634,9 +646,6 @@
 /* No comment provided by engineer. */
 "Restrict where PopClip can appear automatically." = "Begränsa var PopClip kan visas automatiskt.";
 
-/* name of 'reveal in finder' feature */
-"Reveal in Finder" = "Visa i Finder";
-
 /* icon picker: rotation control */
 "Rotate" = "Rotera";
 
@@ -649,12 +658,8 @@
 /* icon picker: scale (size) control */
 "Scale" = "Skala";
 
-/* name of web search feature
-   Placeholder in the field that searches the actions list */
+/* Placeholder in the field that searches the actions list */
 "Search" = "Sök";
-
-/* No comment provided by engineer. */
-"Search Engine" = "Sökmotor";
 
 /* Search for icons from the 'Iconify' icon library */
 "Search Iconify" = "Sök i Iconify";
@@ -680,6 +685,9 @@
 
 /* icon picker: outer shape (none, square, circle) */
 "Shape" = "Form";
+
+/* extension entitlement: the extension can run shell scripts and AppleScripts */
+"Shell Script / AppleScript" = "Shell-skript / AppleScript";
 
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "Visa ”%@” i åtgärdslistan";
@@ -735,9 +743,6 @@
 /* No comment provided by engineer. */
 "Sort by Name" = "Sortera efter namn";
 
-/* name of spelling checker feature */
-"Spelling" = "Stavning";
-
 /* icon picker option: shape is a square */
 "Square" = "Kvadrat";
 
@@ -781,6 +786,12 @@
 /* No comment provided by engineer. */
 "This extension requires macOS version %@ or above." = "Detta tillägg kräver macOS version %@ eller senare.";
 
+/* explanatory text of the alert shown when an extension action fails because Reminders permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access to “PopClip” in Reminders settings." = "För att tillägget ”%@” ska fungera, ge ”PopClip” tillgång i inställningarna för Påminnelser.";
+
+/* explanatory text of the alert shown when an extension action fails because macOS automation permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access under “PopClip” in Automation settings." = "För att tillägget ”%@” ska fungera, ge tillgång under ”PopClip” i inställningarna för Automatisering.";
+
 /* the free trial has expired */
 "Trial Expired" = "Testperioden har gått ut";
 
@@ -819,9 +830,6 @@
 
 /* No comment provided by engineer. */
 "URL scheme" = "URL-schema";
-
-/* No comment provided by engineer. */
-"Use *** in place of the search text." = "Använd *** i stället för söktexten.";
 
 /* No comment provided by engineer. */
 "Use the keyboard shortcut to trigger PopClip manually." = "Använd kortkommandot för att visa PopClip manuellt.";

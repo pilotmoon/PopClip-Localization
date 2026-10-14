@@ -22,6 +22,12 @@
 /* Placeholder is app name. Example: `PopClip Update Ready` */
 "%@ Update Ready" = "Actualización lista para %@";
 
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted above" = "%@, las nuevas acciones se insertan encima";
+
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted below" = "%@, las nuevas acciones se insertan debajo";
+
 /* number of extensions updated; plural forms in Localizable.stringsdict */
 "%lu extensions updated" = "%lu extensiones actualizadas";
 
@@ -221,9 +227,6 @@
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Firmada por desarrollador";
 
-/* name of dictionary look-up feature */
-"Dictionary" = "Diccionario";
-
 /* URL rule description */
 "Domain" = "Dominio";
 
@@ -401,6 +404,12 @@
 /* No comment provided by engineer. */
 "Including colored icons" = "Incluyendo iconos de color";
 
+/* Separator menu item (checkable): actions for newly installed extensions go directly above this separator */
+"Insert New Actions Above" = "Insertar nuevas acciones encima";
+
+/* Separator menu item (checkable): actions for newly installed extensions go directly below this separator */
+"Insert New Actions Below" = "Insertar nuevas acciones debajo";
+
 /* button title: install the named externsion */
 "Install \"%@\"" = "Instalar “%@”";
 
@@ -433,12 +442,6 @@
 
 /* No comment provided by engineer. */
 "Keyboard shortcut" = "Atajo de teclado";
-
-/* No comment provided by engineer. */
-"Language" = "Idioma";
-
-/* No comment provided by engineer. */
-"Languages" = "Idiomas";
 
 /* %@ is a relative time such as “Just now”, “5 minutes ago”, or “Never” */
 "Last checked: %@" = "Última comprobación: %@";
@@ -503,6 +506,9 @@
 /* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
 "Never" = "Nunca";
 
+/* Caption on the separator row where actions for newly installed extensions are added; follows an up or down arrow showing which side */
+"New Actions" = "Nuevas acciones";
+
 /* No comment provided by engineer. */
 "New Folder" = "Nueva carpeta";
 
@@ -539,11 +545,14 @@
 /* No comment provided by engineer. */
 "One or more extensions could not be updated." = "No se pudieron actualizar una o más extensiones.";
 
-/* name of link opening feature */
-"Open Link" = "Abrir enlace";
+/* alert button that opens the macOS Automation privacy settings pane */
+"Open Automation Settings" = "Abrir ajustes de Automatización";
 
 /* No comment provided by engineer. */
-"Open Links" = "Abrir enlaces";
+"Open Link" = "Abrir enlace";
+
+/* alert button that opens the macOS Reminders privacy settings pane */
+"Open Reminders Settings" = "Abrir ajustes de Recordatorios";
 
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "Abre un submenú";
@@ -589,8 +598,11 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip necesita permiso de Accesibilidad para leer el texto que selecciones en otras aplicaciones y realizar acciones por ti.";
 
-/* No comment provided by engineer. */
-"PopClip will check spelling in each selected language." = "PopClip revisará la ortografía en cada idioma seleccionado.";
+/* title of an alert shown when an extension action fails because Reminders permission is denied */
+"PopClip needs permission to access your Reminders" = "PopClip necesita permiso para acceder a tus recordatorios";
+
+/* title of an alert shown when an extension action fails because macOS automation permission is denied */
+"PopClip needs permission to control another app" = "PopClip necesita permiso para controlar otra app";
 
 /* No comment provided by engineer. */
 "Popup Item" = "Elemento emergente";
@@ -634,9 +646,6 @@
 /* No comment provided by engineer. */
 "Restrict where PopClip can appear automatically." = "Restringir dónde PopClip puede aparecer automáticamente.";
 
-/* name of 'reveal in finder' feature */
-"Reveal in Finder" = "Mostrar en el Finder";
-
 /* icon picker: rotation control */
 "Rotate" = "Girar";
 
@@ -649,12 +658,8 @@
 /* icon picker: scale (size) control */
 "Scale" = "Escala";
 
-/* name of web search feature
-   Placeholder in the field that searches the actions list */
+/* Placeholder in the field that searches the actions list */
 "Search" = "Buscar";
-
-/* No comment provided by engineer. */
-"Search Engine" = "Motor de búsqueda";
 
 /* Search for icons from the 'Iconify' icon library */
 "Search Iconify" = "Buscar en Iconify";
@@ -680,6 +685,9 @@
 
 /* icon picker: outer shape (none, square, circle) */
 "Shape" = "Forma";
+
+/* extension entitlement: the extension can run shell scripts and AppleScripts */
+"Shell Script / AppleScript" = "Script de shell / AppleScript";
 
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "Mostrar \"%@\" en la lista de acciones";
@@ -735,9 +743,6 @@
 /* No comment provided by engineer. */
 "Sort by Name" = "Ordenar por nombre";
 
-/* name of spelling checker feature */
-"Spelling" = "Ortografía";
-
 /* icon picker option: shape is a square */
 "Square" = "Cuadrado";
 
@@ -781,6 +786,12 @@
 /* No comment provided by engineer. */
 "This extension requires macOS version %@ or above." = "Esta extensión requiere la versión de macOS %@ o superior.";
 
+/* explanatory text of the alert shown when an extension action fails because Reminders permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access to “PopClip” in Reminders settings." = "Para que la extensión “%@” funcione, concede acceso a “PopClip” en los ajustes de Recordatorios.";
+
+/* explanatory text of the alert shown when an extension action fails because macOS automation permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access under “PopClip” in Automation settings." = "Para que la extensión “%@” funcione, concede acceso bajo “PopClip” en los ajustes de Automatización.";
+
 /* the free trial has expired */
 "Trial Expired" = "Período de prueba agotado";
 
@@ -819,9 +830,6 @@
 
 /* No comment provided by engineer. */
 "URL scheme" = "Esquema de URL";
-
-/* No comment provided by engineer. */
-"Use *** in place of the search text." = "Usa *** en lugar del texto de búsqueda.";
 
 /* No comment provided by engineer. */
 "Use the keyboard shortcut to trigger PopClip manually." = "Usa el atajo de teclado para activar PopClip manualmente.";

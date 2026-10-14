@@ -22,6 +22,12 @@
 /* Placeholder is app name. Example: `PopClip Update Ready` */
 "%@ Update Ready" = "%@ Güncellemesi Hazır";
 
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted above" = "%@, yeni eylemler üstüne eklenir";
+
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted below" = "%@, yeni eylemler altına eklenir";
+
 /* number of extensions updated; plural forms in Localizable.stringsdict */
 "%lu extensions updated" = "%lu uzantı güncellendi";
 
@@ -221,9 +227,6 @@
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Geliştirici imzalı";
 
-/* name of dictionary look-up feature */
-"Dictionary" = "Sözlük";
-
 /* URL rule description */
 "Domain" = "Alan adı";
 
@@ -401,6 +404,12 @@
 /* No comment provided by engineer. */
 "Including colored icons" = "Renkli simgeler dahil ediliyor";
 
+/* Separator menu item (checkable): actions for newly installed extensions go directly above this separator */
+"Insert New Actions Above" = "Yeni Eylemleri Üstüne Ekle";
+
+/* Separator menu item (checkable): actions for newly installed extensions go directly below this separator */
+"Insert New Actions Below" = "Yeni Eylemleri Altına Ekle";
+
 /* button title: install the named externsion */
 "Install \"%@\"" = "\"%@\" yükle";
 
@@ -433,12 +442,6 @@
 
 /* No comment provided by engineer. */
 "Keyboard shortcut" = "Klavye kısayolu";
-
-/* No comment provided by engineer. */
-"Language" = "Dil";
-
-/* No comment provided by engineer. */
-"Languages" = "Diller";
 
 /* %@ is a relative time such as “Just now”, “5 minutes ago”, or “Never” */
 "Last checked: %@" = "Son denetim: %@";
@@ -503,6 +506,9 @@
 /* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
 "Never" = "Hiçbir zaman";
 
+/* Caption on the separator row where actions for newly installed extensions are added; follows an up or down arrow showing which side */
+"New Actions" = "Yeni Eylemler";
+
 /* No comment provided by engineer. */
 "New Folder" = "Yeni Klasör";
 
@@ -539,11 +545,14 @@
 /* No comment provided by engineer. */
 "One or more extensions could not be updated." = "Bir veya daha fazla uzantı güncellenemedi.";
 
-/* name of link opening feature */
-"Open Link" = "Bağlantıyı aç";
+/* alert button that opens the macOS Automation privacy settings pane */
+"Open Automation Settings" = "Otomasyon Ayarlarını Aç";
 
 /* No comment provided by engineer. */
-"Open Links" = "Bağlantıları aç";
+"Open Link" = "Bağlantıyı aç";
+
+/* alert button that opens the macOS Reminders privacy settings pane */
+"Open Reminders Settings" = "Anımsatıcılar Ayarlarını Aç";
 
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "Alt menüyü açar";
@@ -589,8 +598,11 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip'in, diğer uygulamalarda seçtiğiniz metni okuyabilmesi ve sizin için eylemler gerçekleştirebilmesi için Erişilebilirlik erişimi gereklidir.";
 
-/* No comment provided by engineer. */
-"PopClip will check spelling in each selected language." = "PopClip seçilen her dilde yazım denetimi yapacaktır.";
+/* title of an alert shown when an extension action fails because Reminders permission is denied */
+"PopClip needs permission to access your Reminders" = "PopClip'in Anımsatıcılarınıza erişmek için izne ihtiyacı var";
+
+/* title of an alert shown when an extension action fails because macOS automation permission is denied */
+"PopClip needs permission to control another app" = "PopClip'in başka bir uygulamayı denetlemek için izne ihtiyacı var";
 
 /* No comment provided by engineer. */
 "Popup Item" = "Açılır Öğe";
@@ -634,9 +646,6 @@
 /* No comment provided by engineer. */
 "Restrict where PopClip can appear automatically." = "PopClip'in otomatik olarak nerelerde görüneceğini kısıtlayın.";
 
-/* name of 'reveal in finder' feature */
-"Reveal in Finder" = "Finder'da göster";
-
 /* icon picker: rotation control */
 "Rotate" = "Döndür";
 
@@ -649,12 +658,8 @@
 /* icon picker: scale (size) control */
 "Scale" = "Ölçek";
 
-/* name of web search feature
-   Placeholder in the field that searches the actions list */
+/* Placeholder in the field that searches the actions list */
 "Search" = "Ara";
-
-/* No comment provided by engineer. */
-"Search Engine" = "Arama Motoru";
 
 /* Search for icons from the 'Iconify' icon library */
 "Search Iconify" = "Iconify'da Ara";
@@ -680,6 +685,9 @@
 
 /* icon picker: outer shape (none, square, circle) */
 "Shape" = "Şekil";
+
+/* extension entitlement: the extension can run shell scripts and AppleScripts */
+"Shell Script / AppleScript" = "Kabuk Betiği / AppleScript";
 
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "\"%@\" eylemler listesinde göster";
@@ -735,9 +743,6 @@
 /* No comment provided by engineer. */
 "Sort by Name" = "Ada Göre Sırala";
 
-/* name of spelling checker feature */
-"Spelling" = "Yazım Denetimi";
-
 /* icon picker option: shape is a square */
 "Square" = "Kare";
 
@@ -781,6 +786,12 @@
 /* No comment provided by engineer. */
 "This extension requires macOS version %@ or above." = "Bu uzantı macOS sürüm %@ veya üstünü kullanmayı gerektirir.";
 
+/* explanatory text of the alert shown when an extension action fails because Reminders permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access to “PopClip” in Reminders settings." = "“%@” uzantısının çalışması için Anımsatıcılar ayarlarında “PopClip”e erişim izni verin.";
+
+/* explanatory text of the alert shown when an extension action fails because macOS automation permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access under “PopClip” in Automation settings." = "“%@” uzantısının çalışması için Otomasyon ayarlarında “PopClip” altında erişim izni verin.";
+
 /* the free trial has expired */
 "Trial Expired" = "Deneme süresi sona erdi";
 
@@ -819,9 +830,6 @@
 
 /* No comment provided by engineer. */
 "URL scheme" = "URL şeması";
-
-/* No comment provided by engineer. */
-"Use *** in place of the search text." = "Arama metni yerine *** kullanın.";
 
 /* No comment provided by engineer. */
 "Use the keyboard shortcut to trigger PopClip manually." = "PopClip'i manuel olarak tetiklemek için klavye kısayolunu kullanın.";

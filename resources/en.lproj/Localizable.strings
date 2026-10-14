@@ -22,6 +22,12 @@
 /* Placeholder is app name. Example: `PopClip Update Ready` */
 "%@ Update Ready" = "%@ Update Ready";
 
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted above" = "%@, new actions inserted above";
+
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted below" = "%@, new actions inserted below";
+
 /* number of extensions updated; plural forms in Localizable.stringsdict */
 "%lu extensions updated" = "%lu extensions updated";
 
@@ -221,9 +227,6 @@
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Developer-signed";
 
-/* name of dictionary look-up feature */
-"Dictionary" = "Dictionary";
-
 /* URL rule description */
 "Domain" = "Domain";
 
@@ -401,6 +404,12 @@
 /* No comment provided by engineer. */
 "Including colored icons" = "Including colored icons";
 
+/* Separator menu item (checkable): actions for newly installed extensions go directly above this separator */
+"Insert New Actions Above" = "Insert New Actions Above";
+
+/* Separator menu item (checkable): actions for newly installed extensions go directly below this separator */
+"Insert New Actions Below" = "Insert New Actions Below";
+
 /* button title: install the named externsion */
 "Install \"%@\"" = "Install \"%@\"";
 
@@ -433,12 +442,6 @@
 
 /* No comment provided by engineer. */
 "Keyboard shortcut" = "Keyboard shortcut";
-
-/* No comment provided by engineer. */
-"Language" = "Language";
-
-/* No comment provided by engineer. */
-"Languages" = "Languages";
 
 /* %@ is a relative time such as “Just now”, “5 minutes ago”, or “Never” */
 "Last checked: %@" = "Last checked: %@";
@@ -503,6 +506,9 @@
 /* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
 "Never" = "Never";
 
+/* Caption on the separator row where actions for newly installed extensions are added; follows an up or down arrow showing which side */
+"New Actions" = "New Actions";
+
 /* No comment provided by engineer. */
 "New Folder" = "New Folder";
 
@@ -539,11 +545,14 @@
 /* No comment provided by engineer. */
 "One or more extensions could not be updated." = "One or more extensions could not be updated.";
 
-/* name of link opening feature */
-"Open Link" = "Open Link";
+/* alert button that opens the macOS Automation privacy settings pane */
+"Open Automation Settings" = "Open Automation Settings";
 
 /* No comment provided by engineer. */
-"Open Links" = "Open Links";
+"Open Link" = "Open Link";
+
+/* alert button that opens the macOS Reminders privacy settings pane */
+"Open Reminders Settings" = "Open Reminders Settings";
 
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "Opens submenu";
@@ -589,8 +598,11 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you.";
 
-/* No comment provided by engineer. */
-"PopClip will check spelling in each selected language." = "PopClip will check spelling in each selected language.";
+/* title of an alert shown when an extension action fails because Reminders permission is denied */
+"PopClip needs permission to access your Reminders" = "PopClip needs permission to access your Reminders";
+
+/* title of an alert shown when an extension action fails because macOS automation permission is denied */
+"PopClip needs permission to control another app" = "PopClip needs permission to control another app";
 
 /* No comment provided by engineer. */
 "Popup Item" = "Popup Item";
@@ -634,9 +646,6 @@
 /* No comment provided by engineer. */
 "Restrict where PopClip can appear automatically." = "Restrict where PopClip can appear automatically.";
 
-/* name of 'reveal in finder' feature */
-"Reveal in Finder" = "Reveal in Finder";
-
 /* icon picker: rotation control */
 "Rotate" = "Rotate";
 
@@ -649,12 +658,8 @@
 /* icon picker: scale (size) control */
 "Scale" = "Scale";
 
-/* name of web search feature
-   Placeholder in the field that searches the actions list */
+/* Placeholder in the field that searches the actions list */
 "Search" = "Search";
-
-/* No comment provided by engineer. */
-"Search Engine" = "Search Engine";
 
 /* Search for icons from the 'Iconify' icon library */
 "Search Iconify" = "Search Iconify";
@@ -680,6 +685,9 @@
 
 /* icon picker: outer shape (none, square, circle) */
 "Shape" = "Shape";
+
+/* extension entitlement: the extension can run shell scripts and AppleScripts */
+"Shell Script / AppleScript" = "Shell Script / AppleScript";
 
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "Show \"%@\" in the actions list";
@@ -735,9 +743,6 @@
 /* No comment provided by engineer. */
 "Sort by Name" = "Sort by Name";
 
-/* name of spelling checker feature */
-"Spelling" = "Spelling";
-
 /* icon picker option: shape is a square */
 "Square" = "Square";
 
@@ -781,6 +786,12 @@
 /* No comment provided by engineer. */
 "This extension requires macOS version %@ or above." = "This extension requires macOS version %@ or above.";
 
+/* explanatory text of the alert shown when an extension action fails because Reminders permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access to “PopClip” in Reminders settings." = "To allow the “%@” extension to work, grant access to “PopClip” in Reminders settings.";
+
+/* explanatory text of the alert shown when an extension action fails because macOS automation permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access under “PopClip” in Automation settings." = "To allow the “%@” extension to work, grant access under “PopClip” in Automation settings.";
+
 /* the free trial has expired */
 "Trial Expired" = "Trial Expired";
 
@@ -819,9 +830,6 @@
 
 /* No comment provided by engineer. */
 "URL scheme" = "URL scheme";
-
-/* No comment provided by engineer. */
-"Use *** in place of the search text." = "Use *** in place of the search text.";
 
 /* No comment provided by engineer. */
 "Use the keyboard shortcut to trigger PopClip manually." = "Use the keyboard shortcut to trigger PopClip manually.";

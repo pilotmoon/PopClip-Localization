@@ -22,6 +22,12 @@
 /* Placeholder is app name. Example: `PopClip Update Ready` */
 "%@ Update Ready" = "%@ 更新已就緒";
 
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted above" = "%@，新動作將插入於上方";
+
+/* Accessibility label for a separator row holding the insertion point; %@ is the separator style name, e.g. Section Break */
+"%@, new actions inserted below" = "%@，新動作將插入於下方";
+
 /* number of extensions updated; plural forms in Localizable.stringsdict */
 "%lu extensions updated" = "已更新 %lu 個擴充功能";
 
@@ -221,9 +227,6 @@
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "開發者簽署";
 
-/* name of dictionary look-up feature */
-"Dictionary" = "字典";
-
 /* URL rule description */
 "Domain" = "網域";
 
@@ -401,6 +404,12 @@
 /* No comment provided by engineer. */
 "Including colored icons" = "包含彩色圖示";
 
+/* Separator menu item (checkable): actions for newly installed extensions go directly above this separator */
+"Insert New Actions Above" = "在上方插入新動作";
+
+/* Separator menu item (checkable): actions for newly installed extensions go directly below this separator */
+"Insert New Actions Below" = "在下方插入新動作";
+
 /* button title: install the named externsion */
 "Install \"%@\"" = "安裝「%@」";
 
@@ -433,12 +442,6 @@
 
 /* No comment provided by engineer. */
 "Keyboard shortcut" = "鍵盤快速鍵";
-
-/* No comment provided by engineer. */
-"Language" = "語言";
-
-/* No comment provided by engineer. */
-"Languages" = "語言";
 
 /* %@ is a relative time such as “Just now”, “5 minutes ago”, or “Never” */
 "Last checked: %@" = "上次檢查時間：%@";
@@ -503,6 +506,9 @@
 /* Example: `Last checked: Never`. Relative time indicator for when the event has never occurred. */
 "Never" = "永不";
 
+/* Caption on the separator row where actions for newly installed extensions are added; follows an up or down arrow showing which side */
+"New Actions" = "新動作";
+
 /* No comment provided by engineer. */
 "New Folder" = "新增檔案夾";
 
@@ -539,11 +545,14 @@
 /* No comment provided by engineer. */
 "One or more extensions could not be updated." = "無法更新一或多個擴充功能。";
 
-/* name of link opening feature */
-"Open Link" = "開啟連結";
+/* alert button that opens the macOS Automation privacy settings pane */
+"Open Automation Settings" = "打開「自動化」設定";
 
 /* No comment provided by engineer. */
-"Open Links" = "開啟連結";
+"Open Link" = "開啟連結";
+
+/* alert button that opens the macOS Reminders privacy settings pane */
+"Open Reminders Settings" = "打開「提醒事項」設定";
 
 /* Accessibility help for a popup button that opens a submenu. */
 "Opens submenu" = "開啟子選單";
@@ -589,8 +598,11 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip 需要輔助使用權限，以便讀取您在其他 App 中選取的文字並為您執行動作。";
 
-/* No comment provided by engineer. */
-"PopClip will check spelling in each selected language." = "PopClip 會在每個選取的語言中進行拼字檢查。";
+/* title of an alert shown when an extension action fails because Reminders permission is denied */
+"PopClip needs permission to access your Reminders" = "PopClip 需要權限才能取用你的提醒事項";
+
+/* title of an alert shown when an extension action fails because macOS automation permission is denied */
+"PopClip needs permission to control another app" = "PopClip 需要權限才能控制其他 App";
 
 /* No comment provided by engineer. */
 "Popup Item" = "彈出項目";
@@ -634,9 +646,6 @@
 /* No comment provided by engineer. */
 "Restrict where PopClip can appear automatically." = "限制 PopClip 可自動顯示的位置。";
 
-/* name of 'reveal in finder' feature */
-"Reveal in Finder" = "在 Finder 中顯示";
-
 /* icon picker: rotation control */
 "Rotate" = "旋轉";
 
@@ -649,12 +658,8 @@
 /* icon picker: scale (size) control */
 "Scale" = "縮放";
 
-/* name of web search feature
-   Placeholder in the field that searches the actions list */
+/* Placeholder in the field that searches the actions list */
 "Search" = "搜尋";
-
-/* No comment provided by engineer. */
-"Search Engine" = "搜尋引擎";
 
 /* Search for icons from the 'Iconify' icon library */
 "Search Iconify" = "搜尋 Iconify";
@@ -680,6 +685,9 @@
 
 /* icon picker: outer shape (none, square, circle) */
 "Shape" = "形狀";
+
+/* extension entitlement: the extension can run shell scripts and AppleScripts */
+"Shell Script / AppleScript" = "Shell 工序指令/AppleScript";
 
 /* No comment provided by engineer. */
 "Show \"%@\" in the actions list" = "在動作列表中顯示「%@」";
@@ -735,9 +743,6 @@
 /* No comment provided by engineer. */
 "Sort by Name" = "依名稱排序";
 
-/* name of spelling checker feature */
-"Spelling" = "拼字檢查";
-
 /* icon picker option: shape is a square */
 "Square" = "方形";
 
@@ -781,6 +786,12 @@
 /* No comment provided by engineer. */
 "This extension requires macOS version %@ or above." = "此擴充功能需要 macOS %@ 版或更新版本。";
 
+/* explanatory text of the alert shown when an extension action fails because Reminders permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access to “PopClip” in Reminders settings." = "若要讓「%@」擴充功能正常運作，請在「提醒事項」設定中允許「PopClip」取用。";
+
+/* explanatory text of the alert shown when an extension action fails because macOS automation permission is denied; %@ = the extension's name */
+"To allow the “%@” extension to work, grant access under “PopClip” in Automation settings." = "若要讓「%@」擴充功能正常運作，請在「自動化」設定的「PopClip」下允許取用。";
+
 /* the free trial has expired */
 "Trial Expired" = "試用已過期";
 
@@ -819,9 +830,6 @@
 
 /* No comment provided by engineer. */
 "URL scheme" = "URL 方案";
-
-/* No comment provided by engineer. */
-"Use *** in place of the search text." = "以 *** 代替搜尋文字。";
 
 /* No comment provided by engineer. */
 "Use the keyboard shortcut to trigger PopClip manually." = "使用鍵盤快速鍵手動呼叫 PopClip。";
