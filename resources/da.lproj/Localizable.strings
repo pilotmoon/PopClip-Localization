@@ -43,6 +43,9 @@
 /* appended to the icon specifier tooltip; %@ is the specifier's total character count */
 "(%@ characters)" = "(%@ tegn)";
 
+/* Follows the Device Control and Data Access description. Use Apple's old localized term for the Accessibility permission. */
+"(This permission was called Accessibility before macOS 27.)" = "(Denne tilladelse hed Tilgængelighed før macOS 27.)";
+
 /* click this button to get 10 more uses in the free trial */
 "+10 Uses" = "+10 brug";
 
@@ -226,6 +229,9 @@
 
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Signeret af udvikler";
+
+/* macOS 27+ name of the Accessibility permission. Use Apple's localized term for the Privacy & Security pane exactly. */
+"Device Control and Data Access is required" = "Styring af enhed og adgang til data kræves";
 
 /* URL rule description */
 "Domain" = "Domæne";
@@ -598,6 +604,9 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip kræver adgang til tilgængelighed for at læse teksten du markerer i andre apps og for at udføre handlinger for dig.";
 
+/* macOS 27+. Use Apple's localized term for the Device Control and Data Access permission exactly. */
+"PopClip needs Device Control and Data Access to read the text you select in other apps and to perform actions for you." = "PopClip kræver Styring af enhed og adgang til data for at læse teksten du markerer i andre apps og for at udføre handlinger for dig.";
+
 /* title of an alert shown when an extension action fails because Reminders permission is denied */
 "PopClip needs permission to access your Reminders" = "PopClip skal have tilladelse til at få adgang til dine påmindelser";
 
@@ -636,6 +645,9 @@
 
 /* No comment provided by engineer. */
 "Rename…" = "Omdøb…";
+
+/* macOS 27+ button that requests the Device Control and Data Access permission (formerly Accessibility). */
+"Request Access" = "Anmod om adgang";
 
 /* No comment provided by engineer. */
 "Request Accessibility Access" = "Anmod om tilgængelighedsadgang";

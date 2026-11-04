@@ -43,6 +43,9 @@
 /* appended to the icon specifier tooltip; %@ is the specifier's total character count */
 "(%@ characters)" = "(%@ 个字符)";
 
+/* Follows the Device Control and Data Access description. Use Apple's old localized term for the Accessibility permission. */
+"(This permission was called Accessibility before macOS 27.)" = "(在 macOS 27 之前，此权限称为“辅助功能”。)";
+
 /* click this button to get 10 more uses in the free trial */
 "+10 Uses" = "加 10 次使用";
 
@@ -226,6 +229,9 @@
 
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "开发者签名";
+
+/* macOS 27+ name of the Accessibility permission. Use Apple's localized term for the Privacy & Security pane exactly. */
+"Device Control and Data Access is required" = "需要“设备控制和数据访问”权限";
 
 /* URL rule description */
 "Domain" = "域";
@@ -598,6 +604,9 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip 需要“辅助功能”访问权限，以读取您在其他 App 中选择的文本并为您执行操作。";
 
+/* macOS 27+. Use Apple's localized term for the Device Control and Data Access permission exactly. */
+"PopClip needs Device Control and Data Access to read the text you select in other apps and to perform actions for you." = "PopClip 需要“设备控制和数据访问”权限，以读取您在其他 App 中选择的文本并为您执行操作。";
+
 /* title of an alert shown when an extension action fails because Reminders permission is denied */
 "PopClip needs permission to access your Reminders" = "PopClip 需要权限才能访问你的提醒事项";
 
@@ -636,6 +645,9 @@
 
 /* No comment provided by engineer. */
 "Rename…" = "重命名…";
+
+/* macOS 27+ button that requests the Device Control and Data Access permission (formerly Accessibility). */
+"Request Access" = "请求访问权限";
 
 /* No comment provided by engineer. */
 "Request Accessibility Access" = "请求“辅助功能”访问权限";

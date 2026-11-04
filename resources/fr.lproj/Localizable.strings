@@ -43,6 +43,9 @@
 /* appended to the icon specifier tooltip; %@ is the specifier's total character count */
 "(%@ characters)" = "(%@ caractères)";
 
+/* Follows the Device Control and Data Access description. Use Apple's old localized term for the Accessibility permission. */
+"(This permission was called Accessibility before macOS 27.)" = "(Avant macOS 27, cette autorisation s’appelait Accessibilité.)";
+
 /* click this button to get 10 more uses in the free trial */
 "+10 Uses" = "+10 utilisations";
 
@@ -226,6 +229,9 @@
 
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Signée par le développeur";
+
+/* macOS 27+ name of the Accessibility permission. Use Apple's localized term for the Privacy & Security pane exactly. */
+"Device Control and Data Access is required" = "L’accès Contrôle de l’appareil et accès aux données est requis";
 
 /* URL rule description */
 "Domain" = "Domaine";
@@ -598,6 +604,9 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip a besoin de l’accès Accessibilité pour lire le texte que vous sélectionnez dans d’autres applications et pour effectuer des actions pour vous.";
 
+/* macOS 27+. Use Apple's localized term for the Device Control and Data Access permission exactly. */
+"PopClip needs Device Control and Data Access to read the text you select in other apps and to perform actions for you." = "PopClip a besoin de l’accès Contrôle de l’appareil et accès aux données pour lire le texte que vous sélectionnez dans d’autres applications et pour effectuer des actions pour vous.";
+
 /* title of an alert shown when an extension action fails because Reminders permission is denied */
 "PopClip needs permission to access your Reminders" = "PopClip a besoin d’une autorisation pour accéder à vos rappels";
 
@@ -636,6 +645,9 @@
 
 /* No comment provided by engineer. */
 "Rename…" = "Renommer…";
+
+/* macOS 27+ button that requests the Device Control and Data Access permission (formerly Accessibility). */
+"Request Access" = "Demander l’accès";
 
 /* No comment provided by engineer. */
 "Request Accessibility Access" = "Demander l’accès Accessibilité";

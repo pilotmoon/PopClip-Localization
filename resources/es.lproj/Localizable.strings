@@ -43,6 +43,9 @@
 /* appended to the icon specifier tooltip; %@ is the specifier's total character count */
 "(%@ characters)" = "(%@ caracteres)";
 
+/* Follows the Device Control and Data Access description. Use Apple's old localized term for the Accessibility permission. */
+"(This permission was called Accessibility before macOS 27.)" = "(Antes de macOS 27, este permiso se llamaba Accesibilidad.)";
+
 /* click this button to get 10 more uses in the free trial */
 "+10 Uses" = "+10 usos";
 
@@ -226,6 +229,9 @@
 
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Firmada por desarrollador";
+
+/* macOS 27+ name of the Accessibility permission. Use Apple's localized term for the Privacy & Security pane exactly. */
+"Device Control and Data Access is required" = "Permiso de Control de dispositivos y acceso a datos necesario";
 
 /* URL rule description */
 "Domain" = "Dominio";
@@ -598,6 +604,9 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip necesita permiso de Accesibilidad para leer el texto que selecciones en otras aplicaciones y realizar acciones por ti.";
 
+/* macOS 27+. Use Apple's localized term for the Device Control and Data Access permission exactly. */
+"PopClip needs Device Control and Data Access to read the text you select in other apps and to perform actions for you." = "PopClip necesita el permiso de Control de dispositivos y acceso a datos para leer el texto que selecciones en otras aplicaciones y realizar acciones por ti.";
+
 /* title of an alert shown when an extension action fails because Reminders permission is denied */
 "PopClip needs permission to access your Reminders" = "PopClip necesita permiso para acceder a tus recordatorios";
 
@@ -636,6 +645,9 @@
 
 /* No comment provided by engineer. */
 "Rename…" = "Renombrar…";
+
+/* macOS 27+ button that requests the Device Control and Data Access permission (formerly Accessibility). */
+"Request Access" = "Solicitar permiso";
 
 /* No comment provided by engineer. */
 "Request Accessibility Access" = "Solicitar permiso de Accesibilidad";

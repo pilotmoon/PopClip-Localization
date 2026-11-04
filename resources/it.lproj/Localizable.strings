@@ -43,6 +43,9 @@
 /* appended to the icon specifier tooltip; %@ is the specifier's total character count */
 "(%@ characters)" = "(%@ caratteri)";
 
+/* Follows the Device Control and Data Access description. Use Apple's old localized term for the Accessibility permission. */
+"(This permission was called Accessibility before macOS 27.)" = "(Prima di macOS 27 questo permesso si chiamava Accessibilità.)";
+
 /* click this button to get 10 more uses in the free trial */
 "+10 Uses" = "+10 usi";
 
@@ -226,6 +229,9 @@
 
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Firmata dallo sviluppatore";
+
+/* macOS 27+ name of the Accessibility permission. Use Apple's localized term for the Privacy & Security pane exactly. */
+"Device Control and Data Access is required" = "È richiesto il permesso Controllo del dispositivo e accesso ai dati";
 
 /* URL rule description */
 "Domain" = "Dominio";
@@ -598,6 +604,9 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip necessita dei permessi di accessibilità per leggere il testo che selezioni in altre app e per eseguire azioni al tuo posto.";
 
+/* macOS 27+. Use Apple's localized term for the Device Control and Data Access permission exactly. */
+"PopClip needs Device Control and Data Access to read the text you select in other apps and to perform actions for you." = "PopClip necessita del permesso Controllo del dispositivo e accesso ai dati per leggere il testo che selezioni in altre app e per eseguire azioni al tuo posto.";
+
 /* title of an alert shown when an extension action fails because Reminders permission is denied */
 "PopClip needs permission to access your Reminders" = "PopClip richiede l’autorizzazione per accedere ai tuoi promemoria";
 
@@ -636,6 +645,9 @@
 
 /* No comment provided by engineer. */
 "Rename…" = "Rinomina…";
+
+/* macOS 27+ button that requests the Device Control and Data Access permission (formerly Accessibility). */
+"Request Access" = "Richiedi accesso";
 
 /* No comment provided by engineer. */
 "Request Accessibility Access" = "Richiedi permessi di accessibilità";

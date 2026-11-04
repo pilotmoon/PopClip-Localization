@@ -43,6 +43,9 @@
 /* appended to the icon specifier tooltip; %@ is the specifier's total character count */
 "(%@ characters)" = "(%@ tekens)";
 
+/* Follows the Device Control and Data Access description. Use Apple's old localized term for the Accessibility permission. */
+"(This permission was called Accessibility before macOS 27.)" = "(Vóór macOS 27 heette deze toestemming Toegankelijkheid.)";
+
 /* click this button to get 10 more uses in the free trial */
 "+10 Uses" = "+10 benuttingen";
 
@@ -226,6 +229,9 @@
 
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Door ontwikkelaar ondertekend";
+
+/* macOS 27+ name of the Accessibility permission. Use Apple's localized term for the Privacy & Security pane exactly. */
+"Device Control and Data Access is required" = "Apparaatbeheer en gegevenstoegang is vereist";
 
 /* URL rule description */
 "Domain" = "Domein";
@@ -598,6 +604,9 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip heeft toegang tot Toegankelijkheid nodig om de tekst te kunnen lezen die je in andere apps selecteert en om acties voor je uit te voeren.";
 
+/* macOS 27+. Use Apple's localized term for the Device Control and Data Access permission exactly. */
+"PopClip needs Device Control and Data Access to read the text you select in other apps and to perform actions for you." = "PopClip heeft Apparaatbeheer en gegevenstoegang nodig om de tekst te kunnen lezen die je in andere apps selecteert en om acties voor je uit te voeren.";
+
 /* title of an alert shown when an extension action fails because Reminders permission is denied */
 "PopClip needs permission to access your Reminders" = "PopClip heeft toestemming nodig voor toegang tot je herinneringen";
 
@@ -636,6 +645,9 @@
 
 /* No comment provided by engineer. */
 "Rename…" = "Naam wijzigen…";
+
+/* macOS 27+ button that requests the Device Control and Data Access permission (formerly Accessibility). */
+"Request Access" = "Vraag toegang aan";
 
 /* No comment provided by engineer. */
 "Request Accessibility Access" = "Verzoek toegang tot toegankelijkheid";

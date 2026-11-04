@@ -43,6 +43,9 @@
 /* appended to the icon specifier tooltip; %@ is the specifier's total character count */
 "(%@ characters)" = "(%@ символов)";
 
+/* Follows the Device Control and Data Access description. Use Apple's old localized term for the Accessibility permission. */
+"(This permission was called Accessibility before macOS 27.)" = "(До macOS 27 это разрешение называлось «Универсальный доступ».)";
+
 /* click this button to get 10 more uses in the free trial */
 "+10 Uses" = "+10 исп.";
 
@@ -226,6 +229,9 @@
 
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "Подписано разработчиком";
+
+/* macOS 27+ name of the Accessibility permission. Use Apple's localized term for the Privacy & Security pane exactly. */
+"Device Control and Data Access is required" = "Требуется разрешение «Управление устройством и доступ к данным»";
 
 /* URL rule description */
 "Domain" = "Домен";
@@ -598,6 +604,9 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClip требуется доступ к функциям универсального доступа, чтобы читать выделенный текст в других приложениях и выполнять действия для вас.";
 
+/* macOS 27+. Use Apple's localized term for the Device Control and Data Access permission exactly. */
+"PopClip needs Device Control and Data Access to read the text you select in other apps and to perform actions for you." = "PopClip требуется разрешение «Управление устройством и доступ к данным», чтобы читать выделенный текст в других приложениях и выполнять действия для вас.";
+
 /* title of an alert shown when an extension action fails because Reminders permission is denied */
 "PopClip needs permission to access your Reminders" = "PopClip требуется разрешение на доступ к вашим напоминаниям";
 
@@ -636,6 +645,9 @@
 
 /* No comment provided by engineer. */
 "Rename…" = "Переименовать…";
+
+/* macOS 27+ button that requests the Device Control and Data Access permission (formerly Accessibility). */
+"Request Access" = "Запросить доступ";
 
 /* No comment provided by engineer. */
 "Request Accessibility Access" = "Запросить доступ к функциям универсального доступа";

@@ -43,6 +43,9 @@
 /* appended to the icon specifier tooltip; %@ is the specifier's total character count */
 "(%@ characters)" = "(%@文字)";
 
+/* Follows the Device Control and Data Access description. Use Apple's old localized term for the Accessibility permission. */
+"(This permission was called Accessibility before macOS 27.)" = "(このアクセス権は、macOS 27より前は「アクセシビリティ」と呼ばれていました。)";
+
 /* click this button to get 10 more uses in the free trial */
 "+10 Uses" = "+10回分";
 
@@ -226,6 +229,9 @@
 
 /* Extension info origin value (describes an extension): signed by the developer */
 "Developer-signed" = "開発元署名済み";
+
+/* macOS 27+ name of the Accessibility permission. Use Apple's localized term for the Privacy & Security pane exactly. */
+"Device Control and Data Access is required" = "デバイスの制御とデータへのアクセスが必要です";
 
 /* URL rule description */
 "Domain" = "ドメイン";
@@ -598,6 +604,9 @@
 /* No comment provided by engineer. */
 "PopClip needs Accessibility access to read the text you select in other apps and to perform actions for you." = "PopClipは、他のアプリで選択したテキストを読んだり、あなたのためにアクションを実行するために、アクセシビリティアクセスを必要とします。";
 
+/* macOS 27+. Use Apple's localized term for the Device Control and Data Access permission exactly. */
+"PopClip needs Device Control and Data Access to read the text you select in other apps and to perform actions for you." = "PopClipは、他のアプリで選択したテキストを読んだり、あなたのためにアクションを実行したりするために、「デバイスの制御とデータへのアクセス」を必要とします。";
+
 /* title of an alert shown when an extension action fails because Reminders permission is denied */
 "PopClip needs permission to access your Reminders" = "PopClipにリマインダーへのアクセス許可が必要です";
 
@@ -636,6 +645,9 @@
 
 /* No comment provided by engineer. */
 "Rename…" = "名前を変更…";
+
+/* macOS 27+ button that requests the Device Control and Data Access permission (formerly Accessibility). */
+"Request Access" = "アクセスをリクエスト";
 
 /* No comment provided by engineer. */
 "Request Accessibility Access" = "アクセシビリティアクセスをリクエストする";
