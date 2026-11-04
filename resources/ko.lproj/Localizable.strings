@@ -43,9 +43,6 @@
 /* appended to the icon specifier tooltip; %@ is the specifier's total character count */
 "(%@ characters)" = "(%@자)";
 
-/* Follows the Device Control and Data Access description. Use Apple's old localized term for the Accessibility permission. */
-"(This permission was called Accessibility before macOS 27.)" = "(이 권한은 macOS 27 이전에는 손쉬운 사용이라고 불렸습니다.)";
-
 /* click this button to get 10 more uses in the free trial */
 "+10 Uses" = "+10회";
 
@@ -646,11 +643,11 @@
 /* No comment provided by engineer. */
 "Rename…" = "이름 변경…";
 
-/* macOS 27+ button that requests the Device Control and Data Access permission (formerly Accessibility). */
-"Request Access" = "접근 권한 요청";
-
 /* No comment provided by engineer. */
 "Request Accessibility Access" = "손쉬운 사용 권한 요청";
+
+/* macOS 27+ button that requests the permission. Use Apple's localized term for the Device Control and Data Access permission exactly. */
+"Request Device Control and Data Access" = "기기 제어 및 데이터 접근 권한 요청";
 
 /* No comment provided by engineer. */
 "Reset to Default Icon" = "기본 아이콘으로 재설정";

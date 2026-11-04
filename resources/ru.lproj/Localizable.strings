@@ -43,9 +43,6 @@
 /* appended to the icon specifier tooltip; %@ is the specifier's total character count */
 "(%@ characters)" = "(%@ символов)";
 
-/* Follows the Device Control and Data Access description. Use Apple's old localized term for the Accessibility permission. */
-"(This permission was called Accessibility before macOS 27.)" = "(До macOS 27 это разрешение называлось «Универсальный доступ».)";
-
 /* click this button to get 10 more uses in the free trial */
 "+10 Uses" = "+10 исп.";
 
@@ -646,11 +643,11 @@
 /* No comment provided by engineer. */
 "Rename…" = "Переименовать…";
 
-/* macOS 27+ button that requests the Device Control and Data Access permission (formerly Accessibility). */
-"Request Access" = "Запросить доступ";
-
 /* No comment provided by engineer. */
 "Request Accessibility Access" = "Запросить доступ к функциям универсального доступа";
+
+/* macOS 27+ button that requests the permission. Use Apple's localized term for the Device Control and Data Access permission exactly. */
+"Request Device Control and Data Access" = "Запросить «Управление устройством и доступ к данным»";
 
 /* No comment provided by engineer. */
 "Reset to Default Icon" = "Восстановить значок по умолчанию";
