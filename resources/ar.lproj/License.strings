@@ -1,0 +1,15 @@
+/* PopClip Arabic UI localization – original app files are not modified. */
+
+"App Store Purchase" = "عملية شراء من App Store";
+"Email: %@\n" = "البريد الإلكتروني: %@\n";
+"License active" = "الترخيص نشط";
+"License expired" = "انتهت صلاحية الترخيص";
+"License key stored in iCloud" = "مفتاح الترخيص محفوظ في iCloud";
+"License type: %@\n" = "نوع الترخيص: %@\n";
+"Name: %@\n" = "الاسم: %@\n";
+"Order #: %@\n" = "رقم الطلب: %@\n";
+"Purchase date: %@\n" = "تاريخ الشراء: %@\n";
+"Purchase record stored in iCloud" = "سجل الشراء محفوظ في iCloud";
+"Quantity: %@\n" = "العدد: %@\n";
+"Updates until: %@\n" = "التحديثات متاحة حتى: %@\n";
+"Upgrade required" = "الترقية مطلوبة";
